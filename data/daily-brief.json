@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-01T17:51:30.808812Z",
+  "generated_at": "2026-07-01T19:47:33.480847Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_f1e729411b90",
-      "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
-      "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+      "story_id": "story_774ebb0256c8",
+      "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "540436200ee68db997ad66fc4cd4146280bb30d5",
-          "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
-          "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T16:01:00Z"
+          "published_at": "2026-07-01T18:39:17Z"
         }
       ],
       "source_count": 1,
@@ -27,26 +27,26 @@
       ],
       "items": [
         {
-          "id": "540436200ee68db997ad66fc4cd4146280bb30d5",
-          "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
-          "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T16:01:00Z"
+          "published_at": "2026-07-01T18:39:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8473,
-      "importance": 0.8473,
-      "importance_score": 0.8473,
+      "score": 0.8551,
+      "importance": 0.8551,
+      "importance_score": 0.8551,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9738,
+        "ai_relevance": 0.94,
+        "recency": 0.9837,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,32 +55,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T16:01:00Z",
-      "latest_at": "2026-07-01T16:01:00Z",
+      "earliest_at": "2026-07-01T18:39:17Z",
+      "latest_at": "2026-07-01T18:39:17Z",
       "primary_item": {
-        "id": "540436200ee68db997ad66fc4cd4146280bb30d5",
-        "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
-        "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+        "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
+        "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
+        "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_77de1806e9d7",
-      "title": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。 / New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
-      "primary_url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+      "story_id": "story_abd37bf2f2f7",
+      "title": "我们在 2026 年 6 月公布的最新 AI 新闻 / The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "40af0d65435500442ea87ddff445fc5c83659cf7",
-          "title": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。 / New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-          "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+          "id": "739e8b0be6c30c4795768b9b3ef00174a216455c",
+          "title": "我们在 2026 年 6 月公布的最新 AI 新闻 / The latest AI news we announced in June 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T16:00:00Z"
+          "published_at": "2026-07-01T18:15:00Z"
         }
       ],
       "source_count": 1,
@@ -89,26 +89,26 @@
       ],
       "items": [
         {
-          "id": "40af0d65435500442ea87ddff445fc5c83659cf7",
-          "title": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。 / New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-          "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+          "id": "739e8b0be6c30c4795768b9b3ef00174a216455c",
+          "title": "我们在 2026 年 6 月公布的最新 AI 新闻 / The latest AI news we announced in June 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T16:00:00Z"
+          "published_at": "2026-07-01T18:15:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9735,
+        "recency": 0.978,
         "story_heat": 0.0
       },
       "category": "official",
@@ -117,12 +117,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T16:00:00Z",
-      "latest_at": "2026-07-01T16:00:00Z",
+      "earliest_at": "2026-07-01T18:15:00Z",
+      "latest_at": "2026-07-01T18:15:00Z",
       "primary_item": {
-        "id": "40af0d65435500442ea87ddff445fc5c83659cf7",
-        "title": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。 / New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-        "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+        "id": "739e8b0be6c30c4795768b9b3ef00174a216455c",
+        "title": "我们在 2026 年 6 月公布的最新 AI 新闻 / The latest AI news we announced in June 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7727,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -186,6 +186,68 @@
         "title": "法典 CLI 0.142.5 / Codex CLI 0.142.5",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f7b1eaa8826e",
+      "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
+          "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T19:00:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
+          "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T19:00:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.85,
+      "importance": 0.85,
+      "importance_score": 0.85,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9887,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T19:00:21Z",
+      "latest_at": "2026-07-01T19:00:21Z",
+      "primary_item": {
+        "id": "ce134d31709dd941228b78e2331571b6b09f6d4e",
+        "title": "Kimi K2.7 代码已在 GitHub Copilot 中公开 / Kimi K2.7 Code is generally available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -224,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7727,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -252,49 +314,49 @@
       }
     },
     {
-      "story_id": "story_97b869cd06ee",
-      "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
-      "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
-      "primary_url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
-      "source": "GitHub Changelog",
+      "story_id": "story_77de1806e9d7",
+      "title": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。 / New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+      "primary_url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+      "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "03e252234a3e401b08046b6006873441a064de2a",
-          "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
-          "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
-          "source": "GitHub Changelog",
+          "id": "40af0d65435500442ea87ddff445fc5c83659cf7",
+          "title": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。 / New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+          "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T15:13:29Z"
+          "published_at": "2026-07-01T16:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "03e252234a3e401b08046b6006873441a064de2a",
-          "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
-          "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
-          "source": "GitHub Changelog",
+          "id": "40af0d65435500442ea87ddff445fc5c83659cf7",
+          "title": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。 / New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+          "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-01T15:13:29Z"
+          "published_at": "2026-07-01T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8453,
-      "importance": 0.8453,
-      "importance_score": 0.8453,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9627,
+        "ai_relevance": 0.87,
+        "recency": 0.9467,
         "story_heat": 0.0
       },
       "category": "official",
@@ -303,12 +365,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T15:13:29Z",
-      "latest_at": "2026-07-01T15:13:29Z",
+      "earliest_at": "2026-07-01T16:00:00Z",
+      "latest_at": "2026-07-01T16:00:00Z",
       "primary_item": {
-        "id": "03e252234a3e401b08046b6006873441a064de2a",
-        "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
-        "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+        "id": "40af0d65435500442ea87ddff445fc5c83659cf7",
+        "title": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。 / New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+        "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bfcd7a3f6d8e",
+      "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
+      "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
+      "primary_url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
+          "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
+          "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T18:33:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
+          "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
+          "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T18:33:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8488,
+      "importance": 0.8488,
+      "importance_score": 0.8488,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9823,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T18:33:24Z",
+      "latest_at": "2026-07-01T18:33:24Z",
+      "primary_item": {
+        "id": "f11da19a6c7fb73ab3285dc5d33e80c50d006799",
+        "title": "在 Copilot CLI 和 SDK 中设置 AI 信用会话限制 / Set AI credit session limits in Copilot CLI and SDK",
+        "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -385,15 +509,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8935,
+        "recency": 0.8689,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -409,106 +533,6 @@
         "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
         "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0f764e9bc764",
-      "title": "Claude Sonnet 5 发布",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "primary_url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9bf004cd5b5edfc11770660b62ec3bbc8ba01966",
-          "title": "Claude Sonnet 5 发布",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T18:02:06.984000Z"
-        },
-        {
-          "id": "67fa563844e9154887350136b4fe9208b8030f96",
-          "title": "克劳德·索内特 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T18:19:05.316000Z"
-        },
-        {
-          "id": "532e3a35239eda36cc6c4759597bf41df78326e8",
-          "title": "Claude Sonnet 5 发布 / Claude Sonnet 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-30T17:59:52Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "Hacker News (黑客新闻)",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "9bf004cd5b5edfc11770660b62ec3bbc8ba01966",
-          "title": "Claude Sonnet 5 发布",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T18:02:06.984000Z"
-        },
-        {
-          "id": "67fa563844e9154887350136b4fe9208b8030f96",
-          "title": "克劳德·索内特 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-30T18:19:05.316000Z"
-        },
-        {
-          "id": "532e3a35239eda36cc6c4759597bf41df78326e8",
-          "title": "Claude Sonnet 5 发布 / Claude Sonnet 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-30T17:59:52Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7089,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T17:59:52Z",
-      "latest_at": "2026-06-30T18:19:05.316000Z",
-      "primary_item": {
-        "id": "9bf004cd5b5edfc11770660b62ec3bbc8ba01966",
-        "title": "Claude Sonnet 5 发布",
-        "url": "https://www.anthropic.com/news/claude-sonnet-5",
-        "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -566,15 +590,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7747,
+        "recency": 0.7534,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -591,68 +615,6 @@
         "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8654826289ec",
-      "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "primary_url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T18:32:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T18:32:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T18:32:50Z",
-      "latest_at": "2026-06-30T18:32:50Z",
-      "primary_item": {
-        "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-        "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-        "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -709,15 +671,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.942,
+        "recency": 0.916,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -771,15 +733,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8401,
+        "recency": 0.8169,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -851,15 +813,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8881,
+        "recency": 0.8637,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -932,15 +894,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8695,
+        "recency": 0.8455,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -956,87 +918,6 @@
         "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型",
         "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
         "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c9b523c535e6",
-      "title": "Claude Code v2.1.197 发布：默认模型升级为 Claude Sonnet 5，支持原生 1M-token 上下文窗口",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
-      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "240e536b1a80d48a204a0ff8defc0126dd13e204",
-          "title": "Claude Code v2.1.197 发布：默认模型升级为 Claude Sonnet 5，支持原生 1M-token 上下文窗口",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:56:37Z"
-        },
-        {
-          "id": "d25f98343b70993bc74f0870eb8cf3197ee81028",
-          "title": "v2.1.197",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-30T17:56:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Claude Code Releases",
-        "Claude Code：GitHub Releases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "240e536b1a80d48a204a0ff8defc0126dd13e204",
-          "title": "Claude Code v2.1.197 发布：默认模型升级为 Claude Sonnet 5，支持原生 1M-token 上下文窗口",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T17:56:37Z"
-        },
-        {
-          "id": "d25f98343b70993bc74f0870eb8cf3197ee81028",
-          "title": "v2.1.197",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
-          "source": "Claude Code Releases",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-30T17:56:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.708,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T17:56:37Z",
-      "latest_at": "2026-06-30T17:56:37Z",
-      "primary_item": {
-        "id": "240e536b1a80d48a204a0ff8defc0126dd13e204",
-        "title": "Claude Code v2.1.197 发布：默认模型升级为 Claude Sonnet 5，支持原生 1M-token 上下文窗口",
-        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
-        "source": "Claude Code：GitHub Releases（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1075,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7999,
+        "recency": 0.7779,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1136,15 +1017,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9737,
+        "recency": 0.9468,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1160,6 +1041,68 @@
         "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
         "source": "Meta Engineering Blog（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f1e729411b90",
+      "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
+      "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "540436200ee68db997ad66fc4cd4146280bb30d5",
+          "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
+          "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T16:01:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "540436200ee68db997ad66fc4cd4146280bb30d5",
+          "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
+          "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T16:01:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9469,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T16:01:00Z",
+      "latest_at": "2026-07-01T16:01:00Z",
+      "primary_item": {
+        "id": "540436200ee68db997ad66fc4cd4146280bb30d5",
+        "title": "VS Code 中的 GitHub Copilot 浏览器工具已普遍可用 / Browser tools for GitHub Copilot in VS Code are generally available",
+        "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1197,21 +1140,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.992,
+        "recency": 0.9646,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-01T17:17:56.374000Z",
       "latest_at": "2026-07-01T17:17:56.374000Z",
@@ -1277,22 +1219,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7696,
+        "recency": 0.7484,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T23:43:32Z",
       "latest_at": "2026-06-30T23:43:32Z",
@@ -1339,15 +1280,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9735,
+        "recency": 0.9467,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1399,15 +1340,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7727,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "industry",
