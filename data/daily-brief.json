@@ -1,127 +1,8 @@
 {
-  "generated_at": "2026-07-03T17:56:19.486015Z",
+  "generated_at": "2026-07-03T19:19:25.321856Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_9e5663cb740f",
-      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "primary_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        },
-        {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        },
-        {
-          "id": "a5b9cf2cf5065b3bbd0d0c26f824d9fada9f9249",
-          "title": "Claude-real-video － 任何法学硕士都可以观看视频 / Claude-real-video － any LLM can watch a video",
-          "url": "https://news.ycombinator.com/item?id=48766005",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-02T22:04:04.886000Z"
-        },
-        {
-          "id": "56cce2b11f9c756d2ac5e7dc5db55dd09f61834a",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频 / Claude-real-video － any LLM can watch a video",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-02T19:10:12Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        },
-        {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
-        },
-        {
-          "id": "a5b9cf2cf5065b3bbd0d0c26f824d9fada9f9249",
-          "title": "Claude-real-video － 任何法学硕士都可以观看视频 / Claude-real-video － any LLM can watch a video",
-          "url": "https://news.ycombinator.com/item?id=48766005",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-02T22:04:04.886000Z"
-        },
-        {
-          "id": "56cce2b11f9c756d2ac5e7dc5db55dd09f61834a",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频 / Claude-real-video － any LLM can watch a video",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-02T19:10:12Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8288,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T19:10:12Z",
-      "latest_at": "2026-07-03T04:56:06.814000Z",
-      "primary_item": {
-        "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
-        "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
     {
       "story_id": "story_1cc388fb9b67",
       "title": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系 / Google DeepMind and A24 announce first-of-its-kind research partnership",
@@ -157,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9506,
+        "recency": 0.9318,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7642,
+        "recency": 0.7491,
         "story_heat": 0.0
       },
       "category": "official",
@@ -242,149 +123,6 @@
         "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
         "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
         "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b0737e4d391d",
-      "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-      "url": "https://www.ithome.com/0/972/341.htm",
-      "primary_url": "https://www.ithome.com/0/972/341.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
-          "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:15:08Z"
-        },
-        {
-          "id": "d9e68f314dbb9109330ac351eaaf2a313301d1ab",
-          "title": "AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T09:15:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
-          "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:15:08Z"
-        },
-        {
-          "id": "d9e68f314dbb9109330ac351eaaf2a313301d1ab",
-          "title": "AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T09:15:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8821,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T09:15:08Z",
-      "latest_at": "2026-07-03T09:15:08Z",
-      "primary_item": {
-        "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
-        "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-        "url": "https://www.ithome.com/0/972/341.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_95944acec510",
-      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-      "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-      "primary_url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:07:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:07:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.762,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T23:07:06Z",
-      "latest_at": "2026-07-02T23:07:06Z",
-      "primary_item": {
-        "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-        "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -462,15 +200,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7949,
+      "importance": 0.7949,
+      "importance_score": 0.7949,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8916,
+        "recency": 0.874,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -487,6 +225,149 @@
         "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b0737e4d391d",
+      "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
+      "url": "https://www.ithome.com/0/972/341.htm",
+      "primary_url": "https://www.ithome.com/0/972/341.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
+          "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
+          "url": "https://www.ithome.com/0/972/341.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T09:15:08Z"
+        },
+        {
+          "id": "d9e68f314dbb9109330ac351eaaf2a313301d1ab",
+          "title": "AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理",
+          "url": "https://www.ithome.com/0/972/341.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T09:15:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
+          "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
+          "url": "https://www.ithome.com/0/972/341.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T09:15:08Z"
+        },
+        {
+          "id": "d9e68f314dbb9109330ac351eaaf2a313301d1ab",
+          "title": "AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理",
+          "url": "https://www.ithome.com/0/972/341.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T09:15:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7892,
+      "importance": 0.7892,
+      "importance_score": 0.7892,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8646,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T09:15:08Z",
+      "latest_at": "2026-07-03T09:15:08Z",
+      "primary_item": {
+        "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
+        "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
+        "url": "https://www.ithome.com/0/972/341.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_95944acec510",
+      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+      "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+      "primary_url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T23:07:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T23:07:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7469,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T23:07:06Z",
+      "latest_at": "2026-07-02T23:07:06Z",
+      "primary_item": {
+        "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+        "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -543,15 +424,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8472,
+        "recency": 0.8304,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -605,15 +486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9234,
+        "recency": 0.9051,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -666,15 +547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.878,
+        "recency": 0.8607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -693,68 +574,68 @@
       }
     },
     {
-      "story_id": "story_d46c588e8d7f",
-      "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
-      "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
-      "primary_url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_9e5663cb740f",
+      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "primary_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bb3062360d49680e1f57b481b93ffc72aa2be102",
-          "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
-          "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
+          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T19:18:29Z"
+          "published_at": "2026-07-03T04:56:06.814000Z"
         },
         {
-          "id": "f15b56663bd406c0676ed9ed8ece4f5fd4415998",
-          "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场 / Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
-          "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-02T19:18:29Z"
+          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
+          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T04:56:06.814000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
       ],
       "items": [
         {
-          "id": "bb3062360d49680e1f57b481b93ffc72aa2be102",
-          "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
-          "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
+          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T19:18:29Z"
+          "published_at": "2026-07-03T04:56:06.814000Z"
         },
         {
-          "id": "f15b56663bd406c0676ed9ed8ece4f5fd4415998",
-          "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场 / Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
-          "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-02T19:18:29Z"
+          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
+          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T04:56:06.814000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7212,
+        "recency": 0.8124,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -763,13 +644,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T19:18:29Z",
-      "latest_at": "2026-07-02T19:18:29Z",
+      "earliest_at": "2026-07-03T04:56:06.814000Z",
+      "latest_at": "2026-07-03T04:56:06.814000Z",
       "primary_item": {
-        "id": "bb3062360d49680e1f57b481b93ffc72aa2be102",
-        "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
-        "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
-        "source": "The Decoder：AI News（RSS）",
+        "id": "4c6976e09f7e757edf55c8a4a38336b3661288a4",
+        "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -827,15 +708,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8113,
+        "recency": 0.7952,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -851,66 +732,6 @@
         "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
         "url": "https://www.ithome.com/0/972/089.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a01c4885e987",
-      "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-      "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-      "primary_url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-      "source": "公众号：生数科技（Vidu·视频）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "daaa243ce78be14548b0f493b73e8dedddf115d0",
-          "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-          "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-          "source": "公众号：生数科技（Vidu·视频）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:17:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：生数科技（Vidu·视频）"
-      ],
-      "items": [
-        {
-          "id": "daaa243ce78be14548b0f493b73e8dedddf115d0",
-          "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-          "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-          "source": "公众号：生数科技（Vidu·视频）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:17:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9085,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T11:17:47Z",
-      "latest_at": "2026-07-03T11:17:47Z",
-      "primary_item": {
-        "id": "daaa243ce78be14548b0f493b73e8dedddf115d0",
-        "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-        "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
-        "source": "公众号：生数科技（Vidu·视频）",
         "source_name": "AI HOT"
       }
     },
@@ -968,15 +789,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7677,
+        "recency": 0.7525,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -991,6 +812,66 @@
         "title": "扎克伯格称AI智能体开发速度未如预期",
         "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a01c4885e987",
+      "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
+      "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
+      "primary_url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
+      "source": "公众号：生数科技（Vidu·视频）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "daaa243ce78be14548b0f493b73e8dedddf115d0",
+          "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
+          "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
+          "source": "公众号：生数科技（Vidu·视频）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T11:17:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：生数科技（Vidu·视频）"
+      ],
+      "items": [
+        {
+          "id": "daaa243ce78be14548b0f493b73e8dedddf115d0",
+          "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
+          "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
+          "source": "公众号：生数科技（Vidu·视频）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T11:17:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8905,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T11:17:47Z",
+      "latest_at": "2026-07-03T11:17:47Z",
+      "primary_item": {
+        "id": "daaa243ce78be14548b0f493b73e8dedddf115d0",
+        "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
+        "url": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
+        "source": "公众号：生数科技（Vidu·视频）",
         "source_name": "AI HOT"
       }
     },
@@ -1029,15 +910,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.8013,
+      "importance": 0.8013,
+      "importance_score": 0.8013,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.733,
+        "recency": 0.7184,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1091,15 +972,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.963,
+        "recency": 0.944,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1170,15 +1051,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7376,
+        "recency": 0.723,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1231,15 +1112,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8924,
+        "recency": 0.8747,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1291,15 +1172,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7319,
+      "importance": 0.7319,
+      "importance_score": 0.7319,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7327,
+        "recency": 0.7182,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1370,15 +1251,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8006,
+        "recency": 0.7848,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1432,15 +1313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8815,
+        "recency": 0.8641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1454,6 +1335,67 @@
         "title": "面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM",
         "url": "https://mp.weixin.qq.com/s/JVBbqU1O967ktzfEPuDERQ",
         "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_065c0c83539d",
+      "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+      "url": "https://www.ithome.com/0/972/424.htm",
+      "primary_url": "https://www.ithome.com/0/972/424.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
+          "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+          "url": "https://www.ithome.com/0/972/424.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T11:57:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
+          "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+          "url": "https://www.ithome.com/0/972/424.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T11:57:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.899,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T11:57:00Z",
+      "latest_at": "2026-07-03T11:57:00Z",
+      "primary_item": {
+        "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
+        "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+        "url": "https://www.ithome.com/0/972/424.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     }
