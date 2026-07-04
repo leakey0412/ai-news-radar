@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T22:54:26.817976Z",
+  "generated_at": "2026-07-04T23:58:18.842151Z",
   "window_hours": 24,
   "total_items": 17,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8198,
+        "recency": 0.8073,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7723,
+        "recency": 0.7605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7237,
-      "importance": 0.7237,
-      "importance_score": 0.7237,
+      "score": 0.7216,
+      "importance": 0.7216,
+      "importance_score": 0.7216,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7896,
+        "recency": 0.7775,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -311,15 +311,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6822,
-      "importance": 0.6822,
-      "importance_score": 0.6822,
+      "score": 0.6797,
+      "importance": 0.6797,
+      "importance_score": 0.6797,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.9337,
+        "recency": 0.9194,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -338,12 +338,21 @@
     },
     {
       "story_id": "story_7e9ffc3a6038",
-      "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://news.ycombinator.com/item?id=48789428",
-      "primary_url": "https://news.ycombinator.com/item?id=48789428",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "primary_url": "https://github.com/openai/codex/issues/30364",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "1491dceae844e236964ec16492437e204db4290b",
+          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
+          "url": "https://github.com/openai/codex/issues/30364",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T23:51:31.657000Z"
+        },
         {
           "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
           "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
@@ -355,7 +364,7 @@
         },
         {
           "id": "92cc93d4ff527a25a903102003082aff4adc32fa",
-          "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
           "url": "https://github.com/openai/codex/issues/30364",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -363,13 +372,23 @@
           "published_at": "2026-07-04T21:51:09Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
+        "github.com",
         "hackernews"
       ],
       "items": [
         {
+          "id": "1491dceae844e236964ec16492437e204db4290b",
+          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
+          "url": "https://github.com/openai/codex/issues/30364",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T23:51:31.657000Z"
+        },
+        {
           "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
           "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
           "url": "https://news.ycombinator.com/item?id=48789428",
@@ -380,7 +399,7 @@
         },
         {
           "id": "92cc93d4ff527a25a903102003082aff4adc32fa",
-          "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
           "url": "https://github.com/openai/codex/issues/30364",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -388,31 +407,31 @@
           "published_at": "2026-07-04T21:51:09Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5705,
+      "importance": 0.5705,
+      "importance_score": 0.5705,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.9984,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-07-04T21:51:09Z",
-      "latest_at": "2026-07-04T22:55:05.987000Z",
+      "latest_at": "2026-07-04T23:51:31.657000Z",
       "primary_item": {
-        "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
-        "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-        "url": "https://news.ycombinator.com/item?id=48789428",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "1491dceae844e236964ec16492437e204db4290b",
+        "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
+        "url": "https://github.com/openai/codex/issues/30364",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -468,15 +487,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9384,
+        "recency": 0.9241,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -547,15 +566,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9182,
+        "recency": 0.9042,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -626,15 +645,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8405,
+        "recency": 0.8277,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -705,15 +724,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8299,
+        "recency": 0.8172,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -784,15 +803,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5068,
-      "importance": 0.5068,
-      "importance_score": 0.5068,
+      "score": 0.5047,
+      "importance": 0.5047,
+      "importance_score": 0.5047,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7834,
+        "recency": 0.7714,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -863,15 +882,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.504,
-      "importance": 0.504,
-      "importance_score": 0.504,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7679,
+        "recency": 0.7562,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -886,6 +905,85 @@
         "url": "https://danluu.com/ai-coding",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_c422a54213de",
+      "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+      "url": "https://news.ycombinator.com/item?id=48781865",
+      "primary_url": "https://news.ycombinator.com/item?id=48781865",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a30c92c164977105aba685a7d539fae2698ed926",
+          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+          "url": "https://news.ycombinator.com/item?id=48781865",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T02:14:12.009000Z"
+        },
+        {
+          "id": "af34bb56b97e9be6791bd44d7d22cd59730247d7",
+          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+          "url": "https://app.cuebench.dev",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T01:30:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a30c92c164977105aba685a7d539fae2698ed926",
+          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+          "url": "https://news.ycombinator.com/item?id=48781865",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T02:14:12.009000Z"
+        },
+        {
+          "id": "af34bb56b97e9be6791bd44d7d22cd59730247d7",
+          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+          "url": "https://app.cuebench.dev",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T01:30:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4973,
+      "importance": 0.4973,
+      "importance_score": 0.4973,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7306,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T01:30:49Z",
+      "latest_at": "2026-07-04T02:14:12.009000Z",
+      "primary_item": {
+        "id": "a30c92c164977105aba685a7d539fae2698ed926",
+        "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+        "url": "https://news.ycombinator.com/item?id=48781865",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -941,15 +1039,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8811,
+        "recency": 0.8676,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1020,15 +1118,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8405,
+        "recency": 0.8277,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1099,15 +1197,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
+      "score": 0.5118,
+      "importance": 0.5118,
+      "importance_score": 0.5118,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8235,
+        "recency": 0.8109,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1122,85 +1220,6 @@
         "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c422a54213de",
-      "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
-      "url": "https://news.ycombinator.com/item?id=48781865",
-      "primary_url": "https://news.ycombinator.com/item?id=48781865",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a30c92c164977105aba685a7d539fae2698ed926",
-          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
-          "url": "https://news.ycombinator.com/item?id=48781865",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T02:14:12.009000Z"
-        },
-        {
-          "id": "af34bb56b97e9be6791bd44d7d22cd59730247d7",
-          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
-          "url": "https://app.cuebench.dev",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T01:30:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a30c92c164977105aba685a7d539fae2698ed926",
-          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
-          "url": "https://news.ycombinator.com/item?id=48781865",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T02:14:12.009000Z"
-        },
-        {
-          "id": "af34bb56b97e9be6791bd44d7d22cd59730247d7",
-          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
-          "url": "https://app.cuebench.dev",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T01:30:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4993,
-      "importance": 0.4993,
-      "importance_score": 0.4993,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7419,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T01:30:49Z",
-      "latest_at": "2026-07-04T02:14:12.009000Z",
-      "primary_item": {
-        "id": "a30c92c164977105aba685a7d539fae2698ed926",
-        "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
-        "url": "https://news.ycombinator.com/item?id=48781865",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1257,15 +1276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8405,
+        "recency": 0.8277,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1336,15 +1355,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8404,
+        "recency": 0.8276,
         "story_heat": 0.25
       },
       "category": "watch",
