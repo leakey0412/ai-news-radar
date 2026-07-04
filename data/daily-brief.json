@@ -1,89 +1,8 @@
 {
-  "generated_at": "2026-07-04T15:41:05.773734Z",
+  "generated_at": "2026-07-04T17:00:02.361076Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_00231a9b6301",
-      "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-      "url": "https://github.com/teamchong/pxpipe",
-      "primary_url": "https://github.com/teamchong/pxpipe",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "11edb9790de076ca000c9866976f227f4603ec39",
-          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-          "url": "https://github.com/teamchong/pxpipe",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T19:19:45.726000Z"
-        },
-        {
-          "id": "1b58cc270dda04a8a6c2fe3fa4a389193d5f9266",
-          "title": "通过将代码转换为图像并由模型进行OCR识别，将《Fable》的开发成本降低了60% / 60% Fable cost cut by converting code to images and having the model OCR it",
-          "url": "https://github.com/teamchong/pxpipe",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T15:50:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "11edb9790de076ca000c9866976f227f4603ec39",
-          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-          "url": "https://github.com/teamchong/pxpipe",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T19:19:45.726000Z"
-        },
-        {
-          "id": "1b58cc270dda04a8a6c2fe3fa4a389193d5f9266",
-          "title": "通过将代码转换为图像并由模型进行OCR识别，将《Fable》的开发成本降低了60% / 60% Fable cost cut by converting code to images and having the model OCR it",
-          "url": "https://github.com/teamchong/pxpipe",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T15:50:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7453,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T15:50:49Z",
-      "latest_at": "2026-07-03T19:19:45.726000Z",
-      "primary_item": {
-        "id": "11edb9790de076ca000c9866976f227f4603ec39",
-        "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-        "url": "https://github.com/teamchong/pxpipe",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
     {
       "story_id": "story_14db553be425",
       "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
@@ -138,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7794,
-      "importance": 0.7794,
-      "importance_score": 0.7794,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9099,
+        "recency": 0.8928,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -162,6 +81,67 @@
         "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
         "url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_00231a9b6301",
+      "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+      "url": "https://github.com/teamchong/pxpipe",
+      "primary_url": "https://github.com/teamchong/pxpipe",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "11edb9790de076ca000c9866976f227f4603ec39",
+          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+          "url": "https://github.com/teamchong/pxpipe",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T19:19:45.726000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "11edb9790de076ca000c9866976f227f4603ec39",
+          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+          "url": "https://github.com/teamchong/pxpipe",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T19:19:45.726000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7313,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T19:19:45.726000Z",
+      "latest_at": "2026-07-03T19:19:45.726000Z",
+      "primary_item": {
+        "id": "11edb9790de076ca000c9866976f227f4603ec39",
+        "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+        "url": "https://github.com/teamchong/pxpipe",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -200,15 +180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8572,
+        "recency": 0.8411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -260,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8764,
+        "recency": 0.8599,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -320,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7238,
-      "importance": 0.7238,
-      "importance_score": 0.7238,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7402,
+        "recency": 0.7263,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -347,13 +327,40 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
+      "title": "AI时代，Markdown已经成为AI的第一语言。但是各类Markdown工具要么收费、要么存在云端泄露数据等等问题。冷逸做了一个Markdown编辑器，开源免费，快来上手体验一下！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-03",
+      "source": "社区更新 · 2026-07-04",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "5d25e3a0ace188415c68bded793360491bbade8b",
+          "title": "AI时代，Markdown已经成为AI的第一语言。但是各类Markdown工具要么收费、要么存在云端泄露数据等等问题。冷逸做了一个Markdown编辑器，开源免费，快来上手体验一下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-04T17:00:02.361076Z"
+        },
+        {
+          "id": "3a4e7b68afc4186629044be627ef235af82ba5b7",
+          "title": "很多人最近的焦虑很具体：代码已经能让 Agent 写，图片已经能用模型生成，会议纪要、客服、搜索、调研都在被自动化。下一个被重写的，会不会就是自己的岗位？Richard Socher 在这期里给了一个很硬的判断：问题不能只看 AI 能不能做你的任务，还要看这个任务变便宜后，市场到底需要多少。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-04T17:00:02.361076Z"
+        },
+        {
+          "id": "6c7fbf11ad343e0c05fe505d802626560bc99a02",
+          "title": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了自建的低成本 VPS 服务、高效信息筛选路线。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-04T17:00:02.361076Z"
+        },
+        {
           "id": "5d7f9264c7495b8f5875fd8aa25facfd1201ec78",
           "title": "作者单人运营账号，两个月时间内拿到了抖音8k多粉丝，小红书2k粉丝的结果，总结了这套用codex做视频的方法论。创作者只需要输出核心观点与调整需求。Codex 搭建标准化复用工作流，Remotion 稳定渲染成片，就可以轻松保持高频更新节奏。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -390,12 +397,40 @@
           "published_at": "2026-07-03T17:56:19.486015Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 7,
       "source_names": [
-        "社区更新 · 2026-07-03"
+        "社区更新 · 2026-07-03",
+        "社区更新 · 2026-07-04"
       ],
       "items": [
         {
+          "id": "5d25e3a0ace188415c68bded793360491bbade8b",
+          "title": "AI时代，Markdown已经成为AI的第一语言。但是各类Markdown工具要么收费、要么存在云端泄露数据等等问题。冷逸做了一个Markdown编辑器，开源免费，快来上手体验一下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-04T17:00:02.361076Z"
+        },
+        {
+          "id": "3a4e7b68afc4186629044be627ef235af82ba5b7",
+          "title": "很多人最近的焦虑很具体：代码已经能让 Agent 写，图片已经能用模型生成，会议纪要、客服、搜索、调研都在被自动化。下一个被重写的，会不会就是自己的岗位？Richard Socher 在这期里给了一个很硬的判断：问题不能只看 AI 能不能做你的任务，还要看这个任务变便宜后，市场到底需要多少。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-04T17:00:02.361076Z"
+        },
+        {
+          "id": "6c7fbf11ad343e0c05fe505d802626560bc99a02",
+          "title": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了自建的低成本 VPS 服务、高效信息筛选路线。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-04T17:00:02.361076Z"
+        },
+        {
           "id": "5d7f9264c7495b8f5875fd8aa25facfd1201ec78",
           "title": "作者单人运营账号，两个月时间内拿到了抖音8k多粉丝，小红书2k粉丝的结果，总结了这套用codex做视频的方法论。创作者只需要输出核心观点与调整需求。Codex 搭建标准化复用工作流，Remotion 稳定渲染成片，就可以轻松保持高频更新节奏。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -432,30 +467,30 @@
           "published_at": "2026-07-03T17:56:19.486015Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5998,
-      "importance": 0.5998,
-      "importance_score": 0.5998,
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4752,
+        "editorial": 0.468,
         "source_tier": 0.54,
-        "ai_relevance": 0.66,
-        "recency": 0.7305,
-        "story_heat": 0.75
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-07-03T17:56:19.486015Z",
-      "latest_at": "2026-07-03T17:56:19.486015Z",
+      "latest_at": "2026-07-04T17:00:02.361076Z",
       "primary_item": {
-        "id": "7be30fc5004302e8d685fa42513f6dcf508bde9c",
-        "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
+        "id": "5d25e3a0ace188415c68bded793360491bbade8b",
+        "title": "AI时代，Markdown已经成为AI的第一语言。但是各类Markdown工具要么收费、要么存在云端泄露数据等等问题。冷逸做了一个Markdown编辑器，开源免费，快来上手体验一下！",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-03",
+        "source": "社区更新 · 2026-07-04",
         "source_name": "WaytoAGI"
       }
     },
@@ -532,15 +567,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5547,
-      "importance": 0.5547,
-      "importance_score": 0.5547,
+      "score": 0.5516,
+      "importance": 0.5516,
+      "importance_score": 0.5516,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9106,
+        "recency": 0.8934,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -649,15 +684,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.552,
-      "importance": 0.552,
-      "importance_score": 0.552,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7569,
+        "recency": 0.7427,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -675,79 +710,80 @@
       }
     },
     {
-      "story_id": "story_96aeaf10e3fa",
-      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-      "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
-      "primary_url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+      "story_id": "story_abc36e33f856",
+      "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+      "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872701.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
+          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T15:19:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
+          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T15:19:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9779,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T10:51:57.706134Z",
-      "latest_at": "2026-07-04T14:08:19.556873Z",
+      "earliest_at": "2026-07-04T15:19:14Z",
+      "latest_at": "2026-07-04T17:00:02.361076Z",
       "primary_item": {
-        "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
-        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-        "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+        "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+        "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+        "url": "https://www.huxiu.com/article/4872701.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -824,15 +860,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8269,
+        "recency": 0.8114,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -903,15 +939,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.933,
+        "recency": 0.9154,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -982,15 +1018,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9211,
+        "recency": 0.9037,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1005,104 +1041,6 @@
         "url": "https://www.businessinsider.com/career-expert-shares-resume-template-for-ai-era-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6dd39e80e7d5",
-      "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-      "url": "https://news.ycombinator.com/item?id=48777144",
-      "primary_url": "https://news.ycombinator.com/item?id=48777144",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
-          "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-          "url": "https://news.ycombinator.com/item?id=48777144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T18:56:43.718000Z"
-        },
-        {
-          "id": "0106277eaab5730a881a5309eabed31f1085d700",
-          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
-          "url": "https://github.com/kerlenton/mcpsnoop",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T16:55:50.504000Z"
-        },
-        {
-          "id": "de8087956e18e6c29ccf80f53bd8e4f2a1e3761d",
-          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-          "url": "https://github.com/kerlenton/mcpsnoop",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T16:53:50Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
-          "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-          "url": "https://news.ycombinator.com/item?id=48777144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T18:56:43.718000Z"
-        },
-        {
-          "id": "0106277eaab5730a881a5309eabed31f1085d700",
-          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
-          "url": "https://github.com/kerlenton/mcpsnoop",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T16:55:50.504000Z"
-        },
-        {
-          "id": "de8087956e18e6c29ccf80f53bd8e4f2a1e3761d",
-          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-          "url": "https://github.com/kerlenton/mcpsnoop",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T16:53:50Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7412,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T16:53:50Z",
-      "latest_at": "2026-07-03T18:56:43.718000Z",
-      "primary_item": {
-        "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
-        "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-        "url": "https://news.ycombinator.com/item?id=48777144",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1159,15 +1097,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8695,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1238,15 +1176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5192,
-      "importance": 0.5192,
-      "importance_score": 0.5192,
+      "score": 0.5163,
+      "importance": 0.5163,
+      "importance_score": 0.5163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8523,
+        "recency": 0.8363,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1317,15 +1255,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5158,
-      "importance": 0.5158,
-      "importance_score": 0.5158,
+      "score": 0.513,
+      "importance": 0.513,
+      "importance_score": 0.513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8333,
+        "recency": 0.8177,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1340,6 +1278,163 @@
         "url": "https://mistral.ai/news/leanstral-1-5",
         "source": "mistral.ai",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c422a54213de",
+      "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+      "url": "https://news.ycombinator.com/item?id=48781865",
+      "primary_url": "https://news.ycombinator.com/item?id=48781865",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a30c92c164977105aba685a7d539fae2698ed926",
+          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+          "url": "https://news.ycombinator.com/item?id=48781865",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T02:14:12.009000Z"
+        },
+        {
+          "id": "af34bb56b97e9be6791bd44d7d22cd59730247d7",
+          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+          "url": "https://app.cuebench.dev",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T01:30:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a30c92c164977105aba685a7d539fae2698ed926",
+          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+          "url": "https://news.ycombinator.com/item?id=48781865",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T02:14:12.009000Z"
+        },
+        {
+          "id": "af34bb56b97e9be6791bd44d7d22cd59730247d7",
+          "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+          "url": "https://app.cuebench.dev",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T01:30:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5112,
+      "importance": 0.5112,
+      "importance_score": 0.5112,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.808,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T01:30:49Z",
+      "latest_at": "2026-07-04T02:14:12.009000Z",
+      "primary_item": {
+        "id": "a30c92c164977105aba685a7d539fae2698ed926",
+        "title": "CueBench for Developers 上线：对您驱动编码代理的能力进行评分 / CueBench for Developers is live: score how well you drive coding agents",
+        "url": "https://news.ycombinator.com/item?id=48781865",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_96aeaf10e3fa",
+      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+      "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+      "primary_url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
+          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
+          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
+          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
+          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9595,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T10:51:57.706134Z",
+      "latest_at": "2026-07-04T14:08:19.556873Z",
+      "primary_item": {
+        "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
+        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+        "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1396,15 +1491,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.933,
+        "recency": 0.9154,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1419,85 +1514,6 @@
         "url": "https://github.com/alirezarezvani/claude-skills",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_cec279eb3744",
-      "title": "都有 AI 了，还要读书博主干吗？",
-      "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872670.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
-          "title": "都有 AI 了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5eec2cc1156caeb142ac8f9342c6ecdc043fd564",
-          "title": "都有AI了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T09:35:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
-          "title": "都有 AI 了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5eec2cc1156caeb142ac8f9342c6ecdc043fd564",
-          "title": "都有AI了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T09:35:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9328,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T09:35:34Z",
-      "latest_at": "2026-07-04T10:51:57.706134Z",
-      "primary_item": {
-        "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
-        "title": "都有 AI 了，还要读书博主干吗？",
-        "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1554,15 +1570,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.914,
+        "recency": 0.8968,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1580,81 +1596,82 @@
       }
     },
     {
-      "story_id": "story_b21c281561e9",
-      "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
+      "story_id": "story_2e04f3e69e59",
+      "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
+      "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+      "primary_url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
-          "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T16:55:50.711000Z"
+          "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
+          "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
+          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T00:01:23Z"
         },
         {
-          "id": "ef245d2e47504f2f721f826e1c1e6378309381cd",
-          "title": "加拿大养老金计划（CPP）向EQT的人工智能基础设施建设项目投资17.5亿美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T15:51:47.909000Z"
+          "id": "2678cac44e38d601f3f5c52843d9c80fd1afe32c",
+          "title": "★ Claude 的极其糟糕的 Electron Mac 应用程序是内部人员所为 / ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
+          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T21:24:05Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "www.bloomberg.com"
+        "Daring Fireball",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
-          "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T16:55:50.711000Z"
+          "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
+          "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
+          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T00:01:23Z"
         },
         {
-          "id": "ef245d2e47504f2f721f826e1c1e6378309381cd",
-          "title": "加拿大养老金计划（CPP）向EQT的人工智能基础设施建设项目投资17.5亿美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T15:51:47.909000Z"
+          "id": "2678cac44e38d601f3f5c52843d9c80fd1afe32c",
+          "title": "★ Claude 的极其糟糕的 Electron Mac 应用程序是内部人员所为 / ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
+          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T21:24:05Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4954,
-      "importance": 0.4954,
-      "importance_score": 0.4954,
+      "score": 0.5067,
+      "importance": 0.5067,
+      "importance_score": 0.5067,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7199,
+        "recency": 0.7826,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T15:51:47.909000Z",
-      "latest_at": "2026-07-03T16:55:50.711000Z",
+      "earliest_at": "2026-07-03T21:24:05Z",
+      "latest_at": "2026-07-04T00:01:23Z",
       "primary_item": {
-        "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
-        "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
+        "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
+        "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
+        "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
