@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T20:01:43.696511Z",
+  "generated_at": "2026-07-08T21:39:38.979263Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8748,
-      "importance": 0.8748,
-      "importance_score": 0.8748,
+      "score": 0.8717,
+      "importance": 0.8717,
+      "importance_score": 0.8717,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7488,
+        "recency": 0.7314,
         "story_heat": 0.5
       },
       "category": "official",
@@ -101,6 +101,88 @@
         "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
         "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_eaad4cbcfa7f",
+      "title": "在编码评估中将信号与噪声分离 / Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "primary_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
+          "title": "在编码评估中将信号与噪声分离 / Separating signal from noise in coding evaluations",
+          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T13:00:00Z"
+        },
+        {
+          "id": "888663806c2cbc353d34c6020c85a0ae760bc7f5",
+          "title": "OpenAI 不再推荐 SWE-Bench Pro / OpenAI no longer recommends SWE-Bench Pro",
+          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-08T21:03:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
+          "title": "在编码评估中将信号与噪声分离 / Separating signal from noise in coding evaluations",
+          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T13:00:00Z"
+        },
+        {
+          "id": "888663806c2cbc353d34c6020c85a0ae760bc7f5",
+          "title": "OpenAI 不再推荐 SWE-Bench Pro / OpenAI no longer recommends SWE-Bench Pro",
+          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-08T21:03:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8678,
+      "importance": 0.8678,
+      "importance_score": 0.8678,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.97,
+        "recency": 0.8824,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T13:00:00Z",
+      "latest_at": "2026-07-08T21:03:51Z",
+      "primary_item": {
+        "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
+        "title": "在编码评估中将信号与噪声分离 / Separating signal from noise in coding evaluations",
+        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -233,15 +315,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.867,
-      "importance": 0.867,
-      "importance_score": 0.867,
+      "score": 0.8634,
+      "importance": 0.8634,
+      "importance_score": 0.8634,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8466,
+        "recency": 0.8269,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -258,6 +340,130 @@
         "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2f563a485d38",
+      "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+      "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+      "primary_url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
+          "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+          "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T18:24:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
+          "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+          "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T18:24:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9542,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T18:24:55Z",
+      "latest_at": "2026-07-08T18:24:55Z",
+      "primary_item": {
+        "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
+        "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+        "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_450af95c2f12",
+      "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
+      "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
+          "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
+          "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T21:11:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
+          "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
+          "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T21:11:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8428,
+      "importance": 0.8428,
+      "importance_score": 0.8428,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9934,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T21:11:56Z",
+      "latest_at": "2026-07-08T21:11:56Z",
+      "primary_item": {
+        "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
+        "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
+        "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -333,15 +539,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8648,
-      "importance": 0.8648,
-      "importance_score": 0.8648,
+      "score": 0.8617,
+      "importance": 0.8617,
+      "importance_score": 0.8617,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7488,
+        "recency": 0.7314,
         "story_heat": 0.5
       },
       "category": "official",
@@ -358,130 +564,6 @@
         "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型 / Introducing GPT-Live",
         "url": "https://openai.com/index/introducing-gpt-live",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2f563a485d38",
-      "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
-      "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
-      "primary_url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
-          "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
-          "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T18:24:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
-          "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
-          "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T18:24:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8479,
-      "importance": 0.8479,
-      "importance_score": 0.8479,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.977,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T18:24:55Z",
-      "latest_at": "2026-07-08T18:24:55Z",
-      "primary_item": {
-        "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
-        "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
-        "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c2a416d6e7fa",
-      "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
-          "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
-          "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8418,
-      "importance": 0.8418,
-      "importance_score": 0.8418,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9435,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T16:00:00Z",
-      "latest_at": "2026-07-08T16:00:00Z",
-      "primary_item": {
-        "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
-        "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -520,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.861,
-      "importance": 0.861,
-      "importance_score": 0.861,
+      "score": 0.8569,
+      "importance": 0.8569,
+      "importance_score": 0.8569,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9609,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "official",
@@ -639,15 +721,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.924,
+        "recency": 0.9025,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -667,83 +749,21 @@
       }
     },
     {
-      "story_id": "story_eaad4cbcfa7f",
-      "title": "在编码评估中将信号与噪声分离 / Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "primary_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
-          "title": "在编码评估中将信号与噪声分离 / Separating signal from noise in coding evaluations",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
-          "title": "在编码评估中将信号与噪声分离 / Separating signal from noise in coding evaluations",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8466,
-      "importance": 0.8466,
-      "importance_score": 0.8466,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.97,
-        "recency": 0.9035,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T13:00:00Z",
-      "latest_at": "2026-07-08T13:00:00Z",
-      "primary_item": {
-        "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
-        "title": "在编码评估中将信号与噪声分离 / Separating signal from noise in coding evaluations",
-        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9f01a69db3b0",
-      "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
-      "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
-      "primary_url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+      "story_id": "story_ce2436329e7b",
+      "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+      "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+      "primary_url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
-          "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
-          "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
+          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T17:05:06Z"
+          "published_at": "2026-07-08T20:50:07Z"
         }
       ],
       "source_count": 1,
@@ -752,26 +772,26 @@
       ],
       "items": [
         {
-          "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
-          "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
-          "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
+          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T17:05:06Z"
+          "published_at": "2026-07-08T20:50:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9584,
+        "recency": 0.9881,
         "story_heat": 0.0
       },
       "category": "official",
@@ -780,13 +800,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T17:05:06Z",
-      "latest_at": "2026-07-08T17:05:06Z",
+      "earliest_at": "2026-07-08T20:50:07Z",
+      "latest_at": "2026-07-08T20:50:07Z",
       "primary_item": {
-        "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
-        "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
-        "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+        "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
+        "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+        "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c2a416d6e7fa",
+      "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
+          "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
+          "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8379,
+      "importance": 0.8379,
+      "importance_score": 0.8379,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9215,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T16:00:00Z",
+      "latest_at": "2026-07-08T16:00:00Z",
+      "primary_item": {
+        "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
+        "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -863,15 +945,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.8013,
+      "importance": 0.8013,
+      "importance_score": 0.8013,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.8094,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -944,15 +1026,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9667,
+        "recency": 0.9441,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1025,15 +1107,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9572,
+        "recency": 0.9349,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1106,15 +1188,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7878,
+        "recency": 0.7695,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1131,6 +1213,68 @@
         "url": "https://www.ithome.com/0/973/922.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9f01a69db3b0",
+      "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+      "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+      "primary_url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
+          "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+          "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T17:05:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
+          "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+          "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T17:05:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9361,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T17:05:06Z",
+      "latest_at": "2026-07-08T17:05:06Z",
+      "primary_item": {
+        "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
+        "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+        "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1168,15 +1312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9643,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1195,49 +1339,49 @@
       }
     },
     {
-      "story_id": "story_634d04b72ccb",
-      "title": "GitHub Mobile：修复与 Copilot 云代理的合并冲突 / GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
-      "source": "GitHub Changelog",
+      "story_id": "story_41b85c9cdb7a",
+      "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "primary_url": "https://openai.com/index/government-national-security-partnerships",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c7270fda48482cfd737d63200627b9103fa60835",
-          "title": "GitHub Mobile：修复与 Copilot 云代理的合并冲突 / GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
+          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
+          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+          "url": "https://openai.com/index/government-national-security-partnerships",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T09:45:22Z"
+          "published_at": "2026-07-08T13:30:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "c7270fda48482cfd737d63200627b9103fa60835",
-          "title": "GitHub Mobile：修复与 Copilot 云代理的合并冲突 / GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
+          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
+          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+          "url": "https://openai.com/index/government-national-security-partnerships",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T09:45:22Z"
+          "published_at": "2026-07-08T13:30:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8621,
+        "ai_relevance": 0.91,
+        "recency": 0.8888,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1246,13 +1390,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T09:45:22Z",
-      "latest_at": "2026-07-08T09:45:22Z",
+      "earliest_at": "2026-07-08T13:30:00Z",
+      "latest_at": "2026-07-08T13:30:00Z",
       "primary_item": {
-        "id": "c7270fda48482cfd737d63200627b9103fa60835",
-        "title": "GitHub Mobile：修复与 Copilot 云代理的合并冲突 / GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
-        "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
-        "source": "GitHub Changelog",
+        "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
+        "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+        "url": "https://openai.com/index/government-national-security-partnerships",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -1291,15 +1435,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9608,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1370,15 +1514,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8724,
+        "recency": 0.8521,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1395,68 +1539,6 @@
         "url": "https://www.aibase.com/news/29456",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_de9286311527",
-      "title": "帮助 K-12 教育工作者培养实用的人工智能技能 / Helping K–12 educators build practical AI skills",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "primary_url": "https://openai.com/index/k-12-educators-practical-skills",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3f6683043bf73f7539527e0c801f2599a2d2c67d",
-          "title": "帮助 K-12 教育工作者培养实用的人工智能技能 / Helping K–12 educators build practical AI skills",
-          "url": "https://openai.com/index/k-12-educators-practical-skills",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3f6683043bf73f7539527e0c801f2599a2d2c67d",
-          "title": "帮助 K-12 教育工作者培养实用的人工智能技能 / Helping K–12 educators build practical AI skills",
-          "url": "https://openai.com/index/k-12-educators-practical-skills",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8652,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T10:00:00Z",
-      "latest_at": "2026-07-08T10:00:00Z",
-      "primary_item": {
-        "id": "3f6683043bf73f7539527e0c801f2599a2d2c67d",
-        "title": "帮助 K-12 教育工作者培养实用的人工智能技能 / Helping K–12 educators build practical AI skills",
-        "url": "https://openai.com/index/k-12-educators-practical-skills",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1494,15 +1576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7912,
-      "importance": 0.7912,
-      "importance_score": 0.7912,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9644,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1517,67 +1599,6 @@
         "title": "OpenAI 推出 GPT-Live 全双工语音模型，提供两个版本",
         "url": "https://x.com/testingcatalog/status/2074909146156081417",
         "source": "X：Testing Catalog (@testingcatalog)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3615d9eeb3d0",
-      "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-      "url": "https://x.com/berryxia/status/2074827915779580055",
-      "primary_url": "https://x.com/berryxia/status/2074827915779580055",
-      "source": "X：Berry Xia (@berryxia)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
-          "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-          "url": "https://x.com/berryxia/status/2074827915779580055",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T12:08:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Berry Xia (@berryxia)"
-      ],
-      "items": [
-        {
-          "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
-          "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-          "url": "https://x.com/berryxia/status/2074827915779580055",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T12:08:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8923,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T12:08:18Z",
-      "latest_at": "2026-07-08T12:08:18Z",
-      "primary_item": {
-        "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
-        "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-        "url": "https://x.com/berryxia/status/2074827915779580055",
-        "source": "X：Berry Xia (@berryxia)",
         "source_name": "AI HOT"
       }
     }
