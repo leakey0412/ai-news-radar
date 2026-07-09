@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T19:38:10.359477Z",
+  "generated_at": "2026-07-09T21:19:12.653127Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8866,
-      "importance": 0.8866,
-      "importance_score": 0.8866,
+      "score": 0.8829,
+      "importance": 0.8829,
+      "importance_score": 0.8829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8701,
+        "recency": 0.8492,
         "story_heat": 0.5
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8605,
-      "importance": 0.8605,
-      "importance_score": 0.8605,
+      "score": 0.8564,
+      "importance": 0.8564,
+      "importance_score": 0.8564,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9584,
+        "recency": 0.9353,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7531,
+        "recency": 0.735,
         "story_heat": 0.25
       },
       "category": "official",
@@ -301,15 +301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8616,
-      "importance": 0.8616,
-      "importance_score": 0.8616,
+      "score": 0.8579,
+      "importance": 0.8579,
+      "importance_score": 0.8579,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8701,
+        "recency": 0.8492,
         "story_heat": 0.25
       },
       "category": "official",
@@ -364,15 +364,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8349,
+      "importance": 0.8349,
+      "importance_score": 0.8349,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9275,
+        "recency": 0.9052,
         "story_heat": 0.0
       },
       "category": "official",
@@ -426,15 +426,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7531,
+        "recency": 0.735,
         "story_heat": 0.0
       },
       "category": "official",
@@ -526,15 +526,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9175,
+        "recency": 0.8955,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -554,49 +554,49 @@
       }
     },
     {
-      "story_id": "story_450af95c2f12",
-      "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
-      "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
-      "source": "GitHub AI & ML",
+      "story_id": "story_e799563c0958",
+      "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "primary_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
-          "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
-          "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
-          "source": "GitHub AI & ML",
+          "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
+          "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T21:11:56Z"
+          "published_at": "2026-07-09T13:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub AI & ML"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
-          "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
-          "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
-          "source": "GitHub AI & ML",
+          "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
+          "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T21:11:56Z"
+          "published_at": "2026-07-09T13:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.8476,
+      "importance": 0.8476,
+      "importance_score": 0.8476,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7232,
+        "ai_relevance": 0.99,
+        "recency": 0.8868,
         "story_heat": 0.0
       },
       "category": "official",
@@ -605,13 +605,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T21:11:56Z",
-      "latest_at": "2026-07-08T21:11:56Z",
+      "earliest_at": "2026-07-09T13:00:00Z",
+      "latest_at": "2026-07-09T13:00:00Z",
       "primary_item": {
-        "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
-        "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
-        "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
-        "source": "GitHub AI & ML",
+        "id": "1bc0a9412f7f84df0833d4589590442445fcda5c",
+        "title": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型 / GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -650,15 +650,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7806,
-      "importance": 0.7806,
-      "importance_score": 0.7806,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9722,
+        "recency": 0.9488,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -674,68 +674,6 @@
         "url": "https://x.com/OpenAIDevs/status/2075273992609599834",
         "source": "X：OpenAI Developers (@OpenAIDevs)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8fd74bd3f519",
-      "title": "GPT-5.5 生物错误赏金 / GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "primary_url": "https://openai.com/index/bio-bug-bounty",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "323fed3068294dd29acf4724d07d4b131b3fb21c",
-          "title": "GPT-5.5 生物错误赏金 / GPT-5.5 Bio Bug Bounty",
-          "url": "https://openai.com/index/bio-bug-bounty",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "323fed3068294dd29acf4724d07d4b131b3fb21c",
-          "title": "GPT-5.5 生物错误赏金 / GPT-5.5 Bio Bug Bounty",
-          "url": "https://openai.com/index/bio-bug-bounty",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8366,
-      "importance": 0.8366,
-      "importance_score": 0.8366,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8701,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T10:00:00Z",
-      "latest_at": "2026-07-09T10:00:00Z",
-      "primary_item": {
-        "id": "323fed3068294dd29acf4724d07d4b131b3fb21c",
-        "title": "GPT-5.5 生物错误赏金 / GPT-5.5 Bio Bug Bounty",
-        "url": "https://openai.com/index/bio-bug-bounty",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -773,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9475,
+        "recency": 0.9247,
         "story_heat": 0.0
       },
       "category": "official",
@@ -854,15 +792,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8641,
+        "recency": 0.8433,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -935,15 +873,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8319,
+        "recency": 0.812,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -997,15 +935,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9652,
+        "recency": 0.942,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1077,15 +1015,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8551,
+        "recency": 0.8345,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1139,21 +1077,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9221,
+        "recency": 0.8999,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-09T14:01:03Z",
       "latest_at": "2026-07-09T14:01:03Z",
@@ -1163,6 +1100,68 @@
         "url": "https://x.com/OpenBMB/status/2075218678027850154",
         "source": "X：面壁智能 OpenBMB (@OpenBMB)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8fd74bd3f519",
+      "title": "GPT-5.5 生物错误赏金 / GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "primary_url": "https://openai.com/index/bio-bug-bounty",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "323fed3068294dd29acf4724d07d4b131b3fb21c",
+          "title": "GPT-5.5 生物错误赏金 / GPT-5.5 Bio Bug Bounty",
+          "url": "https://openai.com/index/bio-bug-bounty",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "323fed3068294dd29acf4724d07d4b131b3fb21c",
+          "title": "GPT-5.5 生物错误赏金 / GPT-5.5 Bio Bug Bounty",
+          "url": "https://openai.com/index/bio-bug-bounty",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8492,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T10:00:00Z",
+      "latest_at": "2026-07-09T10:00:00Z",
+      "primary_item": {
+        "id": "323fed3068294dd29acf4724d07d4b131b3fb21c",
+        "title": "GPT-5.5 生物错误赏金 / GPT-5.5 Bio Bug Bounty",
+        "url": "https://openai.com/index/bio-bug-bounty",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1219,15 +1218,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8344,
+        "recency": 0.8144,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1281,15 +1280,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.922,
+        "recency": 0.8999,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1360,15 +1359,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7614,
+        "recency": 0.7431,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1421,15 +1420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8641,
+        "recency": 0.8433,
         "story_heat": 0.0
       },
       "category": "industry",
