@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T09:56:35.883861Z",
+  "generated_at": "2026-07-11T11:04:17.544378Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8431,
+        "recency": 0.8294,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8257,
+        "recency": 0.8124,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7713,
+        "recency": 0.7589,
         "story_heat": 0.0
       },
       "category": "official",
@@ -300,15 +300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
+      "score": 0.7906,
+      "importance": 0.7906,
+      "importance_score": 0.7906,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9714,
+        "recency": 0.9557,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -381,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7849,
-      "importance": 0.7849,
-      "importance_score": 0.7849,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8239,
+        "recency": 0.8106,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,15 +443,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8188,
+        "recency": 0.8056,
         "story_heat": 0.0
       },
       "category": "official",
@@ -505,15 +505,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.891,
+        "recency": 0.8766,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -566,21 +566,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7936,
+        "recency": 0.7807,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T17:55:54Z",
       "latest_at": "2026-07-10T17:55:54Z",
@@ -627,15 +626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8223,
+        "recency": 0.8091,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -687,15 +686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.762,
+        "recency": 0.7497,
         "story_heat": 0.0
       },
       "category": "official",
@@ -749,15 +748,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7238,
-      "importance": 0.7238,
-      "importance_score": 0.7238,
+      "score": 0.7215,
+      "importance": 0.7215,
+      "importance_score": 0.7215,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7899,
+        "recency": 0.7771,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -863,15 +862,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6066,
-      "importance": 0.6066,
-      "importance_score": 0.6066,
+      "score": 0.6043,
+      "importance": 0.6043,
+      "importance_score": 0.6043,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7914,
+        "recency": 0.7786,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -942,15 +941,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5986,
-      "importance": 0.5986,
-      "importance_score": 0.5986,
+      "score": 0.5962,
+      "importance": 0.5962,
+      "importance_score": 0.5962,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8369,
+        "recency": 0.8234,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1059,15 +1058,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5711,
-      "importance": 0.5711,
-      "importance_score": 0.5711,
+      "score": 0.5686,
+      "importance": 0.5686,
+      "importance_score": 0.5686,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8628,
+        "recency": 0.8489,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1085,30 +1084,30 @@
       }
     },
     {
-      "story_id": "story_0a7e85008191",
-      "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-      "url": "https://www.huxiu.com/article/4874519.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874519.html?f=rss",
+      "story_id": "story_0dc880673eae",
+      "title": "今年最期待的 AI 手机，要来了",
+      "url": "https://www.huxiu.com/article/4874525.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4874525.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
-          "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "id": "7dbed72815b392831ab36aeed3f918e5143b6e56",
+          "title": "今年最期待的 AI 手机，要来了",
+          "url": "https://www.huxiu.com/article/4874525.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "53bd41ce08b667aee69742d6c135f7803d7da97c",
-          "title": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "id": "0043aa0fcf8b31d7a6cf1125647d4e5980bc0f02",
+          "title": "今年最期待的AI 手机，要来了",
+          "url": "https://www.huxiu.com/article/4874525.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-11T09:23:45Z"
+          "published_at": "2026-07-11T09:41:53Z"
         }
       ],
       "source_count": 2,
@@ -1118,22 +1117,22 @@
       ],
       "items": [
         {
-          "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
-          "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "id": "7dbed72815b392831ab36aeed3f918e5143b6e56",
+          "title": "今年最期待的 AI 手机，要来了",
+          "url": "https://www.huxiu.com/article/4874525.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "53bd41ce08b667aee69742d6c135f7803d7da97c",
-          "title": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+          "id": "0043aa0fcf8b31d7a6cf1125647d4e5980bc0f02",
+          "title": "今年最期待的AI 手机，要来了",
+          "url": "https://www.huxiu.com/article/4874525.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-11T09:23:45Z"
+          "published_at": "2026-07-11T09:41:53Z"
         }
       ],
       "item_count": 2,
@@ -1153,14 +1152,93 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-11T09:23:45Z",
-      "latest_at": "2026-07-11T09:56:35.883861Z",
+      "earliest_at": "2026-07-11T09:41:53Z",
+      "latest_at": "2026-07-11T11:04:17.544378Z",
       "primary_item": {
-        "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
-        "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-        "url": "https://www.huxiu.com/article/4874519.html?f=rss",
+        "id": "7dbed72815b392831ab36aeed3f918e5143b6e56",
+        "title": "今年最期待的 AI 手机，要来了",
+        "url": "https://www.huxiu.com/article/4874525.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_9c885636aaf2",
+      "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+      "url": "https://news.ycombinator.com/item?id=48870381",
+      "primary_url": "https://news.ycombinator.com/item?id=48870381",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://news.ycombinator.com/item?id=48870381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T10:40:02.287000Z"
+        },
+        {
+          "id": "9b0022a6ae175454c81b4ac1d9fb2b53d671f80b",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T09:36:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://news.ycombinator.com/item?id=48870381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T10:40:02.287000Z"
+        },
+        {
+          "id": "9b0022a6ae175454c81b4ac1d9fb2b53d671f80b",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T09:36:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9942,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T09:36:53Z",
+      "latest_at": "2026-07-11T10:40:02.287000Z",
+      "primary_item": {
+        "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
+        "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+        "url": "https://news.ycombinator.com/item?id=48870381",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1217,15 +1295,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5456,
-      "importance": 0.5456,
-      "importance_score": 0.5456,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9987,
+        "recency": 0.9826,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1240,164 +1318,6 @@
         "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
         "source": "www.schneier.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_31136afe5d04",
-      "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-      "url": "https://juejin.cn/post/7660697431320690723",
-      "primary_url": "https://juejin.cn/post/7660697431320690723",
-      "source": "juejin",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
-          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-          "url": "https://juejin.cn/post/7660697431320690723",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T09:43:22.406000Z"
-        },
-        {
-          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
-          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
-          "url": "https://juejin.cn/post/7660708287620808739",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "juejin",
-        "掘金 · 人工智能本周最热"
-      ],
-      "items": [
-        {
-          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
-          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-          "url": "https://juejin.cn/post/7660697431320690723",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T09:43:22.406000Z"
-        },
-        {
-          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
-          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
-          "url": "https://juejin.cn/post/7660708287620808739",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9968,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T03:50:41.461544Z",
-      "latest_at": "2026-07-11T09:43:22.406000Z",
-      "primary_item": {
-        "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
-        "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-        "url": "https://juejin.cn/post/7660697431320690723",
-        "source": "juejin",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_a0a97dcb67b7",
-      "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
-      "url": "https://news.ycombinator.com/item?id=48870035",
-      "primary_url": "https://news.ycombinator.com/item?id=48870035",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9a9211026b98767f05a9f00728d2ffe36ad44ce3",
-          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
-          "url": "https://news.ycombinator.com/item?id=48870035",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T09:39:45.652000Z"
-        },
-        {
-          "id": "083995ca700dc1c42172930fa269900860b4f25b",
-          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
-          "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T08:29:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9a9211026b98767f05a9f00728d2ffe36ad44ce3",
-          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
-          "url": "https://news.ycombinator.com/item?id=48870035",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T09:39:45.652000Z"
-        },
-        {
-          "id": "083995ca700dc1c42172930fa269900860b4f25b",
-          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
-          "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T08:29:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.996,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T08:29:43Z",
-      "latest_at": "2026-07-11T09:39:45.652000Z",
-      "primary_item": {
-        "id": "9a9211026b98767f05a9f00728d2ffe36ad44ce3",
-        "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
-        "url": "https://news.ycombinator.com/item?id=48870035",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1473,15 +1393,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8561,
+        "recency": 0.8423,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1496,6 +1416,85 @@
         "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
         "source": "9to5mac.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_31136afe5d04",
+      "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+      "url": "https://juejin.cn/post/7660697431320690723",
+      "primary_url": "https://juejin.cn/post/7660697431320690723",
+      "source": "juejin",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+          "url": "https://juejin.cn/post/7660697431320690723",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T09:43:22.406000Z"
+        },
+        {
+          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
+          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
+          "url": "https://juejin.cn/post/7660708287620808739",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "juejin",
+        "掘金 · 人工智能本周最热"
+      ],
+      "items": [
+        {
+          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+          "url": "https://juejin.cn/post/7660697431320690723",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T09:43:22.406000Z"
+        },
+        {
+          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
+          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
+          "url": "https://juejin.cn/post/7660708287620808739",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9807,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T03:50:41.461544Z",
+      "latest_at": "2026-07-11T09:43:22.406000Z",
+      "primary_item": {
+        "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+        "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+        "url": "https://juejin.cn/post/7660697431320690723",
+        "source": "juejin",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1571,15 +1570,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8463,
+        "recency": 0.8326,
         "story_heat": 0.5
       },
       "category": "multi_source",
