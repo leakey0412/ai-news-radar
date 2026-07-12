@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T10:06:14.877232Z",
+  "generated_at": "2026-07-12T11:36:06.981553Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8945,
+        "recency": 0.8754,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9879,
+        "recency": 0.9668,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8853,
+        "recency": 0.8664,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +319,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8736,
+        "recency": 0.8549,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -400,15 +400,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9154,
+        "recency": 0.8959,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -462,21 +462,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9046,
+        "recency": 0.8853,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-12T03:09:47Z",
       "latest_at": "2026-07-12T03:09:47Z",
@@ -542,15 +541,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7786,
+        "recency": 0.7619,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -622,15 +621,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8976,
+        "recency": 0.8784,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -703,15 +702,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.782,
+        "recency": 0.7653,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -784,15 +783,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7757,
+        "recency": 0.7591,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -865,15 +864,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8564,
+        "recency": 0.838,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -981,15 +980,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6183,
-      "importance": 0.6183,
-      "importance_score": 0.6183,
+      "score": 0.6152,
+      "importance": 0.6152,
+      "importance_score": 0.6152,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.7866,
+        "recency": 0.7698,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1098,15 +1097,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5831,
-      "importance": 0.5831,
-      "importance_score": 0.5831,
+      "score": 0.5796,
+      "importance": 0.5796,
+      "importance_score": 0.5796,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9296,
+        "recency": 0.9097,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1120,6 +1119,243 @@
         "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
         "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
         "source": "pluralistic.net",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e2469c92ba3c",
+      "title": "Nutlope / 标志 / Nutlope /      hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "primary_url": "https://github.com/Nutlope/hallmark",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
+          "title": "Nutlope / 标志 / Nutlope /      hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T11:36:44.232000Z"
+        },
+        {
+          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
+          "title": "Nutlope / 标志 / Nutlope / hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
+          "title": "Nutlope / 标志 / Nutlope /      hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T11:36:44.232000Z"
+        },
+        {
+          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
+          "title": "Nutlope / 标志 / Nutlope / hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T11:36:06.981553Z",
+      "latest_at": "2026-07-12T11:36:44.232000Z",
+      "primary_item": {
+        "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
+        "title": "Nutlope / 标志 / Nutlope /      hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_2c1bf5ffef3f",
+      "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+      "url": "https://www.36kr.com/p/3892222176574211",
+      "primary_url": "https://www.36kr.com/p/3892222176574211",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
+          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+          "url": "https://www.36kr.com/p/3892222176574211",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
+          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T05:47:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "36氪 · 24小时热榜"
+      ],
+      "items": [
+        {
+          "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
+          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+          "url": "https://www.36kr.com/p/3892222176574211",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
+          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T05:47:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T05:47:23Z",
+      "latest_at": "2026-07-12T11:36:06.981553Z",
+      "primary_item": {
+        "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
+        "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+        "url": "https://www.36kr.com/p/3892222176574211",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_9c16317d5df5",
+      "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
+      "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+      "primary_url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
+          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
+          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T11:11:07.762000Z"
+        },
+        {
+          "id": "8f92d8063a8524b8318042b1d525babcc144c568",
+          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。 / I'm a writer who left LA for an AI startup in San Francisco. It was like stepping into a whole new world.",
+          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T09:51:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
+          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
+          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T11:11:07.762000Z"
+        },
+        {
+          "id": "8f92d8063a8524b8318042b1d525babcc144c568",
+          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。 / I'm a writer who left LA for an AI startup in San Francisco. It was like stepping into a whole new world.",
+          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T09:51:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.994,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T09:51:01Z",
+      "latest_at": "2026-07-12T11:11:07.762000Z",
+      "primary_item": {
+        "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
+        "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
+        "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1196,15 +1432,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5463,
-      "importance": 0.5463,
-      "importance_score": 0.5463,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8641,
+        "recency": 0.8456,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1294,15 +1530,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8365,
+        "recency": 0.8186,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1373,15 +1609,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5408,
-      "importance": 0.5408,
-      "importance_score": 0.5408,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9723,
+        "recency": 0.9515,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1452,15 +1688,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5299,
-      "importance": 0.5299,
-      "importance_score": 0.5299,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9119,
+        "recency": 0.8924,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1474,242 +1710,6 @@
         "title": "用100行Lisp编写的智能体",
         "url": "https://thebeach.dev/posts/lisp-agent",
         "source": "thebeach.dev",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d510ab3ae5b4",
-      "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
-      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
-      "primary_url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
-          "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
-          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T02:13:46Z"
-        },
-        {
-          "id": "72c7edbdcba05dbee3f4f23c1d9dd80461dd3bd1",
-          "title": "我们知道简单的流体可以流动。事实证明，有些会骨折 / We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
-          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T02:13:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
-          "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
-          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T02:13:46Z"
-        },
-        {
-          "id": "72c7edbdcba05dbee3f4f23c1d9dd80461dd3bd1",
-          "title": "我们知道简单的流体可以流动。事实证明，有些会骨折 / We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
-          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T02:13:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8925,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T02:13:46Z",
-      "latest_at": "2026-07-12T02:13:46Z",
-      "primary_item": {
-        "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
-        "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
-        "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_70acfff4fef0",
-      "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-      "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-      "primary_url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:47:17.342000Z"
-        },
-        {
-          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T20:23:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:47:17.342000Z"
-        },
-        {
-          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T20:23:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5143,
-      "importance": 0.5143,
-      "importance_score": 0.5143,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8251,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T20:23:05Z",
-      "latest_at": "2026-07-11T20:47:17.342000Z",
-      "primary_item": {
-        "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-        "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-        "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d01a1045be8c",
-      "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-      "url": "https://github.com/sqlsure/sqlsure",
-      "primary_url": "https://github.com/sqlsure/sqlsure",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:15:06.203000Z"
-        },
-        {
-          "id": "2c492bf97e09e599b514e5ed4acce179dc5cc1e8",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T20:03:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:15:06.203000Z"
-        },
-        {
-          "id": "2c492bf97e09e599b514e5ed4acce179dc5cc1e8",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T20:03:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5132,
-      "importance": 0.5132,
-      "importance_score": 0.5132,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8187,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T20:03:42Z",
-      "latest_at": "2026-07-11T20:15:06.203000Z",
-      "primary_item": {
-        "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-        "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-        "url": "https://github.com/sqlsure/sqlsure",
-        "source": "github.com",
         "source_name": "Buzzing"
       }
     }
