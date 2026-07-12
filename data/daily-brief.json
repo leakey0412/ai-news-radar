@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T11:36:06.981553Z",
+  "generated_at": "2026-07-12T13:10:06.958846Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8754,
+        "recency": 0.8558,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7836,
-      "importance": 0.7836,
-      "importance_score": 0.7836,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9668,
+        "recency": 0.9452,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8664,
+        "recency": 0.847,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +319,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8549,
+        "recency": 0.8358,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -400,15 +400,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8959,
+        "recency": 0.8758,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -462,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8853,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -541,15 +541,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7619,
+        "recency": 0.7449,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -621,15 +621,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8784,
+        "recency": 0.8587,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -702,15 +702,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7653,
+        "recency": 0.7481,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -783,15 +783,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.7422,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -864,15 +864,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.838,
+        "recency": 0.8193,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -980,15 +980,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6152,
-      "importance": 0.6152,
-      "importance_score": 0.6152,
+      "score": 0.6121,
+      "importance": 0.6121,
+      "importance_score": 0.6121,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.7698,
+        "recency": 0.7526,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1097,15 +1097,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5796,
-      "importance": 0.5796,
-      "importance_score": 0.5796,
+      "score": 0.5759,
+      "importance": 0.5759,
+      "importance_score": 0.5759,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9097,
+        "recency": 0.8894,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1120,6 +1120,85 @@
         "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
         "source": "pluralistic.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_56cbb52c8dba",
+      "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
+      "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+      "source": "36氪 (36Kr)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
+          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
+          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T11:37:33Z"
+        },
+        {
+          "id": "3a40211363b4e97f550cc53ceba9c73101f9536a",
+          "title": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
+          "url": "https://www.gelonghui.com/live/2548422",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
+          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
+          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T11:37:33Z"
+        },
+        {
+          "id": "3a40211363b4e97f550cc53ceba9c73101f9536a",
+          "title": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
+          "url": "https://www.gelonghui.com/live/2548422",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.978,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T10:06:14.877232Z",
+      "latest_at": "2026-07-12T11:37:33Z",
+      "primary_item": {
+        "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
+        "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
+        "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+        "source": "36氪 (36Kr)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1176,15 +1255,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9778,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1255,15 +1334,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9776,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1334,15 +1413,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.994,
+        "recency": 0.9718,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1432,15 +1511,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8456,
+        "recency": 0.8267,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1455,6 +1534,84 @@
         "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
         "source": "blog.yaelwrites.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a090ea6b9f4d",
+      "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+      "url": "https://www.v2ex.com/t/1226732",
+      "primary_url": "https://www.v2ex.com/t/1226732",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
+          "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+          "url": "https://www.v2ex.com/t/1226732",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T09:33:59Z"
+        },
+        {
+          "id": "13a97893ac57fb458b964913ab7cfa7bb1b25488",
+          "title": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+          "url": "https://www.v2ex.com/t/1226732",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T09:33:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
+          "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+          "url": "https://www.v2ex.com/t/1226732",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T09:33:59Z"
+        },
+        {
+          "id": "13a97893ac57fb458b964913ab7cfa7bb1b25488",
+          "title": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+          "url": "https://www.v2ex.com/t/1226732",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T09:33:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9493,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T09:33:59Z",
+      "latest_at": "2026-07-12T09:33:59Z",
+      "primary_item": {
+        "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
+        "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+        "url": "https://www.v2ex.com/t/1226732",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1530,15 +1687,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8186,
+        "recency": 0.8003,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1553,164 +1710,6 @@
         "url": "https://news.ycombinator.com/item?id=48874200",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_26dd35a9f1e8",
-      "title": "推翻 AI 巨头「暴政」、世界模型之父反对世界模型",
-      "url": "https://www.huxiu.com/article/4874617.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874617.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d02b92002700d0fe739b76da934aa2140d090e6e",
-          "title": "推翻 AI 巨头「暴政」、世界模型之父反对世界模型",
-          "url": "https://www.huxiu.com/article/4874617.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "17c82f705a797eb63006becbbc77723a3663f327",
-          "title": "推翻AI巨头“暴政”、世界模型之父反对世界模型",
-          "url": "https://www.huxiu.com/article/4874617.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T07:07:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "d02b92002700d0fe739b76da934aa2140d090e6e",
-          "title": "推翻 AI 巨头「暴政」、世界模型之父反对世界模型",
-          "url": "https://www.huxiu.com/article/4874617.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "17c82f705a797eb63006becbbc77723a3663f327",
-          "title": "推翻AI巨头“暴政”、世界模型之父反对世界模型",
-          "url": "https://www.huxiu.com/article/4874617.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T07:07:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9515,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T07:07:19Z",
-      "latest_at": "2026-07-12T08:09:23.965165Z",
-      "primary_item": {
-        "id": "d02b92002700d0fe739b76da934aa2140d090e6e",
-        "title": "推翻 AI 巨头「暴政」、世界模型之父反对世界模型",
-        "url": "https://www.huxiu.com/article/4874617.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_dfe87bfc97aa",
-      "title": "用100行Lisp编写的智能体",
-      "url": "https://thebeach.dev/posts/lisp-agent",
-      "primary_url": "https://thebeach.dev/posts/lisp-agent",
-      "source": "thebeach.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
-          "title": "用100行Lisp编写的智能体",
-          "url": "https://thebeach.dev/posts/lisp-agent",
-          "source": "thebeach.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T03:43:08.376000Z"
-        },
-        {
-          "id": "976a01010fcfbc257ad57c908f4262a10779621e",
-          "title": "用100行Lisp编写的智能体 / An Agent in 100 Lines of Lisp",
-          "url": "https://thebeach.dev/posts/lisp-agent",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T03:36:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "thebeach.dev"
-      ],
-      "items": [
-        {
-          "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
-          "title": "用100行Lisp编写的智能体",
-          "url": "https://thebeach.dev/posts/lisp-agent",
-          "source": "thebeach.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T03:43:08.376000Z"
-        },
-        {
-          "id": "976a01010fcfbc257ad57c908f4262a10779621e",
-          "title": "用100行Lisp编写的智能体 / An Agent in 100 Lines of Lisp",
-          "url": "https://thebeach.dev/posts/lisp-agent",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T03:36:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8924,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T03:36:08Z",
-      "latest_at": "2026-07-12T03:43:08.376000Z",
-      "primary_item": {
-        "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
-        "title": "用100行Lisp编写的智能体",
-        "url": "https://thebeach.dev/posts/lisp-agent",
-        "source": "thebeach.dev",
-        "source_name": "Buzzing"
       }
     }
   ]
