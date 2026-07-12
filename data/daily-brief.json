@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T19:04:03.548360Z",
+  "generated_at": "2026-07-12T20:12:53.883240Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7859,
+        "recency": 0.773,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -138,15 +138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.991,
+        "recency": 0.9747,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -199,15 +199,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9465,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -260,15 +260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9452,
+        "recency": 0.9297,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -340,15 +340,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.868,
+        "recency": 0.8537,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -421,15 +421,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7778,
+        "recency": 0.765,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -502,15 +502,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7675,
+        "recency": 0.7549,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -601,15 +601,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7884,
-      "importance": 0.7884,
-      "importance_score": 0.7884,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8043,
+        "recency": 0.7911,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -663,15 +663,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7948,
+        "recency": 0.7817,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -742,15 +742,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7828,
+      "importance": 0.7828,
+      "importance_score": 0.7828,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9274,
+        "recency": 0.9122,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -823,15 +823,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7886,
+        "recency": 0.7757,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -974,15 +974,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6829,
-      "importance": 0.6829,
-      "importance_score": 0.6829,
+      "score": 0.68,
+      "importance": 0.68,
+      "importance_score": 0.68,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 0.9839,
+        "recency": 0.9677,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1053,15 +1053,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7524,
+        "recency": 0.74,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1188,15 +1188,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6204,
-      "importance": 0.6204,
-      "importance_score": 0.6204,
+      "score": 0.6174,
+      "importance": 0.6174,
+      "importance_score": 0.6174,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9976,
+        "recency": 0.9812,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1211,6 +1211,104 @@
         "url": "https://news.ycombinator.com/item?id=48881043",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_065047e21dc3",
+      "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "primary_url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "source": "systima.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bb7376bdffa1cee9104b1e400b6a174d7f3868a4",
+          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "systima.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T19:27:07.004000Z"
+        },
+        {
+          "id": "8ee628acb1b0e26a28cf1e8423e778ce9d6b6b1e",
+          "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://news.ycombinator.com/item?id=48883275",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T18:54:06.908000Z"
+        },
+        {
+          "id": "5789ff39e34331991ecd13c5c4bf5ce1d419069e",
+          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个 / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T18:25:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "systima.ai"
+      ],
+      "items": [
+        {
+          "id": "bb7376bdffa1cee9104b1e400b6a174d7f3868a4",
+          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "systima.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T19:27:07.004000Z"
+        },
+        {
+          "id": "8ee628acb1b0e26a28cf1e8423e778ce9d6b6b1e",
+          "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://news.ycombinator.com/item?id=48883275",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T18:54:06.908000Z"
+        },
+        {
+          "id": "5789ff39e34331991ecd13c5c4bf5ce1d419069e",
+          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个 / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T18:25:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.989,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T18:25:51Z",
+      "latest_at": "2026-07-12T19:27:07.004000Z",
+      "primary_item": {
+        "id": "bb7376bdffa1cee9104b1e400b6a174d7f3868a4",
+        "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+        "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+        "source": "systima.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1266,15 +1364,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9705,
+        "recency": 0.9545,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1345,15 +1443,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9385,
+        "recency": 0.923,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1424,15 +1522,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.534,
-      "importance": 0.534,
-      "importance_score": 0.534,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9346,
+        "recency": 0.9193,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1467,18 +1565,18 @@
           "published_at": "2026-07-12T13:35:15.303000Z"
         },
         {
-          "id": "89fb1b44dc3744f1e0f801a30f2663400c1e74c9",
+          "id": "e59b8609f0107ee4f1e1fb80cbaa732345d32758",
           "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
           "url": "https://github.com/Roee-Tsur/mcp-spec-check",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-12T13:21:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "github.com"
       ],
       "items": [
@@ -1492,26 +1590,26 @@
           "published_at": "2026-07-12T13:35:15.303000Z"
         },
         {
-          "id": "89fb1b44dc3744f1e0f801a30f2663400c1e74c9",
+          "id": "e59b8609f0107ee4f1e1fb80cbaa732345d32758",
           "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
           "url": "https://github.com/Roee-Tsur/mcp-spec-check",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-12T13:21:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9239,
+        "recency": 0.9087,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1529,161 +1627,101 @@
       }
     },
     {
-      "story_id": "story_56cbb52c8dba",
-      "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-      "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-      "source": "36氪 (36Kr)",
-      "source_name": "Info Flow",
+      "story_id": "story_afc80c46cea0",
+      "title": "别再让我去问LLM了",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+      "primary_url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+      "source": "blog.yaelwrites.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
-          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T11:37:33Z"
+          "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
+          "title": "别再让我去问LLM了",
+          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+          "source": "blog.yaelwrites.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T23:59:09.075000Z"
         },
         {
-          "id": "3a40211363b4e97f550cc53ceba9c73101f9536a",
-          "title": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
-          "url": "https://www.gelonghui.com/live/2548422",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "36ea69c2b9d8f7394a0e114f6978e5543014760c",
+          "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
+          "url": "https://news.ycombinator.com/item?id=48876441",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T23:41:34.370000Z"
+        },
+        {
+          "id": "7ad6a87cd024d1f73c270622a277ed46ea3f5091",
+          "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
+          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T22:28:48Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
+        "Hacker News · 24h最热",
+        "blog.yaelwrites.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
-          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T11:37:33Z"
+          "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
+          "title": "别再让我去问LLM了",
+          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+          "source": "blog.yaelwrites.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T23:59:09.075000Z"
         },
         {
-          "id": "3a40211363b4e97f550cc53ceba9c73101f9536a",
-          "title": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
-          "url": "https://www.gelonghui.com/live/2548422",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "36ea69c2b9d8f7394a0e114f6978e5543014760c",
+          "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
+          "url": "https://news.ycombinator.com/item?id=48876441",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T23:41:34.370000Z"
+        },
+        {
+          "id": "7ad6a87cd024d1f73c270622a277ed46ea3f5091",
+          "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
+          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T22:28:48Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8981,
-        "story_heat": 0.25
+        "recency": 0.7467,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T10:06:14.877232Z",
-      "latest_at": "2026-07-12T11:37:33Z",
+      "earliest_at": "2026-07-11T22:28:48Z",
+      "latest_at": "2026-07-11T23:59:09.075000Z",
       "primary_item": {
-        "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
-        "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-        "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-        "source": "36氪 (36Kr)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_e2469c92ba3c",
-      "title": "Nutlope / 标志 / Nutlope /      hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "primary_url": "https://github.com/Nutlope/hallmark",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-          "title": "Nutlope / 标志 / Nutlope /      hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T11:36:44.232000Z"
-        },
-        {
-          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
-          "title": "Nutlope / 标志 / Nutlope / hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-          "title": "Nutlope / 标志 / Nutlope /      hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T11:36:44.232000Z"
-        },
-        {
-          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
-          "title": "Nutlope / 标志 / Nutlope / hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8979,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T11:36:06.981553Z",
-      "latest_at": "2026-07-12T11:36:44.232000Z",
-      "primary_item": {
-        "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-        "title": "Nutlope / 标志 / Nutlope /      hallmark",
-        "url": "https://github.com/Nutlope/hallmark",
-        "source": "github",
-        "source_name": "NewsNow"
+        "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
+        "title": "别再让我去问LLM了",
+        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+        "source": "blog.yaelwrites.com",
+        "source_name": "Buzzing"
       }
     }
   ]
