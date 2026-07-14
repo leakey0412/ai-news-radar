@@ -1,24 +1,143 @@
 {
-  "generated_at": "2026-07-14T17:11:41.049289Z",
+  "generated_at": "2026-07-14T20:07:19.071057Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_9048b47cd9ef",
-      "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-      "primary_url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+      "story_id": "story_449874491314",
+      "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "primary_url": "https://prismml.com/news/bonsai-27b",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cf4a7f54fa86a332e7d7e5f9623df0d94e681b32",
+          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+          "url": "https://prismml.com/news/bonsai-27b",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T19:51:19.560000Z"
+        },
+        {
+          "id": "63510c526bb9f9d7a05ece0b22b7cb9ab8c3522b",
+          "title": "Bonsai 27B（1 位 LLM）：第一个在手机上运行的 27B 级模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+          "url": "https://news.ycombinator.com/item?id=48910545",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-14T19:40:13.818000Z"
+        },
+        {
+          "id": "4198570cfbeaec1c6e0cba89ffcc05d3bf6e8f46",
+          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+          "url": "https://prismml.com/news/bonsai-27b",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-14T17:50:48Z"
+        },
+        {
+          "id": "0538b3877f0fcb65372fd03929a5d4429e265c67",
+          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型 / Bonsai 27B: A 27B-Class Model that runs on a phone",
+          "url": "https://prismml.com/news/bonsai-27b",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-14T17:50:48Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cf4a7f54fa86a332e7d7e5f9623df0d94e681b32",
+          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+          "url": "https://prismml.com/news/bonsai-27b",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T19:51:19.560000Z"
+        },
+        {
+          "id": "63510c526bb9f9d7a05ece0b22b7cb9ab8c3522b",
+          "title": "Bonsai 27B（1 位 LLM）：第一个在手机上运行的 27B 级模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+          "url": "https://news.ycombinator.com/item?id=48910545",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-14T19:40:13.818000Z"
+        },
+        {
+          "id": "4198570cfbeaec1c6e0cba89ffcc05d3bf6e8f46",
+          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+          "url": "https://prismml.com/news/bonsai-27b",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-14T17:50:48Z"
+        },
+        {
+          "id": "0538b3877f0fcb65372fd03929a5d4429e265c67",
+          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型 / Bonsai 27B: A 27B-Class Model that runs on a phone",
+          "url": "https://prismml.com/news/bonsai-27b",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-14T17:50:48Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8539,
+      "importance": 0.8539,
+      "importance_score": 0.8539,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9962,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T17:50:48Z",
+      "latest_at": "2026-07-14T19:51:19.560000Z",
+      "primary_item": {
+        "id": "cf4a7f54fa86a332e7d7e5f9623df0d94e681b32",
+        "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+        "url": "https://prismml.com/news/bonsai-27b",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_77d490ebaf47",
+      "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
+      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+      "primary_url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-          "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
+          "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
+          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T16:42:59Z"
+          "published_at": "2026-07-14T19:12:48Z"
         }
       ],
       "source_count": 1,
@@ -27,26 +146,26 @@
       ],
       "items": [
         {
-          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-          "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+          "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
+          "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
+          "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T16:42:59Z"
+          "published_at": "2026-07-14T19:12:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8428,
-      "importance": 0.8428,
-      "importance_score": 0.8428,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9931,
+        "recency": 0.987,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,12 +174,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T16:42:59Z",
-      "latest_at": "2026-07-14T16:42:59Z",
+      "earliest_at": "2026-07-14T19:12:48Z",
+      "latest_at": "2026-07-14T19:12:48Z",
       "primary_item": {
-        "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-        "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+        "id": "2d78f5ee5a76aaab8d2edea72b29b0a49b928af6",
+        "title": "代码扫描显示对拉取请求的人工智能安全检测 / Code scanning shows AI security detections on pull requests",
+        "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -100,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8409,
-      "importance": 0.8409,
-      "importance_score": 0.8409,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9829,
+        "recency": 0.9422,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9013,
+        "recency": 0.864,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8206,
+      "importance": 0.8206,
+      "importance_score": 0.8206,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7801,
+        "recency": 0.7478,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,6 +368,310 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9048b47cd9ef",
+      "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+      "primary_url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+          "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
+          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T16:42:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+          "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
+          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T16:42:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.952,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T16:42:59Z",
+      "latest_at": "2026-07-14T16:42:59Z",
+      "primary_item": {
+        "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+        "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
+        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0e52013f6280",
+      "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+      "url": "https://www.ithome.com/0/976/538.htm",
+      "primary_url": "https://www.ithome.com/0/976/538.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d175968ce830a107641f2faabd1b491517898122",
+          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+          "url": "https://www.ithome.com/0/976/538.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T07:46:46Z"
+        },
+        {
+          "id": "96ff95b783feeb6506bab7084d4b58bfc8644e40",
+          "title": "内置「任意门」，高德发布通用世界模型工坊 ABot-WorldStudio",
+          "url": "https://www.ithome.com/0/976/538.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4e1ada3388bdcc3648727f7d02edce2a7c592ba6",
+          "title": "高德发布通用世界模型工坊 ABot-World Studio",
+          "url": "https://36kr.com/newsflashes/3894929146149893?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "IT之家（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d175968ce830a107641f2faabd1b491517898122",
+          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+          "url": "https://www.ithome.com/0/976/538.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T07:46:46Z"
+        },
+        {
+          "id": "96ff95b783feeb6506bab7084d4b58bfc8644e40",
+          "title": "内置「任意门」，高德发布通用世界模型工坊 ABot-WorldStudio",
+          "url": "https://www.ithome.com/0/976/538.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4e1ada3388bdcc3648727f7d02edce2a7c592ba6",
+          "title": "高德发布通用世界模型工坊 ABot-World Studio",
+          "url": "https://36kr.com/newsflashes/3894929146149893?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8367,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T03:53:48.329996Z",
+      "latest_at": "2026-07-14T08:34:20.866151Z",
+      "primary_item": {
+        "id": "d175968ce830a107641f2faabd1b491517898122",
+        "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+        "url": "https://www.ithome.com/0/976/538.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cca00ce68781",
+      "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "primary_url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+          "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+          "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7478,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T00:00:00Z",
+      "latest_at": "2026-07-14T00:00:00Z",
+      "primary_item": {
+        "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+        "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b98c65f859f0",
+      "title": "Google 因 AI 训练再遭出版商集体诉讼",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+      "primary_url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "29280d50c21ea6130e6110d918142a03656a01b8",
+          "title": "Google 因 AI 训练再遭出版商集体诉讼",
+          "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T18:33:31Z"
+        },
+        {
+          "id": "c3d992291ef6ebc6ba68272513e267b5d4febc7f",
+          "title": "Google 因 AI 训练再遭出版商集体诉讼 / Google faces another AI training lawsuit from major publishers",
+          "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-14T18:33:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "29280d50c21ea6130e6110d918142a03656a01b8",
+          "title": "Google 因 AI 训练再遭出版商集体诉讼",
+          "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T18:33:31Z"
+        },
+        {
+          "id": "c3d992291ef6ebc6ba68272513e267b5d4febc7f",
+          "title": "Google 因 AI 训练再遭出版商集体诉讼 / Google faces another AI training lawsuit from major publishers",
+          "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-14T18:33:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9777,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T18:33:31Z",
+      "latest_at": "2026-07-14T18:33:31Z",
+      "primary_item": {
+        "id": "29280d50c21ea6130e6110d918142a03656a01b8",
+        "title": "Google 因 AI 训练再遭出版商集体诉讼",
+        "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -286,15 +709,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9399,
+        "recency": 0.901,
         "story_heat": 0.0
       },
       "category": "official",
@@ -386,15 +809,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9922,
+        "recency": 0.9512,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -410,248 +833,6 @@
         "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
         "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0e52013f6280",
-      "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-      "url": "https://www.ithome.com/0/976/538.htm",
-      "primary_url": "https://www.ithome.com/0/976/538.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d175968ce830a107641f2faabd1b491517898122",
-          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T07:46:46Z"
-        },
-        {
-          "id": "96ff95b783feeb6506bab7084d4b58bfc8644e40",
-          "title": "内置「任意门」，高德发布通用世界模型工坊 ABot-WorldStudio",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4e1ada3388bdcc3648727f7d02edce2a7c592ba6",
-          "title": "高德发布通用世界模型工坊 ABot-World Studio",
-          "url": "https://36kr.com/newsflashes/3894929146149893?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "IT之家（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d175968ce830a107641f2faabd1b491517898122",
-          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T07:46:46Z"
-        },
-        {
-          "id": "96ff95b783feeb6506bab7084d4b58bfc8644e40",
-          "title": "内置「任意门」，高德发布通用世界模型工坊 ABot-WorldStudio",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4e1ada3388bdcc3648727f7d02edce2a7c592ba6",
-          "title": "高德发布通用世界模型工坊 ABot-World Studio",
-          "url": "https://36kr.com/newsflashes/3894929146149893?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7947,
-      "importance": 0.7947,
-      "importance_score": 0.7947,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8729,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T03:53:48.329996Z",
-      "latest_at": "2026-07-14T08:34:20.866151Z",
-      "primary_item": {
-        "id": "d175968ce830a107641f2faabd1b491517898122",
-        "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-        "url": "https://www.ithome.com/0/976/538.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cca00ce68781",
-      "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "primary_url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
-          "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
-          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
-          "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
-          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8204,
-      "importance": 0.8204,
-      "importance_score": 0.8204,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7801,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T00:00:00Z",
-      "latest_at": "2026-07-14T00:00:00Z",
-      "primary_item": {
-        "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
-        "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
-        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a4b29ff806d7",
-      "title": "纽约州暂停所有新建大型数据中心项目",
-      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
-      "primary_url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a32b1d644b136455a25a1266059f71b15538ff6b",
-          "title": "纽约州暂停所有新建大型数据中心项目",
-          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T15:17:59Z"
-        },
-        {
-          "id": "0270c884a779ec63062be205b14ce881b4f6415e",
-          "title": "纽约州暂停所有新建大型数据中心项目 / New York State halts construction of all new data centers",
-          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-14T15:17:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a32b1d644b136455a25a1266059f71b15538ff6b",
-          "title": "纽约州暂停所有新建大型数据中心项目",
-          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T15:17:59Z"
-        },
-        {
-          "id": "0270c884a779ec63062be205b14ce881b4f6415e",
-          "title": "纽约州暂停所有新建大型数据中心项目 / New York State halts construction of all new data centers",
-          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-14T15:17:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.973,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T15:17:59Z",
-      "latest_at": "2026-07-14T15:17:59Z",
-      "primary_item": {
-        "id": "a32b1d644b136455a25a1266059f71b15538ff6b",
-        "title": "纽约州暂停所有新建大型数据中心项目",
-        "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
-        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -709,15 +890,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9104,
+        "recency": 0.8727,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -771,15 +952,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8204,
-      "importance": 0.8204,
-      "importance_score": 0.8204,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7801,
+        "recency": 0.7478,
         "story_heat": 0.0
       },
       "category": "official",
@@ -799,182 +980,63 @@
       }
     },
     {
-      "story_id": "story_f8d858f9e2c8",
-      "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-      "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-      "primary_url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_52ba1656d62a",
+      "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+      "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+      "primary_url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+      "source": "公众号：卡尔的AI沃茨",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "64bb8249b67f7adaf83a269190dbec049ace5350",
-          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
+          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+          "source": "公众号：卡尔的AI沃茨",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T17:47:39Z"
-        },
-        {
-          "id": "ace07ab04e2c3e8f818dd314267b0cb4de248f3f",
-          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤 / OpenAI's new prompting guide tells users to stop overthinking and start with the result",
-          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T17:47:39Z"
+          "published_at": "2026-07-14T09:04:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
+        "公众号：卡尔的AI沃茨"
       ],
       "items": [
         {
-          "id": "64bb8249b67f7adaf83a269190dbec049ace5350",
-          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
+          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+          "source": "公众号：卡尔的AI沃茨",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T17:47:39Z"
-        },
-        {
-          "id": "ace07ab04e2c3e8f818dd314267b0cb4de248f3f",
-          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤 / OpenAI's new prompting guide tells users to stop overthinking and start with the result",
-          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T17:47:39Z"
+          "published_at": "2026-07-14T09:04:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7133,
-        "story_heat": 0.25
+        "recency": 0.8524,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T17:47:39Z",
-      "latest_at": "2026-07-13T17:47:39Z",
+      "earliest_at": "2026-07-14T09:04:00Z",
+      "latest_at": "2026-07-14T09:04:00Z",
       "primary_item": {
-        "id": "64bb8249b67f7adaf83a269190dbec049ace5350",
-        "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-        "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ee8739307658",
-      "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-      "url": "https://playcode.io/blog/real-price-of-frontier-models",
-      "primary_url": "https://playcode.io/blog/real-price-of-frontier-models",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T21:50:30.963000Z"
-        },
-        {
-          "id": "3689d75285319512be005960484067a1a1c50562",
-          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        },
-        {
-          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
-          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models. Tokens * Price, right?",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T21:50:30.963000Z"
-        },
-        {
-          "id": "3689d75285319512be005960484067a1a1c50562",
-          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        },
-        {
-          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
-          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models. Tokens * Price, right?",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7562,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T18:32:27Z",
-      "latest_at": "2026-07-13T21:50:30.963000Z",
-      "primary_item": {
-        "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
-        "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-        "url": "https://playcode.io/blog/real-price-of-frontier-models",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
+        "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+        "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+        "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
       }
     },
@@ -1013,21 +1075,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9729,
+        "recency": 0.9327,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T15:17:40Z",
       "latest_at": "2026-07-14T15:17:40Z",
@@ -1040,63 +1101,83 @@
       }
     },
     {
-      "story_id": "story_52ba1656d62a",
-      "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-      "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-      "primary_url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-      "source": "公众号：卡尔的AI沃茨",
+      "story_id": "story_a4b29ff806d7",
+      "title": "纽约州暂停所有新建大型数据中心项目",
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+      "primary_url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
-          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-          "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-          "source": "公众号：卡尔的AI沃茨",
+          "id": "a32b1d644b136455a25a1266059f71b15538ff6b",
+          "title": "纽约州暂停所有新建大型数据中心项目",
+          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T09:04:00Z"
+          "published_at": "2026-07-14T15:17:59Z"
+        },
+        {
+          "id": "0270c884a779ec63062be205b14ce881b4f6415e",
+          "title": "纽约州暂停所有新建大型数据中心项目 / New York State halts construction of all new data centers",
+          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-14T15:17:59Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "公众号：卡尔的AI沃茨"
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
-          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-          "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-          "source": "公众号：卡尔的AI沃茨",
+          "id": "a32b1d644b136455a25a1266059f71b15538ff6b",
+          "title": "纽约州暂停所有新建大型数据中心项目",
+          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T09:04:00Z"
+          "published_at": "2026-07-14T15:17:59Z"
+        },
+        {
+          "id": "0270c884a779ec63062be205b14ce881b4f6415e",
+          "title": "纽约州暂停所有新建大型数据中心项目 / New York State halts construction of all new data centers",
+          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-14T15:17:59Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8893,
-        "story_heat": 0.0
+        "recency": 0.9327,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T09:04:00Z",
-      "latest_at": "2026-07-14T09:04:00Z",
+      "earliest_at": "2026-07-14T15:17:59Z",
+      "latest_at": "2026-07-14T15:17:59Z",
       "primary_item": {
-        "id": "10cbb63befa311b8acc8c4d0e7bf06954e14403e",
-        "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
-        "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
-        "source": "公众号：卡尔的AI沃茨",
+        "id": "a32b1d644b136455a25a1266059f71b15538ff6b",
+        "title": "纽约州暂停所有新建大型数据中心项目",
+        "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1135,21 +1216,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8876,
+        "recency": 0.8508,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T08:56:07Z",
       "latest_at": "2026-07-14T08:56:07Z",
@@ -1196,15 +1276,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9714,
+        "recency": 0.9312,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1219,68 +1299,6 @@
         "url": "https://www.anthropic.com/news/claude-for-teachers",
         "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d9b4cfc04bcb",
-      "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7763,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T23:39:22Z",
-      "latest_at": "2026-07-13T23:39:22Z",
-      "primary_item": {
-        "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-        "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1337,15 +1355,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8829,
+        "recency": 0.8464,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1365,83 +1383,62 @@
       }
     },
     {
-      "story_id": "story_ecbc76a36f0e",
-      "title": "苹果诉OpenAI窃取商业机密：指控涉及400多名前员工及\"LOL\"消息",
-      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai",
-      "primary_url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_a0366cc85c2f",
+      "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+      "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+      "primary_url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "66350b157036659d1b9ca2d1f9ad318713205903",
-          "title": "苹果诉OpenAI窃取商业机密：指控涉及400多名前员工及\"LOL\"消息",
-          "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "b5851a195823881985167c1306ffc765d134db35",
+          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T18:22:10Z"
-        },
-        {
-          "id": "b0bc6e1ee5606a8eac0d28685e939e26464473e1",
-          "title": "苹果诉OpenAI窃取商业机密：指控涉及400多名前员工及\"LOL\"消息 / The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-          "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T18:22:10Z"
+          "published_at": "2026-07-14T00:38:32Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "X：商汤 SenseTime (@SenseTime_AI)"
       ],
       "items": [
         {
-          "id": "66350b157036659d1b9ca2d1f9ad318713205903",
-          "title": "苹果诉OpenAI窃取商业机密：指控涉及400多名前员工及\"LOL\"消息",
-          "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "b5851a195823881985167c1306ffc765d134db35",
+          "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+          "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T18:22:10Z"
-        },
-        {
-          "id": "b0bc6e1ee5606a8eac0d28685e939e26464473e1",
-          "title": "苹果诉OpenAI窃取商业机密：指控涉及400多名前员工及\"LOL\"消息 / The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-          "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T18:22:10Z"
+          "published_at": "2026-07-14T00:38:32Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7192,
-        "story_heat": 0.25
+        "recency": 0.7548,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T18:22:10Z",
-      "latest_at": "2026-07-13T18:22:10Z",
+      "earliest_at": "2026-07-14T00:38:32Z",
+      "latest_at": "2026-07-14T00:38:32Z",
       "primary_item": {
-        "id": "66350b157036659d1b9ca2d1f9ad318713205903",
-        "title": "苹果诉OpenAI窃取商业机密：指控涉及400多名前员工及\"LOL\"消息",
-        "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "b5851a195823881985167c1306ffc765d134db35",
+        "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+        "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+        "source": "X：商汤 SenseTime (@SenseTime_AI)",
         "source_name": "AI HOT"
       }
     }
