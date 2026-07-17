@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T14:29:35.293292Z",
+  "generated_at": "2026-07-17T15:58:50.755165Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8657,
-      "importance": 0.8657,
-      "importance_score": 0.8657,
+      "score": 0.8621,
+      "importance": 0.8621,
+      "importance_score": 0.8621,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9372,
+        "recency": 0.9173,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,6 +82,68 @@
         "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值 / A scorecard for the AI age",
         "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a0bbc2c6e6f2",
+      "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "primary_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
+          "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T15:57:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
+          "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T15:57:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.86,
+      "importance_score": 0.86,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9998,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T15:57:54Z",
+      "latest_at": "2026-07-17T15:57:54Z",
+      "primary_item": {
+        "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
+        "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+        "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -139,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7227,
+        "recency": 0.7073,
         "story_heat": 0.25
       },
       "category": "official",
@@ -164,68 +226,6 @@
         "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
         "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ff8c14b3821e",
-      "title": "NVIDIA Nemotron 3 Embed 在 RTEB 上总体排名第一，推动代理检索 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
-          "title": "NVIDIA Nemotron 3 Embed 在 RTEB 上总体排名第一，推动代理检索 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:01:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
-          "title": "NVIDIA Nemotron 3 Embed 在 RTEB 上总体排名第一，推动代理检索 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:01:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7229,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T16:01:21Z",
-      "latest_at": "2026-07-16T16:01:21Z",
-      "primary_item": {
-        "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
-        "title": "NVIDIA Nemotron 3 Embed 在 RTEB 上总体排名第一，推动代理检索 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -264,15 +264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.7972,
+      "importance": 0.7972,
+      "importance_score": 0.7972,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.756,
+        "recency": 0.7399,
         "story_heat": 0.0
       },
       "category": "official",
@@ -292,84 +292,65 @@
       }
     },
     {
-      "story_id": "story_36cef5117305",
-      "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-      "url": "https://schema-harness.github.io",
-      "primary_url": "https://schema-harness.github.io",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_ff8c14b3821e",
+      "title": "NVIDIA Nemotron 3 Embed 在 RTEB 上总体排名第一，推动代理检索 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
-          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "url": "https://schema-harness.github.io",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T08:41:53.383000Z"
-        },
-        {
-          "id": "dc841a26f0599ae54afdc50afff21a9e26f85602",
-          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩 / Schema Harness Achieves ~99% on Arc‑AGI‑3 Public",
-          "url": "https://schema-harness.github.io",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-16T15:29:12Z"
+          "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
+          "title": "NVIDIA Nemotron 3 Embed 在 RTEB 上总体排名第一，推动代理检索 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:01:21Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
-          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "url": "https://schema-harness.github.io",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T08:41:53.383000Z"
-        },
-        {
-          "id": "dc841a26f0599ae54afdc50afff21a9e26f85602",
-          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩 / Schema Harness Achieves ~99% on Arc‑AGI‑3 Public",
-          "url": "https://schema-harness.github.io",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-16T15:29:12Z"
+          "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
+          "title": "NVIDIA Nemotron 3 Embed 在 RTEB 上总体排名第一，推动代理检索 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:01:21Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7962,
-      "importance": 0.7962,
-      "importance_score": 0.7962,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9197,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7075,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T15:29:12Z",
-      "latest_at": "2026-07-17T08:41:53.383000Z",
+      "earliest_at": "2026-07-16T16:01:21Z",
+      "latest_at": "2026-07-16T16:01:21Z",
       "primary_item": {
-        "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
-        "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-        "url": "https://schema-harness.github.io",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
+        "title": "NVIDIA Nemotron 3 Embed 在 RTEB 上总体排名第一，推动代理检索 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -426,15 +407,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7839,
-      "importance": 0.7839,
-      "importance_score": 0.7839,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9518,
+        "recency": 0.9316,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -488,15 +469,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7719,
+      "importance": 0.7719,
+      "importance_score": 0.7719,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9949,
+        "recency": 0.9738,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -549,15 +530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7227,
+        "recency": 0.7073,
         "story_heat": 0.0
       },
       "category": "official",
@@ -611,15 +592,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7705,
+        "recency": 0.7541,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -634,6 +615,67 @@
         "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
         "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
         "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_36cef5117305",
+      "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+      "url": "https://schema-harness.github.io",
+      "primary_url": "https://schema-harness.github.io",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
+          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+          "url": "https://schema-harness.github.io",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T08:41:53.383000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
+          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+          "url": "https://schema-harness.github.io",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T08:41:53.383000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9002,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T08:41:53.383000Z",
+      "latest_at": "2026-07-17T08:41:53.383000Z",
+      "primary_item": {
+        "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
+        "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+        "url": "https://schema-harness.github.io",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -672,15 +714,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7549,
+        "recency": 0.7388,
         "story_heat": 0.0
       },
       "category": "official",
@@ -734,15 +776,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7842,
+        "recency": 0.7676,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -795,15 +837,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7227,
+        "recency": 0.7073,
         "story_heat": 0.0
       },
       "category": "official",
@@ -857,15 +899,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9531,
+        "recency": 0.9328,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -918,15 +960,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.933,
+        "recency": 0.9132,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -979,15 +1021,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8714,
+        "recency": 0.8529,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1059,15 +1101,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.7756,
+      "importance": 0.7756,
+      "importance_score": 0.7756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9251,
+        "recency": 0.9055,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1140,15 +1182,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7298,
+        "recency": 0.7143,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1201,15 +1243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7451,
+        "recency": 0.7292,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1282,15 +1324,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7389,
+        "recency": 0.7232,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1305,86 +1347,6 @@
         "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
         "url": "https://claude.com/blog/ai-code-migration",
         "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cf0f39086348",
-      "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-      "url": "https://www.ithome.com/0/977/793.htm",
-      "primary_url": "https://www.ithome.com/0/977/793.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
-          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "url": "https://www.ithome.com/0/977/793.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T14:38:08Z"
-        },
-        {
-          "id": "a551944f913ff2a5fb7fed74d92a1a47fd770242",
-          "title": "世界人工智能合作组织协定签署仪式举行，总部设中国上海",
-          "url": "https://www.ithome.com/0/977/793.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-16T14:38:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
-          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "url": "https://www.ithome.com/0/977/793.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T14:38:08Z"
-        },
-        {
-          "id": "a551944f913ff2a5fb7fed74d92a1a47fd770242",
-          "title": "世界人工智能合作组织协定签署仪式举行，总部设中国上海",
-          "url": "https://www.ithome.com/0/977/793.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-16T14:38:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7086,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T14:38:08Z",
-      "latest_at": "2026-07-16T14:38:08Z",
-      "primary_item": {
-        "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
-        "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-        "url": "https://www.ithome.com/0/977/793.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     }
