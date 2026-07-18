@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T14:34:02.689340Z",
+  "generated_at": "2026-07-18T15:51:59.747265Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8349,
-      "importance": 0.8349,
-      "importance_score": 0.8349,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7215,
+        "recency": 0.7081,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8103,
+        "recency": 0.7952,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7626,
+        "recency": 0.7484,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8112,
+      "importance": 0.8112,
+      "importance_score": 0.8112,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7882,
+        "recency": 0.7736,
         "story_heat": 0.0
       },
       "category": "official",
@@ -325,15 +325,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8683,
+        "recency": 0.8522,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -406,15 +406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7397,
+        "recency": 0.726,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -468,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8112,
+      "importance": 0.8112,
+      "importance_score": 0.8112,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7882,
+        "recency": 0.7736,
         "story_heat": 0.0
       },
       "category": "official",
@@ -530,15 +530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7392,
+        "recency": 0.7255,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -590,15 +590,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7278,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -650,15 +650,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7344,
+        "recency": 0.7207,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -710,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7775,
+        "recency": 0.7631,
         "story_heat": 0.0
       },
       "category": "official",
@@ -844,15 +844,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.649,
-      "importance": 0.649,
-      "importance_score": 0.649,
+      "score": 0.6465,
+      "importance": 0.6465,
+      "importance_score": 0.6465,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.749,
+        "recency": 0.7351,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -961,15 +961,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5897,
-      "importance": 0.5897,
-      "importance_score": 0.5897,
+      "score": 0.5864,
+      "importance": 0.5864,
+      "importance_score": 0.5864,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9659,
+        "recency": 0.948,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -983,6 +983,104 @@
         "title": "为什么人工智能公司的标志看起来像肛门？",
         "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
         "source": "velvetshark.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_737581f31a19",
+      "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+      "primary_url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+      "source": "charlesazam.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T15:05:23.818000Z"
+        },
+        {
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:05:21.878000Z"
+        },
+        {
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:00:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "charlesazam.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T15:05:23.818000Z"
+        },
+        {
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:05:21.878000Z"
+        },
+        {
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:00:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9888,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:00:29Z",
+      "latest_at": "2026-07-18T15:05:23.818000Z",
+      "primary_item": {
+        "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+        "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+        "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+        "source": "charlesazam.com",
         "source_name": "Buzzing"
       }
     },
@@ -1059,15 +1157,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5675,
+      "importance": 0.5675,
+      "importance_score": 0.5675,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9816,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1157,15 +1255,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.568,
-      "importance": 0.568,
-      "importance_score": 0.568,
+      "score": 0.5647,
+      "importance": 0.5647,
+      "importance_score": 0.5647,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9845,
+        "recency": 0.9662,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1236,15 +1334,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9808,
+        "recency": 0.9625,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1315,15 +1413,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
+      "score": 0.5384,
+      "importance": 0.5384,
+      "importance_score": 0.5384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.977,
+        "recency": 0.9588,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1337,6 +1435,85 @@
         "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
         "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
         "source": "www.axios.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c57dd1510d75",
+      "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量",
+      "url": "https://news.ycombinator.com/item?id=48957109",
+      "primary_url": "https://news.ycombinator.com/item?id=48957109",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5c6bd052dfc40ac02d5c32eab0d69d1538d8cdaa",
+          "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量",
+          "url": "https://news.ycombinator.com/item?id=48957109",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T11:53:41.501000Z"
+        },
+        {
+          "id": "071f6db00d17f60cff71a970366b4d15458b6b29",
+          "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量 / Claude Code team should try macro so users can complete 3x as many tasks",
+          "url": "https://news.ycombinator.com/item?id=48957109",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-18T11:37:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "5c6bd052dfc40ac02d5c32eab0d69d1538d8cdaa",
+          "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量",
+          "url": "https://news.ycombinator.com/item?id=48957109",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T11:53:41.501000Z"
+        },
+        {
+          "id": "071f6db00d17f60cff71a970366b4d15458b6b29",
+          "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量 / Claude Code team should try macro so users can complete 3x as many tasks",
+          "url": "https://news.ycombinator.com/item?id=48957109",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-18T11:37:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9443,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:37:31Z",
+      "latest_at": "2026-07-18T11:53:41.501000Z",
+      "primary_item": {
+        "id": "5c6bd052dfc40ac02d5c32eab0d69d1538d8cdaa",
+        "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量",
+        "url": "https://news.ycombinator.com/item?id=48957109",
+        "source": "news.ycombinator.com",
         "source_name": "Buzzing"
       }
     },
@@ -1394,15 +1571,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9625,
+        "recency": 0.9446,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1416,164 +1593,6 @@
         "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
         "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_c57dd1510d75",
-      "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量",
-      "url": "https://news.ycombinator.com/item?id=48957109",
-      "primary_url": "https://news.ycombinator.com/item?id=48957109",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5c6bd052dfc40ac02d5c32eab0d69d1538d8cdaa",
-          "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量",
-          "url": "https://news.ycombinator.com/item?id=48957109",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T11:53:41.501000Z"
-        },
-        {
-          "id": "071f6db00d17f60cff71a970366b4d15458b6b29",
-          "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量 / Claude Code team should try macro so users can complete 3x as many tasks",
-          "url": "https://news.ycombinator.com/item?id=48957109",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-18T11:37:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "5c6bd052dfc40ac02d5c32eab0d69d1538d8cdaa",
-          "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量",
-          "url": "https://news.ycombinator.com/item?id=48957109",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T11:53:41.501000Z"
-        },
-        {
-          "id": "071f6db00d17f60cff71a970366b4d15458b6b29",
-          "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量 / Claude Code team should try macro so users can complete 3x as many tasks",
-          "url": "https://news.ycombinator.com/item?id=48957109",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-18T11:37:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9621,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:37:31Z",
-      "latest_at": "2026-07-18T11:53:41.501000Z",
-      "primary_item": {
-        "id": "5c6bd052dfc40ac02d5c32eab0d69d1538d8cdaa",
-        "title": "Claude Code 团队应该尝试使用宏，这样用户就能完成三倍的任务量",
-        "url": "https://news.ycombinator.com/item?id=48957109",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_334727c4b329",
-      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-      "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T09:30:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T09:30:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5367,
-      "importance": 0.5367,
-      "importance_score": 0.5367,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9495,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T09:30:23Z",
-      "latest_at": "2026-07-18T10:58:33.119443Z",
-      "primary_item": {
-        "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-        "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-        "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     }
