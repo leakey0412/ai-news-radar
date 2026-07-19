@@ -1,85 +1,123 @@
 {
-  "generated_at": "2026-07-19T09:25:47.159253Z",
+  "generated_at": "2026-07-19T13:06:58.151754Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_45da52ae09b4",
-      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "primary_url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "story_id": "story_6cc9999f1d8a",
+      "title": "AI 热潮正在瓦解全球决策机制",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
+      "primary_url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
-          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
-          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "id": "3736a5f0ce044e2edc3fbdd4579920d0af26db5e",
+          "title": "AI 热潮正在瓦解全球决策机制",
+          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-19T02:49:15.657000Z"
+          "published_at": "2026-07-19T05:13:24.607000Z"
         },
         {
-          "id": "a117b7230802eba247de3db469d97a734333ef3d",
-          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
-          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "id": "f4cbd88b57e45ea9544064229d70af2128aa85e5",
+          "title": "人工智能热潮正在瓦解全球决策机制",
+          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
+          "source": "ludic.mataroa.blog",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T05:13:24.607000Z"
+        },
+        {
+          "id": "f34693511d98e6b9edc2e76600ec21caba678fc7",
+          "title": "AI 热潮正在瓦解全球决策机制 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T01:29:19Z"
+        },
+        {
+          "id": "5ea707c17ea8124a9ae0d146fa38cecac5253845",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-19T00:38:26Z"
+          "published_at": "2026-07-18T22:10:54Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
+        "Hacker News",
         "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "ludic.mataroa.blog"
       ],
       "items": [
         {
-          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
-          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
-          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "id": "3736a5f0ce044e2edc3fbdd4579920d0af26db5e",
+          "title": "AI 热潮正在瓦解全球决策机制",
+          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-19T02:49:15.657000Z"
+          "published_at": "2026-07-19T05:13:24.607000Z"
         },
         {
-          "id": "a117b7230802eba247de3db469d97a734333ef3d",
-          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
-          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "id": "f4cbd88b57e45ea9544064229d70af2128aa85e5",
+          "title": "人工智能热潮正在瓦解全球决策机制",
+          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
+          "source": "ludic.mataroa.blog",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T05:13:24.607000Z"
+        },
+        {
+          "id": "f34693511d98e6b9edc2e76600ec21caba678fc7",
+          "title": "AI 热潮正在瓦解全球决策机制 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T01:29:19Z"
+        },
+        {
+          "id": "5ea707c17ea8124a9ae0d146fa38cecac5253845",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-19T00:38:26Z"
+          "published_at": "2026-07-18T22:10:54Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
-      "importance_label": "行业动态",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.909,
-        "story_heat": 0.25
+        "recency": 0.8923,
+        "story_heat": 0.75
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-19T00:38:26Z",
-      "latest_at": "2026-07-19T02:49:15.657000Z",
+      "earliest_at": "2026-07-18T22:10:54Z",
+      "latest_at": "2026-07-19T05:13:24.607000Z",
       "primary_item": {
-        "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
-        "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
-        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "id": "3736a5f0ce044e2edc3fbdd4579920d0af26db5e",
+        "title": "AI 热潮正在瓦解全球决策机制",
+        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -138,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9302,
+        "recency": 0.882,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,15 +238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9821,
+        "recency": 0.9312,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -223,6 +261,87 @@
         "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
         "url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
         "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_45da52ae09b4",
+      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "primary_url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T02:49:15.657000Z"
+        },
+        {
+          "id": "a117b7230802eba247de3db469d97a734333ef3d",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-19T00:38:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T02:49:15.657000Z"
+        },
+        {
+          "id": "a117b7230802eba247de3db469d97a734333ef3d",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-19T00:38:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8619,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T00:38:26Z",
+      "latest_at": "2026-07-19T02:49:15.657000Z",
+      "primary_item": {
+        "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+        "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -261,21 +380,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9208,
+        "recency": 0.873,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-19T03:42:47Z",
       "latest_at": "2026-07-19T03:42:47Z",
@@ -285,87 +403,6 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-19-hexi-2077-ai-signal-weekly-2026-w29",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_067f5fafdc3b",
-      "title": "AI 热潮正在瓦解全球决策机制",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-      "primary_url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3736a5f0ce044e2edc3fbdd4579920d0af26db5e",
-          "title": "AI 热潮正在瓦解全球决策机制",
-          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T05:13:24.607000Z"
-        },
-        {
-          "id": "f4cbd88b57e45ea9544064229d70af2128aa85e5",
-          "title": "人工智能热潮正在瓦解全球决策机制",
-          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-          "source": "ludic.mataroa.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T05:13:24.607000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "ludic.mataroa.blog"
-      ],
-      "items": [
-        {
-          "id": "3736a5f0ce044e2edc3fbdd4579920d0af26db5e",
-          "title": "AI 热潮正在瓦解全球决策机制",
-          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T05:13:24.607000Z"
-        },
-        {
-          "id": "f4cbd88b57e45ea9544064229d70af2128aa85e5",
-          "title": "人工智能热潮正在瓦解全球决策机制",
-          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-          "source": "ludic.mataroa.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T05:13:24.607000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9411,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-19T05:13:24.607000Z",
-      "latest_at": "2026-07-19T05:13:24.607000Z",
-      "primary_item": {
-        "id": "3736a5f0ce044e2edc3fbdd4579920d0af26db5e",
-        "title": "AI 热潮正在瓦解全球决策机制",
-        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -478,15 +515,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6208,
-      "importance": 0.6208,
-      "importance_score": 0.6208,
+      "score": 0.6115,
+      "importance": 0.6115,
+      "importance_score": 0.6115,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9483,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -592,15 +629,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.608,
-      "importance": 0.608,
-      "importance_score": 0.608,
+      "score": 0.6006,
+      "importance": 0.6006,
+      "importance_score": 0.6006,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7989,
+        "recency": 0.7575,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -615,6 +652,243 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-18",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_dbd57b2637da",
+      "title": "Claude Code 现在使用的是用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+      "primary_url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "01c3fbc920281ceb312e53d3b6804a945c8df637",
+          "title": "Claude Code 现在使用的是用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-19T03:54:09Z"
+        },
+        {
+          "id": "de39365cf1490854ce1321311f37e65b09b74e27",
+          "title": "Claude Code 现在使用的是用 Rust 编写的 Bun",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T12:09:19.462000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Simon Willison",
+        "simonwillison.net"
+      ],
+      "items": [
+        {
+          "id": "01c3fbc920281ceb312e53d3b6804a945c8df637",
+          "title": "Claude Code 现在使用的是用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-19T03:54:09Z"
+        },
+        {
+          "id": "de39365cf1490854ce1321311f37e65b09b74e27",
+          "title": "Claude Code 现在使用的是用 Rust 编写的 Bun",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T12:09:19.462000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5879,
+      "importance": 0.5879,
+      "importance_score": 0.5879,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.8754,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T03:54:09Z",
+      "latest_at": "2026-07-19T12:09:19.462000Z",
+      "primary_item": {
+        "id": "01c3fbc920281ceb312e53d3b6804a945c8df637",
+        "title": "Claude Code 现在使用的是用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_0e1a94ec72f9",
+      "title": "kvcache-ai / ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "primary_url": "https://github.com/kvcache-ai/ktransformers",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "620633cd8d8716eb76dd9b08192830cf50528ca8",
+          "title": "kvcache-ai / ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2a4a4b770843c1e2adcb689a10e3b485ebb9a093",
+          "title": "kvcache-ai /      ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T12:45:43.007000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "620633cd8d8716eb76dd9b08192830cf50528ca8",
+          "title": "kvcache-ai / ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2a4a4b770843c1e2adcb689a10e3b485ebb9a093",
+          "title": "kvcache-ai /      ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T12:45:43.007000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T12:45:43.007000Z",
+      "latest_at": "2026-07-19T13:06:58.151754Z",
+      "primary_item": {
+        "id": "620633cd8d8716eb76dd9b08192830cf50528ca8",
+        "title": "kvcache-ai / ktransformers",
+        "url": "https://github.com/kvcache-ai/ktransformers",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_467092bd0013",
+      "title": "首届世界人工智能大会学术平台亮相，录用57篇论文覆盖海内外",
+      "url": "https://www.ithome.com/0/978/745.htm",
+      "primary_url": "https://www.ithome.com/0/978/745.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "0f06fc9100cc51387bab71b37692f2aa8a580540",
+          "title": "首届世界人工智能大会学术平台亮相，录用57篇论文覆盖海内外",
+          "url": "https://www.ithome.com/0/978/745.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "fb4d32b264bf0b2e8edb06dea5df75634973bda9",
+          "title": "我国发起首届世界人工智能大会 · 学术平台，录用 57 篇论文覆盖海内外",
+          "url": "https://www.ithome.com/0/978/745.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T09:52:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0f06fc9100cc51387bab71b37692f2aa8a580540",
+          "title": "首届世界人工智能大会学术平台亮相，录用57篇论文覆盖海内外",
+          "url": "https://www.ithome.com/0/978/745.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "fb4d32b264bf0b2e8edb06dea5df75634973bda9",
+          "title": "我国发起首届世界人工智能大会 · 学术平台，录用 57 篇论文覆盖海内外",
+          "url": "https://www.ithome.com/0/978/745.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T09:52:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T09:52:22Z",
+      "latest_at": "2026-07-19T13:06:58.151754Z",
+      "primary_item": {
+        "id": "0f06fc9100cc51387bab71b37692f2aa8a580540",
+        "title": "首届世界人工智能大会学术平台亮相，录用57篇论文覆盖海内外",
+        "url": "https://www.ithome.com/0/978/745.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -671,15 +945,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5828,
-      "importance": 0.5828,
-      "importance_score": 0.5828,
+      "score": 0.5741,
+      "importance": 0.5741,
+      "importance_score": 0.5741,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9395,
+        "recency": 0.8908,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -697,276 +971,81 @@
       }
     },
     {
-      "story_id": "story_8b8e1d1337bc",
-      "title": "为什么人工智能公司的标志看起来像肛门？",
-      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "primary_url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "source": "velvetshark.com",
+      "story_id": "story_42ff174aec0d",
+      "title": "当人工智能开始进行足球博彩时，会发生什么？",
+      "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+      "primary_url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
-          "title": "为什么人工智能公司的标志看起来像肛门？",
-          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-          "source": "velvetshark.com",
+          "id": "176fa5b65296d1bb9c6eff1c6d5b6960cc6ee84e",
+          "title": "当人工智能开始进行足球博彩时，会发生什么？",
+          "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T12:09:54.152000Z"
+          "published_at": "2026-07-19T11:21:29.886000Z"
         },
         {
-          "id": "ca4b86483c18d3920b69f56e1582688055547279",
-          "title": "为什么人工智能公司的标志看起来像屁眼？ / Why do AI company logos look like buttholes?",
-          "url": "https://news.ycombinator.com/item?id=48956924",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T11:56:03.210000Z"
-        },
-        {
-          "id": "d5cabbfa788aa3fa90f7b5a9bb0f17420fd1aa03",
-          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes?",
-          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-          "source": "Hacker News",
+          "id": "d0b7cc0bc89e1ddd7f1ebed4b357f8032f7db6e4",
+          "title": "当人工智能开始进行足球博彩时，会发生什么？ / What happens when AI starts gambling on soccer?",
+          "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T11:06:50Z"
-        },
-        {
-          "id": "d81130d206697b0f1421fc4256e14b87d6a1f066",
-          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes? (2025)",
-          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T11:06:50Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "velvetshark.com"
-      ],
-      "items": [
-        {
-          "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
-          "title": "为什么人工智能公司的标志看起来像肛门？",
-          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-          "source": "velvetshark.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T12:09:54.152000Z"
-        },
-        {
-          "id": "ca4b86483c18d3920b69f56e1582688055547279",
-          "title": "为什么人工智能公司的标志看起来像屁眼？ / Why do AI company logos look like buttholes?",
-          "url": "https://news.ycombinator.com/item?id=48956924",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T11:56:03.210000Z"
-        },
-        {
-          "id": "d5cabbfa788aa3fa90f7b5a9bb0f17420fd1aa03",
-          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes?",
-          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:06:50Z"
-        },
-        {
-          "id": "d81130d206697b0f1421fc4256e14b87d6a1f066",
-          "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes? (2025)",
-          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T11:06:50Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5482,
-      "importance": 0.5482,
-      "importance_score": 0.5482,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7356,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:06:50Z",
-      "latest_at": "2026-07-18T12:09:54.152000Z",
-      "primary_item": {
-        "id": "afa6b3e0d92f9e76e44a36c2c65a104df83fc874",
-        "title": "为什么人工智能公司的标志看起来像肛门？",
-        "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-        "source": "velvetshark.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fe602fc4cf57",
-      "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
-      "url": "https://www.gelonghui.com/p/5633132",
-      "primary_url": "https://www.gelonghui.com/p/5633132",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "131a190284b7f5494596ccf6103c2913ef0ce510",
-          "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
-          "url": "https://www.gelonghui.com/p/5633132",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7774f732698d6c592380c98551e517fdb35dbb97",
-          "title": "预言“互联网泡沫”的峰会，开始讨论“AI泡沫”了",
-          "url": "https://www.huxiu.com/article/4876456.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T07:09:08Z"
+          "published_at": "2026-07-19T10:00:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "131a190284b7f5494596ccf6103c2913ef0ce510",
-          "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
-          "url": "https://www.gelonghui.com/p/5633132",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "176fa5b65296d1bb9c6eff1c6d5b6960cc6ee84e",
+          "title": "当人工智能开始进行足球博彩时，会发生什么？",
+          "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T11:21:29.886000Z"
         },
         {
-          "id": "7774f732698d6c592380c98551e517fdb35dbb97",
-          "title": "预言“互联网泡沫”的峰会，开始讨论“AI泡沫”了",
-          "url": "https://www.huxiu.com/article/4876456.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T07:09:08Z"
+          "id": "d0b7cc0bc89e1ddd7f1ebed4b357f8032f7db6e4",
+          "title": "当人工智能开始进行足球博彩时，会发生什么？ / What happens when AI starts gambling on soccer?",
+          "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T10:00:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9749,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-19T07:09:08Z",
-      "latest_at": "2026-07-19T09:25:47.159253Z",
+      "earliest_at": "2026-07-19T10:00:01Z",
+      "latest_at": "2026-07-19T11:21:29.886000Z",
       "primary_item": {
-        "id": "131a190284b7f5494596ccf6103c2913ef0ce510",
-        "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
-        "url": "https://www.gelonghui.com/p/5633132",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_74e3e3f8305c",
-      "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
-          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T06:49:20.905000Z"
-        },
-        {
-          "id": "5d72c25c6459241a977fb4a0eb95966edc2f5325",
-          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他称这种观点还算乐观 - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkdVOHMtbGlvR1lIelB3UGlad21UaWdnRW02TjlSREdRTEtHWXFCaUZUYVY5b3p1UEQwQ1RRZ3RUVE9tY2tyYVQ2VktDY21Yb3JBU2ZHUkllMEpyYVR3NVo1Ukx0N041OXE3M2hnbjRjOTRMNmoza3F5OWhqdWxSOGNrRWNkNjlid1ZtQ0dRcDZlU1BPYmNlYnlub0ljNzZoNmtrVEkycUdBelhMOFNQVEs3VVhTcWNmSV9sbG53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T02:33:12.706000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
-          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T06:49:20.905000Z"
-        },
-        {
-          "id": "5d72c25c6459241a977fb4a0eb95966edc2f5325",
-          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他称这种观点还算乐观 - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkdVOHMtbGlvR1lIelB3UGlad21UaWdnRW02TjlSREdRTEtHWXFCaUZUYVY5b3p1UEQwQ1RRZ3RUVE9tY2tyYVQ2VktDY21Yb3JBU2ZHUkllMEpyYVR3NVo1Ukx0N041OXE3M2hnbjRjOTRMNmoza3F5OWhqdWxSOGNrRWNkNjlid1ZtQ0dRcDZlU1BPYmNlYnlub0ljNzZoNmtrVEkycUdBelhMOFNQVEs3VVhTcWNmSV9sbG53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T02:33:12.706000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.963,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T02:33:12.706000Z",
-      "latest_at": "2026-07-19T06:49:20.905000Z",
-      "primary_item": {
-        "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
-        "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
+        "id": "176fa5b65296d1bb9c6eff1c6d5b6960cc6ee84e",
+        "title": "当人工智能开始进行足球博彩时，会发生什么？",
+        "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1043,15 +1122,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8192,
+        "recency": 0.7768,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1065,6 +1144,84 @@
         "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
         "url": "https://ykdojo.github.io/claude-controls-mac",
         "source": "ykdojo.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_74e3e3f8305c",
+      "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
+          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T06:49:20.905000Z"
+        },
+        {
+          "id": "5d72c25c6459241a977fb4a0eb95966edc2f5325",
+          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他称这种观点还算乐观 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkdVOHMtbGlvR1lIelB3UGlad21UaWdnRW02TjlSREdRTEtHWXFCaUZUYVY5b3p1UEQwQ1RRZ3RUVE9tY2tyYVQ2VktDY21Yb3JBU2ZHUkllMEpyYVR3NVo1Ukx0N041OXE3M2hnbjRjOTRMNmoza3F5OWhqdWxSOGNrRWNkNjlid1ZtQ0dRcDZlU1BPYmNlYnlub0ljNzZoNmtrVEkycUdBelhMOFNQVEs3VVhTcWNmSV9sbG53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T02:33:12.706000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
+          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T06:49:20.905000Z"
+        },
+        {
+          "id": "5d72c25c6459241a977fb4a0eb95966edc2f5325",
+          "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他称这种观点还算乐观 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkdVOHMtbGlvR1lIelB3UGlad21UaWdnRW02TjlSREdRTEtHWXFCaUZUYVY5b3p1UEQwQ1RRZ3RUVE9tY2tyYVQ2VktDY21Yb3JBU2ZHUkllMEpyYVR3NVo1Ukx0N041OXE3M2hnbjRjOTRMNmoza3F5OWhqdWxSOGNrRWNkNjlid1ZtQ0dRcDZlU1BPYmNlYnlub0ljNzZoNmtrVEkycUdBelhMOFNQVEs3VVhTcWNmSV9sbG53?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T02:33:12.706000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9131,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T02:33:12.706000Z",
+      "latest_at": "2026-07-19T06:49:20.905000Z",
+      "primary_item": {
+        "id": "da3d63ada35feb6e66923ebd8e83ff2fec1d424c",
+        "title": "“末日博士”努里尔·鲁比尼表示，随着人工智能彻底改变工作方式，我们正走向全民基本收入或“某种形式的社会主义”——他认为这种预测还算乐观 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmNsUDNmU2U0S29iSHpqNGJNb2tSS0dFNWpaakZERWJWVmxIMnh6MnprUnNpR1htZ2lXSHhMUHdtY2ZCbG16Zlp3cGs3clgyUTYtamQ3OE14cDkzaUowZXRJcTdZNWE1NUtaZHBnajBEemc3UXJ4SXE1NEQwUzdtZVFUb2NidlZkRzM2cGNuM1lUTEg1SmhDNA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     },
@@ -1122,15 +1279,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.532,
-      "importance": 0.532,
-      "importance_score": 0.532,
+      "score": 0.5233,
+      "importance": 0.5233,
+      "importance_score": 0.5233,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9231,
+        "recency": 0.8752,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1144,104 +1301,6 @@
         "title": "《法典》重置",
         "url": "https://codex-resets.com",
         "source": "codex-resets.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_737581f31a19",
-      "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-      "primary_url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-      "source": "charlesazam.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "charlesazam.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T15:05:23.818000Z"
-        },
-        {
-          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://news.ycombinator.com/item?id=48956879",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:05:21.878000Z"
-        },
-        {
-          "id": "4b660a0ea32daa1fb147e8cc99870869872676dc",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T11:00:29Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "charlesazam.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "charlesazam.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T15:05:23.818000Z"
-        },
-        {
-          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://news.ycombinator.com/item?id=48956879",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:05:21.878000Z"
-        },
-        {
-          "id": "4b660a0ea32daa1fb147e8cc99870869872676dc",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T11:00:29Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7673,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:00:29Z",
-      "latest_at": "2026-07-18T15:05:23.818000Z",
-      "primary_item": {
-        "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
-        "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-        "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-        "source": "charlesazam.com",
         "source_name": "Buzzing"
       }
     },
@@ -1299,15 +1358,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
+      "score": 0.5198,
+      "importance": 0.5198,
+      "importance_score": 0.5198,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9021,
+        "recency": 0.8553,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1377,15 +1436,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8982,
+        "recency": 0.8516,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1403,128 +1462,30 @@
       }
     },
     {
-      "story_id": "story_b9b544c1b5eb",
-      "title": "图表展示：AI对Stack Overflow的影响",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-      "primary_url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-      "source": "data.stackexchange.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
-          "title": "图表展示：AI对Stack Overflow的影响",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "data.stackexchange.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T13:29:15.879000Z"
-        },
-        {
-          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-          "url": "https://news.ycombinator.com/item?id=48956949",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T11:56:03.210000Z"
-        },
-        {
-          "id": "62497c7bd1b7afc94ea16bb5aba86459e2008ebb",
-          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T11:12:46Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "data.stackexchange.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
-          "title": "图表展示：AI对Stack Overflow的影响",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "data.stackexchange.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T13:29:15.879000Z"
-        },
-        {
-          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-          "url": "https://news.ycombinator.com/item?id=48956949",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T11:56:03.210000Z"
-        },
-        {
-          "id": "62497c7bd1b7afc94ea16bb5aba86459e2008ebb",
-          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T11:12:46Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5258,
-      "importance": 0.5258,
-      "importance_score": 0.5258,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7498,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:12:46Z",
-      "latest_at": "2026-07-18T13:29:15.879000Z",
-      "primary_item": {
-        "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
-        "title": "图表展示：AI对Stack Overflow的影响",
-        "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-        "source": "data.stackexchange.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_025193bf4ac8",
-      "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
-      "url": "https://news.ycombinator.com/item?id=48965886",
-      "primary_url": "https://news.ycombinator.com/item?id=48965886",
+      "story_id": "story_87cd30f5b2eb",
+      "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://news.ycombinator.com/item?id=48965850",
+      "primary_url": "https://news.ycombinator.com/item?id=48965850",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "06d63551e727dc494f1979de287abae694cb5cc3",
-          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
-          "url": "https://news.ycombinator.com/item?id=48965886",
+          "id": "b394584b170edf3f0a0f3ace87d2fc7e804c46cd",
+          "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
+          "url": "https://news.ycombinator.com/item?id=48965850",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-19T09:26:22.630000Z"
+          "published_at": "2026-07-19T12:48:56.854000Z"
         },
         {
-          "id": "ed770045c1ddbfb7ba102a94ab91fe897a0991b9",
-          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
-          "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+          "id": "023ebf15eb4a0e696725b614dfee331cf70d31a4",
+          "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
+          "url": "https://github.com/openai/codex/pull/33972/files",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-19T08:00:24Z"
+          "published_at": "2026-07-19T07:54:39Z"
         }
       ],
       "source_count": 2,
@@ -1534,128 +1495,128 @@
       ],
       "items": [
         {
-          "id": "06d63551e727dc494f1979de287abae694cb5cc3",
-          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
-          "url": "https://news.ycombinator.com/item?id=48965886",
+          "id": "b394584b170edf3f0a0f3ace87d2fc7e804c46cd",
+          "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
+          "url": "https://news.ycombinator.com/item?id=48965850",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-19T09:26:22.630000Z"
+          "published_at": "2026-07-19T12:48:56.854000Z"
         },
         {
-          "id": "ed770045c1ddbfb7ba102a94ab91fe897a0991b9",
-          "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
-          "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+          "id": "023ebf15eb4a0e696725b614dfee331cf70d31a4",
+          "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
+          "url": "https://github.com/openai/codex/pull/33972/files",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-19T08:00:24Z"
+          "published_at": "2026-07-19T07:54:39Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9957,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-19T08:00:24Z",
-      "latest_at": "2026-07-19T09:26:22.630000Z",
+      "earliest_at": "2026-07-19T07:54:39Z",
+      "latest_at": "2026-07-19T12:48:56.854000Z",
       "primary_item": {
-        "id": "06d63551e727dc494f1979de287abae694cb5cc3",
-        "title": "Perforce 的培训视频收费 500 美元......并且由 AI 讲述 / Perforce charges $500 for training training videos.. and it's AI narrated",
-        "url": "https://news.ycombinator.com/item?id=48965886",
+        "id": "b394584b170edf3f0a0f3ace87d2fc7e804c46cd",
+        "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
+        "url": "https://news.ycombinator.com/item?id=48965850",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_31435a601668",
-      "title": "全美各地爆发反对人工智能数据中心的抗议活动",
-      "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-      "primary_url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_fe602fc4cf57",
+      "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
+      "url": "https://www.gelonghui.com/p/5633132",
+      "primary_url": "https://www.gelonghui.com/p/5633132",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
-          "title": "全美各地爆发反对人工智能数据中心的抗议活动",
-          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T20:41:23.690000Z"
+          "id": "131a190284b7f5494596ccf6103c2913ef0ce510",
+          "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
+          "url": "https://www.gelonghui.com/p/5633132",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "0b1f9af86289f9be503b089c3068838e8ec5548c",
-          "title": "全美各地爆发反对人工智能数据中心的抗议活动 / Anti-AI data center protesters rally across the US",
-          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T20:31:37Z"
+          "id": "7774f732698d6c592380c98551e517fdb35dbb97",
+          "title": "预言“互联网泡沫”的峰会，开始讨论“AI泡沫”了",
+          "url": "https://www.huxiu.com/article/4876456.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T07:09:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
-          "title": "全美各地爆发反对人工智能数据中心的抗议活动",
-          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T20:41:23.690000Z"
+          "id": "131a190284b7f5494596ccf6103c2913ef0ce510",
+          "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
+          "url": "https://www.gelonghui.com/p/5633132",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "0b1f9af86289f9be503b089c3068838e8ec5548c",
-          "title": "全美各地爆发反对人工智能数据中心的抗议活动 / Anti-AI data center protesters rally across the US",
-          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T20:31:37Z"
+          "id": "7774f732698d6c592380c98551e517fdb35dbb97",
+          "title": "预言“互联网泡沫”的峰会，开始讨论“AI泡沫”了",
+          "url": "https://www.huxiu.com/article/4876456.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T07:09:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.832,
+        "recency": 0.9482,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T20:31:37Z",
-      "latest_at": "2026-07-18T20:41:23.690000Z",
+      "earliest_at": "2026-07-19T07:09:08Z",
+      "latest_at": "2026-07-19T09:25:47.159253Z",
       "primary_item": {
-        "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
-        "title": "全美各地爆发反对人工智能数据中心的抗议活动",
-        "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "131a190284b7f5494596ccf6103c2913ef0ce510",
+        "title": "预言「互联网泡沫」的峰会，开始讨论「AI 泡沫」了",
+        "url": "https://www.gelonghui.com/p/5633132",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1712,15 +1673,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.4998,
+      "importance": 0.4998,
+      "importance_score": 0.4998,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7853,
+        "recency": 0.7446,
         "story_heat": 0.25
       },
       "category": "watch",
