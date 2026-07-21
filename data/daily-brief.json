@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T02:11:52.189229Z",
+  "generated_at": "2026-07-21T05:34:37.406347Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8603,
-      "importance": 0.8603,
-      "importance_score": 0.8603,
+      "score": 0.8529,
+      "importance": 0.8529,
+      "importance_score": 0.8529,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8628,
+        "recency": 0.8217,
         "story_heat": 0.25
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7914,
+        "recency": 0.7537,
         "story_heat": 0.25
       },
       "category": "official",
@@ -259,15 +259,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9771,
+        "recency": 0.9305,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -321,15 +321,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8631,
+        "recency": 0.822,
         "story_heat": 0.0
       },
       "category": "official",
@@ -346,6 +346,87 @@
         "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_689c07d673cc",
+      "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+      "url": "https://www.aibase.com/news/29739",
+      "primary_url": "https://www.aibase.com/news/29739",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e4433a818822d9fbee1123c2fd746f0518e9085e",
+          "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+          "url": "https://www.aibase.com/news/29739",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T05:34:37.406347Z"
+        },
+        {
+          "id": "808e8ee8e2667e5d27b5584472d35c201dd84d6d",
+          "title": "千问发布语音合成大模型 Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+          "url": "https://www.aibase.com/zh/news/29739",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e4433a818822d9fbee1123c2fd746f0518e9085e",
+          "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+          "url": "https://www.aibase.com/news/29739",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T05:34:37.406347Z"
+        },
+        {
+          "id": "808e8ee8e2667e5d27b5584472d35c201dd84d6d",
+          "title": "千问发布语音合成大模型 Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+          "url": "https://www.aibase.com/zh/news/29739",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T05:34:37.406347Z",
+      "latest_at": "2026-07-21T05:34:37.406347Z",
+      "primary_item": {
+        "id": "e4433a818822d9fbee1123c2fd746f0518e9085e",
+        "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+        "url": "https://www.aibase.com/news/29739",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -439,15 +520,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8944,
+        "recency": 0.8518,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -501,15 +582,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8936,
+        "recency": 0.851,
         "story_heat": 0.0
       },
       "category": "official",
@@ -526,6 +607,87 @@
         "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_dbb4e0df2319",
+      "title": "Anthropic 与作家群体15亿美元版权和解获批",
+      "url": "https://www.ithome.com/0/979/324.htm",
+      "primary_url": "https://www.ithome.com/0/979/324.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4915405446f701d1c7d239855623693740c3c469",
+          "title": "Anthropic 与作家群体15亿美元版权和解获批",
+          "url": "https://www.ithome.com/0/979/324.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T01:57:54Z"
+        },
+        {
+          "id": "ba1a071fa3e452f6dced6218a30a4941f2762e38",
+          "title": "美国版权案件最高金额：Anthropic 与作家群体 15 亿美元和解获批",
+          "url": "https://www.ithome.com/0/979/324.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T01:57:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4915405446f701d1c7d239855623693740c3c469",
+          "title": "Anthropic 与作家群体15亿美元版权和解获批",
+          "url": "https://www.ithome.com/0/979/324.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T01:57:54Z"
+        },
+        {
+          "id": "ba1a071fa3e452f6dced6218a30a4941f2762e38",
+          "title": "美国版权案件最高金额：Anthropic 与作家群体 15 亿美元和解获批",
+          "url": "https://www.ithome.com/0/979/324.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T01:57:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9492,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T01:57:54Z",
+      "latest_at": "2026-07-21T01:57:54Z",
+      "primary_item": {
+        "id": "4915405446f701d1c7d239855623693740c3c469",
+        "title": "Anthropic 与作家群体15亿美元版权和解获批",
+        "url": "https://www.ithome.com/0/979/324.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -582,15 +744,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
+      "score": 0.7759,
+      "importance": 0.7759,
+      "importance_score": 0.7759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.8405,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -607,67 +769,6 @@
         "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d9ab7045f207",
-      "title": "15 亿美元和解获法官点头：Anthropic版权案落地，作家集体诉讼画上句号",
-      "url": "https://www.aibase.com/news/29728",
-      "primary_url": "https://www.aibase.com/news/29728",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "242f2452a74475c6eeb83a8d85e12550725a4a78",
-          "title": "15 亿美元和解获法官点头：Anthropic版权案落地，作家集体诉讼画上句号",
-          "url": "https://www.aibase.com/news/29728",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T02:11:52.189229Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "242f2452a74475c6eeb83a8d85e12550725a4a78",
-          "title": "15 亿美元和解获法官点头：Anthropic版权案落地，作家集体诉讼画上句号",
-          "url": "https://www.aibase.com/news/29728",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T02:11:52.189229Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T02:11:52.189229Z",
-      "latest_at": "2026-07-21T02:11:52.189229Z",
-      "primary_item": {
-        "id": "242f2452a74475c6eeb83a8d85e12550725a4a78",
-        "title": "15 亿美元和解获法官点头：Anthropic版权案落地，作家集体诉讼画上句号",
-        "url": "https://www.aibase.com/news/29728",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -705,15 +806,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8268,
+        "recency": 0.7874,
         "story_heat": 0.0
       },
       "category": "official",
@@ -733,83 +834,124 @@
       }
     },
     {
-      "story_id": "story_be4a41673752",
-      "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
-      "url": "https://www.ithome.com/0/979/017.htm",
-      "primary_url": "https://www.ithome.com/0/979/017.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_d41379acd239",
+      "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
+      "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
+      "primary_url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
+      "source": "公众号：腾讯混元",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b7044c331d1b621e3a6a807f26d1a02069721734",
-          "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
-          "url": "https://www.ithome.com/0/979/017.htm",
-          "source": "IT之家（RSS）",
+          "id": "15a94235646fd91f4d56cfe7459edff4271ac204",
+          "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
+          "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
+          "source": "公众号：腾讯混元",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-20T07:00:15Z"
-        },
-        {
-          "id": "0e2a58cb1e0dbfa155599a1dafb7b2182e9d6174",
-          "title": "多模态 AI 模型“神珍”开放，能处理蛋白质、天气等六类科学信息",
-          "url": "https://www.ithome.com/0/979/017.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T07:00:15Z"
+          "published_at": "2026-07-21T03:33:08Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "公众号：腾讯混元"
       ],
       "items": [
         {
-          "id": "b7044c331d1b621e3a6a807f26d1a02069721734",
-          "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
-          "url": "https://www.ithome.com/0/979/017.htm",
-          "source": "IT之家（RSS）",
+          "id": "15a94235646fd91f4d56cfe7459edff4271ac204",
+          "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
+          "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
+          "source": "公众号：腾讯混元",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-20T07:00:15Z"
-        },
-        {
-          "id": "0e2a58cb1e0dbfa155599a1dafb7b2182e9d6174",
-          "title": "多模态 AI 模型“神珍”开放，能处理蛋白质、天气等六类科学信息",
-          "url": "https://www.ithome.com/0/979/017.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T07:00:15Z"
+          "published_at": "2026-07-21T03:33:08Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7579,
-        "story_heat": 0.25
+        "recency": 0.9712,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-20T07:00:15Z",
-      "latest_at": "2026-07-20T07:00:15Z",
+      "earliest_at": "2026-07-21T03:33:08Z",
+      "latest_at": "2026-07-21T03:33:08Z",
       "primary_item": {
-        "id": "b7044c331d1b621e3a6a807f26d1a02069721734",
-        "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
-        "url": "https://www.ithome.com/0/979/017.htm",
-        "source": "IT之家（RSS）",
+        "id": "15a94235646fd91f4d56cfe7459edff4271ac204",
+        "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
+        "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
+        "source": "公众号：腾讯混元",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_124511929247",
+      "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
+      "url": "https://www.aibase.com/news/29746",
+      "primary_url": "https://www.aibase.com/news/29746",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
+          "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
+          "url": "https://www.aibase.com/news/29746",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T05:34:37.406347Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
+          "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
+          "url": "https://www.aibase.com/news/29746",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T05:34:37.406347Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T05:34:37.406347Z",
+      "latest_at": "2026-07-21T05:34:37.406347Z",
+      "primary_item": {
+        "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
+        "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
+        "url": "https://www.aibase.com/news/29746",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -847,15 +989,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9854,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -926,15 +1068,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8171,
+        "recency": 0.7782,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -951,67 +1093,6 @@
         "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_057304d3a15b",
-      "title": "2 万亿参数隔空交锋：Kimi K3 登顶后，月之暗面喊话马斯克\"欢迎入伙\"",
-      "url": "https://www.aibase.com/news/29733",
-      "primary_url": "https://www.aibase.com/news/29733",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4a9eebcc4b3486e0e2db79f5b0221976000c644f",
-          "title": "2 万亿参数隔空交锋：Kimi K3 登顶后，月之暗面喊话马斯克\"欢迎入伙\"",
-          "url": "https://www.aibase.com/news/29733",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T02:11:52.189229Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4a9eebcc4b3486e0e2db79f5b0221976000c644f",
-          "title": "2 万亿参数隔空交锋：Kimi K3 登顶后，月之暗面喊话马斯克\"欢迎入伙\"",
-          "url": "https://www.aibase.com/news/29733",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T02:11:52.189229Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T02:11:52.189229Z",
-      "latest_at": "2026-07-21T02:11:52.189229Z",
-      "primary_item": {
-        "id": "4a9eebcc4b3486e0e2db79f5b0221976000c644f",
-        "title": "2 万亿参数隔空交锋：Kimi K3 登顶后，月之暗面喊话马斯克\"欢迎入伙\"",
-        "url": "https://www.aibase.com/news/29733",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1049,15 +1130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7273,
+      "importance": 0.7273,
+      "importance_score": 0.7273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8672,
+        "recency": 0.8259,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,182 +1156,143 @@
       }
     },
     {
-      "story_id": "story_d6dc47cf0cbd",
-      "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-      "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-      "primary_url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
+      "story_id": "story_4ca1da280c69",
+      "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
+      "url": "https://www.aibase.com/news/29743",
+      "primary_url": "https://www.aibase.com/news/29743",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
-          "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-          "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T03:54:08Z"
+          "id": "510b356a0644522ede024f6bd0e58373564d27b1",
+          "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
+          "url": "https://www.aibase.com/news/29743",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T05:34:37.406347Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：面壁智能（MiniCPM）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
-          "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-          "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T03:54:08Z"
+          "id": "510b356a0644522ede024f6bd0e58373564d27b1",
+          "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
+          "url": "https://www.aibase.com/news/29743",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T05:34:37.406347Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7247,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-20T03:54:08Z",
-      "latest_at": "2026-07-20T03:54:08Z",
+      "earliest_at": "2026-07-21T05:34:37.406347Z",
+      "latest_at": "2026-07-21T05:34:37.406347Z",
       "primary_item": {
-        "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
-        "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-        "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
+        "id": "510b356a0644522ede024f6bd0e58373564d27b1",
+        "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
+        "url": "https://www.aibase.com/news/29743",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_156195f4caae",
-      "title": "Replit 新统一工具栏集成数据库与双因素认证",
-      "url": "https://x.com/Replit/status/2079235154485109114",
-      "primary_url": "https://x.com/Replit/status/2079235154485109114",
-      "source": "X：Replit (@Replit)",
+      "story_id": "story_be4a41673752",
+      "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+      "url": "https://www.ithome.com/0/979/017.htm",
+      "primary_url": "https://www.ithome.com/0/979/017.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "835a9a3500b3f20c63c11c067b20c46aa7196d56",
-          "title": "Replit 新统一工具栏集成数据库与双因素认证",
-          "url": "https://x.com/Replit/status/2079235154485109114",
-          "source": "X：Replit (@Replit)",
+          "id": "b7044c331d1b621e3a6a807f26d1a02069721734",
+          "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+          "url": "https://www.ithome.com/0/979/017.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-20T16:01:05Z"
+          "published_at": "2026-07-20T07:00:15Z"
+        },
+        {
+          "id": "0e2a58cb1e0dbfa155599a1dafb7b2182e9d6174",
+          "title": "多模态 AI 模型“神珍”开放，能处理蛋白质、天气等六类科学信息",
+          "url": "https://www.ithome.com/0/979/017.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T07:00:15Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Replit (@Replit)"
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "835a9a3500b3f20c63c11c067b20c46aa7196d56",
-          "title": "Replit 新统一工具栏集成数据库与双因素认证",
-          "url": "https://x.com/Replit/status/2079235154485109114",
-          "source": "X：Replit (@Replit)",
+          "id": "b7044c331d1b621e3a6a807f26d1a02069721734",
+          "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+          "url": "https://www.ithome.com/0/979/017.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-20T16:01:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8633,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T16:01:05Z",
-      "latest_at": "2026-07-20T16:01:05Z",
-      "primary_item": {
-        "id": "835a9a3500b3f20c63c11c067b20c46aa7196d56",
-        "title": "Replit 新统一工具栏集成数据库与双因素认证",
-        "url": "https://x.com/Replit/status/2079235154485109114",
-        "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eec8cd6d4207",
-      "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-      "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-      "primary_url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-      "source": "公众号：通义实验室（千问）",
-      "source_name": "AI HOT",
-      "sources": [
+          "published_at": "2026-07-20T07:00:15Z"
+        },
         {
-          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
-          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:53:11Z"
+          "id": "0e2a58cb1e0dbfa155599a1dafb7b2182e9d6174",
+          "title": "多模态 AI 模型“神珍”开放，能处理蛋白质、天气等六类科学信息",
+          "url": "https://www.ithome.com/0/979/017.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T07:00:15Z"
         }
       ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：通义实验室（千问）"
-      ],
-      "items": [
-        {
-          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
-          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:53:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7788,
-        "story_heat": 0.0
+        "recency": 0.7218,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-20T08:53:11Z",
-      "latest_at": "2026-07-20T08:53:11Z",
+      "earliest_at": "2026-07-20T07:00:15Z",
+      "latest_at": "2026-07-20T07:00:15Z",
       "primary_item": {
-        "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
-        "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-        "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-        "source": "公众号：通义实验室（千问）",
+        "id": "b7044c331d1b621e3a6a807f26d1a02069721734",
+        "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+        "url": "https://www.ithome.com/0/979/017.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1279,20 +1321,10 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-20T12:21:09.021000Z"
-        },
-        {
-          "id": "631742f38960d2e7cb3c0fd4df9f93be7ccbcd19",
-          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜 / LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
-          "url": "https://github.com/Saivineeth147/lora-speedrun",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T04:24:48Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "github.com"
       ],
@@ -1314,37 +1346,27 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-20T12:21:09.021000Z"
-        },
-        {
-          "id": "631742f38960d2e7cb3c0fd4df9f93be7ccbcd19",
-          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜 / LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
-          "url": "https://github.com/Saivineeth147/lora-speedrun",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T04:24:48Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8188,
-        "story_heat": 0.5
+        "recency": 0.7798,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-20T04:24:48Z",
+      "earliest_at": "2026-07-20T12:21:09.021000Z",
       "latest_at": "2026-07-20T12:21:09.021000Z",
       "primary_item": {
         "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
@@ -1355,21 +1377,190 @@
       }
     },
     {
-      "story_id": "story_315b50b41b27",
-      "title": "Adobe Project Indigo引入AI摄影助手，利用大模型优化拍摄与编辑体验",
-      "url": "https://www.aibase.com/news/29734",
-      "primary_url": "https://www.aibase.com/news/29734",
+      "story_id": "story_2df82173bb28",
+      "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-07-20",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "01572bfb494d31281605e7584de9dfd86e70bc54",
+          "title": "AI 辅助做科研最吓人的一刻，可能就是导师一查：你引用的论文根本不存在。卡尔这篇文章把GitHub上一批科研向Codex / Claude Skills实测了一遍，从防假引用、批量读文献、跑实验数据、社科实证、英文润色，到无人值守改稿，给出一份能抄作业的工具清单。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-21T05:34:37.406347Z"
+        },
+        {
+          "id": "1a4cb92070a631b70a105dff8bcb4d1acadc295d",
+          "title": "如果你是经常使用Codex、Claude Code的独立开发者，这套Git Worktree方案不容错过，它可以很好地解决并行编码的代码冲突问题。文中不仅厘清了分支与Worktree的分工逻辑，还针对不同开发场景给出了灵活搭配策略，用来实现多任务互不干扰同步推进。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T18:51:24.921520Z"
+        },
+        {
+          "id": "9ae8802c98e0d0aaa6348eee134cf5d0fc45aa9c",
+          "title": "如果你还在让 Agent 一步一步排队干活，这篇文章很值得看。这份14步路线图把 Claude 工作流从“线性脚本”拉成一张可编排的图：节点负责具体任务，边负责传递数据；能并行就扇出，需要判断再汇聚，再用Schema、验证器、Worktree和模型分层来控制质量、隔离风险、压缩成本。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T18:51:24.921520Z"
+        },
+        {
+          "id": "1859789e9cb14f4f969cf088859689b94aa807bc",
+          "title": "AI 把写代码、做原型、跑分析的门槛一下子降低了，但Netflix反而更看重“能把系统看完整的人”。这篇从Netflix 的CTO Elizabeth Stone和Lenny的访谈聊起，特别适合正在用 AI 提效的产品、技术和设计同学读一读：工具会让产出变快，真正决定上限的，是你能不能看见业务、数据、工程、体验和风险之间的连锁反应，并对最终结果负责。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T16:56:17.325571Z"
+        },
+        {
+          "id": "b52b0298f017ae791b847fc7f274ad45f897080c",
+          "title": "AI音乐圈这周像被按了快进键。Suno一边冲刺 IPO，一边被源码泄露扯出版权和隐私风险；另一边，MiniMax、阿里、昆仑万维、Google、Ace Studio又在音乐生成、MV 制作、录音重混上密集上新。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:27:20.950832Z"
+        },
+        {
+          "id": "2ee33a16ed14fa8b3a7d2ec094cf514222f5ea69",
+          "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:27:20.950832Z"
+        },
+        {
+          "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
+          "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:27:20.950832Z"
+        }
+      ],
+      "source_count": 7,
+      "source_names": [
+        "社区更新 · 2026-07-20",
+        "社区更新 · 2026-07-21"
+      ],
+      "items": [
+        {
+          "id": "01572bfb494d31281605e7584de9dfd86e70bc54",
+          "title": "AI 辅助做科研最吓人的一刻，可能就是导师一查：你引用的论文根本不存在。卡尔这篇文章把GitHub上一批科研向Codex / Claude Skills实测了一遍，从防假引用、批量读文献、跑实验数据、社科实证、英文润色，到无人值守改稿，给出一份能抄作业的工具清单。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-21",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-21T05:34:37.406347Z"
+        },
+        {
+          "id": "1a4cb92070a631b70a105dff8bcb4d1acadc295d",
+          "title": "如果你是经常使用Codex、Claude Code的独立开发者，这套Git Worktree方案不容错过，它可以很好地解决并行编码的代码冲突问题。文中不仅厘清了分支与Worktree的分工逻辑，还针对不同开发场景给出了灵活搭配策略，用来实现多任务互不干扰同步推进。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T18:51:24.921520Z"
+        },
+        {
+          "id": "9ae8802c98e0d0aaa6348eee134cf5d0fc45aa9c",
+          "title": "如果你还在让 Agent 一步一步排队干活，这篇文章很值得看。这份14步路线图把 Claude 工作流从“线性脚本”拉成一张可编排的图：节点负责具体任务，边负责传递数据；能并行就扇出，需要判断再汇聚，再用Schema、验证器、Worktree和模型分层来控制质量、隔离风险、压缩成本。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T18:51:24.921520Z"
+        },
+        {
+          "id": "1859789e9cb14f4f969cf088859689b94aa807bc",
+          "title": "AI 把写代码、做原型、跑分析的门槛一下子降低了，但Netflix反而更看重“能把系统看完整的人”。这篇从Netflix 的CTO Elizabeth Stone和Lenny的访谈聊起，特别适合正在用 AI 提效的产品、技术和设计同学读一读：工具会让产出变快，真正决定上限的，是你能不能看见业务、数据、工程、体验和风险之间的连锁反应，并对最终结果负责。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T16:56:17.325571Z"
+        },
+        {
+          "id": "b52b0298f017ae791b847fc7f274ad45f897080c",
+          "title": "AI音乐圈这周像被按了快进键。Suno一边冲刺 IPO，一边被源码泄露扯出版权和隐私风险；另一边，MiniMax、阿里、昆仑万维、Google、Ace Studio又在音乐生成、MV 制作、录音重混上密集上新。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:27:20.950832Z"
+        },
+        {
+          "id": "2ee33a16ed14fa8b3a7d2ec094cf514222f5ea69",
+          "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:27:20.950832Z"
+        },
+        {
+          "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
+          "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:27:20.950832Z"
+        }
+      ],
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.6818,
+      "importance": 0.6818,
+      "importance_score": 0.6818,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.54,
+        "ai_relevance": 0.76,
+        "recency": 0.8155,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-20T15:27:20.950832Z",
+      "latest_at": "2026-07-21T05:34:37.406347Z",
+      "primary_item": {
+        "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
+        "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-07-20",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_2f8618569029",
+      "title": "三星电子成立RX机器人事业部，加速机器人业务商业化",
+      "url": "https://www.aibase.com/news/29737",
+      "primary_url": "https://www.aibase.com/news/29737",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "67904bfdf4e13d3dad03e04002b21f310c951944",
-          "title": "Adobe Project Indigo引入AI摄影助手，利用大模型优化拍摄与编辑体验",
-          "url": "https://www.aibase.com/news/29734",
+          "id": "dde5942d81180170a08de1d78f4b465bf598a34c",
+          "title": "三星电子成立RX机器人事业部，加速机器人业务商业化",
+          "url": "https://www.aibase.com/news/29737",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T02:11:52.189229Z"
+          "published_at": "2026-07-21T05:34:37.406347Z"
         }
       ],
       "source_count": 1,
@@ -1378,13 +1569,13 @@
       ],
       "items": [
         {
-          "id": "67904bfdf4e13d3dad03e04002b21f310c951944",
-          "title": "Adobe Project Indigo引入AI摄影助手，利用大模型优化拍摄与编辑体验",
-          "url": "https://www.aibase.com/news/29734",
+          "id": "dde5942d81180170a08de1d78f4b465bf598a34c",
+          "title": "三星电子成立RX机器人事业部，加速机器人业务商业化",
+          "url": "https://www.aibase.com/news/29737",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T02:11:52.189229Z"
+          "published_at": "2026-07-21T05:34:37.406347Z"
         }
       ],
       "item_count": 1,
@@ -1405,164 +1596,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T02:11:52.189229Z",
-      "latest_at": "2026-07-21T02:11:52.189229Z",
+      "earliest_at": "2026-07-21T05:34:37.406347Z",
+      "latest_at": "2026-07-21T05:34:37.406347Z",
       "primary_item": {
-        "id": "67904bfdf4e13d3dad03e04002b21f310c951944",
-        "title": "Adobe Project Indigo引入AI摄影助手，利用大模型优化拍摄与编辑体验",
-        "url": "https://www.aibase.com/news/29734",
+        "id": "dde5942d81180170a08de1d78f4b465bf598a34c",
+        "title": "三星电子成立RX机器人事业部，加速机器人业务商业化",
+        "url": "https://www.aibase.com/news/29737",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-20",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "1a4cb92070a631b70a105dff8bcb4d1acadc295d",
-          "title": "如果你是经常使用Codex、Claude Code的独立开发者，这套Git Worktree方案不容错过，它可以很好地解决并行编码的代码冲突问题。文中不仅厘清了分支与Worktree的分工逻辑，还针对不同开发场景给出了灵活搭配策略，用来实现多任务互不干扰同步推进。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T18:51:24.921520Z"
-        },
-        {
-          "id": "9ae8802c98e0d0aaa6348eee134cf5d0fc45aa9c",
-          "title": "如果你还在让 Agent 一步一步排队干活，这篇文章很值得看。这份14步路线图把 Claude 工作流从“线性脚本”拉成一张可编排的图：节点负责具体任务，边负责传递数据；能并行就扇出，需要判断再汇聚，再用Schema、验证器、Worktree和模型分层来控制质量、隔离风险、压缩成本。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T18:51:24.921520Z"
-        },
-        {
-          "id": "1859789e9cb14f4f969cf088859689b94aa807bc",
-          "title": "AI 把写代码、做原型、跑分析的门槛一下子降低了，但Netflix反而更看重“能把系统看完整的人”。这篇从Netflix 的CTO Elizabeth Stone和Lenny的访谈聊起，特别适合正在用 AI 提效的产品、技术和设计同学读一读：工具会让产出变快，真正决定上限的，是你能不能看见业务、数据、工程、体验和风险之间的连锁反应，并对最终结果负责。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T16:56:17.325571Z"
-        },
-        {
-          "id": "b52b0298f017ae791b847fc7f274ad45f897080c",
-          "title": "AI音乐圈这周像被按了快进键。Suno一边冲刺 IPO，一边被源码泄露扯出版权和隐私风险；另一边，MiniMax、阿里、昆仑万维、Google、Ace Studio又在音乐生成、MV 制作、录音重混上密集上新。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T15:27:20.950832Z"
-        },
-        {
-          "id": "2ee33a16ed14fa8b3a7d2ec094cf514222f5ea69",
-          "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T15:27:20.950832Z"
-        },
-        {
-          "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
-          "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T15:27:20.950832Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "社区更新 · 2026-07-20"
-      ],
-      "items": [
-        {
-          "id": "1a4cb92070a631b70a105dff8bcb4d1acadc295d",
-          "title": "如果你是经常使用Codex、Claude Code的独立开发者，这套Git Worktree方案不容错过，它可以很好地解决并行编码的代码冲突问题。文中不仅厘清了分支与Worktree的分工逻辑，还针对不同开发场景给出了灵活搭配策略，用来实现多任务互不干扰同步推进。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T18:51:24.921520Z"
-        },
-        {
-          "id": "9ae8802c98e0d0aaa6348eee134cf5d0fc45aa9c",
-          "title": "如果你还在让 Agent 一步一步排队干活，这篇文章很值得看。这份14步路线图把 Claude 工作流从“线性脚本”拉成一张可编排的图：节点负责具体任务，边负责传递数据；能并行就扇出，需要判断再汇聚，再用Schema、验证器、Worktree和模型分层来控制质量、隔离风险、压缩成本。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T18:51:24.921520Z"
-        },
-        {
-          "id": "1859789e9cb14f4f969cf088859689b94aa807bc",
-          "title": "AI 把写代码、做原型、跑分析的门槛一下子降低了，但Netflix反而更看重“能把系统看完整的人”。这篇从Netflix 的CTO Elizabeth Stone和Lenny的访谈聊起，特别适合正在用 AI 提效的产品、技术和设计同学读一读：工具会让产出变快，真正决定上限的，是你能不能看见业务、数据、工程、体验和风险之间的连锁反应，并对最终结果负责。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T16:56:17.325571Z"
-        },
-        {
-          "id": "b52b0298f017ae791b847fc7f274ad45f897080c",
-          "title": "AI音乐圈这周像被按了快进键。Suno一边冲刺 IPO，一边被源码泄露扯出版权和隐私风险；另一边，MiniMax、阿里、昆仑万维、Google、Ace Studio又在音乐生成、MV 制作、录音重混上密集上新。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T15:27:20.950832Z"
-        },
-        {
-          "id": "2ee33a16ed14fa8b3a7d2ec094cf514222f5ea69",
-          "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T15:27:20.950832Z"
-        },
-        {
-          "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
-          "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T15:27:20.950832Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6891,
-      "importance": 0.6891,
-      "importance_score": 0.6891,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.54,
-        "ai_relevance": 0.76,
-        "recency": 0.8563,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T15:27:20.950832Z",
-      "latest_at": "2026-07-20T18:51:24.921520Z",
-      "primary_item": {
-        "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
-        "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-20",
-        "source_name": "WaytoAGI"
       }
     }
   ]
