@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T15:29:14.984644Z",
+  "generated_at": "2026-07-22T16:57:17.834230Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8643,
-      "importance": 0.8643,
-      "importance_score": 0.8643,
+      "score": 0.8606,
+      "importance": 0.8606,
+      "importance_score": 0.8606,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9738,
+        "recency": 0.9534,
         "story_heat": 0.25
       },
       "category": "official",
@@ -86,49 +86,49 @@
       }
     },
     {
-      "story_id": "story_bd6ce42035f5",
-      "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "primary_url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "source": "OpenAI News",
+      "story_id": "story_3710e649c509",
+      "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+      "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
-          "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
-          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-          "source": "OpenAI News",
+          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
+          "published_at": "2026-07-22T16:21:47Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
-          "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
-          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-          "source": "OpenAI News",
+          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
+          "published_at": "2026-07-22T16:21:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
+      "score": 0.8505,
+      "importance": 0.8505,
+      "importance_score": 0.8505,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9647,
+        "recency": 0.9915,
         "story_heat": 0.0
       },
       "category": "official",
@@ -137,12 +137,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T13:00:00Z",
-      "latest_at": "2026-07-22T13:00:00Z",
+      "earliest_at": "2026-07-22T16:21:47Z",
+      "latest_at": "2026-07-22T16:21:47Z",
       "primary_item": {
-        "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
-        "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
-        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+        "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+        "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+        "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c54f46e53d48",
+      "title": "OpenAI 简介 / Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "primary_url": "https://openai.com/index/introducing-openai-presence",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
+          "title": "OpenAI 简介 / Introducing OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T05:30:00Z"
+        },
+        {
+          "id": "917f21479e088d88c0fb8646923c28857bb19d27",
+          "title": "OpenAI 存在 / OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-22T15:12:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
+          "title": "OpenAI 简介 / Introducing OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T05:30:00Z"
+        },
+        {
+          "id": "917f21479e088d88c0fb8646923c28857bb19d27",
+          "title": "OpenAI 存在 / OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-22T15:12:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8496,
+      "importance": 0.8496,
+      "importance_score": 0.8496,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8475,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T05:30:00Z",
+      "latest_at": "2026-07-22T15:12:26Z",
+      "primary_item": {
+        "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
+        "title": "OpenAI 简介 / Introducing OpenAI Presence",
+        "url": "https://openai.com/index/introducing-openai-presence",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -239,15 +321,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8579,
+        "recency": 0.8399,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -301,15 +383,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9647,
+        "recency": 0.9445,
         "story_heat": 0.0
       },
       "category": "official",
@@ -325,88 +407,6 @@
         "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
         "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1651413fdb6b",
-      "title": "GitHub Copilot 推出 canvases 扩展，实现开发者与 AI 智能体实时协作 / How to build interactive experiences with canvases",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "745db95b1d162f18bd2873a87d91b5ea44b48e94",
-          "title": "GitHub Copilot 推出 canvases 扩展，实现开发者与 AI 智能体实时协作 / How to build interactive experiences with canvases",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T16:00:00Z"
-        },
-        {
-          "id": "697b22b52b2e95361c6a7f682417c06e99bd5c03",
-          "title": "GitHub Copilot 推出 canvases 扩展，实现开发者与 AI 智能体实时协作",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T16:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "745db95b1d162f18bd2873a87d91b5ea44b48e94",
-          "title": "GitHub Copilot 推出 canvases 扩展，实现开发者与 AI 智能体实时协作 / How to build interactive experiences with canvases",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T16:00:00Z"
-        },
-        {
-          "id": "697b22b52b2e95361c6a7f682417c06e99bd5c03",
-          "title": "GitHub Copilot 推出 canvases 扩展，实现开发者与 AI 智能体实时协作",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T16:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7124,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T16:00:00Z",
-      "latest_at": "2026-07-21T16:00:00Z",
-      "primary_item": {
-        "id": "745db95b1d162f18bd2873a87d91b5ea44b48e94",
-        "title": "GitHub Copilot 推出 canvases 扩展，实现开发者与 AI 智能体实时协作 / How to build interactive experiences with canvases",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
-        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -445,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7548,
+        "recency": 0.739,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,6 +469,130 @@
         "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
         "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bd6ce42035f5",
+      "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "primary_url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
+          "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
+          "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9445,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T13:00:00Z",
+      "latest_at": "2026-07-22T13:00:00Z",
+      "primary_item": {
+        "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
+        "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
+        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1d793ca53d31",
+      "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+      "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+      "primary_url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+          "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T15:05:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+          "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T15:05:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9734,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T15:05:19Z",
+      "latest_at": "2026-07-22T15:05:19Z",
+      "primary_item": {
+        "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+        "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+        "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -544,15 +668,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7871,
+        "recency": 0.7706,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -572,21 +696,21 @@
       }
     },
     {
-      "story_id": "story_c54f46e53d48",
-      "title": "OpenAI 简介 / Introducing OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "primary_url": "https://openai.com/index/introducing-openai-presence",
+      "story_id": "story_fc3528d001b5",
+      "title": "推进国家科学的下一个时代 / Advancing the next era of national science",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "primary_url": "https://openai.com/index/advancing-the-next-era-of-national-science",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
-          "title": "OpenAI 简介 / Introducing OpenAI Presence",
-          "url": "https://openai.com/index/introducing-openai-presence",
+          "id": "010dceb15564775c57509eec82ea52e633bcdae4",
+          "title": "推进国家科学的下一个时代 / Advancing the next era of national science",
+          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T05:30:00Z"
+          "published_at": "2026-07-22T12:00:00Z"
         }
       ],
       "source_count": 1,
@@ -595,26 +719,26 @@
       ],
       "items": [
         {
-          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
-          "title": "OpenAI 简介 / Introducing OpenAI Presence",
-          "url": "https://openai.com/index/introducing-openai-presence",
+          "id": "010dceb15564775c57509eec82ea52e633bcdae4",
+          "title": "推进国家科学的下一个时代 / Advancing the next era of national science",
+          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T05:30:00Z"
+          "published_at": "2026-07-22T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
+      "score": 0.8396,
+      "importance": 0.8396,
+      "importance_score": 0.8396,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8657,
+        "recency": 0.9309,
         "story_heat": 0.0
       },
       "category": "official",
@@ -623,12 +747,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T05:30:00Z",
-      "latest_at": "2026-07-22T05:30:00Z",
+      "earliest_at": "2026-07-22T12:00:00Z",
+      "latest_at": "2026-07-22T12:00:00Z",
       "primary_item": {
-        "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
-        "title": "OpenAI 简介 / Introducing OpenAI Presence",
-        "url": "https://openai.com/index/introducing-openai-presence",
+        "id": "010dceb15564775c57509eec82ea52e633bcdae4",
+        "title": "推进国家科学的下一个时代 / Advancing the next era of national science",
+        "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -687,15 +811,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.9037,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -749,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9789,
+        "recency": 0.9584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -810,15 +934,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7556,
+        "recency": 0.7398,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -890,15 +1014,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7946,
+      "importance": 0.7946,
+      "importance_score": 0.7946,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9818,
+        "recency": 0.9612,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -952,15 +1076,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7998,
+        "recency": 0.783,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1013,15 +1137,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9573,
+        "recency": 0.9373,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1036,87 +1160,6 @@
         "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
         "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
         "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2b4a10c6a262",
-      "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-      "url": "https://x.com/karpathy/status/2079610838143623371",
-      "primary_url": "https://x.com/karpathy/status/2079610838143623371",
-      "source": "X：Andrej Karpathy (@karpathy)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f27cd361ad5af13540c36cae62a98991594b013c",
-          "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-          "url": "https://x.com/karpathy/status/2079610838143623371",
-          "source": "X：Andrej Karpathy (@karpathy)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T16:53:55Z"
-        },
-        {
-          "id": "4afb004dcc6fddb178250d05094847cc1a25932a",
-          "title": "Karpathy：用语音与LLM长谈可提升理解效率 / One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to...",
-          "url": "https://x.com/karpathy/status/2079610838143623371",
-          "source": "Follow Builders · X · Andrej Karpathy",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-21T16:53:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Andrej Karpathy",
-        "X：Andrej Karpathy (@karpathy)"
-      ],
-      "items": [
-        {
-          "id": "f27cd361ad5af13540c36cae62a98991594b013c",
-          "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-          "url": "https://x.com/karpathy/status/2079610838143623371",
-          "source": "X：Andrej Karpathy (@karpathy)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T16:53:55Z"
-        },
-        {
-          "id": "4afb004dcc6fddb178250d05094847cc1a25932a",
-          "title": "Karpathy：用语音与LLM长谈可提升理解效率 / One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to...",
-          "url": "https://x.com/karpathy/status/2079610838143623371",
-          "source": "Follow Builders · X · Andrej Karpathy",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-21T16:53:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7217,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T16:53:55Z",
-      "latest_at": "2026-07-21T16:53:55Z",
-      "primary_item": {
-        "id": "f27cd361ad5af13540c36cae62a98991594b013c",
-        "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-        "url": "https://x.com/karpathy/status/2079610838143623371",
-        "source": "X：Andrej Karpathy (@karpathy)",
         "source_name": "AI HOT"
       }
     },
@@ -1193,15 +1236,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7878,
-      "importance": 0.7878,
-      "importance_score": 0.7878,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.751,
+        "recency": 0.7353,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1255,15 +1298,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9588,
+        "recency": 0.9387,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1316,15 +1359,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8514,
+        "recency": 0.8336,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1377,15 +1420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7651,
+        "recency": 0.7491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1401,68 +1444,6 @@
         "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d42362617c64",
-      "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-          "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-          "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7227,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T17:00:00Z",
-      "latest_at": "2026-07-21T17:00:00Z",
-      "primary_item": {
-        "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-        "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     }
   ]
