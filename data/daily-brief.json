@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T18:08:12.232756Z",
+  "generated_at": "2026-07-22T19:51:55.115137Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8577,
-      "importance": 0.8577,
-      "importance_score": 0.8577,
+      "score": 0.8535,
+      "importance": 0.8535,
+      "importance_score": 0.8535,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9372,
+        "recency": 0.9141,
         "story_heat": 0.25
       },
       "category": "official",
@@ -86,49 +86,49 @@
       }
     },
     {
-      "story_id": "story_3710e649c509",
-      "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-      "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-      "source": "GitHub Changelog",
+      "story_id": "story_d8ab4e37a1c1",
+      "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+      "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
-          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-          "source": "GitHub Changelog",
+          "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+          "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+          "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T16:21:47Z"
+          "published_at": "2026-07-22T19:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
-          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-          "source": "GitHub Changelog",
+          "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+          "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+          "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T16:21:47Z"
+          "published_at": "2026-07-22T19:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8474,
-      "importance": 0.8474,
-      "importance_score": 0.8474,
+      "score": 0.8498,
+      "importance": 0.8498,
+      "importance_score": 0.8498,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9747,
+        "recency": 0.9876,
         "story_heat": 0.0
       },
       "category": "official",
@@ -137,13 +137,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T16:21:47Z",
-      "latest_at": "2026-07-22T16:21:47Z",
+      "earliest_at": "2026-07-22T19:00:00Z",
+      "latest_at": "2026-07-22T19:00:00Z",
       "primary_item": {
-        "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
-        "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-        "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-        "source": "GitHub Changelog",
+        "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+        "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+        "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -201,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.847,
-      "importance": 0.847,
-      "importance_score": 0.847,
+      "score": 0.8433,
+      "importance": 0.8433,
+      "importance_score": 0.8433,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8332,
+        "recency": 0.8127,
         "story_heat": 0.25
       },
       "category": "official",
@@ -230,122 +230,65 @@
       }
     },
     {
-      "story_id": "story_70acebfbab7b",
-      "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "primary_url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_3710e649c509",
+      "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+      "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "279e175787d3add4a256c7ac2f454ed7d0cca39d",
-          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T04:52:13.369000Z"
-        },
-        {
-          "id": "bfff5271a6bebacb18fa8f6ae4082bbe49b280b2",
-          "title": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
-          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-          "source": "apnews.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-22T04:52:13.369000Z"
-        },
-        {
-          "id": "1a3b82afe4f7ffcd06e589e5fa7fee1bca982158",
-          "title": "法官批准用于训练克劳德的盗版书籍的 $1.5B 人为和解 / Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-          "url": "https://news.ycombinator.com/item?id=48996652",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-22T00:40:01.726000Z"
-        },
-        {
-          "id": "e99dabd08d0e81d5c299ecbb21433637230f5d0d",
-          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议 / Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T19:04:39Z"
+          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T16:21:47Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "apnews.com",
-        "hackernews"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "279e175787d3add4a256c7ac2f454ed7d0cca39d",
-          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T04:52:13.369000Z"
-        },
-        {
-          "id": "bfff5271a6bebacb18fa8f6ae4082bbe49b280b2",
-          "title": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
-          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-          "source": "apnews.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-22T04:52:13.369000Z"
-        },
-        {
-          "id": "1a3b82afe4f7ffcd06e589e5fa7fee1bca982158",
-          "title": "法官批准用于训练克劳德的盗版书籍的 $1.5B 人为和解 / Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-          "url": "https://news.ycombinator.com/item?id=48996652",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-22T00:40:01.726000Z"
-        },
-        {
-          "id": "e99dabd08d0e81d5c299ecbb21433637230f5d0d",
-          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议 / Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T19:04:39Z"
+          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T16:21:47Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8431,
+      "importance": 0.8431,
+      "importance_score": 0.8431,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8257,
-        "story_heat": 0.75
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9507,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T19:04:39Z",
-      "latest_at": "2026-07-22T04:52:13.369000Z",
+      "earliest_at": "2026-07-22T16:21:47Z",
+      "latest_at": "2026-07-22T16:21:47Z",
       "primary_item": {
-        "id": "279e175787d3add4a256c7ac2f454ed7d0cca39d",
-        "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-        "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+        "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+        "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -383,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9285,
+        "recency": 0.9056,
         "story_heat": 0.0
       },
       "category": "official",
@@ -408,6 +351,187 @@
         "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e9c71c13a6e7",
+      "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+      "url": "https://github.com/marcelroed/gigatoken",
+      "primary_url": "https://github.com/marcelroed/gigatoken",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        },
+        {
+          "id": "a8c40916236521d37842f5fb913730ac539029cb",
+          "title": "GigaToken：语言模型分词速度提升约1000倍",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        },
+        {
+          "id": "f5fcc48e7fc6ad4c86ddb614a349ca9e55f1d88e",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers / GigaToken: ~1000x faster Language model tokenization",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-22T17:20:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        },
+        {
+          "id": "a8c40916236521d37842f5fb913730ac539029cb",
+          "title": "GigaToken：语言模型分词速度提升约1000倍",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        },
+        {
+          "id": "f5fcc48e7fc6ad4c86ddb614a349ca9e55f1d88e",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers / GigaToken: ~1000x faster Language model tokenization",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-22T17:20:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9856,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T17:20:38Z",
+      "latest_at": "2026-07-22T18:51:32.473000Z",
+      "primary_item": {
+        "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
+        "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+        "url": "https://github.com/marcelroed/gigatoken",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5699d15319be",
+      "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+      "primary_url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7cb67d35d03bc382ee121af5345783f04240bc8e",
+          "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因",
+          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T19:11:46Z"
+        },
+        {
+          "id": "3963e74689cf9da729a8369e7f1a4ef2708656f1",
+          "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因 / How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-22T19:11:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7cb67d35d03bc382ee121af5345783f04240bc8e",
+          "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因",
+          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T19:11:46Z"
+        },
+        {
+          "id": "3963e74689cf9da729a8369e7f1a4ef2708656f1",
+          "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因 / How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-22T19:11:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9904,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T19:11:46Z",
+      "latest_at": "2026-07-22T19:11:46Z",
+      "primary_item": {
+        "id": "7cb67d35d03bc382ee121af5345783f04240bc8e",
+        "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因",
+        "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -445,15 +569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7265,
+        "recency": 0.7086,
         "story_heat": 0.0
       },
       "category": "official",
@@ -507,15 +631,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9285,
+        "recency": 0.9056,
         "story_heat": 0.0
       },
       "category": "official",
@@ -569,15 +693,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9569,
+        "recency": 0.9333,
         "story_heat": 0.0
       },
       "category": "official",
@@ -668,15 +792,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7576,
+        "recency": 0.7389,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -730,15 +854,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9152,
+        "recency": 0.8926,
         "story_heat": 0.0
       },
       "category": "official",
@@ -792,15 +916,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.991,
+        "recency": 0.9666,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -872,15 +996,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8884,
+        "recency": 0.8665,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -897,6 +1021,67 @@
         "url": "https://www.aibase.com/news/29807",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e8fd0fe4c651",
+      "title": "微软 MagenticLite 模型全面开源",
+      "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+      "primary_url": "https://x.com/MSFTResearch/status/2079989338994069511",
+      "source": "X：Microsoft Research (@MSFTResearch)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
+          "title": "微软 MagenticLite 模型全面开源",
+          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T17:57:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Microsoft Research (@MSFTResearch)"
+      ],
+      "items": [
+        {
+          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
+          "title": "微软 MagenticLite 模型全面开源",
+          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T17:57:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9729,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T17:57:57Z",
+      "latest_at": "2026-07-22T17:57:57Z",
+      "primary_item": {
+        "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
+        "title": "微软 MagenticLite 模型全面开源",
+        "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+        "source": "X：Microsoft Research (@MSFTResearch)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -934,15 +1119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9421,
+        "recency": 0.9189,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -995,15 +1180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7273,
+        "recency": 0.7094,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,15 +1260,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7917,
-      "importance": 0.7917,
-      "importance_score": 0.7917,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9449,
+        "recency": 0.9216,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1099,67 +1284,6 @@
         "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
         "url": "https://www.ithome.com/0/980/322.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_85aa09c15ed0",
-      "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "primary_url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
-          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:23:31.324000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
-          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:23:31.324000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9893,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T17:23:31.324000Z",
-      "latest_at": "2026-07-22T17:23:31.324000Z",
-      "primary_item": {
-        "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
-        "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-        "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-        "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -1198,15 +1322,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7698,
+        "recency": 0.7508,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1225,49 +1349,49 @@
       }
     },
     {
-      "story_id": "story_959c60303495",
-      "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
-      "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "story_id": "story_85aa09c15ed0",
+      "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "primary_url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "source": "Anthropic：Newsroom（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "549954e5af653b0d32ae90f88c2759c5abd912e0",
-          "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
-          "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
+          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T12:28:08Z"
+          "published_at": "2026-07-22T17:23:31.324000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+        "Anthropic：Newsroom（网页）"
       ],
       "items": [
         {
-          "id": "549954e5af653b0d32ae90f88c2759c5abd912e0",
-          "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
-          "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
+          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T12:28:08Z"
+          "published_at": "2026-07-22T17:23:31.324000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9214,
+        "recency": 0.9649,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1275,174 +1399,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T12:28:08Z",
-      "latest_at": "2026-07-22T12:28:08Z",
+      "earliest_at": "2026-07-22T17:23:31.324000Z",
+      "latest_at": "2026-07-22T17:23:31.324000Z",
       "primary_item": {
-        "id": "549954e5af653b0d32ae90f88c2759c5abd912e0",
-        "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
-        "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3b721dae502e",
-      "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-      "url": "https://ads.openai.com",
-      "primary_url": "https://ads.openai.com",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
-          "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-          "url": "https://ads.openai.com",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T19:39:29.689000Z"
-        },
-        {
-          "id": "accf280639a56738b35caeae00d936182a99c7d9",
-          "title": "在ChatGPT上投放广告",
-          "url": "https://ads.openai.com",
-          "source": "ads.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T19:39:29.689000Z"
-        },
-        {
-          "id": "84c8e38502b6dd5c55eff6bb59b0b9dbaebdc71a",
-          "title": "在ChatGPT上投放广告 / Advertise in ChatGPT",
-          "url": "https://ads.openai.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T18:58:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "ads.openai.com"
-      ],
-      "items": [
-        {
-          "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
-          "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-          "url": "https://ads.openai.com",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T19:39:29.689000Z"
-        },
-        {
-          "id": "accf280639a56738b35caeae00d936182a99c7d9",
-          "title": "在ChatGPT上投放广告",
-          "url": "https://ads.openai.com",
-          "source": "ads.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T19:39:29.689000Z"
-        },
-        {
-          "id": "84c8e38502b6dd5c55eff6bb59b0b9dbaebdc71a",
-          "title": "在ChatGPT上投放广告 / Advertise in ChatGPT",
-          "url": "https://ads.openai.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T18:58:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7228,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T18:58:44Z",
-      "latest_at": "2026-07-21T19:39:29.689000Z",
-      "primary_item": {
-        "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
-        "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-        "url": "https://ads.openai.com",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_03c64a17d097",
-      "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
-      "url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg",
-      "primary_url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8ae58b1a8f9dd0bf36f6d0de837e89a696a87626",
-          "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
-          "url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T12:34:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：卡尔的AI沃茨"
-      ],
-      "items": [
-        {
-          "id": "8ae58b1a8f9dd0bf36f6d0de837e89a696a87626",
-          "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
-          "url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T12:34:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9228,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T12:34:24Z",
-      "latest_at": "2026-07-22T12:34:24Z",
-      "primary_item": {
-        "id": "8ae58b1a8f9dd0bf36f6d0de837e89a696a87626",
-        "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
-        "url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg",
-        "source": "公众号：卡尔的AI沃茨",
+        "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
+        "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+        "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+        "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
       }
     }
