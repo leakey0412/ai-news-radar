@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:55:28.581534Z",
+  "generated_at": "2026-07-23T18:10:06.367920Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8463,
-      "importance": 0.8463,
-      "importance_score": 0.8463,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7816,
+        "recency": 0.7677,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7832,
+        "recency": 0.7692,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,6 +200,68 @@
         "title": "将 Nunchaku 4 位扩散推理引入扩散器 / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
         "url": "https://huggingface.co/blog/nunchaku-diffusers",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7569338ee0d3",
+      "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "primary_url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
+          "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
+          "url": "https://openai.com/index/health-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
+          "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
+          "url": "https://openai.com/index/health-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7692,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T00:00:00Z",
+      "latest_at": "2026-07-23T00:00:00Z",
+      "primary_item": {
+        "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
+        "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
+        "url": "https://openai.com/index/health-in-chatgpt",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -238,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8032,
-      "importance": 0.8032,
-      "importance_score": 0.8032,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7286,
+        "recency": 0.7156,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,87 +325,6 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_085548e5aa00",
-      "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-      "primary_url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:52:44Z"
-        },
-        {
-          "id": "474065204c1f6c5657392f12803762152e55500c",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google’s Gemini nears billion-user milestone",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:52:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:52:44Z"
-        },
-        {
-          "id": "474065204c1f6c5657392f12803762152e55500c",
-          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google’s Gemini nears billion-user milestone",
-          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-23T14:52:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9709,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T14:52:44Z",
-      "latest_at": "2026-07-23T14:52:44Z",
-      "primary_item": {
-        "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
-        "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-        "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -400,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7868,
-      "importance": 0.7868,
-      "importance_score": 0.7868,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7346,
+        "recency": 0.7215,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -424,6 +405,87 @@
         "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
         "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_085548e5aa00",
+      "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
+      "primary_url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
+          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
+          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T14:52:44Z"
+        },
+        {
+          "id": "474065204c1f6c5657392f12803762152e55500c",
+          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google’s Gemini nears billion-user milestone",
+          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-23T14:52:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
+          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
+          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T14:52:44Z"
+        },
+        {
+          "id": "474065204c1f6c5657392f12803762152e55500c",
+          "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品 / Google’s Gemini nears billion-user milestone",
+          "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-23T14:52:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9536,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T14:52:44Z",
+      "latest_at": "2026-07-23T14:52:44Z",
+      "primary_item": {
+        "id": "fa328c231b7b7dd15d90e5a0a7e84bb354c54288",
+        "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
+        "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -481,15 +543,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9586,
+        "recency": 0.9416,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -581,15 +643,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8163,
+        "recency": 0.8017,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -605,106 +667,6 @@
         "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
         "url": "https://www.ithome.com/0/980/471.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e9c71c13a6e7",
-      "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
-      "url": "https://github.com/marcelroed/gigatoken",
-      "primary_url": "https://github.com/marcelroed/gigatoken",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
-          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
-          "url": "https://github.com/marcelroed/gigatoken",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T18:51:32.473000Z"
-        },
-        {
-          "id": "a8c40916236521d37842f5fb913730ac539029cb",
-          "title": "GigaToken：语言模型分词速度提升约1000倍",
-          "url": "https://github.com/marcelroed/gigatoken",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-22T18:51:32.473000Z"
-        },
-        {
-          "id": "f5fcc48e7fc6ad4c86ddb614a349ca9e55f1d88e",
-          "title": "GigaToken：语言模型分词速度提升约1000倍 / GigaToken: ~1000x faster Language model tokenization",
-          "url": "https://github.com/marcelroed/gigatoken",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-22T17:20:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
-          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
-          "url": "https://github.com/marcelroed/gigatoken",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T18:51:32.473000Z"
-        },
-        {
-          "id": "a8c40916236521d37842f5fb913730ac539029cb",
-          "title": "GigaToken：语言模型分词速度提升约1000倍",
-          "url": "https://github.com/marcelroed/gigatoken",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-22T18:51:32.473000Z"
-        },
-        {
-          "id": "f5fcc48e7fc6ad4c86ddb614a349ca9e55f1d88e",
-          "title": "GigaToken：语言模型分词速度提升约1000倍 / GigaToken: ~1000x faster Language model tokenization",
-          "url": "https://github.com/marcelroed/gigatoken",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-22T17:20:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7271,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T17:20:38Z",
-      "latest_at": "2026-07-22T18:51:32.473000Z",
-      "primary_item": {
-        "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
-        "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
-        "url": "https://github.com/marcelroed/gigatoken",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -743,15 +705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9389,
+        "recency": 0.9222,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -823,15 +785,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8932,
+        "recency": 0.8773,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -848,6 +810,168 @@
         "url": "https://www.aibase.com/news/29843",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f874ff9a4072",
+      "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+      "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+      "primary_url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39ca60e336078bc560f5427e1deef672799be840",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:01:30Z"
+        },
+        {
+          "id": "13371efb49f353a8b7394144c16a08179fd2381c",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-23T17:01:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "39ca60e336078bc560f5427e1deef672799be840",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:01:30Z"
+        },
+        {
+          "id": "13371efb49f353a8b7394144c16a08179fd2381c",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-23T17:01:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9836,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T17:01:30Z",
+      "latest_at": "2026-07-23T17:01:30Z",
+      "primary_item": {
+        "id": "39ca60e336078bc560f5427e1deef672799be840",
+        "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+        "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e9c71c13a6e7",
+      "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+      "url": "https://github.com/marcelroed/gigatoken",
+      "primary_url": "https://github.com/marcelroed/gigatoken",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        },
+        {
+          "id": "a8c40916236521d37842f5fb913730ac539029cb",
+          "title": "GigaToken：语言模型分词速度提升约1000倍",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        },
+        {
+          "id": "a8c40916236521d37842f5fb913730ac539029cb",
+          "title": "GigaToken：语言模型分词速度提升约1000倍",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7142,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T18:51:32.473000Z",
+      "latest_at": "2026-07-22T18:51:32.473000Z",
+      "primary_item": {
+        "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
+        "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+        "url": "https://github.com/marcelroed/gigatoken",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -885,21 +1009,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8297,
+        "recency": 0.815,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T04:00:00Z",
       "latest_at": "2026-07-23T04:00:00Z",
@@ -908,6 +1031,66 @@
         "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
         "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
         "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_112b4523d36f",
+      "title": "微软MAI模型：以更低成本实现前沿能力规模化",
+      "url": "https://x.com/satyanadella/status/2080329851127669104",
+      "primary_url": "https://x.com/satyanadella/status/2080329851127669104",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+          "title": "微软MAI模型：以更低成本实现前沿能力规模化",
+          "url": "https://x.com/satyanadella/status/2080329851127669104",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T16:31:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+          "title": "微软MAI模型：以更低成本实现前沿能力规模化",
+          "url": "https://x.com/satyanadella/status/2080329851127669104",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T16:31:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9764,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T16:31:01Z",
+      "latest_at": "2026-07-23T16:31:01Z",
+      "primary_item": {
+        "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+        "title": "微软MAI模型：以更低成本实现前沿能力规模化",
+        "url": "https://x.com/satyanadella/status/2080329851127669104",
+        "source": "X：Satya Nadella (@satyanadella)",
         "source_name": "AI HOT"
       }
     },
@@ -965,15 +1148,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7307,
+        "recency": 0.7177,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1027,15 +1210,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9224,
+        "recency": 0.906,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1106,15 +1289,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.822,
+        "recency": 0.8073,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1131,87 +1314,6 @@
         "url": "https://www.aibase.com/news/29816",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bc4da3fea4fc",
-      "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
-      "url": "https://github.com/cactus-compute/cactus-hybrid",
-      "primary_url": "https://github.com/cactus-compute/cactus-hybrid",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9183f24fd0a2f27a4fb7f2151480d9279d4b65e8",
-          "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
-          "url": "https://github.com/cactus-compute/cactus-hybrid",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T05:47:29.042000Z"
-        },
-        {
-          "id": "e979efd4d9513751d3ac9afefa61cda734df90da",
-          "title": "Show HN: 《仙人掌杂交种》：我们教4岁的杰玛如何分辨对错 / Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-          "url": "https://github.com/cactus-compute/cactus-hybrid",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-22T17:56:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "9183f24fd0a2f27a4fb7f2151480d9279d4b65e8",
-          "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
-          "url": "https://github.com/cactus-compute/cactus-hybrid",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T05:47:29.042000Z"
-        },
-        {
-          "id": "e979efd4d9513751d3ac9afefa61cda734df90da",
-          "title": "Show HN: 《仙人掌杂交种》：我们教4岁的杰玛如何分辨对错 / Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-          "url": "https://github.com/cactus-compute/cactus-hybrid",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-22T17:56:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8515,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T17:56:29Z",
-      "latest_at": "2026-07-23T05:47:29.042000Z",
-      "primary_item": {
-        "id": "9183f24fd0a2f27a4fb7f2151480d9279d4b65e8",
-        "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
-        "url": "https://github.com/cactus-compute/cactus-hybrid",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1249,15 +1351,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
+      "score": 0.7232,
+      "importance": 0.7232,
+      "importance_score": 0.7232,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.75,
+        "recency": 0.7367,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1275,122 +1377,62 @@
       }
     },
     {
-      "story_id": "story_5dcd050f470c",
-      "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
-      "url": "https://x.com/omarsar0/status/2079982491578827214",
-      "primary_url": "https://x.com/omarsar0/status/2079982491578827214",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "story_id": "story_bc4da3fea4fc",
+      "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
+      "url": "https://github.com/cactus-compute/cactus-hybrid",
+      "primary_url": "https://github.com/cactus-compute/cactus-hybrid",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
-          "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
-          "url": "https://x.com/omarsar0/status/2079982491578827214",
-          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+          "id": "9183f24fd0a2f27a4fb7f2151480d9279d4b65e8",
+          "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
+          "url": "https://github.com/cactus-compute/cactus-hybrid",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T17:30:44Z"
+          "published_at": "2026-07-23T05:47:29.042000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
-          "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
-          "url": "https://x.com/omarsar0/status/2079982491578827214",
-          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+          "id": "9183f24fd0a2f27a4fb7f2151480d9279d4b65e8",
+          "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
+          "url": "https://github.com/cactus-compute/cactus-hybrid",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T17:30:44Z"
+          "published_at": "2026-07-23T05:47:29.042000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
+      "score": 0.7321,
+      "importance": 0.7321,
+      "importance_score": 0.7321,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7131,
+        "recency": 0.8363,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-22T17:30:44Z",
-      "latest_at": "2026-07-22T17:30:44Z",
+      "earliest_at": "2026-07-23T05:47:29.042000Z",
+      "latest_at": "2026-07-23T05:47:29.042000Z",
       "primary_item": {
-        "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
-        "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
-        "url": "https://x.com/omarsar0/status/2079982491578827214",
-        "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5ab660276dcf",
-      "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-      "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-      "primary_url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-          "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T05:13:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-          "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T05:13:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8446,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T05:13:37Z",
-      "latest_at": "2026-07-23T05:13:37Z",
-      "primary_item": {
-        "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-        "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-        "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-        "source": "公众号：数字生命卡兹克",
+        "id": "9183f24fd0a2f27a4fb7f2151480d9279d4b65e8",
+        "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
+        "url": "https://github.com/cactus-compute/cactus-hybrid",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1429,15 +1471,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.9067,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1453,139 +1495,6 @@
         "url": "https://www.aibase.com/news/29844",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "Deepseek创始人梁文锋在近期一场近4小时的投资人闭门会议上，系统阐述了DeepSeek的核心战略。里面高频出现的是AGI、成本、开源、团队稳定和克制：产品是通往AGI的台阶，Coding Agent 是现阶段重点，持续学习是下一代模型的关键；商业化、C 端流量、超级App 都不急着抢，低价和开源则可以用来换更大的生态势能。这篇文章是收集到的52条言语。部分词句在保留原意的基础上，与原文可能略有出入。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-23",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "8add6f0a3b07912c09e6cc3360a3c948595220c4",
-          "title": "Deepseek创始人梁文锋在近期一场近4小时的投资人闭门会议上，系统阐述了DeepSeek的核心战略。里面高频出现的是AGI、成本、开源、团队稳定和克制：产品是通往AGI的台阶，Coding Agent 是现阶段重点，持续学习是下一代模型的关键；商业化、C 端流量、超级App 都不急着抢，低价和开源则可以用来换更大的生态势能。这篇文章是收集到的52条言语。部分词句在保留原意的基础上，与原文可能略有出入。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-23T16:55:28.581534Z"
-        },
-        {
-          "id": "5442e570d645d0a0461694822ddec97c074bba05",
-          "title": "千问昨天发布了生图模型： Qwen Image 3。小歪用50+ 组案例，把Qwen Image 3和GPT Image 2放在真人写实、高密度信息图、复杂中文、商业海报、UI、光影细节等场景里做了同题对比。GPT Image 2综合稳定性更强，尤其复杂文字更靠谱；Qwen Image 3 在海报、社媒配图、品牌概念稿上很能打，现在有免费额度，值得顺手试试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-23T16:55:28.581534Z"
-        },
-        {
-          "id": "503b6116f69d2f86ca29053506567a98243ef871",
-          "title": "最近ChatCut很火，黄叔研究了一下它的整个迭代历程：从PaperCut把文字变成剪辑对象，到对话剪辑、AI生成MG，再到通用剪辑Agent，最后接入Codex / ChatGPT，变成背后的专业执行层。发现真正值得琢磨的是专业软件的新护城河：可调用、可观察、可编辑、可接管。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-22T18:08:12.232756Z"
-        },
-        {
-          "id": "f0e93fc8601909242961e788bce80e5c54b471c2",
-          "title": "多数人做产品，一上来就想原创、想颠覆，最后用 AI 把一个没人要的想法做得很完整。刘小排借硅谷游戏公司 Zynga 的创始人 Mark Pincus 的Proven、Better、New框架，拆解了下绝大多数成功产品的实现路径：先研究同平台、同用户、同场景里已经验证过的模式；再做一个十个用户都会觉得明显更好的改进；再给用户一个尝试理由，并快速测试多个变化。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-22T16:57:17.834230Z"
-        },
-        {
-          "id": "46591bdc2d9a687347f11d1847f12cddcf8d73cc",
-          "title": "很多创业复盘最容易变成“成功学清单”，看完很燃，但是最后还是不知道该抓什么。Founders播客主理人David Senra的这期访谈适合创始人、AI 产品人、开发者和长期做内容/项目的人看。一起来看看他在研究了400多位创始人后学到了什么！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-22T16:57:17.834230Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "社区更新 · 2026-07-22",
-        "社区更新 · 2026-07-23"
-      ],
-      "items": [
-        {
-          "id": "8add6f0a3b07912c09e6cc3360a3c948595220c4",
-          "title": "Deepseek创始人梁文锋在近期一场近4小时的投资人闭门会议上，系统阐述了DeepSeek的核心战略。里面高频出现的是AGI、成本、开源、团队稳定和克制：产品是通往AGI的台阶，Coding Agent 是现阶段重点，持续学习是下一代模型的关键；商业化、C 端流量、超级App 都不急着抢，低价和开源则可以用来换更大的生态势能。这篇文章是收集到的52条言语。部分词句在保留原意的基础上，与原文可能略有出入。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-23T16:55:28.581534Z"
-        },
-        {
-          "id": "5442e570d645d0a0461694822ddec97c074bba05",
-          "title": "千问昨天发布了生图模型： Qwen Image 3。小歪用50+ 组案例，把Qwen Image 3和GPT Image 2放在真人写实、高密度信息图、复杂中文、商业海报、UI、光影细节等场景里做了同题对比。GPT Image 2综合稳定性更强，尤其复杂文字更靠谱；Qwen Image 3 在海报、社媒配图、品牌概念稿上很能打，现在有免费额度，值得顺手试试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-23T16:55:28.581534Z"
-        },
-        {
-          "id": "503b6116f69d2f86ca29053506567a98243ef871",
-          "title": "最近ChatCut很火，黄叔研究了一下它的整个迭代历程：从PaperCut把文字变成剪辑对象，到对话剪辑、AI生成MG，再到通用剪辑Agent，最后接入Codex / ChatGPT，变成背后的专业执行层。发现真正值得琢磨的是专业软件的新护城河：可调用、可观察、可编辑、可接管。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-22T18:08:12.232756Z"
-        },
-        {
-          "id": "f0e93fc8601909242961e788bce80e5c54b471c2",
-          "title": "多数人做产品，一上来就想原创、想颠覆，最后用 AI 把一个没人要的想法做得很完整。刘小排借硅谷游戏公司 Zynga 的创始人 Mark Pincus 的Proven、Better、New框架，拆解了下绝大多数成功产品的实现路径：先研究同平台、同用户、同场景里已经验证过的模式；再做一个十个用户都会觉得明显更好的改进；再给用户一个尝试理由，并快速测试多个变化。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-22T16:57:17.834230Z"
-        },
-        {
-          "id": "46591bdc2d9a687347f11d1847f12cddcf8d73cc",
-          "title": "很多创业复盘最容易变成“成功学清单”，看完很燃，但是最后还是不知道该抓什么。Founders播客主理人David Senra的这期访谈适合创始人、AI 产品人、开发者和长期做内容/项目的人看。一起来看看他在研究了400多位创始人后学到了什么！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-22",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-22T16:57:17.834230Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-22T16:57:17.834230Z",
-      "latest_at": "2026-07-23T16:55:28.581534Z",
-      "primary_item": {
-        "id": "8add6f0a3b07912c09e6cc3360a3c948595220c4",
-        "title": "Deepseek创始人梁文锋在近期一场近4小时的投资人闭门会议上，系统阐述了DeepSeek的核心战略。里面高频出现的是AGI、成本、开源、团队稳定和克制：产品是通往AGI的台阶，Coding Agent 是现阶段重点，持续学习是下一代模型的关键；商业化、C 端流量、超级App 都不急着抢，低价和开源则可以用来换更大的生态势能。这篇文章是收集到的52条言语。部分词句在保留原意的基础上，与原文可能略有出入。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-23",
-        "source_name": "WaytoAGI"
       }
     }
   ]
