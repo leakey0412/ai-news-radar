@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T00:55:35.980309Z",
+  "generated_at": "2026-07-24T04:11:24.030742Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8519,
-      "importance": 0.8519,
-      "importance_score": 0.8519,
+      "score": 0.8439,
+      "importance": 0.8439,
+      "importance_score": 0.8439,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9661,
+        "recency": 0.9216,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8452,
-      "importance": 0.8452,
-      "importance_score": 0.8452,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9286,
+        "recency": 0.8859,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,15 +200,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9339,
+        "recency": 0.8909,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -281,15 +281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9798,
+        "recency": 0.9347,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -306,6 +306,87 @@
         "url": "https://www.ithome.com/0/980/890.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_68080c03187e",
+      "title": "Runway推出生成式媒体AI模型路由平台系统，全面开启开发者架构服务",
+      "url": "https://www.aibase.com/news/29849",
+      "primary_url": "https://www.aibase.com/news/29849",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ac80a5a94bdaebe1572f4e4056425797024b3211",
+          "title": "Runway推出生成式媒体AI模型路由平台系统，全面开启开发者架构服务",
+          "url": "https://www.aibase.com/news/29849",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T04:11:24.030742Z"
+        },
+        {
+          "id": "e7f291c8bc3dd5a6f09a9684b54d6c0759886f19",
+          "title": "Runway 推出生成式媒体 AI 模型路由平台系统，全面开启开发者架构服务",
+          "url": "https://www.aibase.com/zh/news/29849",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ac80a5a94bdaebe1572f4e4056425797024b3211",
+          "title": "Runway推出生成式媒体AI模型路由平台系统，全面开启开发者架构服务",
+          "url": "https://www.aibase.com/news/29849",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T04:11:24.030742Z"
+        },
+        {
+          "id": "e7f291c8bc3dd5a6f09a9684b54d6c0759886f19",
+          "title": "Runway 推出生成式媒体 AI 模型路由平台系统，全面开启开发者架构服务",
+          "url": "https://www.aibase.com/zh/news/29849",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T04:11:24.030742Z",
+      "latest_at": "2026-07-24T04:11:24.030742Z",
+      "primary_item": {
+        "id": "ac80a5a94bdaebe1572f4e4056425797024b3211",
+        "title": "Runway推出生成式媒体AI模型路由平台系统，全面开启开发者架构服务",
+        "url": "https://www.aibase.com/news/29849",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -343,15 +424,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.94,
+        "recency": 0.8967,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,15 +486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9275,
+        "recency": 0.8848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -429,6 +510,87 @@
         "url": "https://x.com/OpenAI/status/2080378182469857576",
         "source": "X：OpenAI (@OpenAI)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_beff3db76c17",
+      "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
+      "url": "https://www.aibase.com/news/29851",
+      "primary_url": "https://www.aibase.com/news/29851",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b7bd7e539877eb7ce31286a007ea7eb61350a0af",
+          "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
+          "url": "https://www.aibase.com/news/29851",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T04:11:24.030742Z"
+        },
+        {
+          "id": "7dfa6c88d9a63b61dda65a9ac87aa132d322743a",
+          "title": "微软发布自研双模型 MAI-Image-2.5-Pro 与 MAI-Voice-2-Flash，已落地 Bing 和 PowerPoint",
+          "url": "https://www.aibase.com/zh/news/29851",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b7bd7e539877eb7ce31286a007ea7eb61350a0af",
+          "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
+          "url": "https://www.aibase.com/news/29851",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T04:11:24.030742Z"
+        },
+        {
+          "id": "7dfa6c88d9a63b61dda65a9ac87aa132d322743a",
+          "title": "微软发布自研双模型 MAI-Image-2.5-Pro 与 MAI-Voice-2-Flash，已落地 Bing 和 PowerPoint",
+          "url": "https://www.aibase.com/zh/news/29851",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T04:11:24.030742Z",
+      "latest_at": "2026-07-24T04:11:24.030742Z",
+      "primary_item": {
+        "id": "b7bd7e539877eb7ce31286a007ea7eb61350a0af",
+        "title": "微软自研双模型MAI-Image-2.5-Pro与MAI-Voice-2-Flash发布：不蒸馏第三方，已落地Bing和PowerPoint",
+        "url": "https://www.aibase.com/news/29851",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -485,15 +647,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8649,
+        "recency": 0.8251,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -510,67 +672,6 @@
         "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cd081ecec4db",
-      "title": "谷歌旗舰模型Gemini 3.5 Pro难产延期，人才流失与军方合作引发内部士气危机",
-      "url": "https://www.aibase.com/news/29845",
-      "primary_url": "https://www.aibase.com/news/29845",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "15894256d18acd6c57ee3a5db941d0a99f7cbcd7",
-          "title": "谷歌旗舰模型Gemini 3.5 Pro难产延期，人才流失与军方合作引发内部士气危机",
-          "url": "https://www.aibase.com/news/29845",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T00:55:35.980309Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "15894256d18acd6c57ee3a5db941d0a99f7cbcd7",
-          "title": "谷歌旗舰模型Gemini 3.5 Pro难产延期，人才流失与军方合作引发内部士气危机",
-          "url": "https://www.aibase.com/news/29845",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T00:55:35.980309Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T00:55:35.980309Z",
-      "latest_at": "2026-07-24T00:55:35.980309Z",
-      "primary_item": {
-        "id": "15894256d18acd6c57ee3a5db941d0a99f7cbcd7",
-        "title": "谷歌旗舰模型Gemini 3.5 Pro难产延期，人才流失与军方合作引发内部士气危机",
-        "url": "https://www.aibase.com/news/29845",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -627,15 +728,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8922,
+        "recency": 0.8511,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -708,15 +809,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.854,
+        "recency": 0.8147,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -770,15 +871,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.8875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -831,15 +932,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8364,
+        "recency": 0.7979,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -911,15 +1012,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9126,
+        "recency": 0.8706,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -973,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8623,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -996,6 +1097,87 @@
         "url": "https://x.com/gdb/status/2080351159638704615",
         "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9b4d67af0b1a",
+      "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
+      "url": "https://www.aibase.com/news/29852",
+      "primary_url": "https://www.aibase.com/news/29852",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
+          "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
+          "url": "https://www.aibase.com/news/29852",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T04:11:24.030742Z"
+        },
+        {
+          "id": "a336f463e47c45591162cc3b6da9f10a9f5518d1",
+          "title": "谷歌 Gemini 月活突破 9.5 亿，逼近 ChatGPT 十亿用户里程碑",
+          "url": "https://www.aibase.com/zh/news/29852",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
+          "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
+          "url": "https://www.aibase.com/news/29852",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T04:11:24.030742Z"
+        },
+        {
+          "id": "a336f463e47c45591162cc3b6da9f10a9f5518d1",
+          "title": "谷歌 Gemini 月活突破 9.5 亿，逼近 ChatGPT 十亿用户里程碑",
+          "url": "https://www.aibase.com/zh/news/29852",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T04:11:24.030742Z",
+      "latest_at": "2026-07-24T04:11:24.030742Z",
+      "primary_item": {
+        "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
+        "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
+        "url": "https://www.aibase.com/news/29852",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1033,15 +1215,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.909,
+        "recency": 0.8672,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1061,246 +1243,26 @@
       }
     },
     {
-      "story_id": "story_a34a897d283a",
-      "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-      "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-      "primary_url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
-          "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-          "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T04:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
-          "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-          "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T04:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7392,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T04:00:00Z",
-      "latest_at": "2026-07-23T04:00:00Z",
-      "primary_item": {
-        "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
-        "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-        "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9f6d35e74fe5",
-      "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
-      "url": "https://www.ithome.com/0/980/471.htm",
-      "primary_url": "https://www.ithome.com/0/980/471.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ae6e9bd3cff48e46c6abbacc23d62b1edd1f0ea1",
-          "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
-          "url": "https://www.ithome.com/0/980/471.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T02:51:59Z"
-        },
-        {
-          "id": "3595caa7689e2675c96cabaf464300832911181e",
-          "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存在「作弊」行为",
-          "url": "https://www.ithome.com/0/980/471.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8d5408770ce9f1e4966f428aa9ebc4adbcdfa2d7",
-          "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存“作弊”行为",
-          "url": "https://www.ithome.com/0/980/471.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T02:51:59Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ae6e9bd3cff48e46c6abbacc23d62b1edd1f0ea1",
-          "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
-          "url": "https://www.ithome.com/0/980/471.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T02:51:59Z"
-        },
-        {
-          "id": "3595caa7689e2675c96cabaf464300832911181e",
-          "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存在「作弊」行为",
-          "url": "https://www.ithome.com/0/980/471.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8d5408770ce9f1e4966f428aa9ebc4adbcdfa2d7",
-          "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存“作弊”行为",
-          "url": "https://www.ithome.com/0/980/471.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T02:51:59Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7272,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T02:51:59Z",
-      "latest_at": "2026-07-23T03:20:48.795593Z",
-      "primary_item": {
-        "id": "ae6e9bd3cff48e46c6abbacc23d62b1edd1f0ea1",
-        "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
-        "url": "https://www.ithome.com/0/980/471.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_112b4523d36f",
-      "title": "微软MAI模型：以更低成本实现前沿能力规模化",
-      "url": "https://x.com/satyanadella/status/2080329851127669104",
-      "primary_url": "https://x.com/satyanadella/status/2080329851127669104",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
-          "title": "微软MAI模型：以更低成本实现前沿能力规模化",
-          "url": "https://x.com/satyanadella/status/2080329851127669104",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T16:31:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
-          "title": "微软MAI模型：以更低成本实现前沿能力规模化",
-          "url": "https://x.com/satyanadella/status/2080329851127669104",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T16:31:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8856,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T16:31:01Z",
-      "latest_at": "2026-07-23T16:31:01Z",
-      "primary_item": {
-        "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
-        "title": "微软MAI模型：以更低成本实现前沿能力规模化",
-        "url": "https://x.com/satyanadella/status/2080329851127669104",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_959e9d757ff8",
-      "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-      "url": "https://www.aibase.com/news/29843",
-      "primary_url": "https://www.aibase.com/news/29843",
+      "story_id": "story_a4d552ab2dc7",
+      "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+      "url": "https://www.aibase.com/news/29855",
+      "primary_url": "https://www.aibase.com/news/29855",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
-          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-          "url": "https://www.aibase.com/news/29843",
+          "id": "b623a138752f2054b382ede5cc91f4f9579fe7b6",
+          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+          "url": "https://www.aibase.com/news/29855",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T09:06:06.996767Z"
+          "published_at": "2026-07-24T04:11:24.030742Z"
         },
         {
-          "id": "77beaf1957d446f9335a039d9cba068e13a7fd52",
-          "title": "Claude 语音模式即将升级：支持切换 Opus 和 Sonnet 更强模型，告别 Haiku 独撑局面",
-          "url": "https://www.aibase.com/zh/news/29843",
+          "id": "0f042855bc73176bf1aef7b1d8d94ec71aaa5e6e",
+          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+          "url": "https://www.aibase.com/zh/news/29855",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1314,18 +1276,18 @@
       ],
       "items": [
         {
-          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
-          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-          "url": "https://www.aibase.com/news/29843",
+          "id": "b623a138752f2054b382ede5cc91f4f9579fe7b6",
+          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+          "url": "https://www.aibase.com/news/29855",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T09:06:06.996767Z"
+          "published_at": "2026-07-24T04:11:24.030742Z"
         },
         {
-          "id": "77beaf1957d446f9335a039d9cba068e13a7fd52",
-          "title": "Claude 语音模式即将升级：支持切换 Opus 和 Sonnet 更强模型，告别 Haiku 独撑局面",
-          "url": "https://www.aibase.com/zh/news/29843",
+          "id": "0f042855bc73176bf1aef7b1d8d94ec71aaa5e6e",
+          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+          "url": "https://www.aibase.com/zh/news/29855",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1334,15 +1296,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7957,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1351,12 +1313,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T09:06:06.996767Z",
-      "latest_at": "2026-07-23T11:23:00.679482Z",
+      "earliest_at": "2026-07-24T04:11:24.030742Z",
+      "latest_at": "2026-07-24T04:11:24.030742Z",
       "primary_item": {
-        "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
-        "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-        "url": "https://www.aibase.com/news/29843",
+        "id": "b623a138752f2054b382ede5cc91f4f9579fe7b6",
+        "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+        "url": "https://www.aibase.com/news/29855",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1396,15 +1358,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8728,
+        "recency": 0.8327,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1421,6 +1383,87 @@
         "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6f71cb92a83a",
+      "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+      "url": "https://www.aibase.com/news/29856",
+      "primary_url": "https://www.aibase.com/news/29856",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
+          "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/news/29856",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T04:11:24.030742Z"
+        },
+        {
+          "id": "fa62b035cf45d7ce812c458adb6fed83766d31e1",
+          "title": "黑森林实验室发布 Flux3 多模态模型，首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/zh/news/29856",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
+          "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/news/29856",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T04:11:24.030742Z"
+        },
+        {
+          "id": "fa62b035cf45d7ce812c458adb6fed83766d31e1",
+          "title": "黑森林实验室发布 Flux3 多模态模型，首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/zh/news/29856",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T04:11:24.030742Z",
+      "latest_at": "2026-07-24T04:11:24.030742Z",
+      "primary_item": {
+        "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
+        "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+        "url": "https://www.aibase.com/news/29856",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
