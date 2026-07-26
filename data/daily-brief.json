@@ -1,127 +1,8 @@
 {
-  "generated_at": "2026-07-26T18:30:59.967474Z",
+  "generated_at": "2026-07-26T20:06:18.073988Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_5f284decdfa5",
-      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "primary_url": "https://github.com/slvDev/esp32-ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
-          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:36:09.455000Z"
-        },
-        {
-          "id": "d608f6eea734b97e04e648d443cbf33a29812ee1",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T18:59:50Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
-          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:36:09.455000Z"
-        },
-        {
-          "id": "d608f6eea734b97e04e648d443cbf33a29812ee1",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T18:59:50Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8204,
-      "importance": 0.8204,
-      "importance_score": 0.8204,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8099,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-25T18:59:50Z",
-      "latest_at": "2026-07-26T03:54:52.332000Z",
-      "primary_item": {
-        "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
-        "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-        "url": "https://github.com/slvDev/esp32-ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
     {
       "story_id": "story_f8f08a1eac71",
       "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
@@ -176,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9222,
+        "recency": 0.9013,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8665,
+        "recency": 0.8469,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,6 +162,87 @@
         "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
         "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5f284decdfa5",
+      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "primary_url": "https://github.com/slvDev/esp32-ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
+          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
+          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7915,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-26T03:54:52.332000Z",
+      "latest_at": "2026-07-26T03:54:52.332000Z",
+      "primary_item": {
+        "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+        "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+        "url": "https://github.com/slvDev/esp32-ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -319,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.996,
+        "recency": 0.9734,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -399,15 +361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8294,
+        "recency": 0.8106,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -460,38 +422,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-26T17:06:05.914602Z"
-        },
-        {
-          "id": "75b2d0780822c91405a0dec36835176c263d4ab6",
-          "title": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T19:44:13.715809Z"
-        },
-        {
-          "id": "5613709695b567a2783bb96dd67b4aad3cc1e0c9",
-          "title": "写作很难靠一个万能工具解决，你要先判断写什么，再搭框架、补素材，最后慢慢校准自己的表达。不过YouMind的这6 个写作Skills或许会在各个阶段帮助到你：选题阶段用「公众号选题分析师」做定位、热度调研和竞品拆解，用「智能选题助手」把知识库素材和实时热点组合成可写方向；写作阶段用商业特稿助手、新世相编辑、卡兹克文风教练，分别处理商业深度、都市情绪和 AI 观点风格；长期风格建设则交给「灵魂笔触」，沉淀个人写作资产。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T19:44:13.715809Z"
-        },
-        {
-          "id": "9bfe739b4d31abcc6e3626ba28819f72e3e0caa1",
-          "title": "现在做GEO，最容易踩的坑，是把它当成新版 SEO：内容发了很多，却没搞清楚豆包、元宝、文心、DeepSeek、Kimi 各自更愿意引用谁。姚金刚和向阳乔木的GEO公开课第3期基于21万条AI引用记录，拆解了12个AI平台的信源偏好。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T19:44:13.715809Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 3,
       "source_names": [
-        "社区更新 · 2026-07-25",
         "社区更新 · 2026-07-26"
       ],
       "items": [
@@ -521,53 +455,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-26T17:06:05.914602Z"
-        },
-        {
-          "id": "75b2d0780822c91405a0dec36835176c263d4ab6",
-          "title": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T19:44:13.715809Z"
-        },
-        {
-          "id": "5613709695b567a2783bb96dd67b4aad3cc1e0c9",
-          "title": "写作很难靠一个万能工具解决，你要先判断写什么，再搭框架、补素材，最后慢慢校准自己的表达。不过YouMind的这6 个写作Skills或许会在各个阶段帮助到你：选题阶段用「公众号选题分析师」做定位、热度调研和竞品拆解，用「智能选题助手」把知识库素材和实时热点组合成可写方向；写作阶段用商业特稿助手、新世相编辑、卡兹克文风教练，分别处理商业深度、都市情绪和 AI 观点风格；长期风格建设则交给「灵魂笔触」，沉淀个人写作资产。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T19:44:13.715809Z"
-        },
-        {
-          "id": "9bfe739b4d31abcc6e3626ba28819f72e3e0caa1",
-          "title": "现在做GEO，最容易踩的坑，是把它当成新版 SEO：内容发了很多，却没搞清楚豆包、元宝、文心、DeepSeek、Kimi 各自更愿意引用谁。姚金刚和向阳乔木的GEO公开课第3期基于21万条AI引用记录，拆解了12个AI平台的信源偏好。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T19:44:13.715809Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6151,
+      "importance": 0.6151,
+      "importance_score": 0.6151,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
+        "recency": 0.9773,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T19:44:13.715809Z",
+      "earliest_at": "2026-07-26T17:06:05.914602Z",
       "latest_at": "2026-07-26T18:30:59.967474Z",
       "primary_item": {
         "id": "e9ccd8491eaa729087b74400bef42d02506e733a",
@@ -575,141 +482,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-26",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "Debian 中 LLM 的应用：三项提案",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-          "title": "Debian 中 LLM 的应用：三项提案",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.336000Z"
-        },
-        {
-          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T02:06:29.968000Z"
-        },
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T22:36:06.535000Z"
-        },
-        {
-          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
-          "title": "Debian 中 LLM 的应用：三项提案 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "353dda68bd2b71b983bbe24960003dadadfcac32",
-          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:44:39Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-          "title": "Debian 中 LLM 的应用：三项提案",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.336000Z"
-        },
-        {
-          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T02:06:29.968000Z"
-        },
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T22:36:06.535000Z"
-        },
-        {
-          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
-          "title": "Debian 中 LLM 的应用：三项提案 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "353dda68bd2b71b983bbe24960003dadadfcac32",
-          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:44:39Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5866,
-      "importance": 0.5866,
-      "importance_score": 0.5866,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8099,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T19:44:39Z",
-      "latest_at": "2026-07-26T03:54:52.336000Z",
-      "primary_item": {
-        "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-        "title": "Debian 中 LLM 的应用：三项提案",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -785,15 +557,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5667,
+      "importance": 0.5667,
+      "importance_score": 0.5667,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9775,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -828,13 +600,13 @@
           "published_at": "2026-07-26T16:42:46.682000Z"
         },
         {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "url": "https://news.ycombinator.com/item?id=49058669",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:58:56.738000Z"
+          "id": "c420b97dddbb2bb19ee965c074fa5cb6f4d9e28d",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务 / London Gatwick has launched a robotic airport parking service",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T14:40:27Z"
         },
         {
           "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
@@ -849,8 +621,8 @@
       "source_count": 3,
       "source_names": [
         "Hacker News",
-        "aerospaceglobalnews.com",
-        "hackernews"
+        "Hacker News · 24h最热",
+        "aerospaceglobalnews.com"
       ],
       "items": [
         {
@@ -863,13 +635,13 @@
           "published_at": "2026-07-26T16:42:46.682000Z"
         },
         {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "url": "https://news.ycombinator.com/item?id=49058669",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:58:56.738000Z"
+          "id": "c420b97dddbb2bb19ee965c074fa5cb6f4d9e28d",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务 / London Gatwick has launched a robotic airport parking service",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T14:40:27Z"
         },
         {
           "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
@@ -883,15 +655,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5662,
-      "importance": 0.5662,
-      "importance_score": 0.5662,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9743,
+        "recency": 0.9522,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -981,15 +753,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5526,
-      "importance": 0.5526,
-      "importance_score": 0.5526,
+      "score": 0.5489,
+      "importance": 0.5489,
+      "importance_score": 0.5489,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8986,
+        "recency": 0.8782,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1033,18 +805,18 @@
           "published_at": "2026-07-26T02:06:29.968000Z"
         },
         {
-          "id": "2d1e732658f9db304dfc22de572764252c7c2efa",
+          "id": "4893a4df9d2c99406c7644a2867f3ff311785ce2",
           "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项 / Cloudflare's new AI traffic options for customers",
           "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T22:50:49Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "blog.cloudflare.com",
         "hackernews"
       ],
@@ -1068,26 +840,26 @@
           "published_at": "2026-07-26T02:06:29.968000Z"
         },
         {
-          "id": "2d1e732658f9db304dfc22de572764252c7c2efa",
+          "id": "4893a4df9d2c99406c7644a2867f3ff311785ce2",
           "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项 / Cloudflare's new AI traffic options for customers",
           "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T22:50:49Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.858,
+        "recency": 0.8386,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1102,6 +874,84 @@
         "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
         "source": "blog.cloudflare.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_94d030042966",
+      "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+      "url": "https://vectoral.com/blog/token-relay-market",
+      "primary_url": "https://vectoral.com/blog/token-relay-market",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
+          "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+          "url": "https://vectoral.com/blog/token-relay-market",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T15:17:06Z"
+        },
+        {
+          "id": "38aaec0d18c0844c3ac88be02b7fa27cef04a6f4",
+          "title": "中继市场为代币经销商和欺诈提供动力 / The relay market powering token resellers and fraud",
+          "url": "https://vectoral.com/blog/token-relay-market",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T15:17:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
+          "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+          "url": "https://vectoral.com/blog/token-relay-market",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T15:17:06Z"
+        },
+        {
+          "id": "38aaec0d18c0844c3ac88be02b7fa27cef04a6f4",
+          "title": "中继市场为代币经销商和欺诈提供动力 / The relay market powering token resellers and fraud",
+          "url": "https://vectoral.com/blog/token-relay-market",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T15:17:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9328,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T15:17:06Z",
+      "latest_at": "2026-07-26T15:17:06Z",
+      "primary_item": {
+        "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
+        "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+        "url": "https://vectoral.com/blog/token-relay-market",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1177,15 +1027,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8099,
+        "recency": 0.7915,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1256,15 +1106,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9303,
+        "recency": 0.9092,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1308,18 +1158,18 @@
           "published_at": "2026-07-25T22:36:06.535000Z"
         },
         {
-          "id": "b29d63d16c40b219fb2e29ee30bdd9fc299b9abc",
+          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
           "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T20:42:35Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "claude.com",
         "hackernews"
       ],
@@ -1343,26 +1193,26 @@
           "published_at": "2026-07-25T22:36:06.535000Z"
         },
         {
-          "id": "b29d63d16c40b219fb2e29ee30bdd9fc299b9abc",
+          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
           "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T20:42:35Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7586,
+        "recency": 0.7414,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1432,15 +1282,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
+      "score": 0.5179,
+      "importance": 0.5179,
+      "importance_score": 0.5179,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8643,
+        "recency": 0.8447,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1511,15 +1361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5197,
-      "importance": 0.5197,
-      "importance_score": 0.5197,
+      "score": 0.5162,
+      "importance": 0.5162,
+      "importance_score": 0.5162,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8548,
+        "recency": 0.8354,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1537,30 +1387,30 @@
       }
     },
     {
-      "story_id": "story_8a43a7c831c0",
-      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-      "url": "https://news.ycombinator.com/item?id=49057877",
-      "primary_url": "https://news.ycombinator.com/item?id=49057877",
+      "story_id": "story_495f7b95d6b8",
+      "title": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+      "url": "https://news.ycombinator.com/item?id=49061015",
+      "primary_url": "https://news.ycombinator.com/item?id=49061015",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://news.ycombinator.com/item?id=49057877",
+          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+          "title": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "url": "https://news.ycombinator.com/item?id=49061015",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T15:58:56.738000Z"
+          "published_at": "2026-07-26T19:56:21.857000Z"
         },
         {
-          "id": "05b39220b5c869b6b921ca427001f0f621e5f2ce",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "id": "0e05a478cbb759c9f0ec057b80780a9b8b8ebb05",
+          "title": "Show HN: 一种操作系统，其中难题会自动升级到更强大的模型中 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "url": "https://github.com/hertz-ai/HARTOS",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-26T13:13:03Z"
+          "published_at": "2026-07-26T18:40:08Z"
         }
       ],
       "source_count": 2,
@@ -1570,206 +1420,49 @@
       ],
       "items": [
         {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://news.ycombinator.com/item?id=49057877",
+          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+          "title": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "url": "https://news.ycombinator.com/item?id=49061015",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T15:58:56.738000Z"
+          "published_at": "2026-07-26T19:56:21.857000Z"
         },
         {
-          "id": "05b39220b5c869b6b921ca427001f0f621e5f2ce",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "id": "0e05a478cbb759c9f0ec057b80780a9b8b8ebb05",
+          "title": "Show HN: 一种操作系统，其中难题会自动升级到更强大的模型中 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "url": "https://github.com/hertz-ai/HARTOS",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-26T13:13:03Z"
+          "published_at": "2026-07-26T18:40:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9641,
+        "recency": 0.9976,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T13:13:03Z",
-      "latest_at": "2026-07-26T15:58:56.738000Z",
+      "earliest_at": "2026-07-26T18:40:08Z",
+      "latest_at": "2026-07-26T19:56:21.857000Z",
       "primary_item": {
-        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-        "url": "https://news.ycombinator.com/item?id=49057877",
+        "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+        "title": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+        "url": "https://news.ycombinator.com/item?id=49061015",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_9130fcc2d02a",
-      "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
-      "url": "https://fly.io/blog/kurt-scott-money-sprites",
-      "primary_url": "https://fly.io/blog/kurt-scott-money-sprites",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
-          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
-          "url": "https://fly.io/blog/kurt-scott-money-sprites",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:43:11Z"
-        },
-        {
-          "id": "8db0b6f3c45763469c5d0672e114b957f864723f",
-          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Turn And Face The Strange",
-          "url": "https://fly.io/blog/kurt-scott-money-sprites",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:43:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
-          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
-          "url": "https://fly.io/blog/kurt-scott-money-sprites",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:43:11Z"
-        },
-        {
-          "id": "8db0b6f3c45763469c5d0672e114b957f864723f",
-          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Turn And Face The Strange",
-          "url": "https://fly.io/blog/kurt-scott-money-sprites",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:43:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4972,
-      "importance": 0.4972,
-      "importance_score": 0.4972,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.73,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T20:43:11Z",
-      "latest_at": "2026-07-25T20:43:11Z",
-      "primary_item": {
-        "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
-        "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
-        "url": "https://fly.io/blog/kurt-scott-money-sprites",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_98671c483284",
-      "title": "Show HN: 《扫雷》光线投射版",
-      "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-      "primary_url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-      "source": "claude.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
-          "title": "Show HN: 《扫雷》光线投射版",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "claude.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T19:55:34.429000Z"
-        },
-        {
-          "id": "438253bcd342488e146d10a5ec5bb88b2ca3ecc0",
-          "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:39:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "claude.ai"
-      ],
-      "items": [
-        {
-          "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
-          "title": "Show HN: 《扫雷》光线投射版",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "claude.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T19:55:34.429000Z"
-        },
-        {
-          "id": "438253bcd342488e146d10a5ec5bb88b2ca3ecc0",
-          "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:39:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4957,
-      "importance": 0.4957,
-      "importance_score": 0.4957,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7216,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T19:39:12Z",
-      "latest_at": "2026-07-25T19:55:34.429000Z",
-      "primary_item": {
-        "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
-        "title": "Show HN: 《扫雷》光线投射版",
-        "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-        "source": "claude.ai",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1826,15 +1519,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5221,
+      "importance": 0.5221,
+      "importance_score": 0.5221,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8883,
+        "recency": 0.8681,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1849,6 +1542,164 @@
         "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5b9d28d8a371",
+      "title": "SK 崔泰源：韩国需转型为「AI 原生」国家",
+      "url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f347ca245f12d4ef05ab25fec3191c6f6c23be74",
+          "title": "SK 崔泰源：韩国需转型为「AI 原生」国家",
+          "url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d49ab9d61cfde310961c864e456c9168d7777efb",
+          "title": "SK崔泰源：韩国需转型为“AI原生”国家",
+          "url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T01:50:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f347ca245f12d4ef05ab25fec3191c6f6c23be74",
+          "title": "SK 崔泰源：韩国需转型为「AI 原生」国家",
+          "url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d49ab9d61cfde310961c864e456c9168d7777efb",
+          "title": "SK崔泰源：韩国需转型为“AI原生”国家",
+          "url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T01:50:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5055,
+      "importance": 0.5055,
+      "importance_score": 0.5055,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7762,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T01:50:31Z",
+      "latest_at": "2026-07-26T02:33:30.879930Z",
+      "primary_item": {
+        "id": "f347ca245f12d4ef05ab25fec3191c6f6c23be74",
+        "title": "SK 崔泰源：韩国需转型为「AI 原生」国家",
+        "url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_8a43a7c831c0",
+      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+      "url": "https://news.ycombinator.com/item?id=49057877",
+      "primary_url": "https://news.ycombinator.com/item?id=49057877",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:58:56.738000Z"
+        },
+        {
+          "id": "05b39220b5c869b6b921ca427001f0f621e5f2ce",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T13:13:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:58:56.738000Z"
+        },
+        {
+          "id": "05b39220b5c869b6b921ca427001f0f621e5f2ce",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T13:13:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9422,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T13:13:03Z",
+      "latest_at": "2026-07-26T15:58:56.738000Z",
+      "primary_item": {
+        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+        "url": "https://news.ycombinator.com/item?id=49057877",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
