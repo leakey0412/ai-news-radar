@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T14:47:37.968995Z",
+  "generated_at": "2026-07-26T15:58:21.599754Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8258,
+      "importance": 0.8258,
+      "importance_score": 0.8258,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8546,
+        "recency": 0.8402,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7848,
-      "importance": 0.7848,
-      "importance_score": 0.7848,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9731,
+        "recency": 0.9567,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7802,
-      "importance": 0.7802,
-      "importance_score": 0.7802,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9144,
+        "recency": 0.899,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -338,15 +338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8752,
+        "recency": 0.8604,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8127,
+        "recency": 0.7989,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -514,15 +514,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6009,
-      "importance": 0.6009,
-      "importance_score": 0.6009,
+      "score": 0.5986,
+      "importance": 0.5986,
+      "importance_score": 0.5986,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7594,
+        "recency": 0.7466,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -630,15 +630,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.567,
+      "importance": 0.567,
+      "importance_score": 0.567,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8546,
+        "recency": 0.8402,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -728,15 +728,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5615,
-      "importance": 0.5615,
-      "importance_score": 0.5615,
+      "score": 0.5586,
+      "importance": 0.5586,
+      "importance_score": 0.5586,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9482,
+        "recency": 0.9322,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -826,15 +826,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5538,
-      "importance": 0.5538,
-      "importance_score": 0.5538,
+      "score": 0.551,
+      "importance": 0.551,
+      "importance_score": 0.551,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9054,
+        "recency": 0.8902,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -849,6 +849,85 @@
         "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
         "source": "blog.cloudflare.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b6ef92302bcf",
+      "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+      "url": "https://news.ycombinator.com/item?id=49058669",
+      "primary_url": "https://news.ycombinator.com/item?id=49058669",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://news.ycombinator.com/item?id=49058669",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:58:56.738000Z"
+        },
+        {
+          "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T14:40:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://news.ycombinator.com/item?id=49058669",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:58:56.738000Z"
+        },
+        {
+          "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T14:40:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T14:40:27Z",
+      "latest_at": "2026-07-26T15:58:56.738000Z",
+      "primary_item": {
+        "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+        "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+        "url": "https://news.ycombinator.com/item?id=49058669",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -924,15 +1003,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8546,
+        "recency": 0.8402,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1003,15 +1082,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9817,
+        "recency": 0.9651,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1026,85 +1105,6 @@
         "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2ed824c58a51",
-      "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-      "url": "https://news.ycombinator.com/item?id=49056689",
-      "primary_url": "https://news.ycombinator.com/item?id=49056689",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://news.ycombinator.com/item?id=49056689",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T12:55:30.643000Z"
-        },
-        {
-          "id": "2563d7d57094ecb968615a119a60992bde1cabfa",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://code.claude.com/docs/en/data-usage",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T10:42:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://news.ycombinator.com/item?id=49056689",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T12:55:30.643000Z"
-        },
-        {
-          "id": "2563d7d57094ecb968615a119a60992bde1cabfa",
-          "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-          "url": "https://code.claude.com/docs/en/data-usage",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T10:42:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9734,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T10:42:00Z",
-      "latest_at": "2026-07-26T12:55:30.643000Z",
-      "primary_item": {
-        "id": "1b37ca644e86a491f2de769559fcd2ccd51e1307",
-        "title": "Claude Code 会在 30 天后从您的设备中删除您的上下文历史记录 / Claude Code Deletes Your Context History from Your Device After 30 Days",
-        "url": "https://news.ycombinator.com/item?id=49056689",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1180,15 +1180,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8005,
+        "recency": 0.787,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1258,15 +1258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9121,
+        "recency": 0.8967,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1337,15 +1337,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
+      "score": 0.5254,
+      "importance": 0.5254,
+      "importance_score": 0.5254,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.902,
+        "recency": 0.8867,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1363,101 +1363,82 @@
       }
     },
     {
-      "story_id": "story_2635b89b4413",
-      "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-      "primary_url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-      "source": "tobi.knaup.me",
-      "source_name": "Buzzing",
+      "story_id": "story_8a43a7c831c0",
+      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+      "url": "https://news.ycombinator.com/item?id=49057877",
+      "primary_url": "https://news.ycombinator.com/item?id=49057877",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "dd5f887f8703d55c609774556a346f21beafa37e",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "tobi.knaup.me",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T18:19:01.763000Z"
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:58:56.738000Z"
         },
         {
-          "id": "6d00d1de7f364084f276000b09ecddc484feec8b",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T14:49:49Z"
-        },
-        {
-          "id": "4e62948af92d373080027f26ab003504047b04ee",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "id": "05b39220b5c869b6b921ca427001f0f621e5f2ce",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T14:49:49Z"
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News",
-        "Hacker News · 24h最热",
-        "tobi.knaup.me"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "dd5f887f8703d55c609774556a346f21beafa37e",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "tobi.knaup.me",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T18:19:01.763000Z"
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:58:56.738000Z"
         },
         {
-          "id": "6d00d1de7f364084f276000b09ecddc484feec8b",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T14:49:49Z"
-        },
-        {
-          "id": "4e62948af92d373080027f26ab003504047b04ee",
-          "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "id": "05b39220b5c869b6b921ca427001f0f621e5f2ce",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T14:49:49Z"
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.744,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T14:49:49Z",
-      "latest_at": "2026-07-25T18:19:01.763000Z",
+      "earliest_at": "2026-07-26T13:13:03Z",
+      "latest_at": "2026-07-26T15:58:56.738000Z",
       "primary_item": {
-        "id": "dd5f887f8703d55c609774556a346f21beafa37e",
-        "title": "开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了",
-        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
-        "source": "tobi.knaup.me",
-        "source_name": "Buzzing"
+        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+        "url": "https://news.ycombinator.com/item?id=49057877",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1514,15 +1495,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5056,
-      "importance": 0.5056,
-      "importance_score": 0.5056,
+      "score": 0.5033,
+      "importance": 0.5033,
+      "importance_score": 0.5033,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7768,
+        "recency": 0.7637,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1593,15 +1574,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5317,
+      "importance": 0.5317,
+      "importance_score": 0.5317,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9373,
+        "recency": 0.9215,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1672,15 +1653,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5029,
-      "importance": 0.5029,
-      "importance_score": 0.5029,
+      "score": 0.5006,
+      "importance": 0.5006,
+      "importance_score": 0.5006,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7615,
+        "recency": 0.7487,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1698,82 +1679,82 @@
       }
     },
     {
-      "story_id": "story_17d8da54b5aa",
-      "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
-      "url": "https://news.ycombinator.com/item?id=49048571",
-      "primary_url": "https://news.ycombinator.com/item?id=49048571",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
+      "story_id": "story_5b9d28d8a371",
+      "title": "SK 崔泰源：韩国需转型为「AI 原生」国家",
+      "url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "2aaf61fd26b52a84b495b2f33097ed48909b8afe",
-          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
-          "url": "https://news.ycombinator.com/item?id=49048571",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T15:55:06.362000Z"
+          "id": "f347ca245f12d4ef05ab25fec3191c6f6c23be74",
+          "title": "SK 崔泰源：韩国需转型为「AI 原生」国家",
+          "url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "f59872de45e6940547b686b79f30b7cb5ca463ce",
-          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？ / Ask HN: What happens when we do compress the context in Claude Code?",
-          "url": "https://news.ycombinator.com/item?id=49048571",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-25T15:44:38Z"
+          "id": "d49ab9d61cfde310961c864e456c9168d7777efb",
+          "title": "SK崔泰源：韩国需转型为“AI原生”国家",
+          "url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T01:50:31Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
+        "36氪 (36Kr)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "2aaf61fd26b52a84b495b2f33097ed48909b8afe",
-          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
-          "url": "https://news.ycombinator.com/item?id=49048571",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T15:55:06.362000Z"
+          "id": "f347ca245f12d4ef05ab25fec3191c6f6c23be74",
+          "title": "SK 崔泰源：韩国需转型为「AI 原生」国家",
+          "url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "f59872de45e6940547b686b79f30b7cb5ca463ce",
-          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？ / Ask HN: What happens when we do compress the context in Claude Code?",
-          "url": "https://news.ycombinator.com/item?id=49048571",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-25T15:44:38Z"
+          "id": "d49ab9d61cfde310961c864e456c9168d7777efb",
+          "title": "SK崔泰源：韩国需转型为“AI原生”国家",
+          "url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T01:50:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4952,
-      "importance": 0.4952,
-      "importance_score": 0.4952,
+      "score": 0.5141,
+      "importance": 0.5141,
+      "importance_score": 0.5141,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7187,
+        "recency": 0.8239,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T15:44:38Z",
-      "latest_at": "2026-07-25T15:55:06.362000Z",
+      "earliest_at": "2026-07-26T01:50:31Z",
+      "latest_at": "2026-07-26T02:33:30.879930Z",
       "primary_item": {
-        "id": "2aaf61fd26b52a84b495b2f33097ed48909b8afe",
-        "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
-        "url": "https://news.ycombinator.com/item?id=49048571",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
+        "id": "f347ca245f12d4ef05ab25fec3191c6f6c23be74",
+        "title": "SK 崔泰源：韩国需转型为「AI 原生」国家",
+        "url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
