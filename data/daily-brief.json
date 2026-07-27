@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T17:45:46.207489Z",
+  "generated_at": "2026-07-27T19:20:13.123982Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8725,
-      "importance": 0.8725,
-      "importance_score": 0.8725,
+      "score": 0.8685,
+      "importance": 0.8685,
+      "importance_score": 0.8685,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9749,
+        "recency": 0.953,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8498,
-      "importance": 0.8498,
-      "importance_score": 0.8498,
+      "score": 0.8463,
+      "importance": 0.8463,
+      "importance_score": 0.8463,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.888,
+        "recency": 0.8681,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8139,
+        "recency": 0.7956,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9742,
+        "recency": 0.9523,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -325,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9643,
+        "recency": 0.9426,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -348,6 +348,128 @@
         "title": "Kimi K3 开源：2.8T MoE 模型与技术报告",
         "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
         "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_29a86983fc77",
+      "title": "用Claude和Python构建技能驱动的金融分析智能体",
+      "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+      "primary_url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3679876fae19f4c7430979f3189354450f102f86",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体",
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:08:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3679876fae19f4c7430979f3189354450f102f86",
+          "title": "用Claude和Python构建技能驱动的金融分析智能体",
+          "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:08:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9829,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T18:08:24Z",
+      "latest_at": "2026-07-27T18:08:24Z",
+      "primary_item": {
+        "id": "3679876fae19f4c7430979f3189354450f102f86",
+        "title": "用Claude和Python构建技能驱动的金融分析智能体",
+        "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a2a90feaf49f",
+      "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
+      "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+      "primary_url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
+          "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
+          "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T17:50:17.260000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
+          "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
+          "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T17:50:17.260000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9786,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T17:50:17.260000Z",
+      "latest_at": "2026-07-27T17:50:17.260000Z",
+      "primary_item": {
+        "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
+        "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
+        "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
@@ -405,15 +527,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8449,
+        "recency": 0.826,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -467,15 +589,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8031,
+        "recency": 0.785,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -489,6 +611,67 @@
         "title": "用AI Skill自动生成可协作HTML PPT",
         "url": "https://x.com/vista8/status/2081568902241513786",
         "source": "X：Vista (@vista8)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bce699caba55",
+      "title": "Kimi 发布视觉感知基准 PerceptionBench",
+      "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
+          "title": "Kimi 发布视觉感知基准 PerceptionBench",
+          "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:45:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
+          "title": "Kimi 发布视觉感知基准 PerceptionBench",
+          "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:45:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9916,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T18:45:20Z",
+      "latest_at": "2026-07-27T18:45:20Z",
+      "primary_item": {
+        "id": "e6b16416a5e8ad87e1da1b9cb071bca244e23bde",
+        "title": "Kimi 发布视觉感知基准 PerceptionBench",
+        "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
         "source_name": "AI HOT"
       }
     },
@@ -546,15 +729,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8812,
+        "recency": 0.8614,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -626,15 +809,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8449,
+        "recency": 0.826,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -651,67 +834,6 @@
         "url": "https://www.aibase.com/news/29897",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7e5aebcddeab",
-      "title": "Kimi K3 上线 Modal，支持无损加速推理",
-      "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-          "title": "Kimi K3 上线 Modal，支持无损加速推理",
-          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:44:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-          "title": "Kimi K3 上线 Modal，支持无损加速推理",
-          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:44:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9711,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T15:44:05Z",
-      "latest_at": "2026-07-27T15:44:05Z",
-      "primary_item": {
-        "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
-        "title": "Kimi K3 上线 Modal，支持无损加速推理",
-        "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -768,15 +890,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8449,
+        "recency": 0.826,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -796,21 +918,21 @@
       }
     },
     {
-      "story_id": "story_19eeca1736fb",
-      "title": "Kimi K3 开源分布式智能体环境 AgentENV",
-      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "story_id": "story_7e5aebcddeab",
+      "title": "Kimi K3 上线 Modal，支持无损加速推理",
+      "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
       "source": "X：Kimi.ai (@Kimi_Moonshot)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-          "title": "Kimi K3 开源分布式智能体环境 AgentENV",
-          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+          "title": "Kimi K3 上线 Modal，支持无损加速推理",
+          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
           "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T15:25:45Z"
+          "published_at": "2026-07-27T15:44:05Z"
         }
       ],
       "source_count": 1,
@@ -819,26 +941,26 @@
       ],
       "items": [
         {
-          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-          "title": "Kimi K3 开源分布式智能体环境 AgentENV",
-          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+          "title": "Kimi K3 上线 Modal，支持无损加速推理",
+          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
           "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T15:25:45Z"
+          "published_at": "2026-07-27T15:44:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.69,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9669,
+        "recency": 0.9493,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -846,12 +968,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T15:25:45Z",
-      "latest_at": "2026-07-27T15:25:45Z",
+      "earliest_at": "2026-07-27T15:44:05Z",
+      "latest_at": "2026-07-27T15:44:05Z",
       "primary_item": {
-        "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-        "title": "Kimi K3 开源分布式智能体环境 AgentENV",
-        "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+        "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+        "title": "Kimi K3 上线 Modal，支持无损加速推理",
+        "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
         "source": "X：Kimi.ai (@Kimi_Moonshot)",
         "source_name": "AI HOT"
       }
@@ -910,15 +1032,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8023,
+        "recency": 0.7842,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1016,20 +1138,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-27T10:25:33.362537Z"
-        },
-        {
-          "id": "e9ccd8491eaa729087b74400bef42d02506e733a",
-          "title": "这周GitHub Trending又被 AI Agent 和工程化工具刷屏了，梳理了TOP 17排名的开源项目，适合开发者、AI 产品同学和工具控收藏：从1.9w Star的Agent开源书和92个实验，到长视频实时3D 建图、croc 口令传文件、UI Skills约束AI生成界面，再到Kimi Code、Pi Web、Rust Agent jcode。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-26T18:30:59.967474Z"
         }
       ],
-      "source_count": 9,
+      "source_count": 8,
       "source_names": [
-        "社区更新 · 2026-07-26",
         "社区更新 · 2026-07-27"
       ],
       "items": [
@@ -1104,35 +1216,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-27T10:25:33.362537Z"
-        },
-        {
-          "id": "e9ccd8491eaa729087b74400bef42d02506e733a",
-          "title": "这周GitHub Trending又被 AI Agent 和工程化工具刷屏了，梳理了TOP 17排名的开源项目，适合开发者、AI 产品同学和工具控收藏：从1.9w Star的Agent开源书和92个实验，到长视频实时3D 建图、croc 口令传文件、UI Skills约束AI生成界面，再到Kimi Code、Pi Web、Rust Agent jcode。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-26T18:30:59.967474Z"
         }
       ],
-      "item_count": 9,
-      "duplicate_count": 9,
-      "score": 0.6646,
-      "importance": 0.6646,
-      "importance_score": 0.6646,
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.6607,
+      "importance": 0.6607,
+      "importance_score": 0.6607,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9745,
+        "recency": 0.9526,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T18:30:59.967474Z",
+      "earliest_at": "2026-07-27T10:25:33.362537Z",
       "latest_at": "2026-07-27T15:58:30.319428Z",
       "primary_item": {
         "id": "e904adc39d0148d2abe11a57e39363583c1372d6",
@@ -1140,6 +1243,66 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-27",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_19eeca1736fb",
+      "title": "Kimi K3 开源分布式智能体环境 AgentENV",
+      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+          "title": "Kimi K3 开源分布式智能体环境 AgentENV",
+          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:25:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+          "title": "Kimi K3 开源分布式智能体环境 AgentENV",
+          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:25:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9451,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T15:25:45Z",
+      "latest_at": "2026-07-27T15:25:45Z",
+      "primary_item": {
+        "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+        "title": "Kimi K3 开源分布式智能体环境 AgentENV",
+        "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1196,15 +1359,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8023,
+        "recency": 0.7842,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1276,15 +1439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6263,
-      "importance": 0.6263,
-      "importance_score": 0.6263,
+      "score": 0.6226,
+      "importance": 0.6226,
+      "importance_score": 0.6226,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9216,
+        "recency": 0.9008,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1410,15 +1573,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6196,
-      "importance": 0.6196,
-      "importance_score": 0.6196,
+      "score": 0.6156,
+      "importance": 0.6156,
+      "importance_score": 0.6156,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9934,
+        "recency": 0.971,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1433,285 +1596,6 @@
         "url": "https://news.ycombinator.com/item?id=49065752",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_592e66f5a688",
-      "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
-      "url": "https://www.aibase.com/news/29884",
-      "primary_url": "https://www.aibase.com/news/29884",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
-          "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
-          "url": "https://www.aibase.com/news/29884",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T02:30:18.317936Z"
-        },
-        {
-          "id": "ebbbbb00984179a66cfa3a08b3e96fae1565c02d",
-          "title": "月之暗面举办 Kimi K3 庆功活动，现场标语透露 K4 研发动向",
-          "url": "https://www.aibase.com/zh/news/29884",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
-          "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
-          "url": "https://www.aibase.com/news/29884",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T02:30:18.317936Z"
-        },
-        {
-          "id": "ebbbbb00984179a66cfa3a08b3e96fae1565c02d",
-          "title": "月之暗面举办 Kimi K3 庆功活动，现场标语透露 K4 研发动向",
-          "url": "https://www.aibase.com/zh/news/29884",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8023,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T02:30:18.317936Z",
-      "latest_at": "2026-07-27T02:30:18.317936Z",
-      "primary_item": {
-        "id": "1bc35e429d92cd03a8a6b68c04de55bab65a04ab",
-        "title": "月之暗面举办Kimi K3庆功活动 现场标语透露K4研发动向",
-        "url": "https://www.aibase.com/news/29884",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e045d97ea961",
-      "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-      "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-      "primary_url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-      "source": "Slashdot (科技资讯)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "f27fb4bbbc56f278c0b4717e04d3dd1a7fbf980b",
-          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-          "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T17:00:00Z"
-        },
-        {
-          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "www.macrumors.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T16:09:40.788000Z"
-        },
-        {
-          "id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
-          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://news.ycombinator.com/item?id=49070427",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T15:47:58.683000Z"
-        },
-        {
-          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T14:11:48Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Mac Rumors",
-        "Slashdot (科技资讯)",
-        "hackernews",
-        "www.macrumors.com"
-      ],
-      "items": [
-        {
-          "id": "f27fb4bbbc56f278c0b4717e04d3dd1a7fbf980b",
-          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-          "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T17:00:00Z"
-        },
-        {
-          "id": "d31220761e5dd2d08ddd4540fbd25f3787b15845",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬”",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "www.macrumors.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-27T16:09:40.788000Z"
-        },
-        {
-          "id": "b11e242ee366f6851b3c005215ab6cd7a9d1edbe",
-          "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://news.ycombinator.com/item?id=49070427",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T15:47:58.683000Z"
-        },
-        {
-          "id": "55ea01a3bc190b6e93b18b77a782f7b20175e9cf",
-          "title": "当人工智能泡沫破裂时，苹果将“坐视一切化为灰烬” / Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T14:11:48Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5938,
-      "importance": 0.5938,
-      "importance_score": 0.5938,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.989,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T14:11:48Z",
-      "latest_at": "2026-07-27T17:00:00Z",
-      "primary_item": {
-        "id": "f27fb4bbbc56f278c0b4717e04d3dd1a7fbf980b",
-        "title": "当人工智能泡沫破裂时，苹果将“眼睁睁地看着一切燃烧” / Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-        "url": "https://apple.slashdot.org/story/26/07/27/1656234/apple-will-watch-everything-burn-when-ai-bubble-bursts",
-        "source": "Slashdot (科技资讯)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_1c91719ee2c0",
-      "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
-      "url": "https://www.aibase.com/news/29887",
-      "primary_url": "https://www.aibase.com/news/29887",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c6491d7233e959458c654241f3525ce9f88b3673",
-          "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
-          "url": "https://www.aibase.com/news/29887",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T02:30:18.317936Z"
-        },
-        {
-          "id": "b015bc5b97a0158a8a4fd388e6aaa80d3f3170ca",
-          "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
-          "url": "https://www.aibase.com/zh/news/29887",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c6491d7233e959458c654241f3525ce9f88b3673",
-          "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
-          "url": "https://www.aibase.com/news/29887",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T02:30:18.317936Z"
-        },
-        {
-          "id": "b015bc5b97a0158a8a4fd388e6aaa80d3f3170ca",
-          "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
-          "url": "https://www.aibase.com/zh/news/29887",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8023,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T02:30:18.317936Z",
-      "latest_at": "2026-07-27T02:30:18.317936Z",
-      "primary_item": {
-        "id": "c6491d7233e959458c654241f3525ce9f88b3673",
-        "title": "英伟达拟为 OpenAI 背书 2500 亿美元：助其撬动俄亥俄 10 吉瓦超级数据中心",
-        "url": "https://www.aibase.com/news/29887",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
