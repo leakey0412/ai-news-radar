@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T21:56:18.412370Z",
+  "generated_at": "2026-07-29T22:57:58.043351Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8667,
-      "importance": 0.8667,
-      "importance_score": 0.8667,
+      "score": 0.8641,
+      "importance": 0.8641,
+      "importance_score": 0.8641,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9928,
+        "recency": 0.9782,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8543,
-      "importance": 0.8543,
-      "importance_score": 0.8543,
+      "score": 0.8519,
+      "importance": 0.8519,
+      "importance_score": 0.8519,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9183,
+        "recency": 0.9048,
         "story_heat": 0.25
       },
       "category": "official",
@@ -200,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8442,
+      "importance": 0.8442,
+      "importance_score": 0.8442,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7285,
+        "recency": 0.7177,
         "story_heat": 0.25
       },
       "category": "official",
@@ -229,83 +229,63 @@
       }
     },
     {
-      "story_id": "story_6d964f10c333",
-      "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "primary_url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "story_id": "story_cc8e132c6199",
+      "title": "启用两种设置如何使我们在 ARC-AGI-3 基准测试中的得分增加两倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "primary_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+          "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
+          "title": "启用两种设置如何使我们在 ARC-AGI-3 基准测试中的得分增加两倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        },
-        {
-          "id": "b7c79fad7caaa5c909be57f8f8eb0f495b4d8adf",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:00:00Z"
+          "published_at": "2026-07-29T15:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+          "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
+          "title": "启用两种设置如何使我们在 ARC-AGI-3 基准测试中的得分增加两倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        },
-        {
-          "id": "b7c79fad7caaa5c909be57f8f8eb0f495b4d8adf",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:00:00Z"
+          "published_at": "2026-07-29T15:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8361,
-      "importance": 0.8361,
-      "importance_score": 0.8361,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7285,
-        "story_heat": 0.25
+        "ai_relevance": 0.94,
+        "recency": 0.8913,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
+      "earliest_at": "2026-07-29T15:00:00Z",
+      "latest_at": "2026-07-29T15:00:00Z",
       "primary_item": {
-        "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
-        "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-        "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+        "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
+        "title": "启用两种设置如何使我们在 ARC-AGI-3 基准测试中的得分增加两倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -402,15 +382,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7856,
+        "recency": 0.774,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -427,6 +407,88 @@
         "url": "https://learnvector.ai",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6d964f10c333",
+      "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "primary_url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
+          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        },
+        {
+          "id": "b7c79fad7caaa5c909be57f8f8eb0f495b4d8adf",
+          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna",
+          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
+          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        },
+        {
+          "id": "b7c79fad7caaa5c909be57f8f8eb0f495b4d8adf",
+          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna",
+          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7177,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T00:00:00Z",
+      "latest_at": "2026-07-29T00:00:00Z",
+      "primary_item": {
+        "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
+        "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+        "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -464,15 +526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8325,
-      "importance": 0.8325,
-      "importance_score": 0.8325,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8919,
+        "recency": 0.8788,
         "story_heat": 0.0
       },
       "category": "official",
@@ -488,68 +550,6 @@
         "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
         "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_14fd05ad34f9",
-      "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "primary_url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-          "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-          "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8416,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T10:00:00Z",
-      "latest_at": "2026-07-29T10:00:00Z",
-      "primary_item": {
-        "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-        "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -607,15 +607,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9551,
+        "recency": 0.941,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -688,15 +688,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8652,
+        "recency": 0.8524,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -750,15 +750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9832,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -774,6 +774,68 @@
         "url": "https://x.com/Replit/status/2082568269119062019",
         "source": "X：Replit (@Replit)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_14fd05ad34f9",
+      "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "primary_url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
+          "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
+          "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8292,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T10:00:00Z",
+      "latest_at": "2026-07-29T10:00:00Z",
+      "primary_item": {
+        "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
+        "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
+        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -830,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8689,
+        "recency": 0.8561,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -911,15 +973,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8583,
+        "recency": 0.8456,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -973,15 +1035,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.815,
-      "importance": 0.815,
-      "importance_score": 0.815,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8386,
+        "recency": 0.8263,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1054,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9199,
+        "recency": 0.9063,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1116,21 +1178,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8755,
+        "recency": 0.8626,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T12:43:55Z",
       "latest_at": "2026-07-29T12:43:55Z",
@@ -1196,15 +1257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9123,
+        "recency": 0.8989,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1258,15 +1319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9426,
+        "recency": 0.9287,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1318,15 +1379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.905,
+        "recency": 0.8917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1378,15 +1439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9316,
+        "recency": 0.9178,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1400,66 +1461,6 @@
         "title": "Perplexity 开源智能体检测层 Numbat",
         "url": "https://x.com/perplexity_ai/status/2082511900580196596",
         "source": "X：Perplexity (@perplexity_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_26d010619d13",
-      "title": "OpenAI 为学术研究者免费提供前沿模型",
-      "url": "https://x.com/sherwinwu/status/2082517015944741342",
-      "primary_url": "https://x.com/sherwinwu/status/2082517015944741342",
-      "source": "X：Sherwin Wu（@sherwinwu）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
-          "title": "OpenAI 为学术研究者免费提供前沿模型",
-          "url": "https://x.com/sherwinwu/status/2082517015944741342",
-          "source": "X：Sherwin Wu（@sherwinwu）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:22:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sherwin Wu（@sherwinwu）"
-      ],
-      "items": [
-        {
-          "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
-          "title": "OpenAI 为学术研究者免费提供前沿模型",
-          "url": "https://x.com/sherwinwu/status/2082517015944741342",
-          "source": "X：Sherwin Wu（@sherwinwu）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:22:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9361,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T17:22:02Z",
-      "latest_at": "2026-07-29T17:22:02Z",
-      "primary_item": {
-        "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
-        "title": "OpenAI 为学术研究者免费提供前沿模型",
-        "url": "https://x.com/sherwinwu/status/2082517015944741342",
-        "source": "X：Sherwin Wu（@sherwinwu）",
         "source_name": "AI HOT"
       }
     }
