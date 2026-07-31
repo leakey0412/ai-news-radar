@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T22:55:48.800065Z",
+  "generated_at": "2026-07-31T23:58:41.175549Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9595,
+        "recency": 0.9451,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9644,
+        "recency": 0.9499,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -281,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7181,
+        "recency": 0.7073,
         "story_heat": 0.0
       },
       "category": "official",
@@ -343,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8325,
-      "importance": 0.8325,
-      "importance_score": 0.8325,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8918,
+        "recency": 0.8784,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,15 +405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.8296,
+      "importance": 0.8296,
+      "importance_score": 0.8296,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9339,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "official",
@@ -486,15 +486,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9761,
+        "recency": 0.9615,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -548,15 +548,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9815,
+        "recency": 0.9667,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -609,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8325,
-      "importance": 0.8325,
-      "importance_score": 0.8325,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8918,
+        "recency": 0.8784,
         "story_heat": 0.0
       },
       "category": "official",
@@ -690,15 +690,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8413,
+        "recency": 0.8286,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -752,15 +752,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9148,
+        "recency": 0.9011,
         "story_heat": 0.0
       },
       "category": "official",
@@ -814,15 +814,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9052,
+        "recency": 0.8916,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -894,15 +894,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7905,
+        "recency": 0.7786,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -975,15 +975,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8039,
+        "recency": 0.7918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1037,15 +1037,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8295,
+        "recency": 0.817,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1098,15 +1098,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8664,
+        "recency": 0.8534,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1178,15 +1178,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7714,
+        "recency": 0.7598,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1202,66 +1202,6 @@
         "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
         "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ba9f53c1265c",
-      "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-      "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-      "primary_url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "58a5804e580bb994112df43c0fdddf76a001c735",
-          "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-          "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:07:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI：DEV 作者专属（RSS）"
-      ],
-      "items": [
-        {
-          "id": "58a5804e580bb994112df43c0fdddf76a001c735",
-          "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-          "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:07:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8433,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T11:07:35Z",
-      "latest_at": "2026-07-31T11:07:35Z",
-      "primary_item": {
-        "id": "58a5804e580bb994112df43c0fdddf76a001c735",
-        "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-        "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-        "source": "Google AI：DEV 作者专属（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1319,15 +1259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8039,
+        "recency": 0.7918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1344,6 +1284,66 @@
         "url": "https://www.aibase.com/news/30044",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ba9f53c1265c",
+      "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
+      "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
+      "primary_url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "58a5804e580bb994112df43c0fdddf76a001c735",
+          "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
+          "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T11:07:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI：DEV 作者专属（RSS）"
+      ],
+      "items": [
+        {
+          "id": "58a5804e580bb994112df43c0fdddf76a001c735",
+          "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
+          "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T11:07:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7251,
+      "importance": 0.7251,
+      "importance_score": 0.7251,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8306,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T11:07:35Z",
+      "latest_at": "2026-07-31T11:07:35Z",
+      "primary_item": {
+        "id": "58a5804e580bb994112df43c0fdddf76a001c735",
+        "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
+        "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
+        "source": "Google AI：DEV 作者专属（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1381,15 +1381,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.815,
-      "importance": 0.815,
-      "importance_score": 0.815,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7945,
+        "recency": 0.7826,
         "story_heat": 0.0
       },
       "category": "official",
