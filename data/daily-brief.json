@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T13:43:49.665342Z",
+  "generated_at": "2026-08-01T14:56:22.573180Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8201,
+        "recency": 0.8059,
         "story_heat": 0.25
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8091,
+      "importance": 0.8091,
+      "importance_score": 0.8091,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7749,
+        "recency": 0.7614,
         "story_heat": 0.0
       },
       "category": "official",
@@ -301,15 +301,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
+      "score": 0.7944,
+      "importance": 0.7944,
+      "importance_score": 0.7944,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7788,
+        "recency": 0.7654,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -382,15 +382,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7878,
-      "importance": 0.7878,
-      "importance_score": 0.7878,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9569,
+        "recency": 0.9404,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -444,15 +444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7542,
+        "recency": 0.7412,
         "story_heat": 0.0
       },
       "category": "official",
@@ -525,15 +525,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7202,
+        "recency": 0.7077,
         "story_heat": 0.25
       },
       "category": "official",
@@ -607,15 +607,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7883,
+        "recency": 0.7746,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -669,15 +669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8683,
+        "recency": 0.8533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -730,15 +730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7926,
+        "recency": 0.7789,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -790,15 +790,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9159,
+        "recency": 0.9001,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -850,15 +850,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.797,
-      "importance": 0.797,
-      "importance_score": 0.797,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7388,
+        "recency": 0.726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -912,15 +912,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7202,
+        "recency": 0.7077,
         "story_heat": 0.0
       },
       "category": "official",
@@ -974,15 +974,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.731,
+        "recency": 0.7183,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1124,15 +1124,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6471,
-      "importance": 0.6471,
-      "importance_score": 0.6471,
+      "score": 0.6447,
+      "importance": 0.6447,
+      "importance_score": 0.6447,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.54,
         "ai_relevance": 0.7,
-        "recency": 0.7615,
+        "recency": 0.7483,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1202,15 +1202,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5733,
-      "importance": 0.5733,
-      "importance_score": 0.5733,
+      "score": 0.5709,
+      "importance": 0.5709,
+      "importance_score": 0.5709,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7655,
+        "recency": 0.7522,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1300,15 +1300,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5641,
-      "importance": 0.5641,
-      "importance_score": 0.5641,
+      "score": 0.5611,
+      "importance": 0.5611,
+      "importance_score": 0.5611,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9626,
+        "recency": 0.9459,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1398,15 +1398,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5582,
-      "importance": 0.5582,
-      "importance_score": 0.5582,
+      "score": 0.5553,
+      "importance": 0.5553,
+      "importance_score": 0.5553,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9298,
+        "recency": 0.9137,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1424,128 +1424,30 @@
       }
     },
     {
-      "story_id": "story_b5a2b7d3ff4e",
-      "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-      "primary_url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-      "source": "manifest.build",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "manifest.build",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T03:21:33.850000Z"
-        },
-        {
-          "id": "5c98dc6841203e555006f0945ed5f9774ce61522",
-          "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "url": "https://news.ycombinator.com/item?id=49126630",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T18:52:14.785000Z"
-        },
-        {
-          "id": "ea169d12fe409871c6f4c3b99ae4f4752711fce0",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T18:06:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "manifest.build"
-      ],
-      "items": [
-        {
-          "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "manifest.build",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T03:21:33.850000Z"
-        },
-        {
-          "id": "5c98dc6841203e555006f0945ed5f9774ce61522",
-          "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "url": "https://news.ycombinator.com/item?id=49126630",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T18:52:14.785000Z"
-        },
-        {
-          "id": "ea169d12fe409871c6f4c3b99ae4f4752711fce0",
-          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器 / Everyone is building LLM routers, we deprecated ours",
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T18:06:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8609,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T18:06:39Z",
-      "latest_at": "2026-08-01T03:21:33.850000Z",
-      "primary_item": {
-        "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
-        "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
-        "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
-        "source": "manifest.build",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5f7d5a0cd386",
-      "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-      "url": "https://news.ycombinator.com/item?id=49134079",
-      "primary_url": "https://news.ycombinator.com/item?id=49134079",
+      "story_id": "story_080a2fa82eee",
+      "title": "如何识别人工智能写作 / How to Spot AI Writing",
+      "url": "https://news.ycombinator.com/item?id=49134310",
+      "primary_url": "https://news.ycombinator.com/item?id=49134310",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "url": "https://news.ycombinator.com/item?id=49134079",
+          "id": "920953a0fc62a52f9810a4dd324c0c665f084f8e",
+          "title": "如何识别人工智能写作 / How to Spot AI Writing",
+          "url": "https://news.ycombinator.com/item?id=49134310",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-01T13:44:22.945000Z"
+          "published_at": "2026-08-01T14:57:06.632000Z"
         },
         {
-          "id": "6c2f696248ab0e6d48fb0ffe934d1c3238b7e2aa",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+          "id": "02509fa19ed1b0f0e52c49a868e709b42e8a49de",
+          "title": "如何识别人工智能写作 / How to Spot AI Writing",
+          "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-01T13:02:44Z"
+          "published_at": "2026-08-01T13:35:26Z"
         }
       ],
       "source_count": 2,
@@ -1555,22 +1457,22 @@
       ],
       "items": [
         {
-          "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "url": "https://news.ycombinator.com/item?id=49134079",
+          "id": "920953a0fc62a52f9810a4dd324c0c665f084f8e",
+          "title": "如何识别人工智能写作 / How to Spot AI Writing",
+          "url": "https://news.ycombinator.com/item?id=49134310",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-01T13:44:22.945000Z"
+          "published_at": "2026-08-01T14:57:06.632000Z"
         },
         {
-          "id": "6c2f696248ab0e6d48fb0ffe934d1c3238b7e2aa",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+          "id": "02509fa19ed1b0f0e52c49a868e709b42e8a49de",
+          "title": "如何识别人工智能写作 / How to Spot AI Writing",
+          "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-01T13:02:44Z"
+          "published_at": "2026-08-01T13:35:26Z"
         }
       ],
       "item_count": 2,
@@ -1590,14 +1492,93 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T13:02:44Z",
-      "latest_at": "2026-08-01T13:44:22.945000Z",
+      "earliest_at": "2026-08-01T13:35:26Z",
+      "latest_at": "2026-08-01T14:57:06.632000Z",
       "primary_item": {
-        "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-        "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-        "url": "https://news.ycombinator.com/item?id=49134079",
+        "id": "920953a0fc62a52f9810a4dd324c0c665f084f8e",
+        "title": "如何识别人工智能写作 / How to Spot AI Writing",
+        "url": "https://news.ycombinator.com/item?id=49134310",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_6a094c69e03c",
+      "title": "随着Reddit股价下跌，首席执行官对谷歌AI概览的价值提出质疑",
+      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
+      "primary_url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1d21b59e2949d1b8f0d6cd7032a4857b70c06f07",
+          "title": "随着Reddit股价下跌，首席执行官对谷歌AI概览的价值提出质疑",
+          "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T14:01:33.829000Z"
+        },
+        {
+          "id": "38bb2fa27df7b7b58b863c25f93db4bcc26875c7",
+          "title": "随着Reddit股价下跌，首席执行官对谷歌AI概览的价值提出质疑 / As Reddit stock falls, CEO questions value of Google's AI Overviews",
+          "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T12:30:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "1d21b59e2949d1b8f0d6cd7032a4857b70c06f07",
+          "title": "随着Reddit股价下跌，首席执行官对谷歌AI概览的价值提出质疑",
+          "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T14:01:33.829000Z"
+        },
+        {
+          "id": "38bb2fa27df7b7b58b863c25f93db4bcc26875c7",
+          "title": "随着Reddit股价下跌，首席执行官对谷歌AI概览的价值提出质疑 / As Reddit stock falls, CEO questions value of Google's AI Overviews",
+          "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T12:30:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9869,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T12:30:36Z",
+      "latest_at": "2026-08-01T14:01:33.829000Z",
+      "primary_item": {
+        "id": "1d21b59e2949d1b8f0d6cd7032a4857b70c06f07",
+        "title": "随着Reddit股价下跌，首席执行官对谷歌AI概览的价值提出质疑",
+        "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
       }
     }
   ]
