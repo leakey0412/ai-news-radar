@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:44:12.583001Z",
+  "generated_at": "2026-08-01T20:44:21.040528Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.752,
+        "recency": 0.7412,
         "story_heat": 0.25
       },
       "category": "official",
@@ -144,68 +144,6 @@
         "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
         "url": "https://openai.com/index/ten-advances-in-mathematics",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_337d712579d2",
-      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T20:04:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T20:04:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7105,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T20:04:01Z",
-      "latest_at": "2026-07-31T20:04:01Z",
-      "primary_item": {
-        "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-        "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -263,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8774,
+        "recency": 0.8648,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -344,15 +282,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7228,
+        "recency": 0.7124,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -405,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7962,
+        "recency": 0.7847,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -465,15 +403,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7268,
+        "recency": 0.7163,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -487,86 +425,6 @@
         "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
         "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
         "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_32fd60636e2b",
-      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "primary_url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "086ab5b93578ee816486b17186f5647a99496989",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "tailscale.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "tailscale.com"
-      ],
-      "items": [
-        {
-          "id": "086ab5b93578ee816486b17186f5647a99496989",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "tailscale.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7141,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T20:25:20.686000Z",
-      "latest_at": "2026-07-31T20:25:20.686000Z",
-      "primary_item": {
-        "id": "086ab5b93578ee816486b17186f5647a99496989",
-        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "url": "https://tailscale.com/blog/hugging-face-intrusion",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -605,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7328,
-      "importance": 0.7328,
-      "importance_score": 0.7328,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8398,
+        "recency": 0.8278,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -737,15 +595,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6666,
-      "importance": 0.6666,
-      "importance_score": 0.6666,
+      "score": 0.6641,
+      "importance": 0.6641,
+      "importance_score": 0.6641,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.9626,
+        "recency": 0.9488,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -815,15 +673,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6023,
-      "importance": 0.6023,
-      "importance_score": 0.6023,
+      "score": 0.6,
+      "importance": 0.6,
+      "importance_score": 0.6,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8626,
+        "recency": 0.8502,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -876,19 +734,19 @@
           "published_at": "2026-08-01T12:56:54Z"
         },
         {
-          "id": "567c2f3217b8b3676b16cf3aa6315a269a0b02fd",
+          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
           "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
           "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-01T12:56:54Z"
         }
       ],
       "source_count": 4,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.antipope.org"
       ],
@@ -921,26 +779,26 @@
           "published_at": "2026-08-01T12:56:54Z"
         },
         {
-          "id": "567c2f3217b8b3676b16cf3aa6315a269a0b02fd",
+          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
           "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
           "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-01T12:56:54Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5921,
-      "importance": 0.5921,
-      "importance_score": 0.5921,
+      "score": 0.5895,
+      "importance": 0.5895,
+      "importance_score": 0.5895,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9793,
+        "recency": 0.9653,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1030,15 +888,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5651,
-      "importance": 0.5651,
-      "importance_score": 0.5651,
+      "score": 0.5625,
+      "importance": 0.5625,
+      "importance_score": 0.5625,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9681,
+        "recency": 0.9541,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1128,15 +986,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5497,
-      "importance": 0.5497,
-      "importance_score": 0.5497,
+      "score": 0.5474,
+      "importance": 0.5474,
+      "importance_score": 0.5474,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8826,
+        "recency": 0.8699,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1226,15 +1084,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8526,
+        "recency": 0.8403,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1252,80 +1110,79 @@
       }
     },
     {
-      "story_id": "story_4d68a5c042f1",
-      "title": "我解雇了我的AI助手 / I Fired My AI Assitant",
-      "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-      "primary_url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+      "story_id": "story_bc4ec80770d1",
+      "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "primary_url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "38367609b583d48947cecfaec4395791e51136bc",
-          "title": "我解雇了我的AI助手 / I Fired My AI Assitant",
-          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+          "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
+          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
+          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-01T16:38:28Z"
+          "published_at": "2026-08-01T17:56:41Z"
         },
         {
-          "id": "40b716b431d38234ddaa8c7c6a5e068b9c0efce8",
-          "title": "我解雇了我的AI助手",
-          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-          "source": "chreke.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T08:25:11.079000Z"
+          "id": "4664a2a308675e56f5cbe17a7417aa0ddbfb9521",
+          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0 Released",
+          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T17:56:41Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "chreke.com"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "38367609b583d48947cecfaec4395791e51136bc",
-          "title": "我解雇了我的AI助手 / I Fired My AI Assitant",
-          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+          "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
+          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
+          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-01T16:38:28Z"
+          "published_at": "2026-08-01T17:56:41Z"
         },
         {
-          "id": "40b716b431d38234ddaa8c7c6a5e068b9c0efce8",
-          "title": "我解雇了我的AI助手",
-          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-          "source": "chreke.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T08:25:11.079000Z"
+          "id": "4664a2a308675e56f5cbe17a7417aa0ddbfb9521",
+          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0 Released",
+          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T17:56:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9563,
+        "recency": 0.9604,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T08:25:11.079000Z",
-      "latest_at": "2026-08-01T16:38:28Z",
+      "earliest_at": "2026-08-01T17:56:41Z",
+      "latest_at": "2026-08-01T17:56:41Z",
       "primary_item": {
-        "id": "38367609b583d48947cecfaec4395791e51136bc",
-        "title": "我解雇了我的AI助手 / I Fired My AI Assitant",
-        "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+        "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
+        "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
+        "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1384,15 +1241,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9332,
+        "recency": 0.9198,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1463,15 +1320,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9208,
+        "recency": 0.9076,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1485,6 +1342,85 @@
         "title": "随着Reddit股价下跌，首席执行官对谷歌AI概览的价值提出质疑",
         "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
         "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2d226c6ef4b2",
+      "title": "Show HN: Wienerdog——适用于Claude Code/Codex的记忆与自我提升技能",
+      "url": "https://github.com/wienerdog-ai/wienerdog",
+      "primary_url": "https://github.com/wienerdog-ai/wienerdog",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6c4480e318382550e97917ce602c98672ca78840",
+          "title": "Show HN: Wienerdog——适用于Claude Code/Codex的记忆与自我提升技能",
+          "url": "https://github.com/wienerdog-ai/wienerdog",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T13:45:22.777000Z"
+        },
+        {
+          "id": "e19bc83b1a308f048d3e92491d10fcd33b7b4cc3",
+          "title": "Show HN: Wienerdog——适用于Claude Code/Codex的记忆与自我提升技能 / Show HN: Wienerdog – memory and self-improving skills for Claude Code/Codex",
+          "url": "https://github.com/wienerdog-ai/wienerdog",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-01T13:44:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "6c4480e318382550e97917ce602c98672ca78840",
+          "title": "Show HN: Wienerdog——适用于Claude Code/Codex的记忆与自我提升技能",
+          "url": "https://github.com/wienerdog-ai/wienerdog",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T13:45:22.777000Z"
+        },
+        {
+          "id": "e19bc83b1a308f048d3e92491d10fcd33b7b4cc3",
+          "title": "Show HN: Wienerdog——适用于Claude Code/Codex的记忆与自我提升技能 / Show HN: Wienerdog – memory and self-improving skills for Claude Code/Codex",
+          "url": "https://github.com/wienerdog-ai/wienerdog",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-01T13:44:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9041,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T13:44:05Z",
+      "latest_at": "2026-08-01T13:45:22.777000Z",
+      "primary_item": {
+        "id": "6c4480e318382550e97917ce602c98672ca78840",
+        "title": "Show HN: Wienerdog——适用于Claude Code/Codex的记忆与自我提升技能",
+        "url": "https://github.com/wienerdog-ai/wienerdog",
+        "source": "github.com",
         "source_name": "Buzzing"
       }
     },
@@ -1542,15 +1478,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
+      "score": 0.5244,
+      "importance": 0.5244,
+      "importance_score": 0.5244,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8942,
+        "recency": 0.8814,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1621,15 +1557,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5224,
+      "importance": 0.5224,
+      "importance_score": 0.5224,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8826,
+        "recency": 0.8699,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1644,6 +1580,84 @@
         "url": "https://www.businessinsider.com/openai-product-manager-ai-prompt-advice-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_16eec787773e",
+      "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
+      "url": "https://www.ithome.com/0/984/557.htm",
+      "primary_url": "https://www.ithome.com/0/984/557.htm",
+      "source": "IT之家 (ITHome)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "c4490cc4f94f9539bbb2d2d0453426c792b6aa83",
+          "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
+          "url": "https://www.ithome.com/0/984/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T08:23:25Z"
+        },
+        {
+          "id": "4713ca6708ad870d934005b3abc539671fc76a9d",
+          "title": "均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元",
+          "url": "https://www.ithome.com/0/984/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T08:23:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "c4490cc4f94f9539bbb2d2d0453426c792b6aa83",
+          "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
+          "url": "https://www.ithome.com/0/984/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T08:23:25Z"
+        },
+        {
+          "id": "4713ca6708ad870d934005b3abc539671fc76a9d",
+          "title": "均为 10 年以上未解难题：OpenAI 公布在数学与理论计算机科学领域的十项进展，Token 成本约 2000 美元",
+          "url": "https://www.ithome.com/0/984/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T08:23:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5164,
+      "importance": 0.5164,
+      "importance_score": 0.5164,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8367,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T08:23:25Z",
+      "latest_at": "2026-08-01T08:23:25Z",
+      "primary_item": {
+        "id": "c4490cc4f94f9539bbb2d2d0453426c792b6aa83",
+        "title": "均为 10 年以上未解难题：OpenAI 公布下一代模型 Astra 在数学等领域的十项进展，Token 成本约 2000 美元",
+        "url": "https://www.ithome.com/0/984/557.htm",
+        "source": "IT之家 (ITHome)",
+        "source_name": "Info Flow"
       }
     }
   ]
