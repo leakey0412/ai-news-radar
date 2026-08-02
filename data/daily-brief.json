@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T20:48:57.638089Z",
+  "generated_at": "2026-08-02T21:51:07.828447Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8652,
+        "recency": 0.8524,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7338,
-      "importance": 0.7338,
-      "importance_score": 0.7338,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.812,
+        "recency": 0.8,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -293,15 +293,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.672,
-      "importance": 0.672,
-      "importance_score": 0.672,
+      "score": 0.6695,
+      "importance": 0.6695,
+      "importance_score": 0.6695,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9464,
+        "recency": 0.9323,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -391,15 +391,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.567,
-      "importance": 0.567,
-      "importance_score": 0.567,
+      "score": 0.5644,
+      "importance": 0.5644,
+      "importance_score": 0.5644,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.979,
+        "recency": 0.9645,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -470,15 +470,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5555,
-      "importance": 0.5555,
-      "importance_score": 0.5555,
+      "score": 0.5534,
+      "importance": 0.5534,
+      "importance_score": 0.5534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7876,
+        "recency": 0.7759,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -587,15 +587,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5504,
-      "importance": 0.5504,
-      "importance_score": 0.5504,
+      "score": 0.5484,
+      "importance": 0.5484,
+      "importance_score": 0.5484,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7478,
+        "recency": 0.7367,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -613,82 +613,161 @@
       }
     },
     {
-      "story_id": "story_87444f9634f8",
-      "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-      "url": "https://news.ycombinator.com/item?id=49147622",
-      "primary_url": "https://news.ycombinator.com/item?id=49147622",
+      "story_id": "story_caf37ae6194c",
+      "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+      "url": "https://news.ycombinator.com/item?id=49148159",
+      "primary_url": "https://news.ycombinator.com/item?id=49148159",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://news.ycombinator.com/item?id=49147622",
+          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "url": "https://news.ycombinator.com/item?id=49148159",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T20:25:10.684000Z"
+          "published_at": "2026-08-02T21:25:15.432000Z"
         },
         {
-          "id": "9cdb16941baa8ae1980e1cc4ee81f9dfaf77b800",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T19:42:08Z"
+          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:48:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://news.ycombinator.com/item?id=49147622",
+          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "url": "https://news.ycombinator.com/item?id=49148159",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T20:25:10.684000Z"
+          "published_at": "2026-08-02T21:25:15.432000Z"
         },
         {
-          "id": "9cdb16941baa8ae1980e1cc4ee81f9dfaf77b800",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T19:42:08Z"
+          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:48:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9943,
+        "recency": 0.9938,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T19:42:08Z",
-      "latest_at": "2026-08-02T20:25:10.684000Z",
+      "earliest_at": "2026-08-02T20:48:28Z",
+      "latest_at": "2026-08-02T21:25:15.432000Z",
       "primary_item": {
-        "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-        "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-        "url": "https://news.ycombinator.com/item?id=49147622",
+        "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+        "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+        "url": "https://news.ycombinator.com/item?id=49148159",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_42cdc0dbe85c",
+      "title": "Show HN: MicroCodex 编码代理——用 C 重构的 OpenAI/Codex 1MB 二进制文件",
+      "url": "https://github.com/paoloanzn/microcodex",
+      "primary_url": "https://github.com/paoloanzn/microcodex",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7a5b1bdbdb3eb69848db16685662d46369ab335e",
+          "title": "Show HN: MicroCodex 编码代理——用 C 重构的 OpenAI/Codex 1MB 二进制文件",
+          "url": "https://github.com/paoloanzn/microcodex",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T20:24:41.873000Z"
+        },
+        {
+          "id": "d3edb05a339dfc6cb512574d593d1d4632912fba",
+          "title": "Show HN: MicroCodex 编码代理——用 C 重构的 OpenAI/Codex 1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "url": "https://github.com/paoloanzn/microcodex",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T20:11:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "7a5b1bdbdb3eb69848db16685662d46369ab335e",
+          "title": "Show HN: MicroCodex 编码代理——用 C 重构的 OpenAI/Codex 1MB 二进制文件",
+          "url": "https://github.com/paoloanzn/microcodex",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T20:24:41.873000Z"
+        },
+        {
+          "id": "d3edb05a339dfc6cb512574d593d1d4632912fba",
+          "title": "Show HN: MicroCodex 编码代理——用 C 重构的 OpenAI/Codex 1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "url": "https://github.com/paoloanzn/microcodex",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T20:11:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9794,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T20:11:35Z",
+      "latest_at": "2026-08-02T20:24:41.873000Z",
+      "primary_item": {
+        "id": "7a5b1bdbdb3eb69848db16685662d46369ab335e",
+        "title": "Show HN: MicroCodex 编码代理——用 C 重构的 OpenAI/Codex 1MB 二进制文件",
+        "url": "https://github.com/paoloanzn/microcodex",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -745,15 +824,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.984,
+        "recency": 0.9694,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -772,7 +851,7 @@
     },
     {
       "story_id": "story_ec3fe4d21af5",
-      "title": "7 年后的 SwiftUI / SwiftUI After 7 Years",
+      "title": "SwiftUI 7年后的现状 / SwiftUI After 7 Years",
       "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity",
       "primary_url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity",
       "source": "Hacker News · 24h最热",
@@ -780,7 +859,7 @@
       "sources": [
         {
           "id": "13a1c0f2f57092c25e78ec9a51207001ca0f9b77",
-          "title": "7 年后的 SwiftUI / SwiftUI After 7 Years",
+          "title": "SwiftUI 7年后的现状 / SwiftUI After 7 Years",
           "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -789,7 +868,7 @@
         },
         {
           "id": "31490b8c1a6b8418b50295c9fc6fb0161f2b0551",
-          "title": "SwiftUI 7 年后：平庸的故事 / SwiftUI After 7 Years: A Story of Mediocrity",
+          "title": "SwiftUI 7年后的现状 / SwiftUI After 7 Years: A Story of Mediocrity",
           "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -804,7 +883,7 @@
       "items": [
         {
           "id": "13a1c0f2f57092c25e78ec9a51207001ca0f9b77",
-          "title": "7 年后的 SwiftUI / SwiftUI After 7 Years",
+          "title": "SwiftUI 7年后的现状 / SwiftUI After 7 Years",
           "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -813,7 +892,7 @@
         },
         {
           "id": "31490b8c1a6b8418b50295c9fc6fb0161f2b0551",
-          "title": "SwiftUI 7 年后：平庸的故事 / SwiftUI After 7 Years: A Story of Mediocrity",
+          "title": "SwiftUI 7年后的现状 / SwiftUI After 7 Years: A Story of Mediocrity",
           "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -823,15 +902,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9739,
+        "recency": 0.9594,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -842,7 +921,7 @@
       "latest_at": "2026-08-02T18:59:05Z",
       "primary_item": {
         "id": "13a1c0f2f57092c25e78ec9a51207001ca0f9b77",
-        "title": "7 年后的 SwiftUI / SwiftUI After 7 Years",
+        "title": "SwiftUI 7年后的现状 / SwiftUI After 7 Years",
         "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -902,15 +981,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.942,
+        "recency": 0.928,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -981,15 +1060,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5302,
-      "importance": 0.5302,
-      "importance_score": 0.5302,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9134,
+        "recency": 0.8999,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1060,15 +1139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8764,
+        "recency": 0.8634,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1139,15 +1218,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5193,
+      "importance": 0.5193,
+      "importance_score": 0.5193,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8655,
+        "recency": 0.8526,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1165,80 +1244,80 @@
       }
     },
     {
-      "story_id": "story_cfdd2789b4ea",
-      "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-      "url": "https://news.ycombinator.com/item?id=49147606",
-      "primary_url": "https://news.ycombinator.com/item?id=49147606",
+      "story_id": "story_87444f9634f8",
+      "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://news.ycombinator.com/item?id=49147622",
+      "primary_url": "https://news.ycombinator.com/item?id=49147622",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://news.ycombinator.com/item?id=49147606",
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://news.ycombinator.com/item?id=49147622",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-02T20:25:10.684000Z"
         },
         {
-          "id": "68c67fdf4543d06152afbfe4079bb1dfbdabf901",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T19:40:19Z"
+          "id": "9cdb16941baa8ae1980e1cc4ee81f9dfaf77b800",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T19:42:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://news.ycombinator.com/item?id=49147606",
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://news.ycombinator.com/item?id=49147622",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-02T20:25:10.684000Z"
         },
         {
-          "id": "68c67fdf4543d06152afbfe4079bb1dfbdabf901",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T19:40:19Z"
+          "id": "9cdb16941baa8ae1980e1cc4ee81f9dfaf77b800",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T19:42:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9943,
+        "recency": 0.9795,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T19:40:19Z",
+      "earliest_at": "2026-08-02T19:42:08Z",
       "latest_at": "2026-08-02T20:25:10.684000Z",
       "primary_item": {
-        "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-        "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-        "url": "https://news.ycombinator.com/item?id=49147606",
+        "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+        "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "url": "https://news.ycombinator.com/item?id=49147622",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1297,15 +1376,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
+      "score": 0.5118,
+      "importance": 0.5118,
+      "importance_score": 0.5118,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8233,
+        "recency": 0.8111,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1376,15 +1455,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9464,
+        "recency": 0.9323,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1399,85 +1478,6 @@
         "url": "https://www.huxiu.com/article/4880099.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_cc743031491e",
-      "title": "大型语言模型无法破解对称加密",
-      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-      "primary_url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-      "source": "www.bfswa.blog",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "45692bd20840387a7095ecc6a151f32f35bc84a2",
-          "title": "大型语言模型无法破解对称加密",
-          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-          "source": "www.bfswa.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T21:13:20.467000Z"
-        },
-        {
-          "id": "dc2a3b683639a09c89f47e843ece8714dee5fb04",
-          "title": "大型语言模型无法破解对称加密 / LLMs won't break symmetric crypto",
-          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T21:11:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.bfswa.blog"
-      ],
-      "items": [
-        {
-          "id": "45692bd20840387a7095ecc6a151f32f35bc84a2",
-          "title": "大型语言模型无法破解对称加密",
-          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-          "source": "www.bfswa.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T21:13:20.467000Z"
-        },
-        {
-          "id": "dc2a3b683639a09c89f47e843ece8714dee5fb04",
-          "title": "大型语言模型无法破解对称加密 / LLMs won't break symmetric crypto",
-          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T21:11:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4938,
-      "importance": 0.4938,
-      "importance_score": 0.4938,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7113,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T21:11:22Z",
-      "latest_at": "2026-08-01T21:13:20.467000Z",
-      "primary_item": {
-        "id": "45692bd20840387a7095ecc6a151f32f35bc84a2",
-        "title": "大型语言模型无法破解对称加密",
-        "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-        "source": "www.bfswa.blog",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1534,15 +1534,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5163,
-      "importance": 0.5163,
-      "importance_score": 0.5163,
+      "score": 0.514,
+      "importance": 0.514,
+      "importance_score": 0.514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.836,
+        "recency": 0.8236,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1560,82 +1560,82 @@
       }
     },
     {
-      "story_id": "story_09e43c4dbf4f",
-      "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-      "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4880101.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_cfdd2789b4ea",
+      "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+      "url": "https://news.ycombinator.com/item?id=49147606",
+      "primary_url": "https://news.ycombinator.com/item?id=49147606",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "524fbfe15cde7d42399fe84b98ed195169dcf858",
-          "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
+          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+          "url": "https://news.ycombinator.com/item?id=49147606",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:25:10.684000Z"
         },
         {
-          "id": "2dac4fa96e89ff3739eaa5f2f1d5e3c6a93a7467",
-          "title": "AI正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T16:04:41Z"
+          "id": "68c67fdf4543d06152afbfe4079bb1dfbdabf901",
+          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T19:40:19Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "524fbfe15cde7d42399fe84b98ed195169dcf858",
-          "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
+          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+          "url": "https://news.ycombinator.com/item?id=49147606",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:25:10.684000Z"
         },
         {
-          "id": "2dac4fa96e89ff3739eaa5f2f1d5e3c6a93a7467",
-          "title": "AI正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T16:04:41Z"
+          "id": "68c67fdf4543d06152afbfe4079bb1dfbdabf901",
+          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T19:40:19Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9464,
+        "recency": 0.9795,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T16:04:41Z",
-      "latest_at": "2026-08-02T17:00:02.438056Z",
+      "earliest_at": "2026-08-02T19:40:19Z",
+      "latest_at": "2026-08-02T20:25:10.684000Z",
       "primary_item": {
-        "id": "524fbfe15cde7d42399fe84b98ed195169dcf858",
-        "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-        "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
+        "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
+        "url": "https://news.ycombinator.com/item?id=49147606",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
