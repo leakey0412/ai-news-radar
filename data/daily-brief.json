@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T11:40:46.039679Z",
+  "generated_at": "2026-08-02T13:10:29.838447Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9872,
+        "recency": 0.9662,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.9068,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -294,15 +294,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.631,
-      "importance": 0.631,
-      "importance_score": 0.631,
+      "score": 0.6281,
+      "importance": 0.6281,
+      "importance_score": 0.6281,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.7647,
+        "recency": 0.7483,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -373,15 +373,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5755,
-      "importance": 0.5755,
-      "importance_score": 0.5755,
+      "score": 0.572,
+      "importance": 0.572,
+      "importance_score": 0.572,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8987,
+        "recency": 0.8795,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -425,12 +425,12 @@
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
-          "id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
           "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
           "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
@@ -447,6 +447,7 @@
       "source_names": [
         "Hacker News",
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "mitsloan.mit.edu"
       ],
       "items": [
@@ -469,12 +470,12 @@
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
-          "id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
           "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
           "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
@@ -489,15 +490,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5694,
-      "importance": 0.5694,
-      "importance_score": 0.5694,
+      "score": 0.5661,
+      "importance": 0.5661,
+      "importance_score": 0.5661,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8532,
+        "recency": 0.835,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -511,123 +512,6 @@
         "title": "只要问对问题，AI提供的理财建议其实出乎意料地好",
         "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
         "source": "mitsloan.mit.edu",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f5fb55945fb6",
-      "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-      "primary_url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-      "source": "www.antipope.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "www.antipope.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T18:17:24.719000Z"
-        },
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T15:59:39.713000Z"
-        },
-        {
-          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T12:56:54Z"
-        },
-        {
-          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.antipope.org"
-      ],
-      "items": [
-        {
-          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "www.antipope.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T18:17:24.719000Z"
-        },
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T15:59:39.713000Z"
-        },
-        {
-          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T12:56:54Z"
-        },
-        {
-          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5558,
-      "importance": 0.5558,
-      "importance_score": 0.5558,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7779,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T12:56:54Z",
-      "latest_at": "2026-08-01T18:17:24.719000Z",
-      "primary_item": {
-        "id": "41407e75eac43cbac93d3896678c55e7de41c842",
-        "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-        "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-        "source": "www.antipope.org",
         "source_name": "Buzzing"
       }
     },
@@ -658,18 +542,18 @@
           "published_at": "2026-08-02T02:01:09.958000Z"
         },
         {
-          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
+          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
           "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "url": "https://costperprompt.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T01:56:44Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "costperprompt.com",
         "hackernews"
       ],
@@ -693,26 +577,26 @@
           "published_at": "2026-08-02T02:01:09.958000Z"
         },
         {
-          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
+          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
           "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "url": "https://costperprompt.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T01:56:44Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5551,
-      "importance": 0.5551,
-      "importance_score": 0.5551,
+      "score": 0.5516,
+      "importance": 0.5516,
+      "importance_score": 0.5516,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.913,
+        "recency": 0.8935,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -783,15 +667,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9786,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -862,15 +746,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9875,
+        "recency": 0.9665,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -941,15 +825,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9539,
+        "recency": 0.9335,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1020,15 +904,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9516,
+        "recency": 0.9312,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1099,15 +983,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9395,
+        "recency": 0.9194,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1197,15 +1081,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.769,
+        "recency": 0.7526,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1223,30 +1107,30 @@
       }
     },
     {
-      "story_id": "story_8bfd4174f55c",
-      "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "url": "https://news.ycombinator.com/item?id=49143001",
-      "primary_url": "https://news.ycombinator.com/item?id=49143001",
+      "story_id": "story_302ebd399e0c",
+      "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+      "url": "https://news.ycombinator.com/item?id=49143688",
+      "primary_url": "https://news.ycombinator.com/item?id=49143688",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
-          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "url": "https://news.ycombinator.com/item?id=49143001",
+          "id": "6e433cb300eda8530a7f8a2d54d2a70221e12c73",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "url": "https://news.ycombinator.com/item?id=49143688",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T11:23:25.394000Z"
+          "published_at": "2026-08-02T12:53:40.014000Z"
         },
         {
-          "id": "448465f8e3efbcbdbc6b0875972fea9f5c7b8c4b",
-          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "id": "80d3d882734ea7c3f4a896eed950734dfba5e8a7",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "url": "https://twitter.com/polynoamial/status/2083467194663571701",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T10:18:24Z"
+          "published_at": "2026-08-02T12:01:37Z"
         }
       ],
       "source_count": 2,
@@ -1256,22 +1140,22 @@
       ],
       "items": [
         {
-          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
-          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "url": "https://news.ycombinator.com/item?id=49143001",
+          "id": "6e433cb300eda8530a7f8a2d54d2a70221e12c73",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "url": "https://news.ycombinator.com/item?id=49143688",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T11:23:25.394000Z"
+          "published_at": "2026-08-02T12:53:40.014000Z"
         },
         {
-          "id": "448465f8e3efbcbdbc6b0875972fea9f5c7b8c4b",
-          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "id": "80d3d882734ea7c3f4a896eed950734dfba5e8a7",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "url": "https://twitter.com/polynoamial/status/2083467194663571701",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T10:18:24Z"
+          "published_at": "2026-08-02T12:01:37Z"
         }
       ],
       "item_count": 2,
@@ -1284,19 +1168,19 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9958,
+        "recency": 0.996,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T10:18:24Z",
-      "latest_at": "2026-08-02T11:23:25.394000Z",
+      "earliest_at": "2026-08-02T12:01:37Z",
+      "latest_at": "2026-08-02T12:53:40.014000Z",
       "primary_item": {
-        "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
-        "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-        "url": "https://news.ycombinator.com/item?id=49143001",
+        "id": "6e433cb300eda8530a7f8a2d54d2a70221e12c73",
+        "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+        "url": "https://news.ycombinator.com/item?id=49143688",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1355,15 +1239,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5119,
-      "importance": 0.5119,
-      "importance_score": 0.5119,
+      "score": 0.5088,
+      "importance": 0.5088,
+      "importance_score": 0.5088,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8116,
+        "recency": 0.7942,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1433,15 +1317,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5086,
-      "importance": 0.5086,
-      "importance_score": 0.5086,
+      "score": 0.5056,
+      "importance": 0.5056,
+      "importance_score": 0.5056,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7935,
+        "recency": 0.7765,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1512,15 +1396,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9169,
+        "recency": 0.8973,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1535,85 +1419,6 @@
         "url": "https://www.ithome.com/0/984/671.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6a094c69e03c",
-      "title": "随着Reddit股价下跌，首席执行官对谷歌AI概览的价值提出质疑",
-      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
-      "primary_url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1d21b59e2949d1b8f0d6cd7032a4857b70c06f07",
-          "title": "随着Reddit股价下跌，首席执行官对谷歌AI概览的价值提出质疑",
-          "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T14:01:33.829000Z"
-        },
-        {
-          "id": "38bb2fa27df7b7b58b863c25f93db4bcc26875c7",
-          "title": "随着Reddit股价下跌，首席执行官对谷歌AI概览的价值提出质疑 / As Reddit stock falls, CEO questions value of Google's AI Overviews",
-          "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T12:30:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "1d21b59e2949d1b8f0d6cd7032a4857b70c06f07",
-          "title": "随着Reddit股价下跌，首席执行官对谷歌AI概览的价值提出质疑",
-          "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T14:01:33.829000Z"
-        },
-        {
-          "id": "38bb2fa27df7b7b58b863c25f93db4bcc26875c7",
-          "title": "随着Reddit股价下跌，首席执行官对谷歌AI概览的价值提出质疑 / As Reddit stock falls, CEO questions value of Google's AI Overviews",
-          "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T12:30:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4975,
-      "importance": 0.4975,
-      "importance_score": 0.4975,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7315,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T12:30:36Z",
-      "latest_at": "2026-08-01T14:01:33.829000Z",
-      "primary_item": {
-        "id": "1d21b59e2949d1b8f0d6cd7032a4857b70c06f07",
-        "title": "随着Reddit股价下跌，首席执行官对谷歌AI概览的价值提出质疑",
-        "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1670,15 +1475,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.497,
-      "importance": 0.497,
-      "importance_score": 0.497,
+      "score": 0.4942,
+      "importance": 0.4942,
+      "importance_score": 0.4942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7286,
+        "recency": 0.7131,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1692,6 +1497,164 @@
         "title": "Show HN: Wienerdog——适用于Claude Code/Codex的记忆与自我提升技能",
         "url": "https://github.com/wienerdog-ai/wienerdog",
         "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_681146c258a7",
+      "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+      "url": "https://news.ycombinator.com/item?id=49143630",
+      "primary_url": "https://news.ycombinator.com/item?id=49143630",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a63a15362d3ef0ccf915f2ccd2b329d802b1b76b",
+          "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "url": "https://news.ycombinator.com/item?id=49143630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T12:53:40.014000Z"
+        },
+        {
+          "id": "6074886730872e8fde64e44ed9a9f08f1327c2f3",
+          "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "url": "https://website-auditor.io/ai-visibility-index",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T11:53:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a63a15362d3ef0ccf915f2ccd2b329d802b1b76b",
+          "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "url": "https://news.ycombinator.com/item?id=49143630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T12:53:40.014000Z"
+        },
+        {
+          "id": "6074886730872e8fde64e44ed9a9f08f1327c2f3",
+          "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "url": "https://website-auditor.io/ai-visibility-index",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T11:53:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.996,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T11:53:52Z",
+      "latest_at": "2026-08-02T12:53:40.014000Z",
+      "primary_item": {
+        "id": "a63a15362d3ef0ccf915f2ccd2b329d802b1b76b",
+        "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+        "url": "https://news.ycombinator.com/item?id=49143630",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_fcf0520a7f7d",
+      "title": "YouTube网红汉克·格林在向粉丝致歉时表示，自己“过度依赖”了人工智能",
+      "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+      "primary_url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f48cb1b7101fde524f8401f69aa94a9728e40bd3",
+          "title": "YouTube网红汉克·格林在向粉丝致歉时表示，自己“过度依赖”了人工智能",
+          "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T20:57:27.309000Z"
+        },
+        {
+          "id": "da9bce8e7a1216bdaab56501e640932babe4e05d",
+          "title": "YouTube网红汉克·格林在向粉丝致歉时表示，自己“过度依赖”了人工智能 / YouTube star Hank Green says he's relied 'too heavily' on AI in an apology to fans",
+          "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T19:55:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "f48cb1b7101fde524f8401f69aa94a9728e40bd3",
+          "title": "YouTube网红汉克·格林在向粉丝致歉时表示，自己“过度依赖”了人工智能",
+          "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T20:57:27.309000Z"
+        },
+        {
+          "id": "da9bce8e7a1216bdaab56501e640932babe4e05d",
+          "title": "YouTube网红汉克·格林在向粉丝致歉时表示，自己“过度依赖”了人工智能 / YouTube star Hank Green says he's relied 'too heavily' on AI in an apology to fans",
+          "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T19:55:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5082,
+      "importance": 0.5082,
+      "importance_score": 0.5082,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7912,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T19:55:38Z",
+      "latest_at": "2026-08-01T20:57:27.309000Z",
+      "primary_item": {
+        "id": "f48cb1b7101fde524f8401f69aa94a9728e40bd3",
+        "title": "YouTube网红汉克·格林在向粉丝致歉时表示，自己“过度依赖”了人工智能",
+        "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
