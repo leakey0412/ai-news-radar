@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T17:46:33.721788Z",
+  "generated_at": "2026-08-03T19:24:51.282639Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -157,15 +157,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8511,
-      "importance": 0.8511,
-      "importance_score": 0.8511,
+      "score": 0.847,
+      "importance": 0.847,
+      "importance_score": 0.847,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9805,
+        "recency": 0.9576,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -182,6 +182,68 @@
         "url": "https://github.com/lyogavin/airllm",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_545d6c402c71",
+      "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9595,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T16:33:13Z",
+      "latest_at": "2026-08-03T16:33:13Z",
+      "primary_item": {
+        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+        "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -257,15 +319,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7963,
+        "recency": 0.7777,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -281,6 +343,87 @@
         "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
         "url": "https://qwen.ai/blog?id=qwen3.8",
         "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_153c499b0419",
+      "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T17:38:45Z"
+        },
+        {
+          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T17:38:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T17:38:45Z"
+        },
+        {
+          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T17:38:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9748,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T17:38:45Z",
+      "latest_at": "2026-08-03T17:38:45Z",
+      "primary_item": {
+        "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+        "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -337,15 +480,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9317,
+        "recency": 0.9099,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -399,15 +542,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.968,
+        "recency": 0.9454,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -459,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9334,
+        "recency": 0.9115,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -519,15 +662,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9563,
+        "recency": 0.934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -579,15 +722,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9182,
+        "recency": 0.8967,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -658,15 +801,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8894,
+        "recency": 0.8686,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -720,15 +863,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9546,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -799,15 +942,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
+      "score": 0.7256,
+      "importance": 0.7256,
+      "importance_score": 0.7256,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7454,
+        "recency": 0.7279,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -860,15 +1003,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9368,
+        "recency": 0.9149,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -939,15 +1082,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8894,
+        "recency": 0.8686,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1020,15 +1163,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8894,
+        "recency": 0.8686,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1049,13 +1192,40 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "如果你同时用Codex、Claude Code，又经常在MacBook、Mac mini之间切项目，最烦的或许就是每次都要重新解释背景：这个项目是什么、之前为什么这么设计、哪些坑已经踩过。全塞进AGENTS.md又容易把上下文撑爆。卡尔给了一个更轻的记忆方案：每台机器用claude-mem本地捕获会话里的关键记忆，再只把架构决策、稳定偏好、重要发现和已验证的Bug修复同步到 Mem0。这样Codex和Claude都能按项目检索共享记忆。",
+      "title": "如果你用 Codex、Claude、Cursor 做项目，应该见过根目录里都会有一堆Markdown：CLAUDE.md、AGENTS.md、SKILL.md。每个文件其实都在解决一个真实问题，理解它们之间的差异，能避免你用不同方式重复维护同一份上下文。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-08-03",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "8a00aa0a56be640f7fec9897b0151be057bd32fe",
+          "title": "如果你用 Codex、Claude、Cursor 做项目，应该见过根目录里都会有一堆Markdown：CLAUDE.md、AGENTS.md、SKILL.md。每个文件其实都在解决一个真实问题，理解它们之间的差异，能避免你用不同方式重复维护同一份上下文。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:24:51.282639Z"
+        },
+        {
+          "id": "48c3564468d03536762f0cafffb73444f1025cd0",
+          "title": "很多人看到“Anthropic把Claude Code的系统提示词删掉80% ”，第一反应就是：那我也赶紧把规则砍短，省 Token、省成本。但提示词变短不等于真实成本下降，能不能删，要看模型会不会主动补资料、补边界，还得拿真实任务测试。老金拿他的开源项目 Meta_Kim 做了48 次 A/B 测试，覆盖简单的单文件修改、模糊产品任务、跨文件高风险任务，并加入公开测试、隐藏测试和盲评。来看看他的测试效果！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:24:51.282639Z"
+        },
+        {
+          "id": "d9a0945c9fc9c06389126913bc228a94c36d680c",
+          "title": "很多通过Vibe Coding快速开发的产品功能齐全，却缺失鉴权、数据加密这些安全机制，上线后直面数据泄露的风险。作者给了一段安全review提示词，适合上线前让AI安全巡检一遍，排查路由权限、接口漏洞、敏感数据存储隐患并生成修复方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:24:51.282639Z"
+        },
+        {
           "id": "383aa2d4ef658af8a73511841eb450c2e190c48e",
           "title": "如果你同时用Codex、Claude Code，又经常在MacBook、Mac mini之间切项目，最烦的或许就是每次都要重新解释背景：这个项目是什么、之前为什么这么设计、哪些坑已经踩过。全塞进AGENTS.md又容易把上下文撑爆。卡尔给了一个更轻的记忆方案：每台机器用claude-mem本地捕获会话里的关键记忆，再只把架构决策、稳定偏好、重要发现和已验证的Bug修复同步到 Mem0。这样Codex和Claude都能按项目检索共享记忆。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1090,33 +1260,41 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-03T09:39:42.872162Z"
-        },
-        {
-          "id": "7f3d3bcc0b2b7e99fd261837dbe974aacc162f5b",
-          "title": "Codex Plus用户不必急于升级昂贵的Pro套餐。伴随Luna大幅降价80%，一套高低搭配的模型协作方案或许会帮助到你：Sol负责架构规划、需求研判等高价值决策，Luna承担代码修改、补充测试等标准化执行工作。文中附带现成提示词、子代理配置方式与任务容错策略。借助这套分工模式，用20美元档位的订阅搭建AI工作小队，可以大大压缩token消耗，拉高单人开发效率。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-02",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-02T18:05:05.714329Z"
-        },
-        {
-          "id": "f77caadce8de147af2c8ba965cb2778e93d413a0",
-          "title": "做AI视频最怕两件事：别人的案例看起来很炸，自己一上手就角色混乱、镜头断掉、改一处还得重来；再加上积分贵，试错几次就肉疼。作者的团队深耕AI短剧创作，这次也拿即梦Seedance 2.5做了 10 个实测案例，可以帮你判断Seedance 2.5 值不值得用。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-02",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-02T18:05:05.714329Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 7,
       "source_names": [
-        "社区更新 · 2026-08-02",
         "社区更新 · 2026-08-03"
       ],
       "items": [
         {
+          "id": "8a00aa0a56be640f7fec9897b0151be057bd32fe",
+          "title": "如果你用 Codex、Claude、Cursor 做项目，应该见过根目录里都会有一堆Markdown：CLAUDE.md、AGENTS.md、SKILL.md。每个文件其实都在解决一个真实问题，理解它们之间的差异，能避免你用不同方式重复维护同一份上下文。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:24:51.282639Z"
+        },
+        {
+          "id": "48c3564468d03536762f0cafffb73444f1025cd0",
+          "title": "很多人看到“Anthropic把Claude Code的系统提示词删掉80% ”，第一反应就是：那我也赶紧把规则砍短，省 Token、省成本。但提示词变短不等于真实成本下降，能不能删，要看模型会不会主动补资料、补边界，还得拿真实任务测试。老金拿他的开源项目 Meta_Kim 做了48 次 A/B 测试，覆盖简单的单文件修改、模糊产品任务、跨文件高风险任务，并加入公开测试、隐藏测试和盲评。来看看他的测试效果！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:24:51.282639Z"
+        },
+        {
+          "id": "d9a0945c9fc9c06389126913bc228a94c36d680c",
+          "title": "很多通过Vibe Coding快速开发的产品功能齐全，却缺失鉴权、数据加密这些安全机制，上线后直面数据泄露的风险。作者给了一段安全review提示词，适合上线前让AI安全巡检一遍，排查路由权限、接口漏洞、敏感数据存储隐患并生成修复方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-03T19:24:51.282639Z"
+        },
+        {
           "id": "383aa2d4ef658af8a73511841eb450c2e190c48e",
           "title": "如果你同时用Codex、Claude Code，又经常在MacBook、Mac mini之间切项目，最烦的或许就是每次都要重新解释背景：这个项目是什么、之前为什么这么设计、哪些坑已经踩过。全塞进AGENTS.md又容易把上下文撑爆。卡尔给了一个更轻的记忆方案：每台机器用claude-mem本地捕获会话里的关键记忆，再只把架构决策、稳定偏好、重要发现和已验证的Bug修复同步到 Mem0。这样Codex和Claude都能按项目检索共享记忆。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1151,36 +1329,18 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-03T09:39:42.872162Z"
-        },
-        {
-          "id": "7f3d3bcc0b2b7e99fd261837dbe974aacc162f5b",
-          "title": "Codex Plus用户不必急于升级昂贵的Pro套餐。伴随Luna大幅降价80%，一套高低搭配的模型协作方案或许会帮助到你：Sol负责架构规划、需求研判等高价值决策，Luna承担代码修改、补充测试等标准化执行工作。文中附带现成提示词、子代理配置方式与任务容错策略。借助这套分工模式，用20美元档位的订阅搭建AI工作小队，可以大大压缩token消耗，拉高单人开发效率。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-02",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-02T18:05:05.714329Z"
-        },
-        {
-          "id": "f77caadce8de147af2c8ba965cb2778e93d413a0",
-          "title": "做AI视频最怕两件事：别人的案例看起来很炸，自己一上手就角色混乱、镜头断掉、改一处还得重来；再加上积分贵，试错几次就肉疼。作者的团队深耕AI短剧创作，这次也拿即梦Seedance 2.5做了 10 个实测案例，可以帮你判断Seedance 2.5 值不值得用。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-02",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-02T18:05:05.714329Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.6775,
+      "importance": 0.6775,
+      "importance_score": 0.6775,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.468,
+        "editorial": 0.4824,
         "source_tier": 0.54,
-        "ai_relevance": 0.65,
+        "ai_relevance": 0.67,
         "recency": 1.0,
         "story_heat": 1.0
       },
@@ -1188,11 +1348,11 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T18:05:05.714329Z",
-      "latest_at": "2026-08-03T17:46:33.721788Z",
+      "earliest_at": "2026-08-03T09:39:42.872162Z",
+      "latest_at": "2026-08-03T19:24:51.282639Z",
       "primary_item": {
-        "id": "383aa2d4ef658af8a73511841eb450c2e190c48e",
-        "title": "如果你同时用Codex、Claude Code，又经常在MacBook、Mac mini之间切项目，最烦的或许就是每次都要重新解释背景：这个项目是什么、之前为什么这么设计、哪些坑已经踩过。全塞进AGENTS.md又容易把上下文撑爆。卡尔给了一个更轻的记忆方案：每台机器用claude-mem本地捕获会话里的关键记忆，再只把架构决策、稳定偏好、重要发现和已验证的Bug修复同步到 Mem0。这样Codex和Claude都能按项目检索共享记忆。",
+        "id": "8a00aa0a56be640f7fec9897b0151be057bd32fe",
+        "title": "如果你用 Codex、Claude、Cursor 做项目，应该见过根目录里都会有一堆Markdown：CLAUDE.md、AGENTS.md、SKILL.md。每个文件其实都在解决一个真实问题，理解它们之间的差异，能避免你用不同方式重复维护同一份上下文。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-03",
         "source_name": "WaytoAGI"
@@ -1252,15 +1412,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8894,
+        "recency": 0.8686,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1333,15 +1493,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8894,
+        "recency": 0.8686,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1413,15 +1573,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5987,
-      "importance": 0.5987,
-      "importance_score": 0.5987,
+      "score": 0.5949,
+      "importance": 0.5949,
+      "importance_score": 0.5949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.907,
+        "recency": 0.8858,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1436,222 +1596,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
         "source": "The Verge",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_093eaa8b4e8f",
-      "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-      "url": "https://www.aibase.com/news/30069",
-      "primary_url": "https://www.aibase.com/news/30069",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dfca8260da6754f5f6bbada75279c9896f29c232",
-          "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-          "url": "https://www.aibase.com/news/30069",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T09:39:42.872162Z"
-        },
-        {
-          "id": "44fac3d4380e8094d03982e4a2f6ba32ea14ae37",
-          "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-          "url": "https://www.aibase.com/zh/news/30069",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "dfca8260da6754f5f6bbada75279c9896f29c232",
-          "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-          "url": "https://www.aibase.com/news/30069",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T09:39:42.872162Z"
-        },
-        {
-          "id": "44fac3d4380e8094d03982e4a2f6ba32ea14ae37",
-          "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-          "url": "https://www.aibase.com/zh/news/30069",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8894,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T09:39:42.872162Z",
-      "latest_at": "2026-08-03T09:39:42.872162Z",
-      "primary_item": {
-        "id": "dfca8260da6754f5f6bbada75279c9896f29c232",
-        "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
-        "url": "https://www.aibase.com/news/30069",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_87444f9634f8",
-      "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-      "url": "https://news.ycombinator.com/item?id=49147622",
-      "primary_url": "https://news.ycombinator.com/item?id=49147622",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-          "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T05:42:37.626000Z"
-        },
-        {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
-        },
-        {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:25:10.684000Z"
-        },
-        {
-          "id": "9cdb16941baa8ae1980e1cc4ee81f9dfaf77b800",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T19:42:08Z"
-        },
-        {
-          "id": "85c464d06f44c53ea531320315e322572052549d",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "frogs.vaguespac.es",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-          "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T05:42:37.626000Z"
-        },
-        {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
-        },
-        {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:25:10.684000Z"
-        },
-        {
-          "id": "9cdb16941baa8ae1980e1cc4ee81f9dfaf77b800",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T19:42:08Z"
-        },
-        {
-          "id": "85c464d06f44c53ea531320315e322572052549d",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.592,
-      "importance": 0.592,
-      "importance_score": 0.592,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8401,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T19:42:08Z",
-      "latest_at": "2026-08-03T05:42:37.626000Z",
-      "primary_item": {
-        "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-        "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-        "url": "https://news.ycombinator.com/item?id=49147622",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
