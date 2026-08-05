@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T05:28:27.221571Z",
+  "generated_at": "2026-08-05T08:02:44.816799Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8637,
-      "importance": 0.8637,
-      "importance_score": 0.8637,
+      "score": 0.8581,
+      "importance": 0.8581,
+      "importance_score": 0.8581,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.8596,
+        "recency": 0.8283,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8616,
+        "recency": 0.8302,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.8212,
+      "importance": 0.8212,
+      "importance_score": 0.8212,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8602,
+        "recency": 0.8288,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,15 +282,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9236,
+        "recency": 0.89,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -344,15 +344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7995,
+        "recency": 0.7703,
         "story_heat": 0.0
       },
       "category": "official",
@@ -406,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7883,
+        "recency": 0.7595,
         "story_heat": 0.0
       },
       "category": "official",
@@ -431,6 +431,87 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_aed2ee455d40",
+      "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+      "url": "https://www.aibase.com/news/30132",
+      "primary_url": "https://www.aibase.com/news/30132",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
+          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+          "url": "https://www.aibase.com/news/30132",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T08:02:44.816799Z"
+        },
+        {
+          "id": "4cfe74669ebbd66225f65d11ac1a6dfd4a0a1c60",
+          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+          "url": "https://www.aibase.com/zh/news/30132",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
+          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+          "url": "https://www.aibase.com/news/30132",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T08:02:44.816799Z"
+        },
+        {
+          "id": "4cfe74669ebbd66225f65d11ac1a6dfd4a0a1c60",
+          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+          "url": "https://www.aibase.com/zh/news/30132",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T08:02:44.816799Z",
+      "latest_at": "2026-08-05T08:02:44.816799Z",
+      "primary_item": {
+        "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
+        "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+        "url": "https://www.aibase.com/news/30132",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -487,15 +568,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9455,
+        "recency": 0.9111,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -587,15 +668,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8509,
+        "recency": 0.8199,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -612,87 +693,6 @@
         "url": "https://github.com/MakazhanAlpamys/Soup",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d320d5876b8b",
-      "title": "Anthropic 首设全球事务官：前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈",
-      "url": "https://www.aibase.com/news/30121",
-      "primary_url": "https://www.aibase.com/news/30121",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5f819bc4bf7dfb2df3a126cb77d3a0bcfc2d1714",
-          "title": "Anthropic 首设全球事务官：前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈",
-          "url": "https://www.aibase.com/news/30121",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T05:28:27.221571Z"
-        },
-        {
-          "id": "aa5c7372ac6b27dd16da41af18798aebc2eb0c18",
-          "title": "Anthropic 首设全球事务官：前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈",
-          "url": "https://www.aibase.com/zh/news/30121",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5f819bc4bf7dfb2df3a126cb77d3a0bcfc2d1714",
-          "title": "Anthropic 首设全球事务官：前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈",
-          "url": "https://www.aibase.com/news/30121",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T05:28:27.221571Z"
-        },
-        {
-          "id": "aa5c7372ac6b27dd16da41af18798aebc2eb0c18",
-          "title": "Anthropic 首设全球事务官：前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈",
-          "url": "https://www.aibase.com/zh/news/30121",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T05:28:27.221571Z",
-      "latest_at": "2026-08-05T05:28:27.221571Z",
-      "primary_item": {
-        "id": "5f819bc4bf7dfb2df3a126cb77d3a0bcfc2d1714",
-        "title": "Anthropic 首设全球事务官：前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈",
-        "url": "https://www.aibase.com/news/30121",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -730,15 +730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8628,
+        "recency": 0.8314,
         "story_heat": 0.0
       },
       "category": "official",
@@ -758,26 +758,26 @@
       }
     },
     {
-      "story_id": "story_e05d16c8c6c2",
-      "title": "京东开源视频实时编辑模型：30 帧秒级推理，边看边改重新定义视频创作",
-      "url": "https://www.aibase.com/news/30123",
-      "primary_url": "https://www.aibase.com/news/30123",
+      "story_id": "story_df0c9d1fbfff",
+      "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+      "url": "https://www.aibase.com/news/30130",
+      "primary_url": "https://www.aibase.com/news/30130",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fb17bcce0daff574b82826ebe91af9e4b0a39d3c",
-          "title": "京东开源视频实时编辑模型：30 帧秒级推理，边看边改重新定义视频创作",
-          "url": "https://www.aibase.com/news/30123",
+          "id": "45d71f070884471c1302c577a523eae2763a2385",
+          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+          "url": "https://www.aibase.com/news/30130",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-05T05:28:27.221571Z"
+          "published_at": "2026-08-05T08:02:44.816799Z"
         },
         {
-          "id": "98a0784aeeba26c215674e55068bf5ee3e17f964",
-          "title": "京东开源视频实时编辑模型：30 帧秒级推理，边看边改重新定义视频创作",
-          "url": "https://www.aibase.com/zh/news/30123",
+          "id": "22c2c6eaf5044c34334f901e8d723162d0afcbe0",
+          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+          "url": "https://www.aibase.com/zh/news/30130",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -791,18 +791,18 @@
       ],
       "items": [
         {
-          "id": "fb17bcce0daff574b82826ebe91af9e4b0a39d3c",
-          "title": "京东开源视频实时编辑模型：30 帧秒级推理，边看边改重新定义视频创作",
-          "url": "https://www.aibase.com/news/30123",
+          "id": "45d71f070884471c1302c577a523eae2763a2385",
+          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+          "url": "https://www.aibase.com/news/30130",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-05T05:28:27.221571Z"
+          "published_at": "2026-08-05T08:02:44.816799Z"
         },
         {
-          "id": "98a0784aeeba26c215674e55068bf5ee3e17f964",
-          "title": "京东开源视频实时编辑模型：30 帧秒级推理，边看边改重新定义视频创作",
-          "url": "https://www.aibase.com/zh/news/30123",
+          "id": "22c2c6eaf5044c34334f901e8d723162d0afcbe0",
+          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+          "url": "https://www.aibase.com/zh/news/30130",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -828,12 +828,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T05:28:27.221571Z",
-      "latest_at": "2026-08-05T05:28:27.221571Z",
+      "earliest_at": "2026-08-05T08:02:44.816799Z",
+      "latest_at": "2026-08-05T08:02:44.816799Z",
       "primary_item": {
-        "id": "fb17bcce0daff574b82826ebe91af9e4b0a39d3c",
-        "title": "京东开源视频实时编辑模型：30 帧秒级推理，边看边改重新定义视频创作",
-        "url": "https://www.aibase.com/news/30123",
+        "id": "45d71f070884471c1302c577a523eae2763a2385",
+        "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+        "url": "https://www.aibase.com/news/30130",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -911,15 +911,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7877,
+        "recency": 0.759,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -973,21 +973,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8232,
+        "recency": 0.7932,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T16:00:00Z",
       "latest_at": "2026-08-04T16:00:00Z",
@@ -1034,15 +1033,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8222,
+        "recency": 0.7922,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1096,21 +1095,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8111,
+        "recency": 0.7816,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T14:58:39Z",
       "latest_at": "2026-08-04T14:58:39Z",
@@ -1157,15 +1155,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9604,
+        "recency": 0.9254,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1179,66 +1177,6 @@
         "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
         "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
         "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ee5fdd47cccb",
-      "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-      "url": "https://x.com/elonmusk/status/2084857373555101726",
-      "primary_url": "https://x.com/elonmusk/status/2084857373555101726",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-          "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-          "url": "https://x.com/elonmusk/status/2084857373555101726",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T04:21:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-          "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-          "url": "https://x.com/elonmusk/status/2084857373555101726",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T04:21:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9841,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T04:21:47Z",
-      "latest_at": "2026-08-05T04:21:47Z",
-      "primary_item": {
-        "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-        "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-        "url": "https://x.com/elonmusk/status/2084857373555101726",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
         "source_name": "AI HOT"
       }
     },
@@ -1296,15 +1234,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8115,
+        "recency": 0.782,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1319,6 +1257,66 @@
         "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
         "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
         "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ee5fdd47cccb",
+      "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+      "url": "https://x.com/elonmusk/status/2084857373555101726",
+      "primary_url": "https://x.com/elonmusk/status/2084857373555101726",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
+          "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+          "url": "https://x.com/elonmusk/status/2084857373555101726",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T04:21:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
+          "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+          "url": "https://x.com/elonmusk/status/2084857373555101726",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T04:21:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9482,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T04:21:47Z",
+      "latest_at": "2026-08-05T04:21:47Z",
+      "primary_item": {
+        "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
+        "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+        "url": "https://x.com/elonmusk/status/2084857373555101726",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
         "source_name": "AI HOT"
       }
     },
@@ -1376,15 +1374,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8617,
+        "recency": 0.8303,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1438,15 +1436,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7436,
+        "recency": 0.7165,
         "story_heat": 0.0
       },
       "category": "industry",
