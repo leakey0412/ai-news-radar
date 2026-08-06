@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T02:14:29.276087Z",
+  "generated_at": "2026-08-06T05:31:28.758602Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8509,
-      "importance": 0.8509,
-      "importance_score": 0.8509,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9297,
+        "recency": 0.8866,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -131,6 +131,15 @@
       "source_name": "AI HOT",
       "sources": [
         {
+          "id": "2c99870418ada7bf5e51f040598d4aeb8f0564d2",
+          "title": "分享10个能大幅提升vibe coding幸福感的开源App",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509213&idx=1&sn=0ee2b58388d9bdb7f3f087d5197b6f19",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T01:27:00Z"
+        },
+        {
           "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
           "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
@@ -149,13 +158,22 @@
           "published_at": "2026-08-05T06:46:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "公众号：卡尔的AI沃茨",
         "公众号：数字生命卡兹克"
       ],
       "items": [
         {
+          "id": "2c99870418ada7bf5e51f040598d4aeb8f0564d2",
+          "title": "分享10个能大幅提升vibe coding幸福感的开源App",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509213&idx=1&sn=0ee2b58388d9bdb7f3f087d5197b6f19",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T01:27:00Z"
+        },
+        {
           "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
           "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
@@ -174,27 +192,27 @@
           "published_at": "2026-08-05T06:46:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8308,
+      "importance": 0.8308,
+      "importance_score": 0.8308,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9859,
-        "story_heat": 0.25
+        "recency": 0.9402,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-05T06:46:00Z",
-      "latest_at": "2026-08-06T01:15:29Z",
+      "latest_at": "2026-08-06T01:27:00Z",
       "primary_item": {
         "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
         "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
@@ -231,7 +249,7 @@
         },
         {
           "id": "59e71498c3e56288b548709fd4926dfd2e41148c",
-          "title": "为什么传奇的埃尔德什问题正被人工智能攻克 / Why the Legendary Erdős Problems Are Falling to AI",
+          "title": "为什么埃尔德什问题正被人工智能攻克 / Why the Legendary Erdős Problems Are Falling to AI",
           "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
@@ -258,7 +276,7 @@
         },
         {
           "id": "ddb30b9ccc522b86b61d1105aedfa4b20eff1385",
-          "title": "为什么传奇的埃尔德什问题正被人工智能攻克 / Why Erdős Problems Are Falling to AI",
+          "title": "为什么埃尔德什问题正被人工智能攻克 / Why Erdős Problems Are Falling to AI",
           "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -295,7 +313,7 @@
         },
         {
           "id": "59e71498c3e56288b548709fd4926dfd2e41148c",
-          "title": "为什么传奇的埃尔德什问题正被人工智能攻克 / Why the Legendary Erdős Problems Are Falling to AI",
+          "title": "为什么埃尔德什问题正被人工智能攻克 / Why the Legendary Erdős Problems Are Falling to AI",
           "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
@@ -322,7 +340,7 @@
         },
         {
           "id": "ddb30b9ccc522b86b61d1105aedfa4b20eff1385",
-          "title": "为什么传奇的埃尔德什问题正被人工智能攻克 / Why Erdős Problems Are Falling to AI",
+          "title": "为什么埃尔德什问题正被人工智能攻克 / Why Erdős Problems Are Falling to AI",
           "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -332,15 +350,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8674,
+        "recency": 0.8273,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -413,15 +431,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9537,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -494,15 +512,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7917,
-      "importance": 0.7917,
-      "importance_score": 0.7917,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9617,
+        "recency": 0.9171,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -575,15 +593,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8807,
+        "recency": 0.84,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -603,30 +621,30 @@
       }
     },
     {
-      "story_id": "story_e54604d72eb4",
-      "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
-      "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
-      "primary_url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
+      "story_id": "story_072490f4f02f",
+      "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
+      "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+      "primary_url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
       "source": "MarkTechPost（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "aeaf389f42facc068c043c983e1a6ad522171f93",
-          "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
-          "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
+          "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
+          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
+          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
           "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T21:56:03Z"
+          "published_at": "2026-08-06T00:37:42Z"
         },
         {
-          "id": "e3fd9106b93887d668bbe78f2673e4401b281bde",
-          "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化 / End-to-End Bayesian Marketing Mix Modeling with Google Meridian: Media Measurement, ROI Analysis, and Budget Optimization",
-          "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
+          "id": "73899cdee0f186dd9c0fbd85453f0fef50bb32b2",
+          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
+          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
           "source": "MarkTechPost Research",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-08-05T21:56:03Z"
+          "published_at": "2026-08-06T00:37:42Z"
         }
       ],
       "source_count": 2,
@@ -636,35 +654,35 @@
       ],
       "items": [
         {
-          "id": "aeaf389f42facc068c043c983e1a6ad522171f93",
-          "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
-          "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
+          "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
+          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
+          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
           "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T21:56:03Z"
+          "published_at": "2026-08-06T00:37:42Z"
         },
         {
-          "id": "e3fd9106b93887d668bbe78f2673e4401b281bde",
-          "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化 / End-to-End Bayesian Marketing Mix Modeling with Google Meridian: Media Measurement, ROI Analysis, and Budget Optimization",
-          "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
+          "id": "73899cdee0f186dd9c0fbd85453f0fef50bb32b2",
+          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
+          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
           "source": "MarkTechPost Research",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-08-05T21:56:03Z"
+          "published_at": "2026-08-06T00:37:42Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9397,
+        "recency": 0.9317,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -673,12 +691,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T21:56:03Z",
-      "latest_at": "2026-08-05T21:56:03Z",
+      "earliest_at": "2026-08-06T00:37:42Z",
+      "latest_at": "2026-08-06T00:37:42Z",
       "primary_item": {
-        "id": "aeaf389f42facc068c043c983e1a6ad522171f93",
-        "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
-        "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
+        "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
+        "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
+        "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
@@ -718,15 +736,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9051,
+        "recency": 0.8632,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -798,15 +816,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7934,
+        "recency": 0.7567,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -898,15 +916,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9297,
+        "recency": 0.8866,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -960,15 +978,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9454,
+        "recency": 0.9016,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1040,15 +1058,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.826,
+        "recency": 0.7877,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1121,15 +1139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9537,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1183,15 +1201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8636,
+        "recency": 0.8236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1244,15 +1262,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8442,
+        "recency": 0.8051,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1270,30 +1288,30 @@
       }
     },
     {
-      "story_id": "story_6bcc72be98e2",
-      "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
-      "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
-      "primary_url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+      "story_id": "story_e54604d72eb4",
+      "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
+      "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
+      "primary_url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
       "source": "MarkTechPost（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
-          "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
-          "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+          "id": "aeaf389f42facc068c043c983e1a6ad522171f93",
+          "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
+          "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
           "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T08:25:11Z"
+          "published_at": "2026-08-05T21:56:03Z"
         },
         {
-          "id": "a34bae8b0cb986763e63c3ebb6e7c26017b06202",
-          "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型 / NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
-          "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+          "id": "e3fd9106b93887d668bbe78f2673e4401b281bde",
+          "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化 / End-to-End Bayesian Marketing Mix Modeling with Google Meridian: Media Measurement, ROI Analysis, and Budget Optimization",
+          "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
           "source": "MarkTechPost Research",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-08-05T08:25:11Z"
+          "published_at": "2026-08-05T21:56:03Z"
         }
       ],
       "source_count": 2,
@@ -1303,35 +1321,35 @@
       ],
       "items": [
         {
-          "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
-          "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
-          "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+          "id": "aeaf389f42facc068c043c983e1a6ad522171f93",
+          "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
+          "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
           "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T08:25:11Z"
+          "published_at": "2026-08-05T21:56:03Z"
         },
         {
-          "id": "a34bae8b0cb986763e63c3ebb6e7c26017b06202",
-          "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型 / NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
-          "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+          "id": "e3fd9106b93887d668bbe78f2673e4401b281bde",
+          "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化 / End-to-End Bayesian Marketing Mix Modeling with Google Meridian: Media Measurement, ROI Analysis, and Budget Optimization",
+          "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
           "source": "MarkTechPost Research",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-08-05T08:25:11Z"
+          "published_at": "2026-08-05T21:56:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7731,
+        "recency": 0.8962,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1340,12 +1358,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T08:25:11Z",
-      "latest_at": "2026-08-05T08:25:11Z",
+      "earliest_at": "2026-08-05T21:56:03Z",
+      "latest_at": "2026-08-05T21:56:03Z",
       "primary_item": {
-        "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
-        "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
-        "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+        "id": "aeaf389f42facc068c043c983e1a6ad522171f93",
+        "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
+        "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
@@ -1404,15 +1422,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.91,
+        "recency": 0.8679,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1485,15 +1503,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.797,
+        "recency": 0.7601,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1547,15 +1565,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8843,
+        "recency": 0.8434,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1574,84 +1592,63 @@
       }
     },
     {
-      "story_id": "story_8c451a271c95",
-      "title": "Reddit升级AI审核工具与社区管理系统，降低Karma门槛优化用户参与体验",
-      "url": "https://www.aibase.com/news/30143",
-      "primary_url": "https://www.aibase.com/news/30143",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_ec0e53c55d9e",
+      "title": "AI智能体尚无法开展开放式AI研究",
+      "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+      "primary_url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+      "source": "AI as Normal Technology（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6dd3901b50552f5c53e42f3bfc3441fe8c0c04fe",
-          "title": "Reddit升级AI审核工具与社区管理系统，降低Karma门槛优化用户参与体验",
-          "url": "https://www.aibase.com/news/30143",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T02:14:29.276087Z"
-        },
-        {
-          "id": "f25173dfa2b81c5e76002eece3a576c734a7ac2a",
-          "title": "Reddit 升级 AI 审核工具与社区管理系统，降低 Karma 门槛优化用户参与体验",
-          "url": "https://www.aibase.com/zh/news/30143",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
+          "title": "AI智能体尚无法开展开放式AI研究",
+          "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+          "source": "AI as Normal Technology（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:49:19Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AI as Normal Technology（RSS）"
       ],
       "items": [
         {
-          "id": "6dd3901b50552f5c53e42f3bfc3441fe8c0c04fe",
-          "title": "Reddit升级AI审核工具与社区管理系统，降低Karma门槛优化用户参与体验",
-          "url": "https://www.aibase.com/news/30143",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T02:14:29.276087Z"
-        },
-        {
-          "id": "f25173dfa2b81c5e76002eece3a576c734a7ac2a",
-          "title": "Reddit 升级 AI 审核工具与社区管理系统，降低 Karma 门槛优化用户参与体验",
-          "url": "https://www.aibase.com/zh/news/30143",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
+          "title": "AI智能体尚无法开展开放式AI研究",
+          "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+          "source": "AI as Normal Technology（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:49:19Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7251,
+      "importance": 0.7251,
+      "importance_score": 0.7251,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.7971,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-06T02:14:29.276087Z",
-      "latest_at": "2026-08-06T02:14:29.276087Z",
+      "earliest_at": "2026-08-05T13:49:19Z",
+      "latest_at": "2026-08-05T13:49:19Z",
       "primary_item": {
-        "id": "6dd3901b50552f5c53e42f3bfc3441fe8c0c04fe",
-        "title": "Reddit升级AI审核工具与社区管理系统，降低Karma门槛优化用户参与体验",
-        "url": "https://www.aibase.com/news/30143",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
+        "title": "AI智能体尚无法开展开放式AI研究",
+        "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+        "source": "AI as Normal Technology（RSS）",
+        "source_name": "AI HOT"
       }
     }
   ]
