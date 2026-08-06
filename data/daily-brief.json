@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T08:27:12.478972Z",
+  "generated_at": "2026-08-06T11:01:13.995512Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8366,
-      "importance": 0.8366,
-      "importance_score": 0.8366,
+      "score": 0.831,
+      "importance": 0.831,
+      "importance_score": 0.831,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8499,
+        "recency": 0.819,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -119,6 +119,87 @@
         "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
         "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2c99870418ada7bf5e51f040598d4aeb8f0564d2",
+          "title": "分享10个能大幅提升vibe coding幸福感的开源App",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509213&idx=1&sn=0ee2b58388d9bdb7f3f087d5197b6f19",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T01:27:00Z"
+        },
+        {
+          "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
+          "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T01:15:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "公众号：卡尔的AI沃茨",
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "2c99870418ada7bf5e51f040598d4aeb8f0564d2",
+          "title": "分享10个能大幅提升vibe coding幸福感的开源App",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509213&idx=1&sn=0ee2b58388d9bdb7f3f087d5197b6f19",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T01:27:00Z"
+        },
+        {
+          "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
+          "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T01:15:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8685,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T01:15:29Z",
+      "latest_at": "2026-08-06T01:27:00Z",
+      "primary_item": {
+        "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
+        "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -195,15 +276,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9801,
+        "recency": 0.9444,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -219,87 +300,6 @@
         "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
         "url": "https://arxiv.org/abs/2510.01395",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2c99870418ada7bf5e51f040598d4aeb8f0564d2",
-          "title": "分享10个能大幅提升vibe coding幸福感的开源App",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509213&idx=1&sn=0ee2b58388d9bdb7f3f087d5197b6f19",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T01:27:00Z"
-        },
-        {
-          "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
-          "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T01:15:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "公众号：卡尔的AI沃茨",
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "2c99870418ada7bf5e51f040598d4aeb8f0564d2",
-          "title": "分享10个能大幅提升vibe coding幸福感的开源App",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509213&idx=1&sn=0ee2b58388d9bdb7f3f087d5197b6f19",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T01:27:00Z"
-        },
-        {
-          "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
-          "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T01:15:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9013,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T01:15:29Z",
-      "latest_at": "2026-08-06T01:27:00Z",
-      "primary_item": {
-        "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
-        "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -357,15 +357,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9636,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -419,15 +419,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9681,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -499,15 +499,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8792,
+        "recency": 0.8472,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -580,15 +580,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8052,
+        "recency": 0.7759,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -604,87 +604,6 @@
         "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
         "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_072490f4f02f",
-      "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-      "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-      "primary_url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
-          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T00:37:42Z"
-        },
-        {
-          "id": "73899cdee0f186dd9c0fbd85453f0fef50bb32b2",
-          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-06T00:37:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
-          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T00:37:42Z"
-        },
-        {
-          "id": "73899cdee0f186dd9c0fbd85453f0fef50bb32b2",
-          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-06T00:37:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8932,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T00:37:42Z",
-      "latest_at": "2026-08-06T00:37:42Z",
-      "primary_item": {
-        "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
-        "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-        "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -817,15 +736,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.793,
+        "recency": 0.7641,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -841,6 +760,87 @@
         "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
         "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_072490f4f02f",
+      "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
+      "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+      "primary_url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
+          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
+          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T00:37:42Z"
+        },
+        {
+          "id": "73899cdee0f186dd9c0fbd85453f0fef50bb32b2",
+          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
+          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-06T00:37:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
+          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
+          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T00:37:42Z"
+        },
+        {
+          "id": "73899cdee0f186dd9c0fbd85453f0fef50bb32b2",
+          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
+          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-06T00:37:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8606,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T00:37:42Z",
+      "latest_at": "2026-08-06T00:37:42Z",
+      "primary_item": {
+        "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
+        "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
+        "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -879,15 +879,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8274,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -902,148 +902,6 @@
         "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
         "url": "https://x.com/JeffDean/status/2085083442669318443",
         "source": "X：Jeff Dean (@JeffDean)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a0201a182310",
-      "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
-      "url": "https://www.ithome.com/0/986/174.htm",
-      "primary_url": "https://www.ithome.com/0/986/174.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2601e70e4d0afe6546d42c26115eb203b2b078ec",
-          "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
-          "url": "https://www.ithome.com/0/986/174.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T10:12:57Z"
-        },
-        {
-          "id": "47e0a0705115da4c58d15d418087eb853e3a6a61",
-          "title": "Google Assistant 下月起逐步退场，“Hey Google”将由谷歌 Gemini 接棒",
-          "url": "https://www.ithome.com/0/986/174.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-05T10:12:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2601e70e4d0afe6546d42c26115eb203b2b078ec",
-          "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
-          "url": "https://www.ithome.com/0/986/174.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T10:12:57Z"
-        },
-        {
-          "id": "47e0a0705115da4c58d15d418087eb853e3a6a61",
-          "title": "Google Assistant 下月起逐步退场，“Hey Google”将由谷歌 Gemini 接棒",
-          "url": "https://www.ithome.com/0/986/174.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-05T10:12:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7253,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T10:12:57Z",
-      "latest_at": "2026-08-05T10:12:57Z",
-      "primary_item": {
-        "id": "2601e70e4d0afe6546d42c26115eb203b2b078ec",
-        "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
-        "url": "https://www.ithome.com/0/986/174.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_69fc8776f01b",
-      "title": "OpenAI 披露智能体集群秘密协作事件",
-      "url": "https://x.com/AISafetyMemes/status/2085129043956097299",
-      "primary_url": "https://x.com/AISafetyMemes/status/2085129043956097299",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "79934b77b91b8eac51bb7dcf9a89bf470bb14c5b",
-          "title": "OpenAI 披露智能体集群秘密协作事件",
-          "url": "https://x.com/AISafetyMemes/status/2085129043956097299",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T22:21:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI Safety Memes (@AISafetyMemes)"
-      ],
-      "items": [
-        {
-          "id": "79934b77b91b8eac51bb7dcf9a89bf470bb14c5b",
-          "title": "OpenAI 披露智能体集群秘密协作事件",
-          "url": "https://x.com/AISafetyMemes/status/2085129043956097299",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T22:21:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8643,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T22:21:18Z",
-      "latest_at": "2026-08-05T22:21:18Z",
-      "primary_item": {
-        "id": "79934b77b91b8eac51bb7dcf9a89bf470bb14c5b",
-        "title": "OpenAI 披露智能体集群秘密协作事件",
-        "url": "https://x.com/AISafetyMemes/status/2085129043956097299",
-        "source": "X：AI Safety Memes (@AISafetyMemes)",
         "source_name": "AI HOT"
       }
     },
@@ -1101,22 +959,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7551,
+        "recency": 0.7276,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-05T13:00:00Z",
       "latest_at": "2026-08-05T13:58:53Z",
@@ -1125,6 +982,66 @@
         "title": "Cloudflare OS：面向智能体、应用与工作的开放平台",
         "url": "https://blog.cloudflare.com/cloudflare-os",
         "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_69fc8776f01b",
+      "title": "OpenAI 披露智能体集群秘密协作事件",
+      "url": "https://x.com/AISafetyMemes/status/2085129043956097299",
+      "primary_url": "https://x.com/AISafetyMemes/status/2085129043956097299",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "79934b77b91b8eac51bb7dcf9a89bf470bb14c5b",
+          "title": "OpenAI 披露智能体集群秘密协作事件",
+          "url": "https://x.com/AISafetyMemes/status/2085129043956097299",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T22:21:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：AI Safety Memes (@AISafetyMemes)"
+      ],
+      "items": [
+        {
+          "id": "79934b77b91b8eac51bb7dcf9a89bf470bb14c5b",
+          "title": "OpenAI 披露智能体集群秘密协作事件",
+          "url": "https://x.com/AISafetyMemes/status/2085129043956097299",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T22:21:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8329,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T22:21:18Z",
+      "latest_at": "2026-08-05T22:21:18Z",
+      "primary_item": {
+        "id": "79934b77b91b8eac51bb7dcf9a89bf470bb14c5b",
+        "title": "OpenAI 披露智能体集群秘密协作事件",
+        "url": "https://x.com/AISafetyMemes/status/2085129043956097299",
+        "source": "X：AI Safety Memes (@AISafetyMemes)",
         "source_name": "AI HOT"
       }
     },
@@ -1182,15 +1099,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.8809,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1244,15 +1161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7895,
+        "recency": 0.7607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1304,15 +1221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7718,
+        "recency": 0.7437,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1383,15 +1300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8591,
+        "recency": 0.8278,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1483,15 +1400,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8499,
+        "recency": 0.819,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1564,15 +1481,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8319,
+        "recency": 0.8016,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1592,68 +1509,128 @@
       }
     },
     {
-      "story_id": "story_94d891c34e3e",
-      "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
-      "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-      "primary_url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_91c4f1f63b79",
+      "title": "Jeff Dean 告别谷歌，联合创立 DiscoLoopAI",
+      "url": "https://x.com/JeffDean/status/2085059187437113387",
+      "primary_url": "https://x.com/JeffDean/status/2085059187437113387",
+      "source": "X：Jeff Dean (@JeffDean)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5b1866d89464f0a220d48fe86c182625be178854",
-          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
-          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "b632d6b61c1d192e351a1a5b590a5f33c18c5818",
+          "title": "Jeff Dean 告别谷歌，联合创立 DiscoLoopAI",
+          "url": "https://x.com/JeffDean/status/2085059187437113387",
+          "source": "X：Jeff Dean (@JeffDean)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T10:31:42Z"
+          "published_at": "2026-08-05T17:43:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Jeff Dean (@JeffDean)"
+      ],
+      "items": [
+        {
+          "id": "b632d6b61c1d192e351a1a5b590a5f33c18c5818",
+          "title": "Jeff Dean 告别谷歌，联合创立 DiscoLoopAI",
+          "url": "https://x.com/JeffDean/status/2085059187437113387",
+          "source": "X：Jeff Dean (@JeffDean)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T17:43:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.779,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T17:43:43Z",
+      "latest_at": "2026-08-05T17:43:43Z",
+      "primary_item": {
+        "id": "b632d6b61c1d192e351a1a5b590a5f33c18c5818",
+        "title": "Jeff Dean 告别谷歌，联合创立 DiscoLoopAI",
+        "url": "https://x.com/JeffDean/status/2085059187437113387",
+        "source": "X：Jeff Dean (@JeffDean)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_512a5b06920a",
+      "title": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
+      "url": "https://www.aibase.com/news/30141",
+      "primary_url": "https://www.aibase.com/news/30141",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "64ede1ee920eb63cefa472adbfdabf5c33eec2f6",
+          "title": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
+          "url": "https://www.aibase.com/news/30141",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T02:14:29.276087Z"
         },
         {
-          "id": "709df0050eb6d24a9cbc1c54f64cb7f02bfe360a",
-          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-05T10:31:42Z"
+          "id": "dd82c7dc693b69cbb7fbd246644261e9b3aa2e2c",
+          "title": "Meta 推出 Muse Code AI 代理，可在大型代码库中执行完整软件工程任务",
+          "url": "https://www.aibase.com/zh/news/30141",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "5b1866d89464f0a220d48fe86c182625be178854",
-          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
-          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T10:31:42Z"
+          "id": "64ede1ee920eb63cefa472adbfdabf5c33eec2f6",
+          "title": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
+          "url": "https://www.aibase.com/news/30141",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T02:14:29.276087Z"
         },
         {
-          "id": "709df0050eb6d24a9cbc1c54f64cb7f02bfe360a",
-          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-05T10:31:42Z"
+          "id": "dd82c7dc693b69cbb7fbd246644261e9b3aa2e2c",
+          "title": "Meta 推出 Muse Code AI 代理，可在大型代码库中执行完整软件工程任务",
+          "url": "https://www.aibase.com/zh/news/30141",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7286,
+        "recency": 0.8809,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1662,14 +1639,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T10:31:42Z",
-      "latest_at": "2026-08-05T10:31:42Z",
+      "earliest_at": "2026-08-06T02:14:29.276087Z",
+      "latest_at": "2026-08-06T02:14:29.276087Z",
       "primary_item": {
-        "id": "5b1866d89464f0a220d48fe86c182625be178854",
-        "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
-        "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "id": "64ede1ee920eb63cefa472adbfdabf5c33eec2f6",
+        "title": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
+        "url": "https://www.aibase.com/news/30141",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
