@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T23:54:11.880560Z",
+  "generated_at": "2026-08-07T02:26:00.156964Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9023,
-      "importance": 0.9023,
-      "importance_score": 0.9023,
+      "score": 0.897,
+      "importance": 0.897,
+      "importance_score": 0.897,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8181,
+        "recency": 0.7887,
         "story_heat": 0.75
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8667,
-      "importance": 0.8667,
-      "importance_score": 0.8667,
+      "score": 0.8606,
+      "importance": 0.8606,
+      "importance_score": 0.8606,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9428,
+        "recency": 0.909,
         "story_heat": 0.25
       },
       "category": "official",
@@ -202,6 +202,68 @@
         "title": "GitHub Copilot 应用中的斜杠命令使用指南 / A guide to slash commands in the GitHub Copilot app",
         "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.147.0 / Codex CLI 0.147.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+          "title": "法典 CLI 0.147.0 / Codex CLI 0.147.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+          "title": "法典 CLI 0.147.0 / Codex CLI 0.147.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8598,
+      "importance": 0.8598,
+      "importance_score": 0.8598,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9655,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T00:00:00Z",
+      "latest_at": "2026-08-07T00:00:00Z",
+      "primary_item": {
+        "id": "b3ad943613d971383ab781d0f38a0b1ca858303e",
+        "title": "法典 CLI 0.147.0 / Codex CLI 0.147.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -240,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.836,
-      "importance": 0.836,
-      "importance_score": 0.836,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9111,
+        "recency": 0.8784,
         "story_heat": 0.0
       },
       "category": "official",
@@ -302,15 +364,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8807,
+        "recency": 0.8491,
         "story_heat": 0.0
       },
       "category": "official",
@@ -330,164 +392,163 @@
       }
     },
     {
-      "story_id": "story_72ea094fa822",
-      "title": "Baseten 拥抱人脸推理提供商 🔥 / Baseten on Hugging Face Inference Providers 🔥",
-      "url": "https://huggingface.co/blog/baseten",
-      "primary_url": "https://huggingface.co/blog/baseten",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_0b8cb8210dfe",
+      "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+      "url": "https://www.aibase.com/news/30180",
+      "primary_url": "https://www.aibase.com/news/30180",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "fb000cb0e2b418ef4b8d077235fff1c6b87bb350",
-          "title": "Baseten 拥抱人脸推理提供商 🔥 / Baseten on Hugging Face Inference Providers 🔥",
-          "url": "https://huggingface.co/blog/baseten",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T00:00:00Z"
+          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "url": "https://www.aibase.com/news/30180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T02:26:00.156964Z"
+        },
+        {
+          "id": "44e1a8612eaf693e36892357a21079b49b6f1c01",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "url": "https://www.aibase.com/zh/news/30180",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "fb000cb0e2b418ef4b8d077235fff1c6b87bb350",
-          "title": "Baseten 拥抱人脸推理提供商 🔥 / Baseten on Hugging Face Inference Providers 🔥",
-          "url": "https://huggingface.co/blog/baseten",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T00:00:00Z"
+          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "url": "https://www.aibase.com/news/30180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T02:26:00.156964Z"
+        },
+        {
+          "id": "44e1a8612eaf693e36892357a21079b49b6f1c01",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "url": "https://www.aibase.com/zh/news/30180",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7081,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T00:00:00Z",
-      "latest_at": "2026-08-06T00:00:00Z",
-      "primary_item": {
-        "id": "fb000cb0e2b418ef4b8d077235fff1c6b87bb350",
-        "title": "Baseten 拥抱人脸推理提供商 🔥 / Baseten on Hugging Face Inference Providers 🔥",
-        "url": "https://huggingface.co/blog/baseten",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c110113a3a0b2a75f48bc8792fd669a704115243",
-          "title": "千问全网首发公测，全新 Wan3.0 来了！",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T13:25:10Z"
-        },
-        {
-          "id": "2c99870418ada7bf5e51f040598d4aeb8f0564d2",
-          "title": "分享10个能大幅提升vibe coding幸福感的开源App",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509213&idx=1&sn=0ee2b58388d9bdb7f3f087d5197b6f19",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T01:27:00Z"
-        },
-        {
-          "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
-          "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T01:15:29Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "公众号：千问APP（阿里）",
-        "公众号：卡尔的AI沃茨",
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "c110113a3a0b2a75f48bc8792fd669a704115243",
-          "title": "千问全网首发公测，全新 Wan3.0 来了！",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T13:25:10Z"
-        },
-        {
-          "id": "2c99870418ada7bf5e51f040598d4aeb8f0564d2",
-          "title": "分享10个能大幅提升vibe coding幸福感的开源App",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509213&idx=1&sn=0ee2b58388d9bdb7f3f087d5197b6f19",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T01:27:00Z"
-        },
-        {
-          "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
-          "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T01:15:29Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7211,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T01:15:29Z",
-      "latest_at": "2026-08-06T13:25:10Z",
+      "earliest_at": "2026-08-07T02:26:00.156964Z",
+      "latest_at": "2026-08-07T02:26:00.156964Z",
       "primary_item": {
-        "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
-        "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
-        "source": "公众号：数字生命卡兹克",
+        "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+        "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+        "url": "https://www.aibase.com/news/30180",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+      "source": "公众号：千问APP（阿里）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
+          "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T02:04:51Z"
+        },
+        {
+          "id": "c110113a3a0b2a75f48bc8792fd669a704115243",
+          "title": "千问全网首发公测，全新 Wan3.0 来了！",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T13:25:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "公众号：千问APP（阿里）"
+      ],
+      "items": [
+        {
+          "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
+          "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T02:04:51Z"
+        },
+        {
+          "id": "c110113a3a0b2a75f48bc8792fd669a704115243",
+          "title": "千问全网首发公测，全新 Wan3.0 来了！",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T13:25:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7767,
+      "importance": 0.7767,
+      "importance_score": 0.7767,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9949,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T13:25:10Z",
+      "latest_at": "2026-08-07T02:04:51Z",
+      "primary_item": {
+        "id": "2d73ce4a13ace600c29323dbd667f512dcec622e",
+        "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+        "source": "公众号：千问APP（阿里）",
         "source_name": "AI HOT"
       }
     },
@@ -526,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.811,
-      "importance": 0.811,
-      "importance_score": 0.811,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7722,
+        "recency": 0.7445,
         "story_heat": 0.0
       },
       "category": "official",
@@ -607,15 +668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8598,
+        "recency": 0.829,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -632,6 +693,87 @@
         "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4b6f1b9b4d4f",
+      "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+      "url": "https://www.aibase.com/news/30183",
+      "primary_url": "https://www.aibase.com/news/30183",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
+          "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "url": "https://www.aibase.com/news/30183",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T02:26:00.156964Z"
+        },
+        {
+          "id": "62210b3d2e1644991836a76cd6bafa3ca420a81c",
+          "title": "OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "url": "https://www.aibase.com/zh/news/30183",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
+          "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "url": "https://www.aibase.com/news/30183",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T02:26:00.156964Z"
+        },
+        {
+          "id": "62210b3d2e1644991836a76cd6bafa3ca420a81c",
+          "title": "OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+          "url": "https://www.aibase.com/zh/news/30183",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T02:26:00.156964Z",
+      "latest_at": "2026-08-07T02:26:00.156964Z",
+      "primary_item": {
+        "id": "b91ee2a0d04c18c1faf0d3a03a7e2771c95bd31b",
+        "title": "GPT-5 一周年之际 OpenAI 推出 Agent Plugins 标准：终结智能体插件碎片化，定义跨客户端互通规范",
+        "url": "https://www.aibase.com/news/30183",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -669,15 +811,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9379,
+        "recency": 0.9042,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -749,15 +891,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8816,
+        "recency": 0.85,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -830,15 +972,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8521,
+        "recency": 0.8215,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -854,67 +996,6 @@
         "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
         "url": "https://www.ithome.com/0/986/729.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_18924b8995b4",
-      "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
-      "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
-      "primary_url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d86fba5a566a8c4722d04cf6c99ea2b0d56d5bde",
-          "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
-          "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T16:53:12.298000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d86fba5a566a8c4722d04cf6c99ea2b0d56d5bde",
-          "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
-          "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T16:53:12.298000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9036,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T16:53:12.298000Z",
-      "latest_at": "2026-08-06T16:53:12.298000Z",
-      "primary_item": {
-        "id": "d86fba5a566a8c4722d04cf6c99ea2b0d56d5bde",
-        "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
-        "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
-        "source": "Google Developers Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -953,15 +1034,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8693,
+        "recency": 0.8381,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -980,84 +1061,64 @@
       }
     },
     {
-      "story_id": "story_2c014dff2696",
-      "title": "张一鸣内部发声：字节模型拒绝“AI蒸馏” 坚持长期主义",
-      "url": "https://www.aibase.com/news/30165",
-      "primary_url": "https://www.aibase.com/news/30165",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_18924b8995b4",
+      "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
+      "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
+      "primary_url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5bf7e03583ccf6669678b5d814de47b1c5f18e5c",
-          "title": "张一鸣内部发声：字节模型拒绝“AI蒸馏” 坚持长期主义",
-          "url": "https://www.aibase.com/news/30165",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T08:27:12.478972Z"
-        },
-        {
-          "id": "4c3224bb0a6fba548bfacefbdd34737e1e5dee35",
-          "title": "张一鸣内部发声：字节模型拒绝「AI 蒸馏」坚持长期主义",
-          "url": "https://www.aibase.com/zh/news/30165",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "d86fba5a566a8c4722d04cf6c99ea2b0d56d5bde",
+          "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
+          "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T16:53:12.298000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Google Developers Blog（RSS）"
       ],
       "items": [
         {
-          "id": "5bf7e03583ccf6669678b5d814de47b1c5f18e5c",
-          "title": "张一鸣内部发声：字节模型拒绝“AI蒸馏” 坚持长期主义",
-          "url": "https://www.aibase.com/news/30165",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T08:27:12.478972Z"
-        },
-        {
-          "id": "4c3224bb0a6fba548bfacefbdd34737e1e5dee35",
-          "title": "张一鸣内部发声：字节模型拒绝「AI 蒸馏」坚持长期主义",
-          "url": "https://www.aibase.com/zh/news/30165",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "d86fba5a566a8c4722d04cf6c99ea2b0d56d5bde",
+          "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
+          "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T16:53:12.298000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8,
-        "story_heat": 0.25
+        "recency": 0.8712,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T08:27:12.478972Z",
-      "latest_at": "2026-08-06T08:27:12.478972Z",
+      "earliest_at": "2026-08-06T16:53:12.298000Z",
+      "latest_at": "2026-08-06T16:53:12.298000Z",
       "primary_item": {
-        "id": "5bf7e03583ccf6669678b5d814de47b1c5f18e5c",
-        "title": "张一鸣内部发声：字节模型拒绝“AI蒸馏” 坚持长期主义",
-        "url": "https://www.aibase.com/news/30165",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "d86fba5a566a8c4722d04cf6c99ea2b0d56d5bde",
+        "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
+        "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1095,21 +1156,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7745,
+        "recency": 0.7467,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-06T06:12:33Z",
       "latest_at": "2026-08-06T06:12:33Z",
@@ -1119,68 +1179,6 @@
         "url": "https://x.com/alibaba_cloud/status/2085247637734002848",
         "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fea9ae47ebf2",
-      "title": "从要求到行动：世界如何让 ChatGPT 发挥作用 / From asking to doing: How the world is putting ChatGPT to work",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "primary_url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b8b9e957b961636d25b1f7d2b4013ee0edf8366c",
-          "title": "从要求到行动：世界如何让 ChatGPT 发挥作用 / From asking to doing: How the world is putting ChatGPT to work",
-          "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b8b9e957b961636d25b1f7d2b4013ee0edf8366c",
-          "title": "从要求到行动：世界如何让 ChatGPT 发挥作用 / From asking to doing: How the world is putting ChatGPT to work",
-          "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7081,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T00:00:00Z",
-      "latest_at": "2026-08-06T00:00:00Z",
-      "primary_item": {
-        "id": "b8b9e957b961636d25b1f7d2b4013ee0edf8366c",
-        "title": "从要求到行动：世界如何让 ChatGPT 发挥作用 / From asking to doing: How the world is putting ChatGPT to work",
-        "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1218,15 +1216,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7841,
+        "recency": 0.756,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1297,15 +1295,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8543,
+        "recency": 0.8237,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1359,15 +1357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8543,
+        "recency": 0.8237,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1385,83 +1383,84 @@
       }
     },
     {
-      "story_id": "story_072490f4f02f",
-      "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-      "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-      "primary_url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_4a739aa8ee14",
+      "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
+      "url": "https://www.aibase.com/news/30175",
+      "primary_url": "https://www.aibase.com/news/30175",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
-          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T00:37:42Z"
+          "id": "1a3825ffd11841e0b6c93f55360a7b9fddb2d6d2",
+          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
+          "url": "https://www.aibase.com/news/30175",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T02:26:00.156964Z"
         },
         {
-          "id": "73899cdee0f186dd9c0fbd85453f0fef50bb32b2",
-          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-06T00:37:42Z"
+          "id": "7f4396c5b255def172b7007f6496fbf124643e01",
+          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
+          "url": "https://www.aibase.com/zh/news/30175",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
-          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T00:37:42Z"
+          "id": "1a3825ffd11841e0b6c93f55360a7b9fddb2d6d2",
+          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
+          "url": "https://www.aibase.com/news/30175",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T02:26:00.156964Z"
         },
         {
-          "id": "73899cdee0f186dd9c0fbd85453f0fef50bb32b2",
-          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-06T00:37:42Z"
+          "id": "7f4396c5b255def172b7007f6496fbf124643e01",
+          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
+          "url": "https://www.aibase.com/zh/news/30175",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7145,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-06T00:37:42Z",
-      "latest_at": "2026-08-06T00:37:42Z",
+      "earliest_at": "2026-08-07T02:26:00.156964Z",
+      "latest_at": "2026-08-07T02:26:00.156964Z",
       "primary_item": {
-        "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
-        "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-        "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
+        "id": "1a3825ffd11841e0b6c93f55360a7b9fddb2d6d2",
+        "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
+        "url": "https://www.aibase.com/news/30175",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
