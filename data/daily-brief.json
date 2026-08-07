@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T08:53:20.376510Z",
+  "generated_at": "2026-08-07T09:56:47.044276Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8843,
-      "importance": 0.8843,
-      "importance_score": 0.8843,
+      "score": 0.8824,
+      "importance": 0.8824,
+      "importance_score": 0.8824,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7185,
+        "recency": 0.7077,
         "story_heat": 0.75
       },
       "category": "official",
@@ -214,15 +214,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8623,
-      "importance": 0.8623,
-      "importance_score": 0.8623,
+      "score": 0.8597,
+      "importance": 0.8597,
+      "importance_score": 0.8597,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9595,
+        "recency": 0.945,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -295,15 +295,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8281,
+        "recency": 0.8155,
         "story_heat": 0.25
       },
       "category": "official",
@@ -358,15 +358,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8443,
-      "importance": 0.8443,
-      "importance_score": 0.8443,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8795,
+        "recency": 0.8662,
         "story_heat": 0.0
       },
       "category": "official",
@@ -382,6 +382,68 @@
         "title": "法典 CLI 0.147.0 / Codex CLI 0.147.0",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2ee94000fec4",
+      "title": "HSP GRUPPE 如何构建人工智能税务咨询能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "primary_url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+          "title": "HSP GRUPPE 如何构建人工智能税务咨询能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+          "url": "https://openai.com/index/hsp-gruppe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+          "title": "HSP GRUPPE 如何构建人工智能税务咨询能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+          "url": "https://openai.com/index/hsp-gruppe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8496,
+      "importance": 0.8496,
+      "importance_score": 0.8496,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9864,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T09:00:00Z",
+      "latest_at": "2026-08-07T09:00:00Z",
+      "primary_item": {
+        "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+        "title": "HSP GRUPPE 如何构建人工智能税务咨询能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+        "url": "https://openai.com/index/hsp-gruppe",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -420,15 +482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8002,
+        "recency": 0.7881,
         "story_heat": 0.0
       },
       "category": "official",
@@ -482,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8032,
-      "importance": 0.8032,
-      "importance_score": 0.8032,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7735,
+        "recency": 0.7618,
         "story_heat": 0.0
       },
       "category": "official",
@@ -507,6 +569,148 @@
         "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4c412f1fef52",
+      "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+      "url": "https://www.aibase.com/news/30199",
+      "primary_url": "https://www.aibase.com/news/30199",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "url": "https://www.aibase.com/news/30199",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T09:56:47.044276Z"
+        },
+        {
+          "id": "916101c865238ed5dd9c46c7a3443161bc8b167c",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "url": "https://www.aibase.com/zh/news/30199",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "url": "https://www.aibase.com/news/30199",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T09:56:47.044276Z"
+        },
+        {
+          "id": "916101c865238ed5dd9c46c7a3443161bc8b167c",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "url": "https://www.aibase.com/zh/news/30199",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T09:56:47.044276Z",
+      "latest_at": "2026-08-07T09:56:47.044276Z",
+      "primary_item": {
+        "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+        "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "url": "https://www.aibase.com/news/30199",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_342517f3a3eb",
+      "title": "Krea 推出 Seedance 2.5 视频模型",
+      "url": "https://x.com/krea_ai/status/2085629541385736662",
+      "primary_url": "https://x.com/krea_ai/status/2085629541385736662",
+      "source": "X：Krea AI (@krea_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e809506aac5a613385def31f8c88b577abc01d23",
+          "title": "Krea 推出 Seedance 2.5 视频模型",
+          "url": "https://x.com/krea_ai/status/2085629541385736662",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T07:30:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Krea AI (@krea_ai)"
+      ],
+      "items": [
+        {
+          "id": "e809506aac5a613385def31f8c88b577abc01d23",
+          "title": "Krea 推出 Seedance 2.5 视频模型",
+          "url": "https://x.com/krea_ai/status/2085629541385736662",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T07:30:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9653,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T07:30:06Z",
+      "latest_at": "2026-08-07T07:30:06Z",
+      "primary_item": {
+        "id": "e809506aac5a613385def31f8c88b577abc01d23",
+        "title": "Krea 推出 Seedance 2.5 视频模型",
+        "url": "https://x.com/krea_ai/status/2085629541385736662",
+        "source": "X：Krea AI (@krea_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -563,15 +767,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9852,
+        "recency": 0.9702,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -588,209 +792,6 @@
         "url": "https://www.aibase.com/news/30192",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_342517f3a3eb",
-      "title": "Krea 推出 Seedance 2.5 视频模型",
-      "url": "https://x.com/krea_ai/status/2085629541385736662",
-      "primary_url": "https://x.com/krea_ai/status/2085629541385736662",
-      "source": "X：Krea AI (@krea_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e809506aac5a613385def31f8c88b577abc01d23",
-          "title": "Krea 推出 Seedance 2.5 视频模型",
-          "url": "https://x.com/krea_ai/status/2085629541385736662",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T07:30:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Krea AI (@krea_ai)"
-      ],
-      "items": [
-        {
-          "id": "e809506aac5a613385def31f8c88b577abc01d23",
-          "title": "Krea 推出 Seedance 2.5 视频模型",
-          "url": "https://x.com/krea_ai/status/2085629541385736662",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T07:30:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9802,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T07:30:06Z",
-      "latest_at": "2026-08-07T07:30:06Z",
-      "primary_item": {
-        "id": "e809506aac5a613385def31f8c88b577abc01d23",
-        "title": "Krea 推出 Seedance 2.5 视频模型",
-        "url": "https://x.com/krea_ai/status/2085629541385736662",
-        "source": "X：Krea AI (@krea_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_514162b004ef",
-      "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-      "url": "https://www.aibase.com/news/30194",
-      "primary_url": "https://www.aibase.com/news/30194",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "98608447a616cc19373034f3ef86c4e5f0966422",
-          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "url": "https://www.aibase.com/news/30194",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T07:51:11.642051Z"
-        },
-        {
-          "id": "1fd7e11d5dbefc44b1cc3639daa38d6750f9375b",
-          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本仅百分之一",
-          "url": "https://www.aibase.com/zh/news/30194",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "98608447a616cc19373034f3ef86c4e5f0966422",
-          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "url": "https://www.aibase.com/news/30194",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T07:51:11.642051Z"
-        },
-        {
-          "id": "1fd7e11d5dbefc44b1cc3639daa38d6750f9375b",
-          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本仅百分之一",
-          "url": "https://www.aibase.com/zh/news/30194",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9852,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T07:51:11.642051Z",
-      "latest_at": "2026-08-07T07:51:11.642051Z",
-      "primary_item": {
-        "id": "98608447a616cc19373034f3ef86c4e5f0966422",
-        "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-        "url": "https://www.aibase.com/news/30194",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_71849d7aefd8",
-      "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-      "url": "https://www.ithome.com/0/986/951.htm",
-      "primary_url": "https://www.ithome.com/0/986/951.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a11b435456716d5abbd0433177be593b8f62f562",
-          "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-          "url": "https://www.ithome.com/0/986/951.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:11:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a11b435456716d5abbd0433177be593b8f62f562",
-          "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-          "url": "https://www.ithome.com/0/986/951.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T06:11:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9617,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T06:11:01Z",
-      "latest_at": "2026-08-07T06:11:01Z",
-      "primary_item": {
-        "id": "a11b435456716d5abbd0433177be593b8f62f562",
-        "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-        "url": "https://www.ithome.com/0/986/951.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -847,15 +848,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7552,
+        "recency": 0.7437,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -871,6 +872,67 @@
         "title": "Google 大规模 AI 组织调整背后的混乱政治",
         "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
         "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_71849d7aefd8",
+      "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+      "url": "https://www.ithome.com/0/986/951.htm",
+      "primary_url": "https://www.ithome.com/0/986/951.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a11b435456716d5abbd0433177be593b8f62f562",
+          "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "url": "https://www.ithome.com/0/986/951.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T06:11:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a11b435456716d5abbd0433177be593b8f62f562",
+          "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "url": "https://www.ithome.com/0/986/951.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T06:11:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9471,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T06:11:01Z",
+      "latest_at": "2026-08-07T06:11:01Z",
+      "primary_item": {
+        "id": "a11b435456716d5abbd0433177be593b8f62f562",
+        "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+        "url": "https://www.ithome.com/0/986/951.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -909,15 +971,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8237,
+        "recency": 0.8113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -988,15 +1050,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7743,
+        "recency": 0.7626,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1049,15 +1111,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7635,
+        "recency": 0.752,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1109,15 +1171,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7937,
+        "recency": 0.7816,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1169,15 +1231,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9145,
+        "recency": 0.9006,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1195,26 +1257,26 @@
       }
     },
     {
-      "story_id": "story_d2df922b8b97",
-      "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-      "url": "https://www.aibase.com/news/30196",
-      "primary_url": "https://www.aibase.com/news/30196",
+      "story_id": "story_514162b004ef",
+      "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+      "url": "https://www.aibase.com/news/30194",
+      "primary_url": "https://www.aibase.com/news/30194",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
-          "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-          "url": "https://www.aibase.com/news/30196",
+          "id": "98608447a616cc19373034f3ef86c4e5f0966422",
+          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+          "url": "https://www.aibase.com/news/30194",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-07T07:51:11.642051Z"
         },
         {
-          "id": "16a7a122803bc7de297327e45d203c3ee58db528",
-          "title": "火山引擎上线 Seedance2.5 API，视频生成能力全面升级",
-          "url": "https://www.aibase.com/zh/news/30196",
+          "id": "1fd7e11d5dbefc44b1cc3639daa38d6750f9375b",
+          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本仅百分之一",
+          "url": "https://www.aibase.com/zh/news/30194",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1228,18 +1290,18 @@
       ],
       "items": [
         {
-          "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
-          "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-          "url": "https://www.aibase.com/news/30196",
+          "id": "98608447a616cc19373034f3ef86c4e5f0966422",
+          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+          "url": "https://www.aibase.com/news/30194",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-07T07:51:11.642051Z"
         },
         {
-          "id": "16a7a122803bc7de297327e45d203c3ee58db528",
-          "title": "火山引擎上线 Seedance2.5 API，视频生成能力全面升级",
-          "url": "https://www.aibase.com/zh/news/30196",
+          "id": "1fd7e11d5dbefc44b1cc3639daa38d6750f9375b",
+          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本仅百分之一",
+          "url": "https://www.aibase.com/zh/news/30194",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1248,15 +1310,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9852,
+        "recency": 0.9702,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1268,9 +1330,9 @@
       "earliest_at": "2026-08-07T07:51:11.642051Z",
       "latest_at": "2026-08-07T07:51:11.642051Z",
       "primary_item": {
-        "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
-        "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-        "url": "https://www.aibase.com/news/30196",
+        "id": "98608447a616cc19373034f3ef86c4e5f0966422",
+        "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+        "url": "https://www.aibase.com/news/30194",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1310,15 +1372,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9658,
+        "recency": 0.9512,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1390,22 +1452,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7504,
+        "recency": 0.739,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-06T13:00:00Z",
       "latest_at": "2026-08-06T13:00:00Z",
@@ -1415,87 +1476,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0b8cb8210dfe",
-      "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-      "url": "https://www.aibase.com/news/30180",
-      "primary_url": "https://www.aibase.com/news/30180",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
-          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-          "url": "https://www.aibase.com/news/30180",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T02:26:00.156964Z"
-        },
-        {
-          "id": "44e1a8612eaf693e36892357a21079b49b6f1c01",
-          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-          "url": "https://www.aibase.com/zh/news/30180",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
-          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-          "url": "https://www.aibase.com/news/30180",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T02:26:00.156964Z"
-        },
-        {
-          "id": "44e1a8612eaf693e36892357a21079b49b6f1c01",
-          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-          "url": "https://www.aibase.com/zh/news/30180",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.911,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T02:26:00.156964Z",
-      "latest_at": "2026-08-07T02:26:00.156964Z",
-      "primary_item": {
-        "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
-        "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-        "url": "https://www.aibase.com/news/30180",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
