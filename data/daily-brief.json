@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T23:26:34.732572Z",
+  "generated_at": "2026-08-08T23:54:53.980152Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8791,
-      "importance": 0.8791,
-      "importance_score": 0.8791,
+      "score": 0.878,
+      "importance": 0.878,
+      "importance_score": 0.878,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8807,
+        "recency": 0.8747,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -195,15 +195,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8681,
+        "recency": 0.8622,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +257,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8367,
+        "recency": 0.831,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -318,15 +318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9903,
+        "recency": 0.9836,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -379,15 +379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.898,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -439,15 +439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.805,
+        "recency": 0.7995,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -536,15 +536,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6293,
-      "importance": 0.6293,
-      "importance_score": 0.6293,
+      "score": 0.6282,
+      "importance": 0.6282,
+      "importance_score": 0.6282,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8739,
+        "recency": 0.868,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -632,15 +632,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6114,
-      "importance": 0.6114,
-      "importance_score": 0.6114,
+      "score": 0.6103,
+      "importance": 0.6103,
+      "importance_score": 0.6103,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9568,
+        "recency": 0.9503,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -711,15 +711,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6082,
-      "importance": 0.6082,
-      "importance_score": 0.6082,
+      "score": 0.607,
+      "importance": 0.607,
+      "importance_score": 0.607,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9879,
+        "recency": 0.9812,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -734,6 +734,103 @@
         "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
         "source": "Simon Willison",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_7356e5d63521",
+      "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
+      "url": "https://github.com/sebastiancarlos/faaah",
+      "primary_url": "https://github.com/sebastiancarlos/faaah",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "444136b5cecf9595b9c8054951bc9b831776d228",
+          "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:26:37.332000Z"
+        },
+        {
+          "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
+          "title": "faaah（文件系统作为人工智能处理器）",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:10:34.737000Z"
+        },
+        {
+          "id": "9530c3c6ba6a85ae3aabdbbbe8978396e6fcc887",
+          "title": "faaah（文件系统作为人工智能处理器） / faaah (Filesystem As An AI Handler)",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T23:07:20Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "444136b5cecf9595b9c8054951bc9b831776d228",
+          "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:26:37.332000Z"
+        },
+        {
+          "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
+          "title": "faaah（文件系统作为人工智能处理器）",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:10:34.737000Z"
+        },
+        {
+          "id": "9530c3c6ba6a85ae3aabdbbbe8978396e6fcc887",
+          "title": "faaah（文件系统作为人工智能处理器） / faaah (Filesystem As An AI Handler)",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T23:07:20Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9932,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T23:07:20Z",
+      "latest_at": "2026-08-08T23:26:37.332000Z",
+      "primary_item": {
+        "id": "444136b5cecf9595b9c8054951bc9b831776d228",
+        "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
+        "url": "https://github.com/sebastiancarlos/faaah",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -809,15 +906,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5607,
-      "importance": 0.5607,
-      "importance_score": 0.5607,
+      "score": 0.5596,
+      "importance": 0.5596,
+      "importance_score": 0.5596,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9439,
+        "recency": 0.9375,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -861,18 +958,18 @@
           "published_at": "2026-08-08T14:27:43.300000Z"
         },
         {
-          "id": "00ad3b3517bd94cec6564ea0ddb1e73110d6908f",
+          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
           "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
           "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-08T13:55:42Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews",
         "social.treehouse.systems"
       ],
@@ -896,26 +993,26 @@
           "published_at": "2026-08-08T14:27:43.300000Z"
         },
         {
-          "id": "00ad3b3517bd94cec6564ea0ddb1e73110d6908f",
+          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
           "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
           "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-08T13:55:42Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5575,
-      "importance": 0.5575,
-      "importance_score": 0.5575,
+      "score": 0.5563,
+      "importance": 0.5563,
+      "importance_score": 0.5563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9259,
+        "recency": 0.9196,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -986,15 +1083,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5467,
-      "importance": 0.5467,
-      "importance_score": 0.5467,
+      "score": 0.5455,
+      "importance": 0.5455,
+      "importance_score": 0.5455,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.32,
         "ai_relevance": 0.67,
-        "recency": 0.9585,
+        "recency": 0.952,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1008,85 +1105,6 @@
         "title": "修订提示可优化工业级大型语言模型（LLM）流程",
         "url": "https://revisionprompting.info",
         "source": "revisionprompting.info",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7356e5d63521",
-      "title": "faaah（文件系统作为人工智能处理器）",
-      "url": "https://github.com/sebastiancarlos/faaah",
-      "primary_url": "https://github.com/sebastiancarlos/faaah",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
-          "title": "faaah（文件系统作为人工智能处理器）",
-          "url": "https://github.com/sebastiancarlos/faaah",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T23:10:34.737000Z"
-        },
-        {
-          "id": "9530c3c6ba6a85ae3aabdbbbe8978396e6fcc887",
-          "title": "faaah（文件系统作为人工智能处理器） / faaah (Filesystem As An AI Handler)",
-          "url": "https://github.com/sebastiancarlos/faaah",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T23:07:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
-          "title": "faaah（文件系统作为人工智能处理器）",
-          "url": "https://github.com/sebastiancarlos/faaah",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T23:10:34.737000Z"
-        },
-        {
-          "id": "9530c3c6ba6a85ae3aabdbbbe8978396e6fcc887",
-          "title": "faaah（文件系统作为人工智能处理器） / faaah (Filesystem As An AI Handler)",
-          "url": "https://github.com/sebastiancarlos/faaah",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T23:07:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9962,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T23:07:20Z",
-      "latest_at": "2026-08-08T23:10:34.737000Z",
-      "primary_item": {
-        "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
-        "title": "faaah（文件系统作为人工智能处理器）",
-        "url": "https://github.com/sebastiancarlos/faaah",
-        "source": "github.com",
         "source_name": "Buzzing"
       }
     },
@@ -1144,15 +1162,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.957,
+        "recency": 0.9505,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1223,15 +1241,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9461,
+        "recency": 0.9396,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1302,15 +1320,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9295,
+        "recency": 0.9232,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1380,15 +1398,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5251,
+      "importance": 0.5251,
+      "importance_score": 0.5251,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8909,
+        "recency": 0.8849,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1459,15 +1477,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5189,
-      "importance": 0.5189,
-      "importance_score": 0.5189,
+      "score": 0.5179,
+      "importance": 0.5179,
+      "importance_score": 0.5179,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8507,
+        "recency": 0.8449,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1537,15 +1555,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
+      "score": 0.5041,
+      "importance": 0.5041,
+      "importance_score": 0.5041,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7734,
+        "recency": 0.7682,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1616,15 +1634,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5029,
-      "importance": 0.5029,
-      "importance_score": 0.5029,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7614,
+        "recency": 0.7562,
         "story_heat": 0.25
       },
       "category": "watch",
