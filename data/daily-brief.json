@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:44:57.675169Z",
+  "generated_at": "2026-08-09T14:29:35.214901Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7163,
+        "recency": 0.7087,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8866,
+        "recency": 0.8772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.911,
+        "recency": 0.9012,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -239,15 +239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8625,
+        "recency": 0.8533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -299,15 +299,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.731,
+      "importance": 0.731,
+      "importance_score": 0.731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8055,
+        "recency": 0.7969,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,15 +359,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8613,
+        "recency": 0.8521,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -455,15 +455,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5793,
-      "importance": 0.5793,
-      "importance_score": 0.5793,
+      "score": 0.5778,
+      "importance": 0.5778,
+      "importance_score": 0.5778,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7782,
+        "recency": 0.7699,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -534,15 +534,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.575,
-      "importance": 0.575,
-      "importance_score": 0.575,
+      "score": 0.5734,
+      "importance": 0.5734,
+      "importance_score": 0.5734,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8035,
+        "recency": 0.7949,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -586,18 +586,18 @@
           "published_at": "2026-08-09T11:58:46.174000Z"
         },
         {
-          "id": "1cd230ab2b42f81c8127004ef56752d9fd520a7e",
+          "id": "c277db0fedc5a6b755531758f2541e4e4c48d082",
           "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
           "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-09T11:46:28Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "blog.n.ichol.ai",
         "hackernews"
       ],
@@ -621,26 +621,26 @@
           "published_at": "2026-08-09T11:58:46.174000Z"
         },
         {
-          "id": "1cd230ab2b42f81c8127004ef56752d9fd520a7e",
+          "id": "c277db0fedc5a6b755531758f2541e4e4c48d082",
           "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
           "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-09T11:46:28Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.568,
-      "importance": 0.568,
-      "importance_score": 0.568,
+      "score": 0.5661,
+      "importance": 0.5661,
+      "importance_score": 0.5661,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9846,
+        "recency": 0.9741,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -730,15 +730,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5526,
-      "importance": 0.5526,
-      "importance_score": 0.5526,
+      "score": 0.5509,
+      "importance": 0.5509,
+      "importance_score": 0.5509,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.899,
+        "recency": 0.8894,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -756,82 +756,82 @@
       }
     },
     {
-      "story_id": "story_1a9836e43c20",
-      "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-      "primary_url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-      "source": "Simon Willison",
-      "source_name": "OPML RSS",
+      "story_id": "story_774f7412d1a3",
+      "title": "为什么华尔街忽视大型科技公司的债务 / Why Wall Street Is Ignoring Big Tech's Debt",
+      "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
+      "primary_url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T14:06:41Z"
+          "id": "f49c1f306709789af4e524d6da243a9ba943f9df",
+          "title": "为什么华尔街忽视大型科技公司的债务 / Why Wall Street Is Ignoring Big Tech's Debt",
+          "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T12:01:39Z"
         },
         {
-          "id": "b5fc60704b2aa5162388492b379dd00d2b12aea4",
-          "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "url": "https://news.ycombinator.com/item?id=49220609",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T14:59:19.974000Z"
+          "id": "43bf37af49cb13e01b08742a2ed44a8deb73f2b5",
+          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-09T11:56:16Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Simon Willison",
-        "hackernews"
+        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-08T14:06:41Z"
+          "id": "f49c1f306709789af4e524d6da243a9ba943f9df",
+          "title": "为什么华尔街忽视大型科技公司的债务 / Why Wall Street Is Ignoring Big Tech's Debt",
+          "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T12:01:39Z"
         },
         {
-          "id": "b5fc60704b2aa5162388492b379dd00d2b12aea4",
-          "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "url": "https://news.ycombinator.com/item?id=49220609",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T14:59:19.974000Z"
+          "id": "43bf37af49cb13e01b08742a2ed44a8deb73f2b5",
+          "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-09T11:56:16Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5749,
-      "importance": 0.5749,
-      "importance_score": 0.5749,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.7108,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.965,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-08T14:06:41Z",
-      "latest_at": "2026-08-08T14:59:19.974000Z",
+      "earliest_at": "2026-08-09T11:56:16Z",
+      "latest_at": "2026-08-09T12:01:39Z",
       "primary_item": {
-        "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
-        "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-        "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
-        "source": "Simon Willison",
-        "source_name": "OPML RSS"
+        "id": "f49c1f306709789af4e524d6da243a9ba943f9df",
+        "title": "为什么华尔街忽视大型科技公司的债务 / Why Wall Street Is Ignoring Big Tech's Debt",
+        "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -906,15 +906,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8134,
+        "recency": 0.8047,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -985,15 +985,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9379,
+        "recency": 0.9279,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1083,15 +1083,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7677,
+        "recency": 0.7595,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1162,15 +1162,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
+      "score": 0.5259,
+      "importance": 0.5259,
+      "importance_score": 0.5259,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.899,
+        "recency": 0.8894,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1184,104 +1184,6 @@
         "title": "Ask HN: 您在工作中是如何将Claude Code/Codex应用于企业的？",
         "url": "https://news.ycombinator.com/item?id=49228883",
         "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b0cc69c2019c",
-      "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-      "primary_url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-      "source": "social.treehouse.systems",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
-          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "social.treehouse.systems",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T18:06:47.814000Z"
-        },
-        {
-          "id": "b6057a741b5ba5e93fb02047dd209b3f0fa0ce3c",
-          "title": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-          "url": "https://news.ycombinator.com/item?id=49221864",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T14:27:43.300000Z"
-        },
-        {
-          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
-          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T13:55:42Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "social.treehouse.systems"
-      ],
-      "items": [
-        {
-          "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
-          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "social.treehouse.systems",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T18:06:47.814000Z"
-        },
-        {
-          "id": "b6057a741b5ba5e93fb02047dd209b3f0fa0ce3c",
-          "title": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-          "url": "https://news.ycombinator.com/item?id=49221864",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T14:27:43.300000Z"
-        },
-        {
-          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
-          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-08T13:55:42Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7531,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T13:55:42Z",
-      "latest_at": "2026-08-08T18:06:47.814000Z",
-      "primary_item": {
-        "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
-        "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
-        "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-        "source": "social.treehouse.systems",
         "source_name": "Buzzing"
       }
     },
@@ -1339,15 +1241,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8781,
+        "recency": 0.8687,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1418,15 +1320,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9895,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1497,15 +1399,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.513,
+      "importance": 0.513,
+      "importance_score": 0.513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.32,
         "ai_relevance": 0.67,
-        "recency": 0.7796,
+        "recency": 0.7713,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1576,15 +1478,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5043,
-      "importance": 0.5043,
-      "importance_score": 0.5043,
+      "score": 0.5028,
+      "importance": 0.5028,
+      "importance_score": 0.5028,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7695,
+        "recency": 0.7613,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1599,6 +1501,85 @@
         "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
         "source": "HN Algolia · AI 24h",
         "source_name": "Hacker News"
+      }
+    },
+    {
+      "story_id": "story_0a53a76d276c",
+      "title": "robot.villas – RSS 到 Mastodon 桥接工具",
+      "url": "https://robot.villas",
+      "primary_url": "https://robot.villas",
+      "source": "robot.villas",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0301b78f4b8b30458f8abd729173ce81b16ff61e",
+          "title": "robot.villas – RSS 到 Mastodon 桥接工具",
+          "url": "https://robot.villas",
+          "source": "robot.villas",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T18:22:47.725000Z"
+        },
+        {
+          "id": "695a4b8816993a520e9ec20759a59ea2b6292e44",
+          "title": "robot.villas – RSS 到 Mastodon 桥接工具 / robot.villas – RSS-to-Mastodon Bridge",
+          "url": "https://robot.villas",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T18:18:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "robot.villas"
+      ],
+      "items": [
+        {
+          "id": "0301b78f4b8b30458f8abd729173ce81b16ff61e",
+          "title": "robot.villas – RSS 到 Mastodon 桥接工具",
+          "url": "https://robot.villas",
+          "source": "robot.villas",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T18:22:47.725000Z"
+        },
+        {
+          "id": "695a4b8816993a520e9ec20759a59ea2b6292e44",
+          "title": "robot.villas – RSS 到 Mastodon 桥接工具 / robot.villas – RSS-to-Mastodon Bridge",
+          "url": "https://robot.villas",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T18:18:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5004,
+      "importance": 0.5004,
+      "importance_score": 0.5004,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7479,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T18:18:28Z",
+      "latest_at": "2026-08-08T18:22:47.725000Z",
+      "primary_item": {
+        "id": "0301b78f4b8b30458f8abd729173ce81b16ff61e",
+        "title": "robot.villas – RSS 到 Mastodon 桥接工具",
+        "url": "https://robot.villas",
+        "source": "robot.villas",
+        "source_name": "Buzzing"
       }
     }
   ]
