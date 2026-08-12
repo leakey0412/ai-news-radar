@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T10:57:02.590846Z",
+  "generated_at": "2026-08-12T11:45:38.902386Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8414,
-      "importance": 0.8414,
-      "importance_score": 0.8414,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9269,
+        "recency": 0.9161,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7717,
+        "recency": 0.7627,
         "story_heat": 0.25
       },
       "category": "official",
@@ -239,15 +239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8089,
+        "recency": 0.7995,
         "story_heat": 0.0
       },
       "category": "official",
@@ -301,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7349,
+        "recency": 0.7263,
         "story_heat": 0.0
       },
       "category": "official",
@@ -439,15 +439,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8289,
-      "importance": 0.8289,
-      "importance_score": 0.8289,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7682,
+        "recency": 0.7593,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -520,15 +520,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7893,
-      "importance": 0.7893,
-      "importance_score": 0.7893,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9814,
+        "recency": 0.97,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -582,15 +582,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8117,
+      "importance": 0.8117,
+      "importance_score": 0.8117,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7855,
+        "recency": 0.7764,
         "story_heat": 0.0
       },
       "category": "official",
@@ -663,15 +663,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8023,
+        "recency": 0.7929,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -744,15 +744,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7789,
+        "recency": 0.7698,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -825,15 +825,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8554,
+        "recency": 0.8454,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -906,15 +906,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7893,
-      "importance": 0.7893,
-      "importance_score": 0.7893,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9814,
+        "recency": 0.97,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -968,15 +968,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8017,
+        "recency": 0.7924,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1029,15 +1029,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9416,
+        "recency": 0.9306,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1090,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.811,
+        "recency": 0.8015,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1152,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7718,
+        "recency": 0.7628,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1212,15 +1212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7284,
+        "recency": 0.7199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,15 +1272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7931,
+        "recency": 0.7839,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1332,15 +1332,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7263,
-      "importance": 0.7263,
-      "importance_score": 0.7263,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7375,
+        "recency": 0.7289,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1355,87 +1355,6 @@
         "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_456fc214b456",
-      "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-      "url": "https://www.aibase.com/news/30277",
-      "primary_url": "https://www.aibase.com/news/30277",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "url": "https://www.aibase.com/news/30277",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:12:50.758569Z"
-        },
-        {
-          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
-          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
-          "url": "https://www.aibase.com/zh/news/30277",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "url": "https://www.aibase.com/news/30277",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:12:50.758569Z"
-        },
-        {
-          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
-          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
-          "url": "https://www.aibase.com/zh/news/30277",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9613,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T08:12:50.758569Z",
-      "latest_at": "2026-08-12T08:12:50.758569Z",
-      "primary_item": {
-        "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-        "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-        "url": "https://www.aibase.com/news/30277",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1510,15 +1429,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8043,
+        "recency": 0.795,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1535,6 +1454,87 @@
         "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_456fc214b456",
+      "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+      "url": "https://www.aibase.com/news/30277",
+      "primary_url": "https://www.aibase.com/news/30277",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "url": "https://www.aibase.com/news/30277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T08:12:50.758569Z"
+        },
+        {
+          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
+          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
+          "url": "https://www.aibase.com/zh/news/30277",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+          "url": "https://www.aibase.com/news/30277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T08:12:50.758569Z"
+        },
+        {
+          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
+          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
+          "url": "https://www.aibase.com/zh/news/30277",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9501,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T08:12:50.758569Z",
+      "latest_at": "2026-08-12T08:12:50.758569Z",
+      "primary_item": {
+        "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
+        "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
+        "url": "https://www.aibase.com/news/30277",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
