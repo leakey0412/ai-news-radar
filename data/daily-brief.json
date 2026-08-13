@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T18:56:43.575137Z",
+  "generated_at": "2026-08-13T19:55:15.960720Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8905,
-      "importance": 0.8905,
-      "importance_score": 0.8905,
+      "score": 0.8882,
+      "importance": 0.8882,
+      "importance_score": 0.8882,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8916,
+        "recency": 0.8791,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8722,
-      "importance": 0.8722,
-      "importance_score": 0.8722,
+      "score": 0.8697,
+      "importance": 0.8697,
+      "importance_score": 0.8697,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9733,
+        "recency": 0.9597,
         "story_heat": 0.25
       },
       "category": "official",
@@ -240,15 +240,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8634,
-      "importance": 0.8634,
-      "importance_score": 0.8634,
+      "score": 0.8609,
+      "importance": 0.8609,
+      "importance_score": 0.8609,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9688,
+        "recency": 0.9552,
         "story_heat": 0.25
       },
       "category": "official",
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8617,
-      "importance": 0.8617,
-      "importance_score": 0.8617,
+      "score": 0.8592,
+      "importance": 0.8592,
+      "importance_score": 0.8592,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9761,
+        "recency": 0.9624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -403,15 +403,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8882,
-      "importance": 0.8882,
-      "importance_score": 0.8882,
+      "score": 0.886,
+      "importance": 0.886,
+      "importance_score": 0.886,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8788,
+        "recency": 0.8665,
         "story_heat": 0.5
       },
       "category": "official",
@@ -432,49 +432,49 @@
       }
     },
     {
-      "story_id": "story_d0656ae81e3d",
-      "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-      "source": "GitHub AI & ML",
+      "story_id": "story_3ce2b53f8ac8",
+      "title": "Gemini 3.7 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.7 Flash is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-          "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-          "source": "GitHub AI & ML",
+          "id": "e46a7969142d35bb9dcfae3c617c2830726c05bf",
+          "title": "Gemini 3.7 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.7 Flash is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T19:00:00Z"
+          "published_at": "2026-08-13T14:00:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub AI & ML"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-          "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-          "source": "GitHub AI & ML",
+          "id": "e46a7969142d35bb9dcfae3c617c2830726c05bf",
+          "title": "Gemini 3.7 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.7 Flash is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T19:00:00Z"
+          "published_at": "2026-08-13T14:00:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.8453,
+      "importance": 0.8453,
+      "importance_score": 0.8453,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7077,
+        "recency": 0.9182,
         "story_heat": 0.0
       },
       "category": "official",
@@ -483,13 +483,137 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T19:00:00Z",
-      "latest_at": "2026-08-12T19:00:00Z",
+      "earliest_at": "2026-08-13T14:00:53Z",
+      "latest_at": "2026-08-13T14:00:53Z",
       "primary_item": {
-        "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-        "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-        "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-        "source": "GitHub AI & ML",
+        "id": "e46a7969142d35bb9dcfae3c617c2830726c05bf",
+        "title": "Gemini 3.7 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.7 Flash is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "计算机历史 / Computer History",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "44695098290e3788d04048785a37b110c9282a6d",
+          "title": "计算机历史 / Computer History",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "44695098290e3788d04048785a37b110c9282a6d",
+          "title": "计算机历史 / Computer History",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.75,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T00:00:00Z",
+      "latest_at": "2026-08-13T00:00:00Z",
+      "primary_item": {
+        "id": "44695098290e3788d04048785a37b110c9282a6d",
+        "title": "计算机历史 / Computer History",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7b7795911104",
+      "title": "许可数据质量改进 / License data quality improvements",
+      "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+      "primary_url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+          "title": "许可数据质量改进 / License data quality improvements",
+          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T19:14:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+          "title": "许可数据质量改进 / License data quality improvements",
+          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T19:14:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9902,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T19:14:12Z",
+      "latest_at": "2026-08-13T19:14:12Z",
+      "primary_item": {
+        "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+        "title": "许可数据质量改进 / License data quality improvements",
+        "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -565,15 +689,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.8663,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -627,15 +751,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7606,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "official",
@@ -689,15 +813,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8952,
+        "recency": 0.8827,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -769,15 +893,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.8663,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -831,15 +955,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8662,
+        "recency": 0.8541,
         "story_heat": 0.0
       },
       "category": "official",
@@ -893,15 +1017,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9603,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -954,15 +1078,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7756,
+        "recency": 0.7648,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1033,15 +1157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.8663,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1095,15 +1219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9322,
+        "recency": 0.9191,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,15 +1279,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9705,
+        "recency": 0.9569,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1215,15 +1339,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9182,
+        "recency": 0.9053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1275,15 +1399,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9046,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1298,219 +1422,6 @@
         "url": "https://cursor.com/blog/builds",
         "source": "Cursor Blog",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e2cf0fa83528",
-      "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
-      "url": "https://www.aibase.com/news/30317",
-      "primary_url": "https://www.aibase.com/news/30317",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3721bd1a09fd594712aa27df58bd217e4591189a",
-          "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
-          "url": "https://www.aibase.com/news/30317",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T08:49:37.893483Z"
-        },
-        {
-          "id": "59521c5f65f5cf01b162a58a9d779f50126624b8",
-          "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
-          "url": "https://www.aibase.com/zh/news/30317",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3721bd1a09fd594712aa27df58bd217e4591189a",
-          "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
-          "url": "https://www.aibase.com/news/30317",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T08:49:37.893483Z"
-        },
-        {
-          "id": "59521c5f65f5cf01b162a58a9d779f50126624b8",
-          "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
-          "url": "https://www.aibase.com/zh/news/30317",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8641,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T08:49:37.893483Z",
-      "latest_at": "2026-08-13T08:49:37.893483Z",
-      "primary_item": {
-        "id": "3721bd1a09fd594712aa27df58bd217e4591189a",
-        "title": "6000 条 Reddit 评论揭开 AI 编程助手安全真相：Cursor 事故最多，权限过大成最大隐患",
-        "url": "https://www.aibase.com/news/30317",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "DeepSeek Harness 的 开发者预览版上线，并开源。以 “一切皆插件” 为核心设计理念，框架本身不写死能力，模型、工具、调度循环、UI 都可以通过插件自由替换重组。它拥有PTC、创造模式等多种工作范式，可以降低多步任务的上下文消耗，还能直接生成专属的智能体预设。完整会话日志、多级沙箱与权限审批筑牢了安全底线，还兼容MCP和已有的钩子脚本。多套 SDK 覆盖不同开发场景，对想要深度改造、搭建私有 Agent 的开发者极具参考价值。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-13",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "efc279d148ac67a3646b71053edab7787440810b",
-          "title": "DeepSeek Harness 的 开发者预览版上线，并开源。以 “一切皆插件” 为核心设计理念，框架本身不写死能力，模型、工具、调度循环、UI 都可以通过插件自由替换重组。它拥有PTC、创造模式等多种工作范式，可以降低多步任务的上下文消耗，还能直接生成专属的智能体预设。完整会话日志、多级沙箱与权限审批筑牢了安全底线，还兼容MCP和已有的钩子脚本。多套 SDK 覆盖不同开发场景，对想要深度改造、搭建私有 Agent 的开发者极具参考价值。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-13T18:56:43.575137Z"
-        },
-        {
-          "id": "1c24eee9e06f2218aa8e68956d97e240136d37e2",
-          "title": "DeepSeek V4 Pro 正式版发布了，Grok 4.6 也来了。苍何整理了这篇从 0 到 1 的保姆级教程，把DeepSeek V4 Pro和Grok 4.6接入Codex和WorkBuddy的方法做了个非常细致的分享。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-13T18:56:43.575137Z"
-        },
-        {
-          "id": "2f81464cacda2fa62566d97a2c651e6f236b8b27",
-          "title": "DeepSeek V4 Pro 正式版已同步在 APP、网页端和 API 更新上线。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-13T18:56:43.575137Z"
-        },
-        {
-          "id": "0d06155c25a6457aed3ef06b0bdcd10307711f5b",
-          "title": "卡尔把维护了3年的案例库开放了出来，里面有上千条AI视频、前端、Agent 生成记录，还用Seedance 2.0 Fast、MiniMax H3、Wan 3.0跑了136个case，覆盖多素材 MV、文生视频、图生Vlog等场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-13T18:56:43.575137Z"
-        },
-        {
-          "id": "a76b895fb2d82b93c9ac9c45c28127ae11a2cf5b",
-          "title": "很多人一听“34 个 AI Agent”，第一反应可能是：这得多会折腾工具啊。其实这篇最值得看的点，反而不是 Agent 数量，而是 Allie K. Miller 怎么把它们变成一支会主动推进工作的“小团队”。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-13T18:56:43.575137Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "社区更新 · 2026-08-13"
-      ],
-      "items": [
-        {
-          "id": "efc279d148ac67a3646b71053edab7787440810b",
-          "title": "DeepSeek Harness 的 开发者预览版上线，并开源。以 “一切皆插件” 为核心设计理念，框架本身不写死能力，模型、工具、调度循环、UI 都可以通过插件自由替换重组。它拥有PTC、创造模式等多种工作范式，可以降低多步任务的上下文消耗，还能直接生成专属的智能体预设。完整会话日志、多级沙箱与权限审批筑牢了安全底线，还兼容MCP和已有的钩子脚本。多套 SDK 覆盖不同开发场景，对想要深度改造、搭建私有 Agent 的开发者极具参考价值。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-13T18:56:43.575137Z"
-        },
-        {
-          "id": "1c24eee9e06f2218aa8e68956d97e240136d37e2",
-          "title": "DeepSeek V4 Pro 正式版发布了，Grok 4.6 也来了。苍何整理了这篇从 0 到 1 的保姆级教程，把DeepSeek V4 Pro和Grok 4.6接入Codex和WorkBuddy的方法做了个非常细致的分享。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-13T18:56:43.575137Z"
-        },
-        {
-          "id": "2f81464cacda2fa62566d97a2c651e6f236b8b27",
-          "title": "DeepSeek V4 Pro 正式版已同步在 APP、网页端和 API 更新上线。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-13T18:56:43.575137Z"
-        },
-        {
-          "id": "0d06155c25a6457aed3ef06b0bdcd10307711f5b",
-          "title": "卡尔把维护了3年的案例库开放了出来，里面有上千条AI视频、前端、Agent 生成记录，还用Seedance 2.0 Fast、MiniMax H3、Wan 3.0跑了136个case，覆盖多素材 MV、文生视频、图生Vlog等场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-13T18:56:43.575137Z"
-        },
-        {
-          "id": "a76b895fb2d82b93c9ac9c45c28127ae11a2cf5b",
-          "title": "很多人一听“34 个 AI Agent”，第一反应可能是：这得多会折腾工具啊。其实这篇最值得看的点，反而不是 Agent 数量，而是 Allie K. Miller 怎么把它们变成一支会主动推进工作的“小团队”。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-13",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-13T18:56:43.575137Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.7025,
-      "importance": 0.7025,
-      "importance_score": 0.7025,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5256,
-        "source_tier": 0.54,
-        "ai_relevance": 0.73,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-13T18:56:43.575137Z",
-      "latest_at": "2026-08-13T18:56:43.575137Z",
-      "primary_item": {
-        "id": "efc279d148ac67a3646b71053edab7787440810b",
-        "title": "DeepSeek Harness 的 开发者预览版上线，并开源。以 “一切皆插件” 为核心设计理念，框架本身不写死能力，模型、工具、调度循环、UI 都可以通过插件自由替换重组。它拥有PTC、创造模式等多种工作范式，可以降低多步任务的上下文消耗，还能直接生成专属的智能体预设。完整会话日志、多级沙箱与权限审批筑牢了安全底线，还兼容MCP和已有的钩子脚本。多套 SDK 覆盖不同开发场景，对想要深度改造、搭建私有 Agent 的开发者极具参考价值。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-13",
-        "source_name": "WaytoAGI"
       }
     }
   ]
