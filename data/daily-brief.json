@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T01:28:24.524972Z",
+  "generated_at": "2026-08-13T03:42:32.670934Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8625,
-      "importance": 0.8625,
-      "importance_score": 0.8625,
+      "score": 0.8575,
+      "importance": 0.8575,
+      "importance_score": 0.8575,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8752,
+        "recency": 0.8474,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8439,
-      "importance": 0.8439,
-      "importance_score": 0.8439,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9108,
+        "recency": 0.8818,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8299,
+      "importance": 0.8299,
+      "importance_score": 0.8299,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9062,
+        "recency": 0.8774,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
+      "score": 0.8117,
+      "importance": 0.8117,
+      "importance_score": 0.8117,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8477,
+        "recency": 0.8208,
         "story_heat": 0.0
       },
       "category": "official",
@@ -269,125 +269,6 @@
         "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_40f97f4ec864",
-      "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-      "primary_url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T05:41:30.137000Z"
-        },
-        {
-          "id": "6902298efece3c7b675fccd584b5df9579576535",
-          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "www.404media.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T05:41:30.137000Z"
-        },
-        {
-          "id": "ccd39c0c5d6e3430ab3dd3919f7083c28a3db0ce",
-          "title": "公司提供“100% 人工编写，绝不人工智能” 医学研究是 100% 人工智能 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "url": "https://news.ycombinator.com/item?id=49267057",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T03:37:55.676000Z"
-        },
-        {
-          "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T02:05:42Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.404media.co"
-      ],
-      "items": [
-        {
-          "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T05:41:30.137000Z"
-        },
-        {
-          "id": "6902298efece3c7b675fccd584b5df9579576535",
-          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "www.404media.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T05:41:30.137000Z"
-        },
-        {
-          "id": "ccd39c0c5d6e3430ab3dd3919f7083c28a3db0ce",
-          "title": "公司提供“100% 人工编写，绝不人工智能” 医学研究是 100% 人工智能 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "url": "https://news.ycombinator.com/item?id=49267057",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T03:37:55.676000Z"
-        },
-        {
-          "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-12T02:05:42Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7515,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T02:05:42Z",
-      "latest_at": "2026-08-12T05:41:30.137000Z",
-      "primary_item": {
-        "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
-        "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -425,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8385,
-      "importance": 0.8385,
-      "importance_score": 0.8385,
+      "score": 0.8337,
+      "importance": 0.8337,
+      "importance_score": 0.8337,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8475,
+        "recency": 0.8206,
         "story_heat": 0.0
       },
       "category": "official",
@@ -487,15 +368,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7549,
+        "recency": 0.7309,
         "story_heat": 0.0
       },
       "category": "official",
@@ -512,6 +393,87 @@
         "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9198023e9046",
+      "title": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
+      "url": "https://www.aibase.com/news/30304",
+      "primary_url": "https://www.aibase.com/news/30304",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5c5d59a357b28db2248316e3ff324872d77d8efc",
+          "title": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
+          "url": "https://www.aibase.com/news/30304",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T03:42:32.670934Z"
+        },
+        {
+          "id": "7e03f43cd34527000b5267e9f9f9be108fc3f088",
+          "title": "AI 重构人脉社交链：WordPress 母公司推 Android 版 Mesh 打造跨平台 Nexus AI 助手",
+          "url": "https://www.aibase.com/zh/news/30304",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5c5d59a357b28db2248316e3ff324872d77d8efc",
+          "title": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
+          "url": "https://www.aibase.com/news/30304",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T03:42:32.670934Z"
+        },
+        {
+          "id": "7e03f43cd34527000b5267e9f9f9be108fc3f088",
+          "title": "AI 重构人脉社交链：WordPress 母公司推 Android 版 Mesh 打造跨平台 Nexus AI 助手",
+          "url": "https://www.aibase.com/zh/news/30304",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T03:42:32.670934Z",
+      "latest_at": "2026-08-13T03:42:32.670934Z",
+      "primary_item": {
+        "id": "5c5d59a357b28db2248316e3ff324872d77d8efc",
+        "title": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
+        "url": "https://www.aibase.com/news/30304",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -549,15 +511,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9043,
+        "recency": 0.8756,
         "story_heat": 0.0
       },
       "category": "official",
@@ -574,87 +536,6 @@
         "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_352c0404f438",
-      "title": "维基百科遭恶意篡改，谷歌误报 OpenAI CEO 奥尔特曼死讯",
-      "url": "https://www.aibase.com/news/30294",
-      "primary_url": "https://www.aibase.com/news/30294",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "181d67ce43677cc2a3af32b396872f2feb2d3b6a",
-          "title": "维基百科遭恶意篡改，谷歌误报 OpenAI CEO 奥尔特曼死讯",
-          "url": "https://www.aibase.com/news/30294",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T01:28:24.524972Z"
-        },
-        {
-          "id": "160c90700e1bb790412aaf99fb69b66dc2eef7f1",
-          "title": "维基百科信息遭恶意篡改，谷歌搜索误显示 OpenAI CEO 奥尔特曼死讯",
-          "url": "https://www.ithome.com/0/989/024.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-13T00:06:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "181d67ce43677cc2a3af32b396872f2feb2d3b6a",
-          "title": "维基百科遭恶意篡改，谷歌误报 OpenAI CEO 奥尔特曼死讯",
-          "url": "https://www.aibase.com/news/30294",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T01:28:24.524972Z"
-        },
-        {
-          "id": "160c90700e1bb790412aaf99fb69b66dc2eef7f1",
-          "title": "维基百科信息遭恶意篡改，谷歌搜索误显示 OpenAI CEO 奥尔特曼死讯",
-          "url": "https://www.ithome.com/0/989/024.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-13T00:06:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T00:06:49Z",
-      "latest_at": "2026-08-13T01:28:24.524972Z",
-      "primary_item": {
-        "id": "181d67ce43677cc2a3af32b396872f2feb2d3b6a",
-        "title": "维基百科遭恶意篡改，谷歌误报 OpenAI CEO 奥尔特曼死讯",
-        "url": "https://www.aibase.com/news/30294",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -692,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9982,
+        "recency": 0.9665,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -719,26 +600,26 @@
       }
     },
     {
-      "story_id": "story_815f5b3f1fd4",
-      "title": "苹果砸数亿美元买新闻版权：为 AI 版 Siri 引入实时资讯，按用量付费成新玩法",
-      "url": "https://www.aibase.com/news/30292",
-      "primary_url": "https://www.aibase.com/news/30292",
+      "story_id": "story_b3189fcf13c3",
+      "title": "Cursor拟提前推出自动化代码审查平台Origin 整合Graphite团队技术",
+      "url": "https://www.aibase.com/news/30303",
+      "primary_url": "https://www.aibase.com/news/30303",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6b32d25a00d510bb136029b81a648399ffacdf33",
-          "title": "苹果砸数亿美元买新闻版权：为 AI 版 Siri 引入实时资讯，按用量付费成新玩法",
-          "url": "https://www.aibase.com/news/30292",
+          "id": "f47540bbc39a8cddec717c8ad4c044ada1440cc4",
+          "title": "Cursor拟提前推出自动化代码审查平台Origin 整合Graphite团队技术",
+          "url": "https://www.aibase.com/news/30303",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-13T01:28:24.524972Z"
+          "published_at": "2026-08-13T03:42:32.670934Z"
         },
         {
-          "id": "48b433e7cd148bdc4b232fcd2fc27fa2774f4ca4",
-          "title": "苹果砸数亿美元买新闻版权：为 AI 版 Siri 引入实时资讯，按用量付费成新玩法",
-          "url": "https://www.aibase.com/zh/news/30292",
+          "id": "f89454eff90ec7c4beac31138379f26bfff51a18",
+          "title": "Cursor 拟提前推出自动化代码审查平台 Origin，整合 Graphite 团队技术",
+          "url": "https://www.aibase.com/zh/news/30303",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -752,18 +633,18 @@
       ],
       "items": [
         {
-          "id": "6b32d25a00d510bb136029b81a648399ffacdf33",
-          "title": "苹果砸数亿美元买新闻版权：为 AI 版 Siri 引入实时资讯，按用量付费成新玩法",
-          "url": "https://www.aibase.com/news/30292",
+          "id": "f47540bbc39a8cddec717c8ad4c044ada1440cc4",
+          "title": "Cursor拟提前推出自动化代码审查平台Origin 整合Graphite团队技术",
+          "url": "https://www.aibase.com/news/30303",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-13T01:28:24.524972Z"
+          "published_at": "2026-08-13T03:42:32.670934Z"
         },
         {
-          "id": "48b433e7cd148bdc4b232fcd2fc27fa2774f4ca4",
-          "title": "苹果砸数亿美元买新闻版权：为 AI 版 Siri 引入实时资讯，按用量付费成新玩法",
-          "url": "https://www.aibase.com/zh/news/30292",
+          "id": "f89454eff90ec7c4beac31138379f26bfff51a18",
+          "title": "Cursor 拟提前推出自动化代码审查平台 Origin，整合 Graphite 团队技术",
+          "url": "https://www.aibase.com/zh/news/30303",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -789,14 +670,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T01:28:24.524972Z",
-      "latest_at": "2026-08-13T01:28:24.524972Z",
+      "earliest_at": "2026-08-13T03:42:32.670934Z",
+      "latest_at": "2026-08-13T03:42:32.670934Z",
       "primary_item": {
-        "id": "6b32d25a00d510bb136029b81a648399ffacdf33",
-        "title": "苹果砸数亿美元买新闻版权：为 AI 版 Siri 引入实时资讯，按用量付费成新玩法",
-        "url": "https://www.aibase.com/news/30292",
+        "id": "f47540bbc39a8cddec717c8ad4c044ada1440cc4",
+        "title": "Cursor拟提前推出自动化代码审查平台Origin 整合Graphite团队技术",
+        "url": "https://www.aibase.com/news/30303",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_40f97f4ec864",
+      "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+      "primary_url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
+          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T05:41:30.137000Z"
+        },
+        {
+          "id": "6902298efece3c7b675fccd584b5df9579576535",
+          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
+          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+          "source": "www.404media.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T05:41:30.137000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.404media.co"
+      ],
+      "items": [
+        {
+          "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
+          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T05:41:30.137000Z"
+        },
+        {
+          "id": "6902298efece3c7b675fccd584b5df9579576535",
+          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动",
+          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+          "source": "www.404media.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T05:41:30.137000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7276,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T05:41:30.137000Z",
+      "latest_at": "2026-08-12T05:41:30.137000Z",
+      "primary_item": {
+        "id": "569806d6cb20daf6aeb1260133527beaa03afeaf",
+        "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -834,21 +796,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8742,
+        "recency": 0.8465,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T16:10:01Z",
       "latest_at": "2026-08-12T16:10:01Z",
@@ -895,21 +856,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9562,
+        "recency": 0.9259,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T22:22:28Z",
       "latest_at": "2026-08-12T22:22:28Z",
@@ -919,6 +879,87 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2f79905133b3",
+      "title": "荣耀Robot Phone全球发布：搭载Agentic OS与全新YOYO Pro，开启多模态智能新体验",
+      "url": "https://www.aibase.com/news/30299",
+      "primary_url": "https://www.aibase.com/news/30299",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "239e9537832e32cf93a6c548060cbae4af7473a6",
+          "title": "荣耀Robot Phone全球发布：搭载Agentic OS与全新YOYO Pro，开启多模态智能新体验",
+          "url": "https://www.aibase.com/news/30299",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T03:42:32.670934Z"
+        },
+        {
+          "id": "f7bdae8a940aad671b1f7c462e70f354a933cabd",
+          "title": "荣耀 Robot Phone 全球发布：搭载 Agentic OS 与全新 YOYO Pro，开启多模态智能新体验",
+          "url": "https://www.aibase.com/zh/news/30299",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "239e9537832e32cf93a6c548060cbae4af7473a6",
+          "title": "荣耀Robot Phone全球发布：搭载Agentic OS与全新YOYO Pro，开启多模态智能新体验",
+          "url": "https://www.aibase.com/news/30299",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T03:42:32.670934Z"
+        },
+        {
+          "id": "f7bdae8a940aad671b1f7c462e70f354a933cabd",
+          "title": "荣耀 Robot Phone 全球发布：搭载 Agentic OS 与全新 YOYO Pro，开启多模态智能新体验",
+          "url": "https://www.aibase.com/zh/news/30299",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T03:42:32.670934Z",
+      "latest_at": "2026-08-13T03:42:32.670934Z",
+      "primary_item": {
+        "id": "239e9537832e32cf93a6c548060cbae4af7473a6",
+        "title": "荣耀Robot Phone全球发布：搭载Agentic OS与全新YOYO Pro，开启多模态智能新体验",
+        "url": "https://www.aibase.com/news/30299",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -956,15 +997,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8233,
+        "recency": 0.7971,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1016,15 +1057,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8977,
+        "recency": 0.8692,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1076,15 +1117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9275,
+        "recency": 0.8981,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1136,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7311,
-      "importance": 0.7311,
-      "importance_score": 0.7311,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8972,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1196,15 +1237,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7266,
-      "importance": 0.7266,
-      "importance_score": 0.7266,
+      "score": 0.7216,
+      "importance": 0.7216,
+      "importance_score": 0.7216,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8723,
+        "recency": 0.8446,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1256,15 +1297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8717,
+        "recency": 0.844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1279,67 +1320,6 @@
         "url": "https://www.ithome.com/0/988/999.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_956eea7dd2f0",
-      "title": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
-      "url": "https://www.aibase.com/news/30297",
-      "primary_url": "https://www.aibase.com/news/30297",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bbda6a1073049b1164ccc22878335f097a927c23",
-          "title": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
-          "url": "https://www.aibase.com/news/30297",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T01:28:24.524972Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bbda6a1073049b1164ccc22878335f097a927c23",
-          "title": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
-          "url": "https://www.aibase.com/news/30297",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T01:28:24.524972Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T01:28:24.524972Z",
-      "latest_at": "2026-08-13T01:28:24.524972Z",
-      "primary_item": {
-        "id": "bbda6a1073049b1164ccc22878335f097a927c23",
-        "title": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
-        "url": "https://www.aibase.com/news/30297",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
