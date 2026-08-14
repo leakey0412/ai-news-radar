@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T01:27:47.673027Z",
+  "generated_at": "2026-08-14T03:39:15.072012Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8761,
-      "importance": 0.8761,
-      "importance_score": 0.8761,
+      "score": 0.8715,
+      "importance": 0.8715,
+      "importance_score": 0.8715,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8115,
+        "recency": 0.7862,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8565,
-      "importance": 0.8565,
-      "importance_score": 0.8565,
+      "score": 0.8515,
+      "importance": 0.8515,
+      "importance_score": 0.8515,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8859,
+        "recency": 0.8583,
         "story_heat": 0.25
       },
       "category": "official",
@@ -240,15 +240,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8477,
-      "importance": 0.8477,
-      "importance_score": 0.8477,
+      "score": 0.8428,
+      "importance": 0.8428,
+      "importance_score": 0.8428,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8818,
+        "recency": 0.8543,
         "story_heat": 0.25
       },
       "category": "official",
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8459,
-      "importance": 0.8459,
-      "importance_score": 0.8459,
+      "score": 0.8409,
+      "importance": 0.8409,
+      "importance_score": 0.8409,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8884,
+        "recency": 0.8607,
         "story_heat": 0.0
       },
       "category": "official",
@@ -403,15 +403,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.874,
-      "importance": 0.874,
-      "importance_score": 0.874,
+      "score": 0.8695,
+      "importance": 0.8695,
+      "importance_score": 0.8695,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7999,
+        "recency": 0.775,
         "story_heat": 0.5
       },
       "category": "official",
@@ -466,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8476,
+        "recency": 0.8212,
         "story_heat": 0.0
       },
       "category": "official",
@@ -565,15 +565,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9786,
+        "recency": 0.9481,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -627,15 +627,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.914,
+        "recency": 0.8855,
         "story_heat": 0.0
       },
       "category": "official",
@@ -655,26 +655,26 @@
       }
     },
     {
-      "story_id": "story_93d04848476c",
-      "title": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-      "url": "https://www.aibase.com/news/30326",
-      "primary_url": "https://www.aibase.com/news/30326",
+      "story_id": "story_4a32c7d43337",
+      "title": "DeepSeek V4 Pro 编程测评夺亚：分数仅输 Kimi K3，成本却只有对手十四分之一",
+      "url": "https://www.aibase.com/news/30338",
+      "primary_url": "https://www.aibase.com/news/30338",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "25b68434e11d20ebbdda006b313792a9ff2e6589",
-          "title": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "url": "https://www.aibase.com/news/30326",
+          "id": "b309bfc698194afc5d9569f767228c616a0be3f7",
+          "title": "DeepSeek V4 Pro 编程测评夺亚：分数仅输 Kimi K3，成本却只有对手十四分之一",
+          "url": "https://www.aibase.com/news/30338",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T01:27:47.673027Z"
+          "published_at": "2026-08-14T03:39:15.072012Z"
         },
         {
-          "id": "3dd310b21a2107a6344fd5a7f45d9eb59fe4787a",
-          "title": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "url": "https://www.aibase.com/zh/news/30326",
+          "id": "5500431042a0d24d9909b4e7a742868be3a10a26",
+          "title": "DeepSeek V4 Pro 编程测评夺亚：分数仅输 Kimi K3，成本却只有对手十四分之一",
+          "url": "https://www.aibase.com/zh/news/30338",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -688,18 +688,18 @@
       ],
       "items": [
         {
-          "id": "25b68434e11d20ebbdda006b313792a9ff2e6589",
-          "title": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "url": "https://www.aibase.com/news/30326",
+          "id": "b309bfc698194afc5d9569f767228c616a0be3f7",
+          "title": "DeepSeek V4 Pro 编程测评夺亚：分数仅输 Kimi K3，成本却只有对手十四分之一",
+          "url": "https://www.aibase.com/news/30338",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T01:27:47.673027Z"
+          "published_at": "2026-08-14T03:39:15.072012Z"
         },
         {
-          "id": "3dd310b21a2107a6344fd5a7f45d9eb59fe4787a",
-          "title": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-          "url": "https://www.aibase.com/zh/news/30326",
+          "id": "5500431042a0d24d9909b4e7a742868be3a10a26",
+          "title": "DeepSeek V4 Pro 编程测评夺亚：分数仅输 Kimi K3，成本却只有对手十四分之一",
+          "url": "https://www.aibase.com/zh/news/30338",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -725,12 +725,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T01:27:47.673027Z",
-      "latest_at": "2026-08-14T01:27:47.673027Z",
+      "earliest_at": "2026-08-14T03:39:15.072012Z",
+      "latest_at": "2026-08-14T03:39:15.072012Z",
       "primary_item": {
-        "id": "25b68434e11d20ebbdda006b313792a9ff2e6589",
-        "title": "OpenAI 年化营收冲击 400 亿美元：较去年底翻倍，赴美上市步伐提速",
-        "url": "https://www.aibase.com/news/30326",
+        "id": "b309bfc698194afc5d9569f767228c616a0be3f7",
+        "title": "DeepSeek V4 Pro 编程测评夺亚：分数仅输 Kimi K3，成本却只有对手十四分之一",
+        "url": "https://www.aibase.com/news/30338",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -770,15 +770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9115,
+        "recency": 0.8831,
         "story_heat": 0.0
       },
       "category": "official",
@@ -795,6 +795,87 @@
         "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7d581390a476",
+      "title": "Twitch默认将主播内容用于训练亚马逊AI模型，引发社区强烈不满",
+      "url": "https://www.aibase.com/news/30341",
+      "primary_url": "https://www.aibase.com/news/30341",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3abc4e5ad59239f87d86a15c37fe8ec36c957318",
+          "title": "Twitch默认将主播内容用于训练亚马逊AI模型，引发社区强烈不满",
+          "url": "https://www.aibase.com/news/30341",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T03:39:15.072012Z"
+        },
+        {
+          "id": "4ce47d2277bef768a9649fe5bcdb6cb0394d0087",
+          "title": "Twitch 默认将主播内容用于训练亚马逊 AI 模型，引发社区强烈不满",
+          "url": "https://www.aibase.com/zh/news/30341",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3abc4e5ad59239f87d86a15c37fe8ec36c957318",
+          "title": "Twitch默认将主播内容用于训练亚马逊AI模型，引发社区强烈不满",
+          "url": "https://www.aibase.com/news/30341",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T03:39:15.072012Z"
+        },
+        {
+          "id": "4ce47d2277bef768a9649fe5bcdb6cb0394d0087",
+          "title": "Twitch 默认将主播内容用于训练亚马逊 AI 模型，引发社区强烈不满",
+          "url": "https://www.aibase.com/zh/news/30341",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T03:39:15.072012Z",
+      "latest_at": "2026-08-14T03:39:15.072012Z",
+      "primary_item": {
+        "id": "3abc4e5ad59239f87d86a15c37fe8ec36c957318",
+        "title": "Twitch默认将主播内容用于训练亚马逊AI模型，引发社区强烈不满",
+        "url": "https://www.aibase.com/news/30341",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -832,15 +913,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8148,
+        "recency": 0.7894,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -893,15 +974,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7884,
+        "recency": 0.7639,
         "story_heat": 0.0
       },
       "category": "official",
@@ -955,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8864,
+        "recency": 0.8588,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1015,15 +1096,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.9143,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1041,62 +1122,82 @@
       }
     },
     {
-      "story_id": "story_eafb5e8f0f49",
-      "title": "App Store 现 AI 欺诈应用：假截图刷出 4.9 分，开发者怒斥苹果审核形同虚设",
-      "url": "https://www.aibase.com/news/30330",
-      "primary_url": "https://www.aibase.com/news/30330",
+      "story_id": "story_bfa53412fd76",
+      "title": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
+      "url": "https://www.aibase.com/news/30335",
+      "primary_url": "https://www.aibase.com/news/30335",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "66623475de093f37a6e4e15cb33e1b7cea7a720c",
-          "title": "App Store 现 AI 欺诈应用：假截图刷出 4.9 分，开发者怒斥苹果审核形同虚设",
-          "url": "https://www.aibase.com/news/30330",
+          "id": "b10878e6a811459e373d1effc84a944e057262e2",
+          "title": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
+          "url": "https://www.aibase.com/news/30335",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T01:27:47.673027Z"
+          "published_at": "2026-08-14T03:39:15.072012Z"
+        },
+        {
+          "id": "7a4abe616b2132fa8e82b69c485eaaba3abd7a43",
+          "title": "谷歌发布 Gemini 3.7 Flash：编码性能全面升级，初始定价降幅达 50%",
+          "url": "https://www.aibase.com/zh/news/30335",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "66623475de093f37a6e4e15cb33e1b7cea7a720c",
-          "title": "App Store 现 AI 欺诈应用：假截图刷出 4.9 分，开发者怒斥苹果审核形同虚设",
-          "url": "https://www.aibase.com/news/30330",
+          "id": "b10878e6a811459e373d1effc84a944e057262e2",
+          "title": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
+          "url": "https://www.aibase.com/news/30335",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T01:27:47.673027Z"
+          "published_at": "2026-08-14T03:39:15.072012Z"
+        },
+        {
+          "id": "7a4abe616b2132fa8e82b69c485eaaba3abd7a43",
+          "title": "谷歌发布 Gemini 3.7 Flash：编码性能全面升级，初始定价降幅达 50%",
+          "url": "https://www.aibase.com/zh/news/30335",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T01:27:47.673027Z",
-      "latest_at": "2026-08-14T01:27:47.673027Z",
+      "earliest_at": "2026-08-14T03:39:15.072012Z",
+      "latest_at": "2026-08-14T03:39:15.072012Z",
       "primary_item": {
-        "id": "66623475de093f37a6e4e15cb33e1b7cea7a720c",
-        "title": "App Store 现 AI 欺诈应用：假截图刷出 4.9 分，开发者怒斥苹果审核形同虚设",
-        "url": "https://www.aibase.com/news/30330",
+        "id": "b10878e6a811459e373d1effc84a944e057262e2",
+        "title": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
+        "url": "https://www.aibase.com/news/30335",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1136,15 +1237,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8484,
+        "recency": 0.822,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1162,122 +1263,82 @@
       }
     },
     {
-      "story_id": "story_91f58f322619",
-      "title": "DeepSeek Harness v0.1 开发者预览版发布",
-      "url": "https://x.com/deepseek_ai/status/2087887408440164663",
-      "primary_url": "https://x.com/deepseek_ai/status/2087887408440164663",
-      "source": "X：DeepSeek (@deepseek_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9aa1f77870378fce819e68417a2cf8492851a4b7",
-          "title": "DeepSeek Harness v0.1 开发者预览版发布",
-          "url": "https://x.com/deepseek_ai/status/2087887408440164663",
-          "source": "X：DeepSeek (@deepseek_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T13:02:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：DeepSeek (@deepseek_ai)"
-      ],
-      "items": [
-        {
-          "id": "9aa1f77870378fce819e68417a2cf8492851a4b7",
-          "title": "DeepSeek Harness v0.1 开发者预览版发布",
-          "url": "https://x.com/deepseek_ai/status/2087887408440164663",
-          "source": "X：DeepSeek (@deepseek_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T13:02:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8357,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T13:02:03Z",
-      "latest_at": "2026-08-13T13:02:03Z",
-      "primary_item": {
-        "id": "9aa1f77870378fce819e68417a2cf8492851a4b7",
-        "title": "DeepSeek Harness v0.1 开发者预览版发布",
-        "url": "https://x.com/deepseek_ai/status/2087887408440164663",
-        "source": "X：DeepSeek (@deepseek_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_595ebf749a43",
-      "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-      "url": "https://www.aibase.com/news/30332",
-      "primary_url": "https://www.aibase.com/news/30332",
+      "story_id": "story_a02353ef6b30",
+      "title": "谷歌开放Ask YouTube：美国13岁以上用户均可使用AI对话搜索",
+      "url": "https://www.aibase.com/news/30342",
+      "primary_url": "https://www.aibase.com/news/30342",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
-          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-          "url": "https://www.aibase.com/news/30332",
+          "id": "b7b1dd7b9e43c4bcc00baab99649eef9fb8d0e6e",
+          "title": "谷歌开放Ask YouTube：美国13岁以上用户均可使用AI对话搜索",
+          "url": "https://www.aibase.com/news/30342",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T01:27:47.673027Z"
+          "published_at": "2026-08-14T03:39:15.072012Z"
+        },
+        {
+          "id": "e7585e09570c4baa2cf95ce6e80936c1df25ef59",
+          "title": "谷歌开放 Ask YouTube：美国 13 岁以上用户均可使用 AI 对话搜索",
+          "url": "https://www.aibase.com/zh/news/30342",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
-          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-          "url": "https://www.aibase.com/news/30332",
+          "id": "b7b1dd7b9e43c4bcc00baab99649eef9fb8d0e6e",
+          "title": "谷歌开放Ask YouTube：美国13岁以上用户均可使用AI对话搜索",
+          "url": "https://www.aibase.com/news/30342",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T01:27:47.673027Z"
+          "published_at": "2026-08-14T03:39:15.072012Z"
+        },
+        {
+          "id": "e7585e09570c4baa2cf95ce6e80936c1df25ef59",
+          "title": "谷歌开放 Ask YouTube：美国 13 岁以上用户均可使用 AI 对话搜索",
+          "url": "https://www.aibase.com/zh/news/30342",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T01:27:47.673027Z",
-      "latest_at": "2026-08-14T01:27:47.673027Z",
+      "earliest_at": "2026-08-14T03:39:15.072012Z",
+      "latest_at": "2026-08-14T03:39:15.072012Z",
       "primary_item": {
-        "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
-        "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
-        "url": "https://www.aibase.com/news/30332",
+        "id": "b7b1dd7b9e43c4bcc00baab99649eef9fb8d0e6e",
+        "title": "谷歌开放Ask YouTube：美国13岁以上用户均可使用AI对话搜索",
+        "url": "https://www.aibase.com/news/30342",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1389,15 +1450,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6863,
-      "importance": 0.6863,
-      "importance_score": 0.6863,
+      "score": 0.6812,
+      "importance": 0.6812,
+      "importance_score": 0.6812,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5256,
         "source_tier": 0.54,
         "ai_relevance": 0.73,
-        "recency": 0.9102,
+        "recency": 0.8818,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1415,62 +1476,82 @@
       }
     },
     {
-      "story_id": "story_bd866dc59c4f",
-      "title": "OpenAI推出全新“电脑历史”功能，无需截屏即可完成记忆用户操作",
-      "url": "https://www.aibase.com/news/30325",
-      "primary_url": "https://www.aibase.com/news/30325",
+      "story_id": "story_e4ab42743ca5",
+      "title": "马斯克放话 SpaceXAI 已建成\"全球最强训练集群\"：明年扩至 10 倍，2027 年底冲 10GW",
+      "url": "https://www.aibase.com/news/30345",
+      "primary_url": "https://www.aibase.com/news/30345",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3cdcaa936a2c20873224be3cae93ee860b67a081",
-          "title": "OpenAI推出全新“电脑历史”功能，无需截屏即可完成记忆用户操作",
-          "url": "https://www.aibase.com/news/30325",
+          "id": "76382c10bd6fac1b833993b4d4b65535b0cd5d32",
+          "title": "马斯克放话 SpaceXAI 已建成\"全球最强训练集群\"：明年扩至 10 倍，2027 年底冲 10GW",
+          "url": "https://www.aibase.com/news/30345",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T01:27:47.673027Z"
+          "published_at": "2026-08-14T03:39:15.072012Z"
+        },
+        {
+          "id": "5625464793fec2044fbd905be1716747c6b8ae90",
+          "title": "马斯克称 SpaceXAI 已建成全球最强训练集群，计划明年扩至 10 倍，2027 年底冲 10GW",
+          "url": "https://www.aibase.com/zh/news/30345",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "3cdcaa936a2c20873224be3cae93ee860b67a081",
-          "title": "OpenAI推出全新“电脑历史”功能，无需截屏即可完成记忆用户操作",
-          "url": "https://www.aibase.com/news/30325",
+          "id": "76382c10bd6fac1b833993b4d4b65535b0cd5d32",
+          "title": "马斯克放话 SpaceXAI 已建成\"全球最强训练集群\"：明年扩至 10 倍，2027 年底冲 10GW",
+          "url": "https://www.aibase.com/news/30345",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-14T01:27:47.673027Z"
+          "published_at": "2026-08-14T03:39:15.072012Z"
+        },
+        {
+          "id": "5625464793fec2044fbd905be1716747c6b8ae90",
+          "title": "马斯克称 SpaceXAI 已建成全球最强训练集群，计划明年扩至 10 倍，2027 年底冲 10GW",
+          "url": "https://www.aibase.com/zh/news/30345",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T01:27:47.673027Z",
-      "latest_at": "2026-08-14T01:27:47.673027Z",
+      "earliest_at": "2026-08-14T03:39:15.072012Z",
+      "latest_at": "2026-08-14T03:39:15.072012Z",
       "primary_item": {
-        "id": "3cdcaa936a2c20873224be3cae93ee860b67a081",
-        "title": "OpenAI推出全新“电脑历史”功能，无需截屏即可完成记忆用户操作",
-        "url": "https://www.aibase.com/news/30325",
+        "id": "76382c10bd6fac1b833993b4d4b65535b0cd5d32",
+        "title": "马斯克放话 SpaceXAI 已建成\"全球最强训练集群\"：明年扩至 10 倍，2027 年底冲 10GW",
+        "url": "https://www.aibase.com/news/30345",
         "source": "AIbase",
         "source_name": "AIbase"
       }
