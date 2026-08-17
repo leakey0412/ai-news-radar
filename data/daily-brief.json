@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:54:30.719052Z",
+  "generated_at": "2026-08-17T18:31:56.998064Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8475,
-      "importance": 0.8475,
-      "importance_score": 0.8475,
+      "score": 0.8461,
+      "importance": 0.8461,
+      "importance_score": 0.8461,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.836,
+        "recency": 0.8285,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9728,
+        "recency": 0.9641,
         "story_heat": 0.0
       },
       "category": "official",
@@ -145,6 +145,125 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_28308b9ffb2f",
+      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+      "url": "https://www.librarian.net/notoai",
+      "primary_url": "https://www.librarian.net/notoai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
+          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "url": "https://www.librarian.net/notoai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        },
+        {
+          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
+          "title": "如何禁用或避免侵入式人工智能",
+          "url": "https://www.librarian.net/notoai",
+          "source": "www.librarian.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        },
+        {
+          "id": "fdd2dc3e40dbcf4f45e6164d68cffd144a5fd7bd",
+          "title": "如何禁用或避免侵入性人工智能 / How to disable or avoid intrusive AI",
+          "url": "https://news.ycombinator.com/item?id=49331220",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T14:40:27.207000Z"
+        },
+        {
+          "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
+          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
+          "url": "https://www.librarian.net/notoai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T14:07:56Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "www.librarian.net"
+      ],
+      "items": [
+        {
+          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
+          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "url": "https://www.librarian.net/notoai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        },
+        {
+          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
+          "title": "如何禁用或避免侵入式人工智能",
+          "url": "https://www.librarian.net/notoai",
+          "source": "www.librarian.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        },
+        {
+          "id": "fdd2dc3e40dbcf4f45e6164d68cffd144a5fd7bd",
+          "title": "如何禁用或避免侵入性人工智能 / How to disable or avoid intrusive AI",
+          "url": "https://news.ycombinator.com/item?id=49331220",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T14:40:27.207000Z"
+        },
+        {
+          "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
+          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南 / How to disable or avoid intrusive AI",
+          "url": "https://www.librarian.net/notoai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T14:07:56Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9919,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T14:07:56Z",
+      "latest_at": "2026-08-17T17:58:12.144000Z",
+      "primary_item": {
+        "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
+        "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+        "url": "https://www.librarian.net/notoai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -182,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.8266,
+      "importance": 0.8266,
+      "importance_score": 0.8266,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8667,
+        "recency": 0.8589,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +382,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8427,
-      "importance": 0.8427,
-      "importance_score": 0.8427,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8092,
+        "recency": 0.802,
         "story_heat": 0.25
       },
       "category": "official",
@@ -345,15 +464,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.926,
+        "recency": 0.9176,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -425,15 +544,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.784,
+      "importance": 0.784,
+      "importance_score": 0.784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9272,
+        "recency": 0.9189,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -525,15 +644,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7503,
+        "recency": 0.7435,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -606,15 +725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.7719,
+      "importance": 0.7719,
+      "importance_score": 0.7719,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8849,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -668,15 +787,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8299,
+        "recency": 0.8225,
         "story_heat": 0.0
       },
       "category": "official",
@@ -730,15 +849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9239,
+        "recency": 0.9156,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -810,15 +929,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7712,
-      "importance": 0.7712,
-      "importance_score": 0.7712,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8809,
+        "recency": 0.873,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -891,15 +1010,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7712,
-      "importance": 0.7712,
-      "importance_score": 0.7712,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8809,
+        "recency": 0.873,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -972,15 +1091,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7712,
-      "importance": 0.7712,
-      "importance_score": 0.7712,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8809,
+        "recency": 0.873,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1143,15 +1262,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.6666,
-      "importance": 0.6666,
-      "importance_score": 0.6666,
+      "score": 0.665,
+      "importance": 0.665,
+      "importance_score": 0.665,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9855,
+        "recency": 0.9766,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1222,15 +1341,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.868,
+        "recency": 0.8602,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1302,15 +1421,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6455,
-      "importance": 0.6455,
-      "importance_score": 0.6455,
+      "score": 0.6439,
+      "importance": 0.6439,
+      "importance_score": 0.6439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9819,
+        "recency": 0.9731,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1419,15 +1538,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6372,
-      "importance": 0.6372,
-      "importance_score": 0.6372,
+      "score": 0.6357,
+      "importance": 0.6357,
+      "importance_score": 0.6357,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9638,
+        "recency": 0.9552,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1497,15 +1616,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6232,
-      "importance": 0.6232,
-      "importance_score": 0.6232,
+      "score": 0.6218,
+      "importance": 0.6218,
+      "importance_score": 0.6218,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9044,
+        "recency": 0.8963,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1650,15 +1769,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6189,
-      "importance": 0.6189,
-      "importance_score": 0.6189,
+      "score": 0.6173,
+      "importance": 0.6173,
+      "importance_score": 0.6173,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9896,
+        "recency": 0.9807,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1673,87 +1792,6 @@
         "url": "https://news.ycombinator.com/item?id=49324087",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_f5e355031976",
-      "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
-      "url": "https://www.aibase.com/news/30395",
-      "primary_url": "https://www.aibase.com/news/30395",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
-          "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
-          "url": "https://www.aibase.com/news/30395",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T07:05:06.415379Z"
-        },
-        {
-          "id": "23040cd2ac4f2f085c19e121a554d6d3feb40573",
-          "title": "宇树科技发布「超人」人形机器人：原地跳高 2 米、极速 12.66m/s",
-          "url": "https://www.aibase.com/zh/news/30395",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
-          "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
-          "url": "https://www.aibase.com/news/30395",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T07:05:06.415379Z"
-        },
-        {
-          "id": "23040cd2ac4f2f085c19e121a554d6d3feb40573",
-          "title": "宇树科技发布「超人」人形机器人：原地跳高 2 米、极速 12.66m/s",
-          "url": "https://www.aibase.com/zh/news/30395",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8553,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T07:05:06.415379Z",
-      "latest_at": "2026-08-17T07:05:06.415379Z",
-      "primary_item": {
-        "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
-        "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
-        "url": "https://www.aibase.com/news/30395",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
