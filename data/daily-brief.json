@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T15:56:29.884051Z",
+  "generated_at": "2026-08-19T16:28:52.726422Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.9046,
-      "importance": 0.9046,
-      "importance_score": 0.9046,
+      "score": 0.9032,
+      "importance": 0.9032,
+      "importance_score": 0.9032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9697,
+        "recency": 0.9622,
         "story_heat": 0.5
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8789,
+        "recency": 0.872,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8364,
-      "importance": 0.8364,
-      "importance_score": 0.8364,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9577,
+        "recency": 0.9503,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,15 +282,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8364,
-      "importance": 0.8364,
-      "importance_score": 0.8364,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7301,
+        "recency": 0.7245,
         "story_heat": 0.25
       },
       "category": "official",
@@ -364,15 +364,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.83,
-      "importance": 0.83,
-      "importance_score": 0.83,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.739,
+        "recency": 0.7333,
         "story_heat": 0.25
       },
       "category": "official",
@@ -465,15 +465,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8737,
+        "recency": 0.8669,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -527,15 +527,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7892,
+        "recency": 0.7831,
         "story_heat": 0.0
       },
       "category": "official",
@@ -589,15 +589,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7718,
+        "recency": 0.7658,
         "story_heat": 0.0
       },
       "category": "official",
@@ -614,87 +614,6 @@
         "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5874235fe6b1",
-      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-      "url": "https://www.modular.com/blog/mojo-open-source",
-      "primary_url": "https://www.modular.com/blog/mojo-open-source",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "url": "https://www.modular.com/blog/mojo-open-source",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01.095000Z"
-        },
-        {
-          "id": "e61d8a7318a29492b0af9b0a4cb319bfbaaa9480",
-          "title": "Mojo 现已开源 / Mojo is now open source!",
-          "url": "https://www.modular.com/blog/mojo-open-source",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T16:23:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "url": "https://www.modular.com/blog/mojo-open-source",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01.095000Z"
-        },
-        {
-          "id": "e61d8a7318a29492b0af9b0a4cb319bfbaaa9480",
-          "title": "Mojo 现已开源 / Mojo is now open source!",
-          "url": "https://www.modular.com/blog/mojo-open-source",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T16:23:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7655,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T16:23:24Z",
-      "latest_at": "2026-08-18T21:26:01.095000Z",
-      "primary_item": {
-        "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
-        "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-        "url": "https://www.modular.com/blog/mojo-open-source",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -732,15 +651,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8066,
+        "recency": 0.8003,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -812,15 +731,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8983,
+        "recency": 0.8913,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -874,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7713,
+        "recency": 0.7653,
         "story_heat": 0.0
       },
       "category": "official",
@@ -899,6 +818,66 @@
         "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5874235fe6b1",
+      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "primary_url": "https://www.modular.com/blog/mojo-open-source",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+          "url": "https://www.modular.com/blog/mojo-open-source",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T21:26:01.095000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+          "url": "https://www.modular.com/blog/mojo-open-source",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T21:26:01.095000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7595,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T21:26:01.095000Z",
+      "latest_at": "2026-08-18T21:26:01.095000Z",
+      "primary_item": {
+        "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+        "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+        "url": "https://www.modular.com/blog/mojo-open-source",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -936,15 +915,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7768,
+        "recency": 0.7708,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1015,15 +994,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7509,
+        "recency": 0.745,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1095,15 +1074,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8983,
+        "recency": 0.8913,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1176,15 +1155,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8344,
+        "recency": 0.828,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1205,13 +1184,22 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
+      "title": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-08-19",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "36b287234b7e291a4fa62319c1cc6d53c499c8b6",
+          "title": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-19T16:28:52.726422Z"
+        },
+        {
           "id": "5d2f692275248217cc66742c81f38e6f87d1560a",
           "title": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1255,33 +1243,24 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-18T17:29:13.531610Z"
-        },
-        {
-          "id": "eb0c3711da04ecacf66775a3f0207dd65dfba53d",
-          "title": "作者整理了12种运镜+8种转场+4套组合连招+5条心法 ，每种都配了通用模板和具体示例，可以直接套用到你自己的AI视频提示词里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-18T16:26:48.005271Z"
-        },
-        {
-          "id": "350a4f1eabac281d6b10fab1a9f9ec6a6ffc0140",
-          "title": "卡兹克分享了一个极度实用的深度思考Prompt：双向钢人Prompt。它会先帮你重述真实问题，再分别强化“支持你”和“反对你”的最强理由，接着找出真正分歧和关键变量，只问一个最关键的问题，等你回答后再给判断和行动。适合用来做决策、写方案、复盘项目，尤其适合那些“我好像知道答案，但又说不清为什么”的问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-18T16:26:48.005271Z"
         }
       ],
-      "source_count": 7,
+      "source_count": 6,
       "source_names": [
         "社区更新 · 2026-08-18",
         "社区更新 · 2026-08-19"
       ],
       "items": [
         {
+          "id": "36b287234b7e291a4fa62319c1cc6d53c499c8b6",
+          "title": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-19T16:28:52.726422Z"
+        },
+        {
           "id": "5d2f692275248217cc66742c81f38e6f87d1560a",
           "title": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1325,28 +1304,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-18T17:29:13.531610Z"
-        },
-        {
-          "id": "eb0c3711da04ecacf66775a3f0207dd65dfba53d",
-          "title": "作者整理了12种运镜+8种转场+4套组合连招+5条心法 ，每种都配了通用模板和具体示例，可以直接套用到你自己的AI视频提示词里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-18T16:26:48.005271Z"
-        },
-        {
-          "id": "350a4f1eabac281d6b10fab1a9f9ec6a6ffc0140",
-          "title": "卡兹克分享了一个极度实用的深度思考Prompt：双向钢人Prompt。它会先帮你重述真实问题，再分别强化“支持你”和“反对你”的最强理由，接着找出真正分歧和关键变量，只问一个最关键的问题，等你回答后再给判断和行动。适合用来做决策、写方案、复盘项目，尤其适合那些“我好像知道答案，但又说不清为什么”的问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-18T16:26:48.005271Z"
         }
       ],
-      "item_count": 7,
-      "duplicate_count": 7,
+      "item_count": 6,
+      "duplicate_count": 6,
       "score": 0.6692,
       "importance": 0.6692,
       "importance_score": 0.6692,
@@ -1362,11 +1323,11 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-18T16:26:48.005271Z",
-      "latest_at": "2026-08-19T15:56:29.884051Z",
+      "earliest_at": "2026-08-18T17:29:13.531610Z",
+      "latest_at": "2026-08-19T16:28:52.726422Z",
       "primary_item": {
-        "id": "5d2f692275248217cc66742c81f38e6f87d1560a",
-        "title": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
+        "id": "36b287234b7e291a4fa62319c1cc6d53c499c8b6",
+        "title": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-19",
         "source_name": "WaytoAGI"
@@ -1426,15 +1387,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8344,
+        "recency": 0.828,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1507,15 +1468,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8213,
+        "recency": 0.8149,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1588,15 +1549,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8213,
+        "recency": 0.8149,
         "story_heat": 0.25
       },
       "category": "industry",
