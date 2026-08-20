@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T23:45:26.017511Z",
+  "generated_at": "2026-08-20T00:57:21.923089Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8859,
-      "importance": 0.8859,
-      "importance_score": 0.8859,
+      "score": 0.8832,
+      "importance": 0.8832,
+      "importance_score": 0.8832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8662,
+        "recency": 0.8514,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.865,
-      "importance": 0.865,
-      "importance_score": 0.865,
+      "score": 0.8622,
+      "importance": 0.8622,
+      "importance_score": 0.8622,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9336,
+        "recency": 0.9176,
         "story_heat": 0.25
       },
       "category": "official",
@@ -221,15 +221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9632,
+        "recency": 0.9466,
         "story_heat": 0.0
       },
       "category": "official",
@@ -283,15 +283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8373,
-      "importance": 0.8373,
-      "importance_score": 0.8373,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9181,
+        "recency": 0.9023,
         "story_heat": 0.0
       },
       "category": "official",
@@ -345,15 +345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9336,
+        "recency": 0.9176,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,15 +445,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9305,
+        "recency": 0.9145,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -507,15 +507,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7851,
+        "recency": 0.7716,
         "story_heat": 0.0
       },
       "category": "official",
@@ -569,15 +569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8555,
+        "recency": 0.8408,
         "story_heat": 0.0
       },
       "category": "official",
@@ -669,15 +669,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7805,
+        "recency": 0.7671,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -694,6 +694,67 @@
         "url": "https://www.aibase.com/news/30467",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a6e3ccf71c3a",
+      "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+      "url": "https://www.ithome.com/0/991/886.htm",
+      "primary_url": "https://www.ithome.com/0/991/886.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "url": "https://www.ithome.com/0/991/886.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T00:17:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "url": "https://www.ithome.com/0/991/886.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T00:17:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9904,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T00:17:26Z",
+      "latest_at": "2026-08-20T00:17:26Z",
+      "primary_item": {
+        "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+        "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+        "url": "https://www.ithome.com/0/991/886.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -750,15 +811,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7873,
-      "importance": 0.7873,
-      "importance_score": 0.7873,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9708,
+        "recency": 0.9541,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -812,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.957,
+        "recency": 0.9406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -873,15 +934,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9194,
+        "recency": 0.9036,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -897,6 +958,67 @@
         "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c06b61fa906e",
+      "title": "ChatGPT突发大规模宕机，数百万用户集体遭遇登录危机",
+      "url": "https://www.aibase.com/news/30478",
+      "primary_url": "https://www.aibase.com/news/30478",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a21f2cb75357e59c0a238fa0e24f28c8ad0e9c0d",
+          "title": "ChatGPT突发大规模宕机，数百万用户集体遭遇登录危机",
+          "url": "https://www.aibase.com/news/30478",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T00:57:21.923089Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a21f2cb75357e59c0a238fa0e24f28c8ad0e9c0d",
+          "title": "ChatGPT突发大规模宕机，数百万用户集体遭遇登录危机",
+          "url": "https://www.aibase.com/news/30478",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T00:57:21.923089Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T00:57:21.923089Z",
+      "latest_at": "2026-08-20T00:57:21.923089Z",
+      "primary_item": {
+        "id": "a21f2cb75357e59c0a238fa0e24f28c8ad0e9c0d",
+        "title": "ChatGPT突发大规模宕机，数百万用户集体遭遇登录危机",
+        "url": "https://www.aibase.com/news/30478",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -934,15 +1056,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7205,
+        "recency": 0.7081,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -994,15 +1116,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9119,
+        "recency": 0.8963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1073,15 +1195,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8024,
+        "recency": 0.7887,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1154,15 +1276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8024,
+        "recency": 0.7887,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1177,86 +1299,6 @@
         "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
         "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
         "url": "https://www.aibase.com/news/30471",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f4125ec43c6b",
-      "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
-      "url": "https://www.aibase.com/news/30457",
-      "primary_url": "https://www.aibase.com/news/30457",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
-          "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
-          "url": "https://www.aibase.com/news/30457",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T03:24:25.400309Z"
-        },
-        {
-          "id": "9a17c4b25bddb2765ce194aa66d5a6df9e49fb96",
-          "title": "OpenAI 二季度营收 67 亿美元，增速不及 Anthropic 反超",
-          "url": "https://www.aibase.com/zh/news/30457",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
-          "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
-          "url": "https://www.aibase.com/news/30457",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T03:24:25.400309Z"
-        },
-        {
-          "id": "9a17c4b25bddb2765ce194aa66d5a6df9e49fb96",
-          "title": "OpenAI 二季度营收 67 亿美元，增速不及 Anthropic 反超",
-          "url": "https://www.aibase.com/zh/news/30457",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7454,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T03:24:25.400309Z",
-      "latest_at": "2026-08-19T03:24:25.400309Z",
-      "primary_item": {
-        "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
-        "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
-        "url": "https://www.aibase.com/news/30457",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1368,15 +1410,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6545,
-      "importance": 0.6545,
-      "importance_score": 0.6545,
+      "score": 0.6516,
+      "importance": 0.6516,
+      "importance_score": 0.6516,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9181,
+        "recency": 0.9024,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1446,15 +1488,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6493,
-      "importance": 0.6493,
-      "importance_score": 0.6493,
+      "score": 0.6464,
+      "importance": 0.6464,
+      "importance_score": 0.6464,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9336,
+        "recency": 0.9176,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1469,86 +1511,6 @@
         "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_ad47e7159014",
-      "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
-      "url": "https://www.aibase.com/news/30460",
-      "primary_url": "https://www.aibase.com/news/30460",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e842250b4693909dbb071b41a91156a770cee6b0",
-          "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
-          "url": "https://www.aibase.com/news/30460",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T03:24:25.400309Z"
-        },
-        {
-          "id": "40c99308ec81377572f8e680d5d6f03e6bf10901",
-          "title": "微软 Copilot 曝安全漏洞：恶意链接可绕过确认，自动窃取邮件与凭据",
-          "url": "https://www.aibase.com/zh/news/30460",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e842250b4693909dbb071b41a91156a770cee6b0",
-          "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
-          "url": "https://www.aibase.com/news/30460",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T03:24:25.400309Z"
-        },
-        {
-          "id": "40c99308ec81377572f8e680d5d6f03e6bf10901",
-          "title": "微软 Copilot 曝安全漏洞：恶意链接可绕过确认，自动窃取邮件与凭据",
-          "url": "https://www.aibase.com/zh/news/30460",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7454,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T03:24:25.400309Z",
-      "latest_at": "2026-08-19T03:24:25.400309Z",
-      "primary_item": {
-        "id": "e842250b4693909dbb071b41a91156a770cee6b0",
-        "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
-        "url": "https://www.aibase.com/news/30460",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
