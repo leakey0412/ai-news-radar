@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T14:29:46.270142Z",
+  "generated_at": "2026-08-21T15:04:55.465279Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8617,
-      "importance": 0.8617,
-      "importance_score": 0.8617,
+      "score": 0.8606,
+      "importance": 0.8606,
+      "importance_score": 0.8606,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7319,
+        "recency": 0.7257,
         "story_heat": 0.5
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9645,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "official",
@@ -220,15 +220,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.857,
-      "importance": 0.857,
-      "importance_score": 0.857,
+      "score": 0.8558,
+      "importance": 0.8558,
+      "importance_score": 0.8558,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8111,
+        "recency": 0.8043,
         "story_heat": 0.25
       },
       "category": "official",
@@ -283,15 +283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8052,
+        "recency": 0.7984,
         "story_heat": 0.0
       },
       "category": "official",
@@ -383,15 +383,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9295,
+        "recency": 0.9217,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -464,15 +464,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9427,
+        "recency": 0.9347,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -489,6 +489,67 @@
         "url": "https://www.aibase.com/news/30537",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1908848b1e0a",
+      "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "primary_url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
+          "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+          "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T14:28:27.351000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
+          "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+          "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T14:28:27.351000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9913,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T14:28:27.351000Z",
+      "latest_at": "2026-08-21T14:28:27.351000Z",
+      "primary_item": {
+        "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
+        "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+        "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -526,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7425,
+        "recency": 0.7362,
         "story_heat": 0.0
       },
       "category": "official",
@@ -588,15 +649,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9294,
+        "recency": 0.9216,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -649,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9789,
+        "recency": 0.9707,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -729,15 +790,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9427,
+        "recency": 0.9347,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -791,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7148,
+        "recency": 0.7087,
         "story_heat": 0.0
       },
       "category": "official",
@@ -872,15 +933,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.918,
+        "recency": 0.9103,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -953,15 +1014,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9057,
+        "recency": 0.898,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1034,15 +1095,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9057,
+        "recency": 0.898,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1168,15 +1229,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6241,
-      "importance": 0.6241,
-      "importance_score": 0.6241,
+      "score": 0.623,
+      "importance": 0.623,
+      "importance_score": 0.623,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7495,
+        "recency": 0.7432,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1247,15 +1308,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8957,
+        "recency": 0.8882,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1327,15 +1388,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6102,
-      "importance": 0.6102,
-      "importance_score": 0.6102,
+      "score": 0.6086,
+      "importance": 0.6086,
+      "importance_score": 0.6086,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9989,
+        "recency": 0.9904,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1406,15 +1467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8957,
+        "recency": 0.8882,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1478,19 +1539,19 @@
           "published_at": "2026-08-20T15:26:02Z"
         },
         {
-          "id": "1bb37e1d486ff8bb13221ef61f464a4b85857866",
+          "id": "02f7194cd76b6858958bf8fd9bbf8f0749dbd848",
           "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Vomit: Clean up Claude 5's token output with a separate LLM",
           "url": "https://github.com/zachahn/vomit",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-20T15:26:02Z"
         }
       ],
       "source_count": 5,
       "source_names": [
         "HN Algolia · AI 24h",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "github.com",
         "hackernews"
       ],
@@ -1532,26 +1593,26 @@
           "published_at": "2026-08-20T15:26:02Z"
         },
         {
-          "id": "1bb37e1d486ff8bb13221ef61f464a4b85857866",
+          "id": "02f7194cd76b6858958bf8fd9bbf8f0749dbd848",
           "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Vomit: Clean up Claude 5's token output with a separate LLM",
           "url": "https://github.com/zachahn/vomit",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-20T15:26:02Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5809,
-      "importance": 0.5809,
-      "importance_score": 0.5809,
+      "score": 0.5798,
+      "importance": 0.5798,
+      "importance_score": 0.5798,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7786,
+        "recency": 0.7721,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1566,87 +1627,6 @@
         "url": "https://news.ycombinator.com/item?id=49375996",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_fb9dba5038e4",
-      "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-      "url": "https://www.aibase.com/news/30527",
-      "primary_url": "https://www.aibase.com/news/30527",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
-          "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-          "url": "https://www.aibase.com/news/30527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T06:52:07.592501Z"
-        },
-        {
-          "id": "c32ddb47f3cffaf2421762c04b63f9f83bbc7053",
-          "title": "商汤科技开源 8B 轻量多模态大模型：原生 4K 输出、全能视觉编辑",
-          "url": "https://www.aibase.com/zh/news/30527",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
-          "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-          "url": "https://www.aibase.com/news/30527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T06:52:07.592501Z"
-        },
-        {
-          "id": "c32ddb47f3cffaf2421762c04b63f9f83bbc7053",
-          "title": "商汤科技开源 8B 轻量多模态大模型：原生 4K 输出、全能视觉编辑",
-          "url": "https://www.aibase.com/zh/news/30527",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8957,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T06:52:07.592501Z",
-      "latest_at": "2026-08-21T06:52:07.592501Z",
-      "primary_item": {
-        "id": "621bd70bc44f5db80bdd8e306bb854d610576db8",
-        "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-        "url": "https://www.aibase.com/news/30527",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
