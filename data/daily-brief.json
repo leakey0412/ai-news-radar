@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T05:27:26.755318Z",
+  "generated_at": "2026-08-21T05:58:14.631918Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8801,
-      "importance": 0.8801,
-      "importance_score": 0.8801,
+      "score": 0.879,
+      "importance": 0.879,
+      "importance_score": 0.879,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8339,
+        "recency": 0.8278,
         "story_heat": 0.5
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
+      "score": 0.8279,
+      "importance": 0.8279,
+      "importance_score": 0.8279,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9175,
+        "recency": 0.9107,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.723,
+        "recency": 0.7177,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,15 +282,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
+      "score": 0.787,
+      "importance": 0.787,
+      "importance_score": 0.787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9759,
+        "recency": 0.9687,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -344,15 +344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.846,
+        "recency": 0.8398,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,15 +425,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
+      "score": 0.787,
+      "importance": 0.787,
+      "importance_score": 0.787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9759,
+        "recency": 0.9687,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8144,
+        "recency": 0.8084,
         "story_heat": 0.0
       },
       "category": "official",
@@ -568,15 +568,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9609,
+        "recency": 0.9538,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -630,15 +630,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.723,
-      "importance": 0.723,
-      "importance_score": 0.723,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7525,
+        "recency": 0.7469,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -652,66 +652,6 @@
         "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
         "url": "https://www.ithome.com/0/992/239.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c4718f6f117e",
-      "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-      "url": "https://mistral.ai/news/agentic-search",
-      "primary_url": "https://mistral.ai/news/agentic-search",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
-          "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-          "url": "https://mistral.ai/news/agentic-search",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:02:07.300000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Mistral AI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
-          "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-          "url": "https://mistral.ai/news/agentic-search",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:02:07.300000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8238,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T16:02:07.300000Z",
-      "latest_at": "2026-08-20T16:02:07.300000Z",
-      "primary_item": {
-        "id": "294b8bfa7f1dbcaf05bd40143d528810ca70d355",
-        "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-        "url": "https://mistral.ai/news/agentic-search",
-        "source": "Mistral AI：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -750,15 +690,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8055,
+        "recency": 0.7995,
         "story_heat": 0.0
       },
       "category": "official",
@@ -831,15 +771,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9609,
+        "recency": 0.9538,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -893,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8056,
+        "recency": 0.7997,
         "story_heat": 0.0
       },
       "category": "official",
@@ -974,15 +914,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9609,
+        "recency": 0.9538,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1108,15 +1048,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6429,
-      "importance": 0.6429,
-      "importance_score": 0.6429,
+      "score": 0.6418,
+      "importance": 0.6418,
+      "importance_score": 0.6418,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.854,
+        "recency": 0.8477,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1187,15 +1127,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9609,
+        "recency": 0.9538,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1268,15 +1208,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9609,
+        "recency": 0.9538,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1405,15 +1345,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6005,
-      "importance": 0.6005,
-      "importance_score": 0.6005,
+      "score": 0.5993,
+      "importance": 0.5993,
+      "importance_score": 0.5993,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8872,
+        "recency": 0.8806,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1484,15 +1424,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7814,
-      "importance": 0.7814,
-      "importance_score": 0.7814,
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9379,
+        "recency": 0.931,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1584,15 +1524,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5673,
-      "importance": 0.5673,
-      "importance_score": 0.5673,
+      "score": 0.566,
+      "importance": 0.566,
+      "importance_score": 0.566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9804,
+        "recency": 0.9732,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1606,6 +1546,104 @@
         "title": "人工智能公司正在摧毁实体书——趁还来得及，赶紧把珍本扫描下来吧",
         "url": "https://annas-archive.gl/blog/physical-destruction.html",
         "source": "annas-archive.gl",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ad9e90903af4",
+      "title": "在欧盟，版权不保护由人工智能生成的内容",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "primary_url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "source": "mathstodon.xyz",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "728b3f954e7f57268632933cd7f557411da7d197",
+          "title": "在欧盟，版权不保护由人工智能生成的内容",
+          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+          "source": "mathstodon.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T02:13:46.266000Z"
+        },
+        {
+          "id": "61dfeccdfbe824ff0cf7beae03fddd17e6d0a9ce",
+          "title": "在欧盟，版权不保护人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
+          "url": "https://news.ycombinator.com/item?id=49382041",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T00:39:43.575000Z"
+        },
+        {
+          "id": "1f0adaa467f3bb6dd7184686fce4d29748a58ca9",
+          "title": "在欧盟，版权不保护由人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
+          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T00:15:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "mathstodon.xyz"
+      ],
+      "items": [
+        {
+          "id": "728b3f954e7f57268632933cd7f557411da7d197",
+          "title": "在欧盟，版权不保护由人工智能生成的内容",
+          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+          "source": "mathstodon.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T02:13:46.266000Z"
+        },
+        {
+          "id": "61dfeccdfbe824ff0cf7beae03fddd17e6d0a9ce",
+          "title": "在欧盟，版权不保护人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
+          "url": "https://news.ycombinator.com/item?id=49382041",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T00:39:43.575000Z"
+        },
+        {
+          "id": "1f0adaa467f3bb6dd7184686fce4d29748a58ca9",
+          "title": "在欧盟，版权不保护由人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
+          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T00:15:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9474,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T00:15:12Z",
+      "latest_at": "2026-08-21T02:13:46.266000Z",
+      "primary_item": {
+        "id": "728b3f954e7f57268632933cd7f557411da7d197",
+        "title": "在欧盟，版权不保护由人工智能生成的内容",
+        "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+        "source": "mathstodon.xyz",
         "source_name": "Buzzing"
       }
     }
