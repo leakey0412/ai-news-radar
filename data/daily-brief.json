@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T19:46:36.889601Z",
+  "generated_at": "2026-08-21T20:19:56.111501Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8463,
-      "importance": 0.8463,
-      "importance_score": 0.8463,
+      "score": 0.8452,
+      "importance": 0.8452,
+      "importance_score": 0.8452,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7516,
+        "recency": 0.7456,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8427,
-      "importance": 0.8427,
-      "importance_score": 0.8427,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9486,
+        "recency": 0.941,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8937,
+        "recency": 0.8866,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8426,
-      "importance": 0.8426,
-      "importance_score": 0.8426,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9477,
+        "recency": 0.9402,
         "story_heat": 0.0
       },
       "category": "official",
@@ -306,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8381,
-      "importance": 0.8381,
-      "importance_score": 0.8381,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9673,
+        "recency": 0.9596,
         "story_heat": 0.0
       },
       "category": "official",
@@ -406,15 +406,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8613,
+        "recency": 0.8544,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -487,15 +487,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8734,
+        "recency": 0.8665,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -549,15 +549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9263,
+        "recency": 0.9189,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -610,15 +610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8612,
+        "recency": 0.8543,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -671,15 +671,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9738,
+        "recency": 0.966,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -731,15 +731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.907,
+        "recency": 0.8998,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -810,15 +810,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8734,
+        "recency": 0.8665,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -835,6 +835,87 @@
         "url": "https://www.aibase.com/news/30535",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_62928a839319",
+      "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "primary_url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
+          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:58:29.461000Z"
+        },
+        {
+          "id": "61926377da4327cce7a49afbead3d8815ccef66d",
+          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T18:48:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude：Blog（网页）",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
+          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:58:29.461000Z"
+        },
+        {
+          "id": "61926377da4327cce7a49afbead3d8815ccef66d",
+          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T18:48:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9665,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T17:58:29.461000Z",
+      "latest_at": "2026-08-21T18:48:28Z",
+      "primary_item": {
+        "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
+        "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+        "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -872,15 +953,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7972,
+      "importance": 0.7972,
+      "importance_score": 0.7972,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7461,
+        "recency": 0.7401,
         "story_heat": 0.0
       },
       "category": "official",
@@ -934,15 +1015,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9738,
+        "recency": 0.966,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1013,15 +1094,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8506,
+        "recency": 0.8438,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1038,66 +1119,6 @@
         "url": "https://www.aibase.com/news/30533",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_62928a839319",
-      "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-      "primary_url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
-          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:58:29.461000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
-          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:58:29.461000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9743,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T17:58:29.461000Z",
-      "latest_at": "2026-08-21T17:58:29.461000Z",
-      "primary_item": {
-        "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
-        "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-        "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1225,15 +1246,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6758,
-      "importance": 0.6758,
-      "importance_score": 0.6758,
+      "score": 0.6744,
+      "importance": 0.6744,
+      "importance_score": 0.6744,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.9906,
+        "recency": 0.9827,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1304,15 +1325,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8392,
+        "recency": 0.8325,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1385,15 +1406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8392,
+        "recency": 0.8325,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1466,15 +1487,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8299,
+        "recency": 0.8233,
         "story_heat": 0.25
       },
       "category": "industry",
