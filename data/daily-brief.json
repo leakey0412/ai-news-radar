@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:43:52.567067Z",
+  "generated_at": "2026-08-22T12:28:42.039246Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7534,
+        "recency": 0.7453,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,68 +62,6 @@
         "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
         "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e42b7af4138c",
-      "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "primary_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
-          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T11:59:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
-          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T11:59:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7918,
-      "importance": 0.7918,
-      "importance_score": 0.7918,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7098,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T11:59:48Z",
-      "latest_at": "2026-08-21T11:59:48Z",
-      "primary_item": {
-        "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
-        "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7527,
+        "recency": 0.7446,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7683,
+        "recency": 0.76,
         "story_heat": 0.0
       },
       "category": "official",
@@ -286,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.723,
-      "importance": 0.723,
-      "importance_score": 0.723,
+      "score": 0.7216,
+      "importance": 0.7216,
+      "importance_score": 0.7216,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7357,
+        "recency": 0.7278,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -365,15 +303,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7189,
-      "importance": 0.7189,
-      "importance_score": 0.7189,
+      "score": 0.7174,
+      "importance": 0.7174,
+      "importance_score": 0.7174,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7738,
+        "recency": 0.7655,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -516,15 +454,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6391,
-      "importance": 0.6391,
-      "importance_score": 0.6391,
+      "score": 0.6376,
+      "importance": 0.6376,
+      "importance_score": 0.6376,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.7867,
+        "recency": 0.7783,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -595,15 +533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.587,
-      "importance": 0.587,
-      "importance_score": 0.587,
+      "score": 0.5851,
+      "importance": 0.5851,
+      "importance_score": 0.5851,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9625,
+        "recency": 0.9522,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -711,15 +649,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5552,
-      "importance": 0.5552,
-      "importance_score": 0.5552,
+      "score": 0.5537,
+      "importance": 0.5537,
+      "importance_score": 0.5537,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7745,
+        "recency": 0.7661,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -828,15 +766,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.554,
-      "importance": 0.554,
-      "importance_score": 0.554,
+      "score": 0.5525,
+      "importance": 0.5525,
+      "importance_score": 0.5525,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7678,
+        "recency": 0.7595,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -907,15 +845,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.94,
+        "recency": 0.9299,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -985,15 +923,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5627,
-      "importance": 0.5627,
-      "importance_score": 0.5627,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7351,
+        "recency": 0.7272,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1083,15 +1021,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7706,
+        "recency": 0.7624,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1162,15 +1100,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5215,
-      "importance": 0.5215,
-      "importance_score": 0.5215,
+      "score": 0.5198,
+      "importance": 0.5198,
+      "importance_score": 0.5198,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.865,
+        "recency": 0.8557,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,15 +1179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
+      "score": 0.5186,
+      "importance": 0.5186,
+      "importance_score": 0.5186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8584,
+        "recency": 0.8492,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1320,15 +1258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5111,
-      "importance": 0.5111,
-      "importance_score": 0.5111,
+      "score": 0.5095,
+      "importance": 0.5095,
+      "importance_score": 0.5095,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8071,
+        "recency": 0.7984,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1399,15 +1337,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5092,
-      "importance": 0.5092,
-      "importance_score": 0.5092,
+      "score": 0.5077,
+      "importance": 0.5077,
+      "importance_score": 0.5077,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7968,
+        "recency": 0.7882,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1477,15 +1415,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
+      "score": 0.5032,
+      "importance": 0.5032,
+      "importance_score": 0.5032,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7714,
+        "recency": 0.7632,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1500,85 +1438,6 @@
         "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_1130499a9347",
-      "title": "我正在变得对人工智能视而不见",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "primary_url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "source": "cymerys.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b0554dda6c8729a87900fa7cfccabee476232512",
-          "title": "我正在变得对人工智能视而不见",
-          "url": "https://cymerys.com/w/im-becoming-ai-blind",
-          "source": "cymerys.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T16:37:38.437000Z"
-        },
-        {
-          "id": "febe879f73b0a7f62d32e0919954f590962d24dc",
-          "title": "我正在变得对人工智能视而不见 / I'm becoming AI-blind",
-          "url": "https://cymerys.com/w/im-becoming-ai-blind",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T11:48:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "cymerys.com"
-      ],
-      "items": [
-        {
-          "id": "b0554dda6c8729a87900fa7cfccabee476232512",
-          "title": "我正在变得对人工智能视而不见",
-          "url": "https://cymerys.com/w/im-becoming-ai-blind",
-          "source": "cymerys.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T16:37:38.437000Z"
-        },
-        {
-          "id": "febe879f73b0a7f62d32e0919954f590962d24dc",
-          "title": "我正在变得对人工智能视而不见 / I'm becoming AI-blind",
-          "url": "https://cymerys.com/w/im-becoming-ai-blind",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T11:48:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5024,
-      "importance": 0.5024,
-      "importance_score": 0.5024,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7589,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T11:48:05Z",
-      "latest_at": "2026-08-21T16:37:38.437000Z",
-      "primary_item": {
-        "id": "b0554dda6c8729a87900fa7cfccabee476232512",
-        "title": "我正在变得对人工智能视而不见",
-        "url": "https://cymerys.com/w/im-becoming-ai-blind",
-        "source": "cymerys.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1635,15 +1494,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9237,
+        "recency": 0.9138,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1658,6 +1517,163 @@
         "url": "https://news.ycombinator.com/item?id=49396590",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_18da23f22c10",
+      "title": "Show HN: AgentSight——面向 AI 代理的 eBPF 可观测性，无需修改代码",
+      "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+      "primary_url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "636702669fe6af9ceb32b97c949e1261d0a8722d",
+          "title": "Show HN: AgentSight——面向 AI 代理的 eBPF 可观测性，无需修改代码",
+          "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T15:33:50.265000Z"
+        },
+        {
+          "id": "6c74965648c87370fadc8caa3fa06dc9e155e51d",
+          "title": "Show HN: AgentSight——面向 AI 代理的 eBPF 可观测性，无需修改代码 / Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+          "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T15:21:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "636702669fe6af9ceb32b97c949e1261d0a8722d",
+          "title": "Show HN: AgentSight——面向 AI 代理的 eBPF 可观测性，无需修改代码",
+          "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T15:33:50.265000Z"
+        },
+        {
+          "id": "6c74965648c87370fadc8caa3fa06dc9e155e51d",
+          "title": "Show HN: AgentSight——面向 AI 代理的 eBPF 可观测性，无需修改代码 / Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+          "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T15:21:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4989,
+      "importance": 0.4989,
+      "importance_score": 0.4989,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7393,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T15:21:10Z",
+      "latest_at": "2026-08-21T15:33:50.265000Z",
+      "primary_item": {
+        "id": "636702669fe6af9ceb32b97c949e1261d0a8722d",
+        "title": "Show HN: AgentSight——面向 AI 代理的 eBPF 可观测性，无需修改代码",
+        "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_58096ad1a5e9",
+      "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
+      "url": "https://hub.baai.ac.cn/view/57317",
+      "primary_url": "https://hub.baai.ac.cn/view/57317",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
+          "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
+          "url": "https://hub.baai.ac.cn/view/57317",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c3ae5cde6b8ae9e1e1040504024e40d8a8fcf1c8",
+          "title": "Jeff Dean 离职后首次公开访谈火力有点猛。。。",
+          "url": "https://hub.baai.ac.cn/view/57317",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
+          "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
+          "url": "https://hub.baai.ac.cn/view/57317",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c3ae5cde6b8ae9e1e1040504024e40d8a8fcf1c8",
+          "title": "Jeff Dean 离职后首次公开访谈火力有点猛。。。",
+          "url": "https://hub.baai.ac.cn/view/57317",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9044,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T04:58:35.457726Z",
+      "latest_at": "2026-08-22T05:31:01.948878Z",
+      "primary_item": {
+        "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
+        "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
+        "url": "https://hub.baai.ac.cn/view/57317",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
