@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T16:48:29.093506Z",
+  "generated_at": "2026-08-22T17:16:09.140541Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.714,
+        "recency": 0.7092,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9635,
+        "recency": 0.9571,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -180,15 +180,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.709,
-      "importance": 0.709,
-      "importance_score": 0.709,
+      "score": 0.7082,
+      "importance": 0.7082,
+      "importance_score": 0.7082,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7191,
+        "recency": 0.7143,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -215,6 +215,15 @@
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "37cf08814f9151cd91ae4edc43fad037a18ed7ea",
+          "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-22",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T17:16:09.140541Z"
+        },
+        {
           "id": "eae88615205c673acc4aa1c4800307d0ab8b3138",
           "title": "这篇对话把Anthropic的产品方法论讲得很透：前沿模型需要Claude Code这样的产品载体，模型能力也要靠持续评测才能被发现、验证和转成用户价值。里面最值得产品经理和AI创业者看的，是“评测就是新的PRD”这条线：把用户的一句“不好用”，拆成可复现、可衡量的任务。想做AI产品，这篇文章不容错过！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -305,13 +314,22 @@
           "published_at": "2026-08-21T18:29:01.763684Z"
         }
       ],
-      "source_count": 10,
+      "source_count": 11,
       "source_names": [
         "社区更新 · 2026-08-21",
         "社区更新 · 2026-08-22"
       ],
       "items": [
         {
+          "id": "37cf08814f9151cd91ae4edc43fad037a18ed7ea",
+          "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-22",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T17:16:09.140541Z"
+        },
+        {
           "id": "eae88615205c673acc4aa1c4800307d0ab8b3138",
           "title": "这篇对话把Anthropic的产品方法论讲得很透：前沿模型需要Claude Code这样的产品载体，模型能力也要靠持续评测才能被发现、验证和转成用户价值。里面最值得产品经理和AI创业者看的，是“评测就是新的PRD”这条线：把用户的一句“不好用”，拆成可复现、可衡量的任务。想做AI产品，这篇文章不容错过！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -402,17 +420,17 @@
           "published_at": "2026-08-21T18:29:01.763684Z"
         }
       ],
-      "item_count": 10,
-      "duplicate_count": 10,
-      "score": 0.6762,
-      "importance": 0.6762,
-      "importance_score": 0.6762,
+      "item_count": 11,
+      "duplicate_count": 11,
+      "score": 0.675,
+      "importance": 0.675,
+      "importance_score": 0.675,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.9926,
+        "recency": 0.986,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -420,7 +438,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-21T18:29:01.763684Z",
-      "latest_at": "2026-08-22T16:48:29.093506Z",
+      "latest_at": "2026-08-22T17:16:09.140541Z",
       "primary_item": {
         "id": "b4766bbc4a2b546b075b2734f0993fcecc18f84d",
         "title": "DeepSeek开源了 DeepSeek Harness（DSH），很多人会以为 DeepSeek 又做了一个AI模型，或者Claude Code、Codex 之外又多了一个同类工具。作者实操了一遍，尽可能的在这篇文章里用通俗的语言来讲明白DSH到底是什么。",
@@ -483,15 +501,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5747,
-      "importance": 0.5747,
-      "importance_score": 0.5747,
+      "score": 0.5737,
+      "importance": 0.5737,
+      "importance_score": 0.5737,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8944,
+        "recency": 0.8885,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -581,15 +599,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5642,
-      "importance": 0.5642,
-      "importance_score": 0.5642,
+      "score": 0.563,
+      "importance": 0.563,
+      "importance_score": 0.563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9633,
+        "recency": 0.9569,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -603,6 +621,320 @@
         "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
         "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
         "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_45f68b1865d1",
+      "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "url": "https://news.ycombinator.com/item?id=49401229",
+      "primary_url": "https://news.ycombinator.com/item?id=49401229",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://news.ycombinator.com/item?id=49401229",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T17:16:44.406000Z"
+        },
+        {
+          "id": "00cfeb92a44fb91620deb3d7f679e17afae6e96f",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T16:23:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://news.ycombinator.com/item?id=49401229",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T17:16:44.406000Z"
+        },
+        {
+          "id": "00cfeb92a44fb91620deb3d7f679e17afae6e96f",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T16:23:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T16:23:09Z",
+      "latest_at": "2026-08-22T17:16:44.406000Z",
+      "primary_item": {
+        "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+        "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+        "url": "https://news.ycombinator.com/item?id=49401229",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_26cdac3b7078",
+      "title": "英矽智能上线虚拟衰老细胞页面，发布多智能体驱动的多模态虚拟衰老细胞生成平台预览版",
+      "url": "https://hub.baai.ac.cn/view/57342",
+      "primary_url": "https://hub.baai.ac.cn/view/57342",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "54a5eb4a72a35d844b1a0b458fb20d39f763b8e7",
+          "title": "英矽智能上线虚拟衰老细胞页面，发布多智能体驱动的多模态虚拟衰老细胞生成平台预览版",
+          "url": "https://hub.baai.ac.cn/view/57342",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7e0ba46da07de8f2f74ad11f7fe30559b2efd4e4",
+          "title": "英矽智能上线虚拟衰老细胞页面，并发布多智能体驱动的多模态虚拟衰老细胞生成平台预览版",
+          "url": "https://hub.baai.ac.cn/view/57342",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "54a5eb4a72a35d844b1a0b458fb20d39f763b8e7",
+          "title": "英矽智能上线虚拟衰老细胞页面，发布多智能体驱动的多模态虚拟衰老细胞生成平台预览版",
+          "url": "https://hub.baai.ac.cn/view/57342",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7e0ba46da07de8f2f74ad11f7fe30559b2efd4e4",
+          "title": "英矽智能上线虚拟衰老细胞页面，并发布多智能体驱动的多模态虚拟衰老细胞生成平台预览版",
+          "url": "https://hub.baai.ac.cn/view/57342",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T16:17:46.225283Z",
+      "latest_at": "2026-08-22T17:16:09.140541Z",
+      "primary_item": {
+        "id": "54a5eb4a72a35d844b1a0b458fb20d39f763b8e7",
+        "title": "英矽智能上线虚拟衰老细胞页面，发布多智能体驱动的多模态虚拟衰老细胞生成平台预览版",
+        "url": "https://hub.baai.ac.cn/view/57342",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_80d4d98280b4",
+      "title": "新的MCP路线图",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+      "primary_url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+      "source": "blog.modelcontextprotocol.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
+          "title": "新的MCP路线图",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "blog.modelcontextprotocol.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T17:09:20.269000Z"
+        },
+        {
+          "id": "2c1e9731c14806fd8df67cf5fe114b79125c2987",
+          "title": "新的MCP路线图 / The New MCP Roadmap",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:31:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "blog.modelcontextprotocol.io"
+      ],
+      "items": [
+        {
+          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
+          "title": "新的MCP路线图",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "blog.modelcontextprotocol.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T17:09:20.269000Z"
+        },
+        {
+          "id": "2c1e9731c14806fd8df67cf5fe114b79125c2987",
+          "title": "新的MCP路线图 / The New MCP Roadmap",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:31:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5455,
+      "importance": 0.5455,
+      "importance_score": 0.5455,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9984,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T13:31:34Z",
+      "latest_at": "2026-08-22T17:09:20.269000Z",
+      "primary_item": {
+        "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
+        "title": "新的MCP路线图",
+        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+        "source": "blog.modelcontextprotocol.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6c66d05f07e2",
+      "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+      "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News (世界新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "ad139d0567388f9c59bc2265be902d2bf5e25415",
+          "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T17:02:06Z"
+        },
+        {
+          "id": "d55a4cd6f81afdc000549614f48ea2f4b8e67855",
+          "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment robot attempts to beat Usain Bolt's 100m record",
+          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T14:10:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News (世界新闻)"
+      ],
+      "items": [
+        {
+          "id": "ad139d0567388f9c59bc2265be902d2bf5e25415",
+          "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T17:02:06Z"
+        },
+        {
+          "id": "d55a4cd6f81afdc000549614f48ea2f4b8e67855",
+          "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment robot attempts to beat Usain Bolt's 100m record",
+          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T14:10:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9966,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T14:10:05Z",
+      "latest_at": "2026-08-22T17:02:06Z",
+      "primary_item": {
+        "id": "ad139d0567388f9c59bc2265be902d2bf5e25415",
+        "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+        "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News (世界新闻)",
         "source_name": "Info Flow"
       }
     },
@@ -660,15 +992,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9935,
+        "recency": 0.9869,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -739,15 +1071,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9803,
+        "recency": 0.9738,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -818,15 +1150,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9582,
+        "recency": 0.9518,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -897,15 +1229,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9436,
+        "recency": 0.9374,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -975,15 +1307,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9042,
+        "recency": 0.8982,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -998,164 +1330,6 @@
         "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_631f4e2ee377",
-      "title": "越会用 AI 的人，学习能力退化得越快",
-      "url": "https://news.pedaily.cn/202608/567987.shtml",
-      "primary_url": "https://news.pedaily.cn/202608/567987.shtml",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
-          "title": "越会用 AI 的人，学习能力退化得越快",
-          "url": "https://news.pedaily.cn/202608/567987.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "46131e08a071c26921b245aa70a3d42a1c14f617",
-          "title": "越会用AI 的人，学习能力退化得越快",
-          "url": "https://www.huxiu.com/article/4885107.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T04:09:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
-          "title": "越会用 AI 的人，学习能力退化得越快",
-          "url": "https://news.pedaily.cn/202608/567987.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "46131e08a071c26921b245aa70a3d42a1c14f617",
-          "title": "越会用AI 的人，学习能力退化得越快",
-          "url": "https://www.huxiu.com/article/4885107.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T04:09:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8736,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T04:09:04Z",
-      "latest_at": "2026-08-22T07:26:53.533451Z",
-      "primary_item": {
-        "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
-        "title": "越会用 AI 的人，学习能力退化得越快",
-        "url": "https://news.pedaily.cn/202608/567987.shtml",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_c302d2d33537",
-      "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-      "url": "https://news.ycombinator.com/item?id=49396590",
-      "primary_url": "https://news.ycombinator.com/item?id=49396590",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://news.ycombinator.com/item?id=49396590",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T06:13:58.237000Z"
-        },
-        {
-          "id": "fa358399f41d1dd2a221bcfd7f5f1e8204edc01c",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T04:33:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://news.ycombinator.com/item?id=49396590",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T06:13:58.237000Z"
-        },
-        {
-          "id": "fa358399f41d1dd2a221bcfd7f5f1e8204edc01c",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T04:33:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8584,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T04:33:06Z",
-      "latest_at": "2026-08-22T06:13:58.237000Z",
-      "primary_item": {
-        "id": "4652cf50d0631148283dcab33b554933ca36e4da",
-        "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-        "url": "https://news.ycombinator.com/item?id=49396590",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1212,15 +1386,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5094,
-      "importance": 0.5094,
-      "importance_score": 0.5094,
+      "score": 0.5084,
+      "importance": 0.5084,
+      "importance_score": 0.5084,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7977,
+        "recency": 0.7924,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1291,15 +1465,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9582,
+        "recency": 0.9518,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1370,15 +1544,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4991,
-      "importance": 0.4991,
-      "importance_score": 0.4991,
+      "score": 0.4982,
+      "importance": 0.4982,
+      "importance_score": 0.4982,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7405,
+        "recency": 0.7355,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1449,15 +1623,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4947,
-      "importance": 0.4947,
-      "importance_score": 0.4947,
+      "score": 0.4939,
+      "importance": 0.4939,
+      "importance_score": 0.4939,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7162,
+        "recency": 0.7114,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1475,239 +1649,82 @@
       }
     },
     {
-      "story_id": "story_58096ad1a5e9",
-      "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
-      "url": "https://hub.baai.ac.cn/view/57317",
-      "primary_url": "https://hub.baai.ac.cn/view/57317",
+      "story_id": "story_631f4e2ee377",
+      "title": "越会用 AI 的人，学习能力退化得越快",
+      "url": "https://news.pedaily.cn/202608/567987.shtml",
+      "primary_url": "https://news.pedaily.cn/202608/567987.shtml",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
-          "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
-          "url": "https://hub.baai.ac.cn/view/57317",
+          "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
+          "title": "越会用 AI 的人，学习能力退化得越快",
+          "url": "https://news.pedaily.cn/202608/567987.shtml",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c3ae5cde6b8ae9e1e1040504024e40d8a8fcf1c8",
-          "title": "Jeff Dean 离职后首次公开访谈火力有点猛。。。",
-          "url": "https://hub.baai.ac.cn/view/57317",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "46131e08a071c26921b245aa70a3d42a1c14f617",
+          "title": "越会用AI 的人，学习能力退化得越快",
+          "url": "https://www.huxiu.com/article/4885107.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T04:09:04Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
-          "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
-          "url": "https://hub.baai.ac.cn/view/57317",
+          "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
+          "title": "越会用 AI 的人，学习能力退化得越快",
+          "url": "https://news.pedaily.cn/202608/567987.shtml",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c3ae5cde6b8ae9e1e1040504024e40d8a8fcf1c8",
-          "title": "Jeff Dean 离职后首次公开访谈火力有点猛。。。",
-          "url": "https://hub.baai.ac.cn/view/57317",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "46131e08a071c26921b245aa70a3d42a1c14f617",
+          "title": "越会用AI 的人，学习能力退化得越快",
+          "url": "https://www.huxiu.com/article/4885107.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T04:09:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8496,
+        "recency": 0.8678,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T04:58:35.457726Z",
-      "latest_at": "2026-08-22T05:31:01.948878Z",
+      "earliest_at": "2026-08-22T04:09:04Z",
+      "latest_at": "2026-08-22T07:26:53.533451Z",
       "primary_item": {
-        "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
-        "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
-        "url": "https://hub.baai.ac.cn/view/57317",
+        "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
+        "title": "越会用 AI 的人，学习能力退化得越快",
+        "url": "https://news.pedaily.cn/202608/567987.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9c241fb43bc9",
-      "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "primary_url": "https://github.com/anthropics/claude-code",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
-          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2e072617880966c376984c0063b46b286f706f04",
-          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T13:10:26.753000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
-          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2e072617880966c376984c0063b46b286f706f04",
-          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T13:10:26.753000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9582,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T13:10:26.753000Z",
-      "latest_at": "2026-08-22T13:51:04.618391Z",
-      "primary_item": {
-        "id": "1c1ee53338a039a48abe9824358713d558495ed1",
-        "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-        "url": "https://github.com/anthropics/claude-code",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_7bdcf8563e0c",
-      "title": "优步如何利用人工智能向你收取更高费用",
-      "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-      "primary_url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
-          "title": "优步如何利用人工智能向你收取更高费用",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T20:53:21.744000Z"
-        },
-        {
-          "id": "155a17bb46e6ca75c7f5810d7c71e16569f3e770",
-          "title": "优步如何利用人工智能向你收取更高费用 / How Uber uses AI to charge you more",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T20:37:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
-          "title": "优步如何利用人工智能向你收取更高费用",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T20:53:21.744000Z"
-        },
-        {
-          "id": "155a17bb46e6ca75c7f5810d7c71e16569f3e770",
-          "title": "优步如何利用人工智能向你收取更高费用 / How Uber uses AI to charge you more",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T20:37:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5008,
-      "importance": 0.5008,
-      "importance_score": 0.5008,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.75,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T20:37:42Z",
-      "latest_at": "2026-08-21T20:53:21.744000Z",
-      "primary_item": {
-        "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
-        "title": "优步如何利用人工智能向你收取更高费用",
-        "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
