@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T04:03:59.102308Z",
+  "generated_at": "2026-08-22T04:58:35.457726Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8416,
+        "recency": 0.8306,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7929,
+        "recency": 0.7825,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8233,
-      "importance": 0.8233,
-      "importance_score": 0.8233,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8408,
+        "recency": 0.8298,
         "story_heat": 0.0
       },
       "category": "official",
@@ -262,15 +262,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7641,
+        "recency": 0.7541,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -324,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8582,
+        "recency": 0.847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,15 +405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7749,
+        "recency": 0.7648,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8218,
+        "recency": 0.8111,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -527,15 +527,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.764,
+        "recency": 0.7541,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -587,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.864,
+        "recency": 0.8527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -647,15 +647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
+      "score": 0.7216,
+      "importance": 0.7216,
+      "importance_score": 0.7216,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8047,
+        "recency": 0.7942,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -726,15 +726,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7749,
+        "recency": 0.7648,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -771,19 +771,19 @@
           "published_at": "2026-08-21T17:58:29.461000Z"
         },
         {
-          "id": "25c722bcf259a26d84554810059227d267d337a9",
+          "id": "331265edd529fd98aac44fbe554e59c57cd04594",
           "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
           "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-21T18:48:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Claude：Blog（网页）",
-        "Hacker News"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
@@ -796,26 +796,26 @@
           "published_at": "2026-08-21T17:58:29.461000Z"
         },
         {
-          "id": "25c722bcf259a26d84554810059227d267d337a9",
+          "id": "331265edd529fd98aac44fbe554e59c57cd04594",
           "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
           "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-21T18:48:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8644,
+        "recency": 0.8531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -887,15 +887,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7546,
+        "recency": 0.7448,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -967,15 +967,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7445,
+        "recency": 0.7348,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1118,15 +1118,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6557,
-      "importance": 0.6557,
-      "importance_score": 0.6557,
+      "score": 0.6536,
+      "importance": 0.6536,
+      "importance_score": 0.6536,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.8788,
+        "recency": 0.8673,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1197,15 +1197,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7445,
+        "recency": 0.7348,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1219,86 +1219,6 @@
         "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
         "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
         "url": "https://www.aibase.com/news/30530",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5ea74f6764a4",
-      "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-      "url": "https://www.aibase.com/news/30529",
-      "primary_url": "https://www.aibase.com/news/30529",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
-          "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "url": "https://www.aibase.com/news/30529",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T06:52:07.592501Z"
-        },
-        {
-          "id": "ee8c4f3c60b4ce7558e668c9247f6f8f8fe78619",
-          "title": "Mistral 推出 Agentic Search，多步检索将复杂文档准确率提升至 86%",
-          "url": "https://www.aibase.com/zh/news/30529",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
-          "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "url": "https://www.aibase.com/news/30529",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T06:52:07.592501Z"
-        },
-        {
-          "id": "ee8c4f3c60b4ce7558e668c9247f6f8f8fe78619",
-          "title": "Mistral 推出 Agentic Search，多步检索将复杂文档准确率提升至 86%",
-          "url": "https://www.aibase.com/zh/news/30529",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7363,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T06:52:07.592501Z",
-      "latest_at": "2026-08-21T07:38:06.049563Z",
-      "primary_item": {
-        "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
-        "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-        "url": "https://www.aibase.com/news/30529",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1380,6 +1300,86 @@
         "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
         "source": "InfoQ CN",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_5ea74f6764a4",
+      "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+      "url": "https://www.aibase.com/news/30529",
+      "primary_url": "https://www.aibase.com/news/30529",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
+          "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+          "url": "https://www.aibase.com/news/30529",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T06:52:07.592501Z"
+        },
+        {
+          "id": "ee8c4f3c60b4ce7558e668c9247f6f8f8fe78619",
+          "title": "Mistral 推出 Agentic Search，多步检索将复杂文档准确率提升至 86%",
+          "url": "https://www.aibase.com/zh/news/30529",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
+          "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+          "url": "https://www.aibase.com/news/30529",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T06:52:07.592501Z"
+        },
+        {
+          "id": "ee8c4f3c60b4ce7558e668c9247f6f8f8fe78619",
+          "title": "Mistral 推出 Agentic Search，多步检索将复杂文档准确率提升至 86%",
+          "url": "https://www.aibase.com/zh/news/30529",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7267,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-21T06:52:07.592501Z",
+      "latest_at": "2026-08-21T07:38:06.049563Z",
+      "primary_item": {
+        "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
+        "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
+        "url": "https://www.aibase.com/news/30529",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1473,15 +1473,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5715,
-      "importance": 0.5715,
-      "importance_score": 0.5715,
+      "score": 0.5695,
+      "importance": 0.5695,
+      "importance_score": 0.5695,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8651,
+        "recency": 0.8538,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1590,15 +1590,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
+      "score": 0.5682,
+      "importance": 0.5682,
+      "importance_score": 0.5682,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8576,
+        "recency": 0.8464,
         "story_heat": 0.75
       },
       "category": "multi_source",
