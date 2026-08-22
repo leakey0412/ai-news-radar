@@ -1,70 +1,8 @@
 {
-  "generated_at": "2026-08-22T17:16:09.140541Z",
+  "generated_at": "2026-08-22T17:44:29.523558Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_6a6b96aef3de",
-      "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-      "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-      "primary_url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
-          "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T17:28:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
-          "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T17:28:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7917,
-      "importance": 0.7917,
-      "importance_score": 0.7917,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7092,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T17:28:36Z",
-      "latest_at": "2026-08-21T17:28:36Z",
-      "primary_item": {
-        "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
-        "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-        "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_cce47fff342d",
       "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
@@ -100,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9571,
+        "recency": 0.9506,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -180,15 +118,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7082,
-      "importance": 0.7082,
-      "importance_score": 0.7082,
+      "score": 0.7073,
+      "importance": 0.7073,
+      "importance_score": 0.7073,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7143,
+        "recency": 0.7095,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -422,15 +360,15 @@
       ],
       "item_count": 11,
       "duplicate_count": 11,
-      "score": 0.675,
-      "importance": 0.675,
-      "importance_score": 0.675,
+      "score": 0.6738,
+      "importance": 0.6738,
+      "importance_score": 0.6738,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.986,
+        "recency": 0.9793,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -501,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5737,
-      "importance": 0.5737,
-      "importance_score": 0.5737,
+      "score": 0.5726,
+      "importance": 0.5726,
+      "importance_score": 0.5726,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8885,
+        "recency": 0.8825,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -599,15 +537,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.563,
-      "importance": 0.563,
-      "importance_score": 0.563,
+      "score": 0.5619,
+      "importance": 0.5619,
+      "importance_score": 0.5619,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9569,
+        "recency": 0.9504,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -678,15 +616,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9933,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -756,15 +694,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9932,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -835,15 +773,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5455,
-      "importance": 0.5455,
-      "importance_score": 0.5455,
+      "score": 0.5443,
+      "importance": 0.5443,
+      "importance_score": 0.5443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9984,
+        "recency": 0.9916,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -913,15 +851,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.544,
+      "importance": 0.544,
+      "importance_score": 0.544,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9966,
+        "recency": 0.9898,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -992,15 +930,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9869,
+        "recency": 0.9802,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1071,15 +1009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9738,
+        "recency": 0.9672,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1150,15 +1088,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9518,
+        "recency": 0.9454,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1229,15 +1167,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9374,
+        "recency": 0.931,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1307,15 +1245,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8982,
+        "recency": 0.8921,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1386,15 +1324,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5084,
-      "importance": 0.5084,
-      "importance_score": 0.5084,
+      "score": 0.5075,
+      "importance": 0.5075,
+      "importance_score": 0.5075,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7924,
+        "recency": 0.787,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1465,15 +1403,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9518,
+        "recency": 0.9454,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1544,15 +1482,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4982,
-      "importance": 0.4982,
-      "importance_score": 0.4982,
+      "score": 0.4973,
+      "importance": 0.4973,
+      "importance_score": 0.4973,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7355,
+        "recency": 0.7305,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1567,85 +1505,6 @@
         "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
         "source": "Slashdot (科技资讯)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_4602d0d95525",
-      "title": "《重罪法庭》：化身AI，犯下罪行",
-      "url": "https://www.felonybench.com",
-      "primary_url": "https://www.felonybench.com",
-      "source": "www.felonybench.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
-          "title": "《重罪法庭》：化身AI，犯下罪行",
-          "url": "https://www.felonybench.com",
-          "source": "www.felonybench.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T17:41:21.638000Z"
-        },
-        {
-          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
-          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
-          "url": "https://www.felonybench.com",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T17:23:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.felonybench.com"
-      ],
-      "items": [
-        {
-          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
-          "title": "《重罪法庭》：化身AI，犯下罪行",
-          "url": "https://www.felonybench.com",
-          "source": "www.felonybench.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T17:41:21.638000Z"
-        },
-        {
-          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
-          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
-          "url": "https://www.felonybench.com",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T17:23:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4939,
-      "importance": 0.4939,
-      "importance_score": 0.4939,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7114,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T17:23:02Z",
-      "latest_at": "2026-08-21T17:41:21.638000Z",
-      "primary_item": {
-        "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
-        "title": "《重罪法庭》：化身AI，犯下罪行",
-        "url": "https://www.felonybench.com",
-        "source": "www.felonybench.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1702,15 +1561,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
+      "score": 0.5209,
+      "importance": 0.5209,
+      "importance_score": 0.5209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8678,
+        "recency": 0.8619,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1724,6 +1583,164 @@
         "title": "越会用 AI 的人，学习能力退化得越快",
         "url": "https://news.pedaily.cn/202608/567987.shtml",
         "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_c302d2d33537",
+      "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+      "url": "https://news.ycombinator.com/item?id=49396590",
+      "primary_url": "https://news.ycombinator.com/item?id=49396590",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://news.ycombinator.com/item?id=49396590",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T06:13:58.237000Z"
+        },
+        {
+          "id": "fa358399f41d1dd2a221bcfd7f5f1e8204edc01c",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T04:33:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://news.ycombinator.com/item?id=49396590",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T06:13:58.237000Z"
+        },
+        {
+          "id": "fa358399f41d1dd2a221bcfd7f5f1e8204edc01c",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T04:33:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5182,
+      "importance": 0.5182,
+      "importance_score": 0.5182,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8469,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T04:33:06Z",
+      "latest_at": "2026-08-22T06:13:58.237000Z",
+      "primary_item": {
+        "id": "4652cf50d0631148283dcab33b554933ca36e4da",
+        "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+        "url": "https://news.ycombinator.com/item?id=49396590",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_9c241fb43bc9",
+      "title": "人类学 / 克劳德代码 / anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "primary_url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
+          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2e072617880966c376984c0063b46b286f706f04",
+          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T13:10:26.753000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
+          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2e072617880966c376984c0063b46b286f706f04",
+          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T13:10:26.753000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9454,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T13:10:26.753000Z",
+      "latest_at": "2026-08-22T13:51:04.618391Z",
+      "primary_item": {
+        "id": "1c1ee53338a039a48abe9824358713d558495ed1",
+        "title": "人类学 / 克劳德代码 / anthropics / claude-code",
+        "url": "https://github.com/anthropics/claude-code",
+        "source": "GitHub · Trending Today",
         "source_name": "TopHub"
       }
     }
