@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:32:52.585190Z",
+  "generated_at": "2026-08-23T07:28:51.261595Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9648,
+        "recency": 0.9519,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -99,15 +99,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9216,
+        "recency": 0.9092,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -160,15 +160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
+      "score": 0.7249,
+      "importance": 0.7249,
+      "importance_score": 0.7249,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7901,
+        "recency": 0.7795,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -292,15 +292,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.644,
-      "importance": 0.644,
-      "importance_score": 0.644,
+      "score": 0.6421,
+      "importance": 0.6421,
+      "importance_score": 0.6421,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.814,
+        "recency": 0.8031,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -390,15 +390,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.551,
-      "importance": 0.551,
-      "importance_score": 0.551,
+      "score": 0.5489,
+      "importance": 0.5489,
+      "importance_score": 0.5489,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8902,
+        "recency": 0.8783,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -413,6 +413,85 @@
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "source": "forum.level1techs.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4c7eb9e5fa90",
+      "title": "赫拉利：现在就应抵制赋予 AI 权利",
+      "url": "https://www.ithome.com/0/993/188.htm",
+      "primary_url": "https://www.ithome.com/0/993/188.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "6f774c1096593451b31dbd0ad453911cde45ce9e",
+          "title": "赫拉利：现在就应抵制赋予 AI 权利",
+          "url": "https://www.ithome.com/0/993/188.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b50cce84f8f405f5f36844de534e0fd9b9cd655a",
+          "title": "《人类简史》作者赫拉利：现在就应抵制赋予 AI 权利",
+          "url": "https://www.ithome.com/0/993/188.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T06:54:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6f774c1096593451b31dbd0ad453911cde45ce9e",
+          "title": "赫拉利：现在就应抵制赋予 AI 权利",
+          "url": "https://www.ithome.com/0/993/188.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b50cce84f8f405f5f36844de534e0fd9b9cd655a",
+          "title": "《人类简史》作者赫拉利：现在就应抵制赋予 AI 权利",
+          "url": "https://www.ithome.com/0/993/188.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T06:54:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T06:54:21Z",
+      "latest_at": "2026-08-23T07:28:51.261595Z",
+      "primary_item": {
+        "id": "6f774c1096593451b31dbd0ad453911cde45ce9e",
+        "title": "赫拉利：现在就应抵制赋予 AI 权利",
+        "url": "https://www.ithome.com/0/993/188.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -488,15 +567,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8242,
+        "recency": 0.8131,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -511,85 +590,6 @@
         "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
         "source": "blog.modelcontextprotocol.io",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_01b6e0d9d555",
-      "title": "AI Agent 安全新趋势：Authority 概念兴起",
-      "url": "https://www.huxiu.com/article/4885226.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4885226.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "78f0ef88871a34e36c68db993353853323e1d139",
-          "title": "AI Agent 安全新趋势：Authority 概念兴起",
-          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c643b854f05749de6a79dabeff4fa314d2f24e04",
-          "title": "AI Agent 安全正在出现一个新的词：Authority",
-          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T02:20:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "78f0ef88871a34e36c68db993353853323e1d139",
-          "title": "AI Agent 安全新趋势：Authority 概念兴起",
-          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c643b854f05749de6a79dabeff4fa314d2f24e04",
-          "title": "AI Agent 安全正在出现一个新的词：Authority",
-          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T02:20:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5387,
-      "importance": 0.5387,
-      "importance_score": 0.5387,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9605,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T02:20:38Z",
-      "latest_at": "2026-08-23T03:45:31.369432Z",
-      "primary_item": {
-        "id": "78f0ef88871a34e36c68db993353853323e1d139",
-        "title": "AI Agent 安全新趋势：Authority 概念兴起",
-        "url": "https://www.huxiu.com/article/4885226.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -665,15 +665,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7963,
+        "recency": 0.7857,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -744,15 +744,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5301,
+      "importance": 0.5301,
+      "importance_score": 0.5301,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9252,
+        "recency": 0.9129,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -823,15 +823,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
+      "score": 0.5209,
+      "importance": 0.5209,
+      "importance_score": 0.5209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8732,
+        "recency": 0.8615,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -902,15 +902,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8698,
+        "recency": 0.8582,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -928,30 +928,30 @@
       }
     },
     {
-      "story_id": "story_d901a93bbcfa",
-      "title": "《用Python思考》 / Thinking in Python",
-      "url": "https://thinkinginpython.com",
-      "primary_url": "https://thinkinginpython.com",
+      "story_id": "story_0cbbcd53f19c",
+      "title": "Scrap",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "primary_url": "https://twitter.com/moxie/status/2091218652133732491",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-          "title": "《用Python思考》 / Thinking in Python",
-          "url": "https://thinkinginpython.com",
+          "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
+          "title": "Scrap",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
+          "published_at": "2026-08-22T18:08:56Z"
         },
         {
-          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
-          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
-          "url": "https://thinkinginpython.com",
+          "id": "6d2864684780734cb9cf225f77f55eb5073b7b33",
+          "title": "Scrap (2006)",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
+          "published_at": "2026-08-22T18:08:56Z"
         }
       ],
       "source_count": 2,
@@ -960,47 +960,47 @@
       ],
       "items": [
         {
-          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-          "title": "《用Python思考》 / Thinking in Python",
-          "url": "https://thinkinginpython.com",
+          "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
+          "title": "Scrap",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
+          "published_at": "2026-08-22T18:08:56Z"
         },
         {
-          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
-          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
-          "url": "https://thinkinginpython.com",
+          "id": "6d2864684780734cb9cf225f77f55eb5073b7b33",
+          "title": "Scrap (2006)",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
+          "published_at": "2026-08-22T18:08:56Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5164,
-      "importance": 0.5164,
-      "importance_score": 0.5164,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8364,
+        "recency": 0.8249,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T18:10:49Z",
-      "latest_at": "2026-08-22T18:10:49Z",
+      "earliest_at": "2026-08-22T18:08:56Z",
+      "latest_at": "2026-08-22T18:08:56Z",
       "primary_item": {
-        "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-        "title": "《用Python思考》 / Thinking in Python",
-        "url": "https://thinkinginpython.com",
+        "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
+        "title": "Scrap",
+        "url": "https://twitter.com/moxie/status/2091218652133732491",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1058,15 +1058,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5139,
-      "importance": 0.5139,
-      "importance_score": 0.5139,
+      "score": 0.5119,
+      "importance": 0.5119,
+      "importance_score": 0.5119,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8227,
+        "recency": 0.8117,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1137,15 +1137,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5125,
-      "importance": 0.5125,
-      "importance_score": 0.5125,
+      "score": 0.5105,
+      "importance": 0.5105,
+      "importance_score": 0.5105,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8147,
+        "recency": 0.8038,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1160,6 +1160,85 @@
         "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_01b6e0d9d555",
+      "title": "AI Agent 安全新趋势：Authority 概念兴起",
+      "url": "https://www.huxiu.com/article/4885226.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4885226.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "78f0ef88871a34e36c68db993353853323e1d139",
+          "title": "AI Agent 安全新趋势：Authority 概念兴起",
+          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c643b854f05749de6a79dabeff4fa314d2f24e04",
+          "title": "AI Agent 安全正在出现一个新的词：Authority",
+          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T02:20:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "78f0ef88871a34e36c68db993353853323e1d139",
+          "title": "AI Agent 安全新趋势：Authority 概念兴起",
+          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c643b854f05749de6a79dabeff4fa314d2f24e04",
+          "title": "AI Agent 安全正在出现一个新的词：Authority",
+          "url": "https://www.huxiu.com/article/4885226.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T02:20:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9477,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T02:20:38Z",
+      "latest_at": "2026-08-23T03:45:31.369432Z",
+      "primary_item": {
+        "id": "78f0ef88871a34e36c68db993353853323e1d139",
+        "title": "AI Agent 安全新趋势：Authority 概念兴起",
+        "url": "https://www.huxiu.com/article/4885226.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1216,15 +1295,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.5053,
+      "importance": 0.5053,
+      "importance_score": 0.5053,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7858,
+        "recency": 0.7752,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1295,15 +1374,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.5032,
+      "importance": 0.5032,
+      "importance_score": 0.5032,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7738,
+        "recency": 0.7635,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1318,85 +1397,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News",
         "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_5e014506cb40",
-      "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-      "url": "https://www.ithome.com/0/993/133.htm",
-      "primary_url": "https://www.ithome.com/0/993/133.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e602cedc366e4d05b60c4435793b5e916357701d",
-          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-          "url": "https://www.ithome.com/0/993/133.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3dcf5596e7d685c8c43c3ccd77c1742a6d13f295",
-          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
-          "url": "https://www.ithome.com/0/993/133.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T00:15:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e602cedc366e4d05b60c4435793b5e916357701d",
-          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-          "url": "https://www.ithome.com/0/993/133.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3dcf5596e7d685c8c43c3ccd77c1742a6d13f295",
-          "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
-          "url": "https://www.ithome.com/0/993/133.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T00:15:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.532,
-      "importance": 0.532,
-      "importance_score": 0.532,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9235,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T00:15:10Z",
-      "latest_at": "2026-08-23T01:02:08.993133Z",
-      "primary_item": {
-        "id": "e602cedc366e4d05b60c4435793b5e916357701d",
-        "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-        "url": "https://www.ithome.com/0/993/133.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1453,15 +1453,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
+      "score": 0.5163,
+      "importance": 0.5163,
+      "importance_score": 0.5163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8476,
+        "recency": 0.8362,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1479,30 +1479,30 @@
       }
     },
     {
-      "story_id": "story_0cbbcd53f19c",
-      "title": "Scrap",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "primary_url": "https://twitter.com/moxie/status/2091218652133732491",
+      "story_id": "story_d901a93bbcfa",
+      "title": "《用Python思考》 / Thinking in Python",
+      "url": "https://thinkinginpython.com",
+      "primary_url": "https://thinkinginpython.com",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
-          "title": "Scrap",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
+          "title": "《用Python思考》 / Thinking in Python",
+          "url": "https://thinkinginpython.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
+          "published_at": "2026-08-22T18:10:49Z"
         },
         {
-          "id": "6d2864684780734cb9cf225f77f55eb5073b7b33",
-          "title": "Scrap (2006)",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
+          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
+          "url": "https://thinkinginpython.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
+          "published_at": "2026-08-22T18:10:49Z"
         }
       ],
       "source_count": 2,
@@ -1511,47 +1511,47 @@
       ],
       "items": [
         {
-          "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
-          "title": "Scrap",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
+          "title": "《用Python思考》 / Thinking in Python",
+          "url": "https://thinkinginpython.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
+          "published_at": "2026-08-22T18:10:49Z"
         },
         {
-          "id": "6d2864684780734cb9cf225f77f55eb5073b7b33",
-          "title": "Scrap (2006)",
-          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
+          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
+          "url": "https://thinkinginpython.com",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T18:08:56Z"
+          "published_at": "2026-08-22T18:10:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5163,
-      "importance": 0.5163,
-      "importance_score": 0.5163,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8361,
+        "recency": 0.8253,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T18:08:56Z",
-      "latest_at": "2026-08-22T18:08:56Z",
+      "earliest_at": "2026-08-22T18:10:49Z",
+      "latest_at": "2026-08-22T18:10:49Z",
       "primary_item": {
-        "id": "4f08c028505a5b07b4d010e8b5b19bd9406e8efa",
-        "title": "Scrap",
-        "url": "https://twitter.com/moxie/status/2091218652133732491",
+        "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
+        "title": "《用Python思考》 / Thinking in Python",
+        "url": "https://thinkinginpython.com",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1610,15 +1610,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
+      "score": 0.5086,
+      "importance": 0.5086,
+      "importance_score": 0.5086,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8039,
+        "recency": 0.7931,
         "story_heat": 0.25
       },
       "category": "watch",
