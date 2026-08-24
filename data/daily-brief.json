@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T10:32:27.246377Z",
+  "generated_at": "2026-08-24T18:40:29.825862Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.149.1",
+      "title": "Codex MCP server command deprecated",
       "url": "https://developers.openai.com/codex/changelog",
       "primary_url": "https://developers.openai.com/codex/changelog",
       "source": "OpenAI Codex Changelog",
@@ -19,9 +19,18 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-24T00:00:00Z"
+        },
+        {
+          "id": "b879362b027e92c973cf4116b786bb6e72b5c006",
+          "title": "Codex MCP server command deprecated",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T00:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
         "OpenAI Codex Changelog"
       ],
@@ -34,35 +43,126 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-24T00:00:00Z"
+        },
+        {
+          "id": "b879362b027e92c973cf4116b786bb6e72b5c006",
+          "title": "Codex MCP server command deprecated",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T00:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8525,
+      "importance": 0.8525,
+      "importance_score": 0.8525,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8588,
-        "story_heat": 0.0
+        "ai_relevance": 1.0,
+        "recency": 0.7636,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-24T00:00:00Z",
       "latest_at": "2026-08-24T00:00:00Z",
       "primary_item": {
-        "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
-        "title": "Codex CLI 0.149.1",
+        "id": "b879362b027e92c973cf4116b786bb6e72b5c006",
+        "title": "Codex MCP server command deprecated",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b0c3b7c6480e",
+      "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+      "primary_url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
+          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-24T15:00:00Z"
+        },
+        {
+          "id": "fb1f0a2a15004e6ab87eb2dbad8fef8a656f7afa",
+          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them?",
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-24T15:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
+          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-24T15:00:00Z"
+        },
+        {
+          "id": "fb1f0a2a15004e6ab87eb2dbad8fef8a656f7afa",
+          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them?",
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-24T15:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9483,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T15:00:00Z",
+      "latest_at": "2026-08-24T15:00:00Z",
+      "primary_item": {
+        "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
+        "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -119,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8892,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -144,6 +244,87 @@
         "url": "https://www.aibase.com/news/30563",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bab768ba3383",
+      "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+      "primary_url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e70f9aeeb57d891ea4069294ceacc54802248a1a",
+          "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+          "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-24T15:00:19Z"
+        },
+        {
+          "id": "1938ca2d4dd398b140d93489636bbd32c5c90d94",
+          "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体能效新标准：每瓦特吞吐量提升高达 30 倍",
+          "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "NVIDIA Blog（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e70f9aeeb57d891ea4069294ceacc54802248a1a",
+          "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+          "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-24T15:00:19Z"
+        },
+        {
+          "id": "1938ca2d4dd398b140d93489636bbd32c5c90d94",
+          "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体能效新标准：每瓦特吞吐量提升高达 30 倍",
+          "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9484,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T15:00:19Z",
+      "latest_at": "2026-08-24T18:40:29.825862Z",
+      "primary_item": {
+        "id": "e70f9aeeb57d891ea4069294ceacc54802248a1a",
+        "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+        "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -200,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8892,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +462,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8892,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -362,15 +543,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8892,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,15 +624,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8892,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -524,15 +705,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8892,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -553,13 +734,31 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "这篇文章很适合刚开始用Agent、但总觉得“它不懂你”的人看。作者围绕Harness做了3个 Skill帮你搭建一个懂你的个人Agent：star帮你从零搭个人工作目录，better从安全、上下文、工具、记忆、学习五层做体检，view则把本地文件和Skill变成可视化工作台。",
+      "title": "AI 音乐这周最值得盯的，已经从“谁的生成效果更像歌”，走到了版权、分发、标识、生产工具一起重构。环球音乐推出单曲级二创权限、输出 AI 专利，Apple Music 即将增设 AI 生成音乐标签，行业版权规范正在加速成型。多款实用创作工具迎来重磅更新，覆盖 DAW 插件、音频转 MIDI、离线歌单、开源歌唱合成。还有五篇前沿论文覆盖模型评估、唱跳视频、符号音乐分词等方向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-23",
+      "source": "社区更新 · 2026-08-24",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "7718fd90327f9bee7e48f5e4735d72eefc61bd29",
+          "title": "AI 音乐这周最值得盯的，已经从“谁的生成效果更像歌”，走到了版权、分发、标识、生产工具一起重构。环球音乐推出单曲级二创权限、输出 AI 专利，Apple Music 即将增设 AI 生成音乐标签，行业版权规范正在加速成型。多款实用创作工具迎来重磅更新，覆盖 DAW 插件、音频转 MIDI、离线歌单、开源歌唱合成。还有五篇前沿论文覆盖模型评估、唱跳视频、符号音乐分词等方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-24T18:40:29.825862Z"
+        },
+        {
+          "id": "de67dbc6054458e79c7519eab95dfb134895460f",
+          "title": "Fish Audio联合创始人Rissa、Trans-N 创始人Harry，以及来自Plug and Play Japan的投资人 Rebecca。三位分别代表了 AI 语音平台、企业级 Agent 产品、国际投资机构的本地分支三种视角。这次沙龙的话题从为什么选择日本市场、如何进入市场、护城河在哪里来切入，一起看看他们具体都聊了什么？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-24T18:40:29.825862Z"
+        },
+        {
           "id": "f4fadfdd63f30a10616479915e05193eeaa17b1a",
           "title": "这篇文章很适合刚开始用Agent、但总觉得“它不懂你”的人看。作者围绕Harness做了3个 Skill帮你搭建一个懂你的个人Agent：star帮你从零搭个人工作目录，better从安全、上下文、工具、记忆、学习五层做体检，view则把本地文件和Skill变成可视化工作台。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -567,50 +766,33 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-23T18:56:00.283932Z"
-        },
-        {
-          "id": "7dab4ef06b4b6c1249a1ad549c10558ac0fa7eba",
-          "title": "Codex 的斜杠命令相当于它的“控制面板”：提示词负责描述你想完成什么，斜杠命令负责控制 Codex 如何工作。作者这篇文章详细拆解了Codex CLI当前内置的全部斜杠命令，并补充了IDE扩展与桌面端特有命令。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-23T18:21:11.867159Z"
-        },
-        {
-          "id": "fccb12e30553bd85b029ac6f67753d1ea0e62ca8",
-          "title": "很多人看到Claude Code的第一反应是：这不是写代码的吗？终端、命令、插件一堆，小白很容易还没开始就被劝退。这篇文章是一个营销人173天的实操复盘，把Claude Code拆成了普通人也能上手的工作系统。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-23T18:21:11.867159Z"
-        },
-        {
-          "id": "d89d738a554c60a990edff415aa7d82b71c8315a",
-          "title": "本周精选的10篇AI论文转向“运行框架、Skill、记忆、自我改进和成本控制到底靠不靠谱”。Agent Lightning和ClawGym讲怎么在真实框架里训练Agent；Skill Trigger Bottleneck、Demystifying Agent Skills讲Skill太多后怎么触发、怎么写才有用；Harness-Level Forgetting和Fragile Self-Improvement则提醒大家，自我改进很容易变成过拟合和遗忘。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-23T18:21:11.867159Z"
-        },
-        {
-          "id": "678be1220982f991cc833e1e84a3bc7df4c56aa5",
-          "title": "第一次打开 Codex，真正容易卡住的是眼前这些区域分别管什么：项目和任务有什么区别，Local、Worktree、Cloud 该选哪个，Plan 是不是必须开，权限应该给到哪里，Plugins、Skills、MCP 又为什么同时存在。作者这篇教程就从这些基础问题讲起，先把界面、按钮、工作区和常用能力认清，再判断哪些扩展功能值得接入。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-23T18:21:11.867159Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "source_names": [
-        "社区更新 · 2026-08-23"
+        "社区更新 · 2026-08-23",
+        "社区更新 · 2026-08-24"
       ],
       "items": [
         {
+          "id": "7718fd90327f9bee7e48f5e4735d72eefc61bd29",
+          "title": "AI 音乐这周最值得盯的，已经从“谁的生成效果更像歌”，走到了版权、分发、标识、生产工具一起重构。环球音乐推出单曲级二创权限、输出 AI 专利，Apple Music 即将增设 AI 生成音乐标签，行业版权规范正在加速成型。多款实用创作工具迎来重磅更新，覆盖 DAW 插件、音频转 MIDI、离线歌单、开源歌唱合成。还有五篇前沿论文覆盖模型评估、唱跳视频、符号音乐分词等方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-24T18:40:29.825862Z"
+        },
+        {
+          "id": "de67dbc6054458e79c7519eab95dfb134895460f",
+          "title": "Fish Audio联合创始人Rissa、Trans-N 创始人Harry，以及来自Plug and Play Japan的投资人 Rebecca。三位分别代表了 AI 语音平台、企业级 Agent 产品、国际投资机构的本地分支三种视角。这次沙龙的话题从为什么选择日本市场、如何进入市场、护城河在哪里来切入，一起看看他们具体都聊了什么？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-24T18:40:29.825862Z"
+        },
+        {
           "id": "f4fadfdd63f30a10616479915e05193eeaa17b1a",
           "title": "这篇文章很适合刚开始用Agent、但总觉得“它不懂你”的人看。作者围绕Harness做了3个 Skill帮你搭建一个懂你的个人Agent：star帮你从零搭个人工作目录，better从安全、上下文、工具、记忆、学习五层做体检，view则把本地文件和Skill变成可视化工作台。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -618,73 +800,154 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-23T18:56:00.283932Z"
-        },
-        {
-          "id": "7dab4ef06b4b6c1249a1ad549c10558ac0fa7eba",
-          "title": "Codex 的斜杠命令相当于它的“控制面板”：提示词负责描述你想完成什么，斜杠命令负责控制 Codex 如何工作。作者这篇文章详细拆解了Codex CLI当前内置的全部斜杠命令，并补充了IDE扩展与桌面端特有命令。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-23T18:21:11.867159Z"
-        },
-        {
-          "id": "fccb12e30553bd85b029ac6f67753d1ea0e62ca8",
-          "title": "很多人看到Claude Code的第一反应是：这不是写代码的吗？终端、命令、插件一堆，小白很容易还没开始就被劝退。这篇文章是一个营销人173天的实操复盘，把Claude Code拆成了普通人也能上手的工作系统。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-23T18:21:11.867159Z"
-        },
-        {
-          "id": "d89d738a554c60a990edff415aa7d82b71c8315a",
-          "title": "本周精选的10篇AI论文转向“运行框架、Skill、记忆、自我改进和成本控制到底靠不靠谱”。Agent Lightning和ClawGym讲怎么在真实框架里训练Agent；Skill Trigger Bottleneck、Demystifying Agent Skills讲Skill太多后怎么触发、怎么写才有用；Harness-Level Forgetting和Fragile Self-Improvement则提醒大家，自我改进很容易变成过拟合和遗忘。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-23T18:21:11.867159Z"
-        },
-        {
-          "id": "678be1220982f991cc833e1e84a3bc7df4c56aa5",
-          "title": "第一次打开 Codex，真正容易卡住的是眼前这些区域分别管什么：项目和任务有什么区别，Local、Worktree、Cloud 该选哪个，Plan 是不是必须开，权限应该给到哪里，Plugins、Skills、MCP 又为什么同时存在。作者这篇教程就从这些基础问题讲起，先把界面、按钮、工作区和常用能力认清，再判断哪些扩展功能值得接入。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-23T18:21:11.867159Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6329,
-      "importance": 0.6329,
-      "importance_score": 0.6329,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6192,
+      "importance": 0.6192,
+      "importance_score": 0.6192,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7982,
-        "story_heat": 1.0
+        "recency": 1.0,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T18:21:11.867159Z",
-      "latest_at": "2026-08-23T18:56:00.283932Z",
+      "earliest_at": "2026-08-23T18:56:00.283932Z",
+      "latest_at": "2026-08-24T18:40:29.825862Z",
       "primary_item": {
-        "id": "f4fadfdd63f30a10616479915e05193eeaa17b1a",
-        "title": "这篇文章很适合刚开始用Agent、但总觉得“它不懂你”的人看。作者围绕Harness做了3个 Skill帮你搭建一个懂你的个人Agent：star帮你从零搭个人工作目录，better从安全、上下文、工具、记忆、学习五层做体检，view则把本地文件和Skill变成可视化工作台。",
+        "id": "7718fd90327f9bee7e48f5e4735d72eefc61bd29",
+        "title": "AI 音乐这周最值得盯的，已经从“谁的生成效果更像歌”，走到了版权、分发、标识、生产工具一起重构。环球音乐推出单曲级二创权限、输出 AI 专利，Apple Music 即将增设 AI 生成音乐标签，行业版权规范正在加速成型。多款实用创作工具迎来重磅更新，覆盖 DAW 插件、音频转 MIDI、离线歌单、开源歌唱合成。还有五篇前沿论文覆盖模型评估、唱跳视频、符号音乐分词等方向。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-23",
+        "source": "社区更新 · 2026-08-24",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_75a73f0d5f53",
+      "story_id": "story_42f46d423de7",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://news.ycombinator.com/item?id=49421554",
+      "primary_url": "https://news.ycombinator.com/item?id=49421554",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "5082ceb7eea1e01210cb70497d2dc0d6efe7da39",
+          "title": "Coding expertise is going to collapse from AI reliance",
+          "url": "https://news.ycombinator.com/item?id=49421554",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T18:41:05.818000Z"
+        },
+        {
+          "id": "c5cd4a1539d365ae059ba8af261060256dda7458",
+          "title": "人工智能编程将阻碍专业知识的发展 拉斯·费伊",
+          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "source": "larsfaye.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-24T17:41:37.256000Z"
+        },
+        {
+          "id": "368be7daed521fa8c53687e7fd708636be1fae76",
+          "title": "人工智能编程将阻碍专业知识的发展 拉斯·费伊 / AI Coding will Prevent Expertise | Lars Faye",
+          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-24T16:20:42Z"
+        },
+        {
+          "id": "ef6c0ba1da7ace46dae6e73fa5d4ee305dfee6e0",
+          "title": "人工智能编程将阻碍专业知识的发展 拉斯·费伊 / Coding expertise is going to collapse from AI reliance",
+          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T15:52:33Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Lobsters (技术社区)",
+        "hackernews",
+        "larsfaye.com"
+      ],
+      "items": [
+        {
+          "id": "5082ceb7eea1e01210cb70497d2dc0d6efe7da39",
+          "title": "Coding expertise is going to collapse from AI reliance",
+          "url": "https://news.ycombinator.com/item?id=49421554",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T18:41:05.818000Z"
+        },
+        {
+          "id": "c5cd4a1539d365ae059ba8af261060256dda7458",
+          "title": "人工智能编程将阻碍专业知识的发展 拉斯·费伊",
+          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "source": "larsfaye.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-24T17:41:37.256000Z"
+        },
+        {
+          "id": "368be7daed521fa8c53687e7fd708636be1fae76",
+          "title": "人工智能编程将阻碍专业知识的发展 拉斯·费伊 / AI Coding will Prevent Expertise | Lars Faye",
+          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-24T16:20:42Z"
+        },
+        {
+          "id": "ef6c0ba1da7ace46dae6e73fa5d4ee305dfee6e0",
+          "title": "人工智能编程将阻碍专业知识的发展 拉斯·费伊 / Coding expertise is going to collapse from AI reliance",
+          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T15:52:33Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5958,
+      "importance": 0.5958,
+      "importance_score": 0.5958,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T15:52:33Z",
+      "latest_at": "2026-08-24T18:41:05.818000Z",
+      "primary_item": {
+        "id": "5082ceb7eea1e01210cb70497d2dc0d6efe7da39",
+        "title": "Coding expertise is going to collapse from AI reliance",
+        "url": "https://news.ycombinator.com/item?id=49421554",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_defba07455a9",
       "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
       "primary_url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
@@ -717,20 +980,10 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-23T19:29:09.803000Z"
-        },
-        {
-          "id": "cb84d279c38f2590e04746bc34eedcbc7a6ebefb",
-          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T18:16:37Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Readhub · AI",
         "Simon Willison",
         "hackernews"
@@ -762,35 +1015,26 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-23T19:29:09.803000Z"
-        },
-        {
-          "id": "cb84d279c38f2590e04746bc34eedcbc7a6ebefb",
-          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T18:16:37Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6271,
-      "importance": 0.6271,
-      "importance_score": 0.6271,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5859,
+      "importance": 0.5859,
+      "importance_score": 0.5859,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8155,
-        "story_heat": 0.75
+        "recency": 0.7251,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T18:16:37Z",
+      "earliest_at": "2026-08-23T19:29:09.803000Z",
       "latest_at": "2026-08-23T23:16:04.059755Z",
       "primary_item": {
         "id": "d3c2687ef5cbb7c713f6e46494069851be37dbbd",
@@ -854,15 +1098,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9035,
+        "recency": 0.8033,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -935,15 +1179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9035,
+        "recency": 0.8033,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -963,120 +1207,161 @@
       }
     },
     {
-      "story_id": "story_36a58a3d5841",
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "url": "https://news.ycombinator.com/item?id=49409073",
-      "primary_url": "https://news.ycombinator.com/item?id=49409073",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_9fcaf19ef896",
+      "title": "AgriciDaniel / claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "primary_url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "b1056c15a7eaf7898e041ca5304b97bcbc29586e",
-          "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "url": "https://news.ycombinator.com/item?id=49409073",
-          "source": "hackernews",
+          "id": "1ddc0400fc5fa2506bcb84b2a22d30ccbf8df960",
+          "title": "AgriciDaniel / claude-obsidian",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1c92d2983a804b9d769d52efca869dbb5796c5d2",
+          "title": "AgriciDaniel /      claude-obsidian",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-23T15:58:02.012000Z"
-        },
-        {
-          "id": "a29200980b020f297998579e6059cb65651ce275",
-          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
-          "url": "https://ericpardee.github.io/fire-hd-ownership",
-          "source": "ericpardee.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T15:49:17.721000Z"
-        },
-        {
-          "id": "1756a8d7516a166fcb2b4168f099af7d0a8442b8",
-          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它 / Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
-          "url": "https://ericpardee.github.io/fire-hd-ownership",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T15:45:01Z"
-        },
-        {
-          "id": "3f56a0dd9c61fdd97b70403abf5efbc702f001a3",
-          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它 / I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "url": "https://ericpardee.github.io/fire-hd-ownership",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T14:23:09Z"
+          "published_at": "2026-08-24T18:27:03.411000Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Lobsters (技术社区)",
-        "ericpardee.github.io",
-        "hackernews"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "b1056c15a7eaf7898e041ca5304b97bcbc29586e",
-          "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "url": "https://news.ycombinator.com/item?id=49409073",
-          "source": "hackernews",
+          "id": "1ddc0400fc5fa2506bcb84b2a22d30ccbf8df960",
+          "title": "AgriciDaniel / claude-obsidian",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1c92d2983a804b9d769d52efca869dbb5796c5d2",
+          "title": "AgriciDaniel /      claude-obsidian",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-23T15:58:02.012000Z"
-        },
-        {
-          "id": "a29200980b020f297998579e6059cb65651ce275",
-          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它",
-          "url": "https://ericpardee.github.io/fire-hd-ownership",
-          "source": "ericpardee.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T15:49:17.721000Z"
-        },
-        {
-          "id": "1756a8d7516a166fcb2b4168f099af7d0a8442b8",
-          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它 / Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
-          "url": "https://ericpardee.github.io/fire-hd-ownership",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T15:45:01Z"
-        },
-        {
-          "id": "3f56a0dd9c61fdd97b70403abf5efbc702f001a3",
-          "title": "亚马逊总是在强制关闭我的平板电脑，所以我花了266美元买了四个AI模型，就是为了能完全掌控它 / I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "url": "https://ericpardee.github.io/fire-hd-ownership",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T14:23:09Z"
+          "published_at": "2026-08-24T18:27:03.411000Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5535,
-      "importance": 0.5535,
-      "importance_score": 0.5535,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7647,
-        "story_heat": 0.75
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T14:23:09Z",
-      "latest_at": "2026-08-23T15:58:02.012000Z",
+      "earliest_at": "2026-08-24T18:27:03.411000Z",
+      "latest_at": "2026-08-24T18:40:29.825862Z",
       "primary_item": {
-        "id": "b1056c15a7eaf7898e041ca5304b97bcbc29586e",
-        "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-        "url": "https://news.ycombinator.com/item?id=49409073",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "1ddc0400fc5fa2506bcb84b2a22d30ccbf8df960",
+        "title": "AgriciDaniel / claude-obsidian",
+        "url": "https://github.com/AgriciDaniel/claude-obsidian",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_495893174d9b",
+      "title": "职场人士正在修改自己的领英履历，添加人工智能技能。以下是他们正在删除的内容。",
+      "url": "https://www.businessinsider.com/linkedin-users-add-ai-skills-jobs-drop-remote-work-terms-2026-8",
+      "primary_url": "https://www.businessinsider.com/linkedin-users-add-ai-skills-jobs-drop-remote-work-terms-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0add32cf74519ea7fa1d047b9642f8fb60bf4401",
+          "title": "职场人士正在修改自己的领英履历，添加人工智能技能。以下是他们正在删除的内容。",
+          "url": "https://www.businessinsider.com/linkedin-users-add-ai-skills-jobs-drop-remote-work-terms-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-24T13:09:18.991000Z"
+        },
+        {
+          "id": "7a10bb97326256ce7c7a6a8a560bf15761339bb4",
+          "title": "职场人士正在修改自己的领英履历，添加人工智能技能。以下是他们正在删除的内容。 / Workers are rewriting their LinkedIn histories to add AI skills. Here's what they're dropping.",
+          "url": "https://www.businessinsider.com/linkedin-users-add-ai-skills-jobs-drop-remote-work-terms-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T13:00:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "0add32cf74519ea7fa1d047b9642f8fb60bf4401",
+          "title": "职场人士正在修改自己的领英履历，添加人工智能技能。以下是他们正在删除的内容。",
+          "url": "https://www.businessinsider.com/linkedin-users-add-ai-skills-jobs-drop-remote-work-terms-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-24T13:09:18.991000Z"
+        },
+        {
+          "id": "7a10bb97326256ce7c7a6a8a560bf15761339bb4",
+          "title": "职场人士正在修改自己的领英履历，添加人工智能技能。以下是他们正在删除的内容。 / Workers are rewriting their LinkedIn histories to add AI skills. Here's what they're dropping.",
+          "url": "https://www.businessinsider.com/linkedin-users-add-ai-skills-jobs-drop-remote-work-terms-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T13:00:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9234,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T13:00:54Z",
+      "latest_at": "2026-08-24T13:09:18.991000Z",
+      "primary_item": {
+        "id": "0add32cf74519ea7fa1d047b9642f8fb60bf4401",
+        "title": "职场人士正在修改自己的领英履历，添加人工智能技能。以下是他们正在删除的内容。",
+        "url": "https://www.businessinsider.com/linkedin-users-add-ai-skills-jobs-drop-remote-work-terms-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1133,15 +1418,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9035,
+        "recency": 0.8033,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1158,6 +1443,164 @@
         "url": "https://www.aibase.com/news/30559",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_645a8ef6f472",
+      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+      "url": "https://news.ycombinator.com/item?id=49423495",
+      "primary_url": "https://news.ycombinator.com/item?id=49423495",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "e9d056c2857afbbee09d9230d4027c1094de409a",
+          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+          "url": "https://news.ycombinator.com/item?id=49423495",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T18:41:05.818000Z"
+        },
+        {
+          "id": "2156959912bec123f11b873b27570052d844d28b",
+          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+          "url": "https://www.ycombinator.com/companies/autostep/jobs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-24T17:53:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e9d056c2857afbbee09d9230d4027c1094de409a",
+          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+          "url": "https://news.ycombinator.com/item?id=49423495",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T18:41:05.818000Z"
+        },
+        {
+          "id": "2156959912bec123f11b873b27570052d844d28b",
+          "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+          "url": "https://www.ycombinator.com/companies/autostep/jobs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-24T17:53:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T17:53:14Z",
+      "latest_at": "2026-08-24T18:41:05.818000Z",
+      "primary_item": {
+        "id": "e9d056c2857afbbee09d9230d4027c1094de409a",
+        "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+        "url": "https://news.ycombinator.com/item?id=49423495",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_9b75bda91938",
+      "title": "MadsLorentzen / ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "primary_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "64926ab9e0b5ea3492313158eeeaf4947b0740cd",
+          "title": "MadsLorentzen / ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0425ae107543ff02a96a7a8a99245381d44db2a2",
+          "title": "MadsLorentzen /      ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T18:27:03.411000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "64926ab9e0b5ea3492313158eeeaf4947b0740cd",
+          "title": "MadsLorentzen / ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0425ae107543ff02a96a7a8a99245381d44db2a2",
+          "title": "MadsLorentzen /      ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T18:27:03.411000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T18:27:03.411000Z",
+      "latest_at": "2026-08-24T18:40:29.825862Z",
+      "primary_item": {
+        "id": "64926ab9e0b5ea3492313158eeeaf4947b0740cd",
+        "title": "MadsLorentzen / ai-job-search",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1213,15 +1656,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.533,
-      "importance": 0.533,
-      "importance_score": 0.533,
+      "score": 0.5144,
+      "importance": 0.5144,
+      "importance_score": 0.5144,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9287,
+        "recency": 0.8258,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1236,482 +1679,6 @@
         "url": "https://www.reuters.com/business/retail-consumer/alibaba-set-open-down-8-hong-kong-after-102-billion-share-placement-plan-2026-08-24",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bf8914f7a7d4",
-      "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
-      "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-      "primary_url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
-          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
-          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T21:57:23.465000Z"
-        },
-        {
-          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
-          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
-          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T21:38:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
-          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
-          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T21:57:23.465000Z"
-        },
-        {
-          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
-          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
-          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T21:38:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5159,
-      "importance": 0.5159,
-      "importance_score": 0.5159,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8338,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T21:38:35Z",
-      "latest_at": "2026-08-23T21:57:23.465000Z",
-      "primary_item": {
-        "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
-        "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
-        "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b0c0eb916d82",
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://news.ycombinator.com/item?id=49415852",
-      "primary_url": "https://news.ycombinator.com/item?id=49415852",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a808b34637cb68a682bfcf9466a272449d302111",
-          "title": "OCR It – pull text out of un-copyable documents for your LLM",
-          "url": "https://news.ycombinator.com/item?id=49415852",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T10:07:08.965000Z"
-        },
-        {
-          "id": "d8543c19cae2e2adde650adc06e9c1bdcb434607",
-          "title": "OCR It – pull text out of un-copyable documents for your LLM",
-          "url": "https://github.com/thiagotigaz/ocr-it",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T06:25:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a808b34637cb68a682bfcf9466a272449d302111",
-          "title": "OCR It – pull text out of un-copyable documents for your LLM",
-          "url": "https://news.ycombinator.com/item?id=49415852",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T10:07:08.965000Z"
-        },
-        {
-          "id": "d8543c19cae2e2adde650adc06e9c1bdcb434607",
-          "title": "OCR It – pull text out of un-copyable documents for your LLM",
-          "url": "https://github.com/thiagotigaz/ocr-it",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T06:25:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9939,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T06:25:31Z",
-      "latest_at": "2026-08-24T10:07:08.965000Z",
-      "primary_item": {
-        "id": "a808b34637cb68a682bfcf9466a272449d302111",
-        "title": "OCR It – pull text out of un-copyable documents for your LLM",
-        "url": "https://news.ycombinator.com/item?id=49415852",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_1a46c098bd02",
-      "title": "与人工智能相关的各种可靠性事故即将发生",
-      "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-      "primary_url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-      "source": "surfingcomplexity.blog",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
-          "title": "与人工智能相关的各种可靠性事故即将发生",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "surfingcomplexity.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T19:17:21.738000Z"
-        },
-        {
-          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
-          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T19:04:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "surfingcomplexity.blog"
-      ],
-      "items": [
-        {
-          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
-          "title": "与人工智能相关的各种可靠性事故即将发生",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "surfingcomplexity.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T19:17:21.738000Z"
-        },
-        {
-          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
-          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T19:04:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5102,
-      "importance": 0.5102,
-      "importance_score": 0.5102,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8023,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T19:04:41Z",
-      "latest_at": "2026-08-23T19:17:21.738000Z",
-      "primary_item": {
-        "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
-        "title": "与人工智能相关的各种可靠性事故即将发生",
-        "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-        "source": "surfingcomplexity.blog",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dd7390466734",
-      "title": "人工智能背后的数据工作者在哪里？",
-      "url": "https://www.ai-materiality-map.org/data-workers",
-      "primary_url": "https://www.ai-materiality-map.org/data-workers",
-      "source": "www.ai-materiality-map.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1f2a9dbf592be020ece6a76856276ecba8acabdf",
-          "title": "人工智能背后的数据工作者在哪里？",
-          "url": "https://www.ai-materiality-map.org/data-workers",
-          "source": "www.ai-materiality-map.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T17:41:08.305000Z"
-        },
-        {
-          "id": "aa76b884011dc0ee48733bd1ab75fed48c7dfe5a",
-          "title": "人工智能背后的数据工作者在哪里？ / Where are the data workers behind AI?",
-          "url": "https://www.ai-materiality-map.org/data-workers",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T17:36:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.ai-materiality-map.org"
-      ],
-      "items": [
-        {
-          "id": "1f2a9dbf592be020ece6a76856276ecba8acabdf",
-          "title": "人工智能背后的数据工作者在哪里？",
-          "url": "https://www.ai-materiality-map.org/data-workers",
-          "source": "www.ai-materiality-map.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T17:41:08.305000Z"
-        },
-        {
-          "id": "aa76b884011dc0ee48733bd1ab75fed48c7dfe5a",
-          "title": "人工智能背后的数据工作者在哪里？ / Where are the data workers behind AI?",
-          "url": "https://www.ai-materiality-map.org/data-workers",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T17:36:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5069,
-      "importance": 0.5069,
-      "importance_score": 0.5069,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.784,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T17:36:51Z",
-      "latest_at": "2026-08-23T17:41:08.305000Z",
-      "primary_item": {
-        "id": "1f2a9dbf592be020ece6a76856276ecba8acabdf",
-        "title": "人工智能背后的数据工作者在哪里？",
-        "url": "https://www.ai-materiality-map.org/data-workers",
-        "source": "www.ai-materiality-map.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e49bd50852aa",
-      "title": "DeepSeek、智谱与Kimi：前沿竞争中的生存空间",
-      "url": "https://www.huxiu.com/article/4885316.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4885316.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "8cee3cbdbe96c8eea9a8beeadf390335bfd7088f",
-          "title": "DeepSeek、智谱与Kimi：前沿竞争中的生存空间",
-          "url": "https://www.huxiu.com/article/4885316.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "07cd90397c710bfa418b67c2cafc01b8af4f210d",
-          "title": "DeepSeek、智谱与Kimi，竞争前沿生存空间",
-          "url": "https://www.huxiu.com/article/4885316.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T14:56:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "8cee3cbdbe96c8eea9a8beeadf390335bfd7088f",
-          "title": "DeepSeek、智谱与Kimi：前沿竞争中的生存空间",
-          "url": "https://www.huxiu.com/article/4885316.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "07cd90397c710bfa418b67c2cafc01b8af4f210d",
-          "title": "DeepSeek、智谱与Kimi，竞争前沿生存空间",
-          "url": "https://www.huxiu.com/article/4885316.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T14:56:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.503,
-      "importance": 0.503,
-      "importance_score": 0.503,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7624,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T14:56:41Z",
-      "latest_at": "2026-08-23T15:45:30.689861Z",
-      "primary_item": {
-        "id": "8cee3cbdbe96c8eea9a8beeadf390335bfd7088f",
-        "title": "DeepSeek、智谱与Kimi：前沿竞争中的生存空间",
-        "url": "https://www.huxiu.com/article/4885316.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_279d0430cc6b",
-      "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
-      "url": "https://www.aibase.com/news/30552",
-      "primary_url": "https://www.aibase.com/news/30552",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
-          "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
-          "url": "https://www.aibase.com/news/30552",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:25:15.118307Z"
-        },
-        {
-          "id": "3ea9d76cf0ac88cd4986d26c6ab91704d9142a60",
-          "title": "Anthropic 旗舰模型遇冷，企业支出仅 11% 流向 Fable5",
-          "url": "https://www.aibase.com/zh/news/30552",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
-          "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
-          "url": "https://www.aibase.com/news/30552",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:25:15.118307Z"
-        },
-        {
-          "id": "3ea9d76cf0ac88cd4986d26c6ab91704d9142a60",
-          "title": "Anthropic 旗舰模型遇冷，企业支出仅 11% 流向 Fable5",
-          "url": "https://www.aibase.com/zh/news/30552",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8894,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T02:25:15.118307Z",
-      "latest_at": "2026-08-24T02:25:15.118307Z",
-      "primary_item": {
-        "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
-        "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
-        "url": "https://www.aibase.com/news/30552",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
