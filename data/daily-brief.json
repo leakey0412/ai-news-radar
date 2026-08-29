@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T17:28:23.376378Z",
+  "generated_at": "2026-08-29T19:56:13.069284Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.777,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7377,
+        "recency": 0.7119,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7357,
+        "recency": 0.71,
         "story_heat": 0.0
       },
       "category": "official",
@@ -187,106 +187,6 @@
         "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_64c4f1514068",
-      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
-          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T18:07:55Z"
-        },
-        {
-          "id": "814422473bd3deb9d5737b7f02378cdbd843a90b",
-          "title": "联邦法官裁定特朗普将“觉醒派”公司Anthropic列入黑名单的行为违法",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T18:28:20.792000Z"
-        },
-        {
-          "id": "58701ed1715f680898f13672a8b2d9715dbf9775",
-          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T18:07:55Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Ars Technica",
-        "Ars Technica：AI（RSS）",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
-          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-28T18:07:55Z"
-        },
-        {
-          "id": "814422473bd3deb9d5737b7f02378cdbd843a90b",
-          "title": "联邦法官裁定特朗普将“觉醒派”公司Anthropic列入黑名单的行为违法",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T18:28:20.792000Z"
-        },
-        {
-          "id": "58701ed1715f680898f13672a8b2d9715dbf9775",
-          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T18:07:55Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7139,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T18:07:55Z",
-      "latest_at": "2026-08-28T18:28:20.792000Z",
-      "primary_item": {
-        "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
-        "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-        "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -324,21 +224,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8597,
+        "recency": 0.8297,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-29T07:00:22.003000Z",
       "latest_at": "2026-08-29T07:00:22.003000Z",
@@ -404,15 +303,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7974,
+        "recency": 0.7695,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -465,15 +364,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8294,
+        "recency": 0.8004,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -525,15 +424,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8663,
+        "recency": 0.8361,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -676,15 +575,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6629,
+      "importance": 0.6629,
+      "importance_score": 0.6629,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.965,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -793,15 +692,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5902,
-      "importance": 0.5902,
-      "importance_score": 0.5902,
+      "score": 0.5841,
+      "importance": 0.5841,
+      "importance_score": 0.5841,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9687,
+        "recency": 0.9349,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -819,99 +718,80 @@
       }
     },
     {
-      "story_id": "story_092c8de02e8b",
-      "title": "Cursor 被 SpaceX 收购后我们对 Cursor 的决定 / Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://news.ycombinator.com/item?id=49486172",
-      "primary_url": "https://news.ycombinator.com/item?id=49486172",
+      "story_id": "story_6472bbcb1287",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://news.ycombinator.com/item?id=49491568",
+      "primary_url": "https://news.ycombinator.com/item?id=49491568",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "51fc4d3ab169cb35a9e11f844415dff762bddac0",
-          "title": "Cursor 被 SpaceX 收购后我们对 Cursor 的决定 / Our decision on Cursor following its acquisition by SpaceX",
-          "url": "https://news.ycombinator.com/item?id=49486172",
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://news.ycombinator.com/item?id=49491568",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T07:37:23.653000Z"
+          "published_at": "2026-08-29T19:36:37.809000Z"
         },
         {
-          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
-          "title": "关于Cursor被SpaceX收购后的决定",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:16:20.612000Z"
-        },
-        {
-          "id": "0018dc991022e6b1db6860f42552c3e9931199b0",
-          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "id": "71248308b9890f003edd940349595f79c695985d",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T01:47:53Z"
+          "published_at": "2026-08-29T17:19:47Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News",
-        "hackernews",
-        "openai.com"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "51fc4d3ab169cb35a9e11f844415dff762bddac0",
-          "title": "Cursor 被 SpaceX 收购后我们对 Cursor 的决定 / Our decision on Cursor following its acquisition by SpaceX",
-          "url": "https://news.ycombinator.com/item?id=49486172",
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://news.ycombinator.com/item?id=49491568",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T07:37:23.653000Z"
+          "published_at": "2026-08-29T19:36:37.809000Z"
         },
         {
-          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
-          "title": "关于Cursor被SpaceX收购后的决定",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:16:20.612000Z"
-        },
-        {
-          "id": "0018dc991022e6b1db6860f42552c3e9931199b0",
-          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "id": "71248308b9890f003edd940349595f79c695985d",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T01:47:53Z"
+          "published_at": "2026-08-29T17:19:47Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5469,
-      "importance": 0.5469,
-      "importance_score": 0.5469,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8674,
-        "story_heat": 0.5
+        "recency": 0.9953,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T01:47:53Z",
-      "latest_at": "2026-08-29T07:37:23.653000Z",
+      "earliest_at": "2026-08-29T17:19:47Z",
+      "latest_at": "2026-08-29T19:36:37.809000Z",
       "primary_item": {
-        "id": "51fc4d3ab169cb35a9e11f844415dff762bddac0",
-        "title": "Cursor 被 SpaceX 收购后我们对 Cursor 的决定 / Our decision on Cursor following its acquisition by SpaceX",
-        "url": "https://news.ycombinator.com/item?id=49486172",
+        "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+        "url": "https://news.ycombinator.com/item?id=49491568",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -970,15 +850,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.965,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1049,15 +929,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.943,
+        "recency": 0.9101,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1128,15 +1008,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9004,
+        "recency": 0.8689,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1151,6 +1031,163 @@
         "url": "https://github.com/stemdeckapp/stemdeck",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_06365a62d120",
+      "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
+      "url": "https://itsuki.app",
+      "primary_url": "https://itsuki.app",
+      "source": "itsuki.app",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a64a2b4973e04d2f1210e5f0c014d22c577162c7",
+          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
+          "url": "https://itsuki.app",
+          "source": "itsuki.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T08:04:13.465000Z"
+        },
+        {
+          "id": "966aedd9b5c769c46223068db4cea08c8247814d",
+          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP） / Show HN: Itsuki – shared memory for Claude Code, Cursor and 24 other AI tools",
+          "url": "https://itsuki.app",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T07:50:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "itsuki.app"
+      ],
+      "items": [
+        {
+          "id": "a64a2b4973e04d2f1210e5f0c014d22c577162c7",
+          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
+          "url": "https://itsuki.app",
+          "source": "itsuki.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T08:04:13.465000Z"
+        },
+        {
+          "id": "966aedd9b5c769c46223068db4cea08c8247814d",
+          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP） / Show HN: Itsuki – shared memory for Claude Code, Cursor and 24 other AI tools",
+          "url": "https://itsuki.app",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T07:50:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5175,
+      "importance": 0.5175,
+      "importance_score": 0.5175,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8425,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T07:50:32Z",
+      "latest_at": "2026-08-29T08:04:13.465000Z",
+      "primary_item": {
+        "id": "a64a2b4973e04d2f1210e5f0c014d22c577162c7",
+        "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
+        "url": "https://itsuki.app",
+        "source": "itsuki.app",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_356cb5adee51",
+      "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+      "url": "https://www.inventati.org/who/manifesto",
+      "primary_url": "https://www.inventati.org/who/manifesto",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        },
+        {
+          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
+          "title": "Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        },
+        {
+          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
+          "title": "Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8373,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T07:38:31Z",
+      "latest_at": "2026-08-29T07:38:31Z",
+      "primary_item": {
+        "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+        "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+        "url": "https://www.inventati.org/who/manifesto",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1207,15 +1244,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5219,
-      "importance": 0.5219,
-      "importance_score": 0.5219,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8674,
+        "recency": 0.8371,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1229,6 +1266,85 @@
         "title": "ChromeDevTools /      chrome-devtools-mcp",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
         "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_6a55c76d0a2a",
+      "title": "The growing divide between AI hype and software engineering reality",
+      "url": "https://news.ycombinator.com/item?id=49491113",
+      "primary_url": "https://news.ycombinator.com/item?id=49491113",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T19:36:37.809000Z"
+        },
+        {
+          "id": "a78c01947087fa515869e20cd0336b0395497709",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T16:16:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T19:36:37.809000Z"
+        },
+        {
+          "id": "a78c01947087fa515869e20cd0336b0395497709",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T16:16:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9953,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T16:16:32Z",
+      "latest_at": "2026-08-29T19:36:37.809000Z",
+      "primary_item": {
+        "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+        "title": "The growing divide between AI hype and software engineering reality",
+        "url": "https://news.ycombinator.com/item?id=49491113",
+        "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
@@ -1250,18 +1366,18 @@
           "published_at": "2026-08-29T06:44:16.846000Z"
         },
         {
-          "id": "fd2b65633b91a63524f6b19eb80227d31ac475bc",
+          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
           "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
           "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-28T23:27:45Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "pwning.systems"
       ],
       "items": [
@@ -1275,26 +1391,26 @@
           "published_at": "2026-08-29T06:44:16.846000Z"
         },
         {
-          "id": "fd2b65633b91a63524f6b19eb80227d31ac475bc",
+          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
           "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
           "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-28T23:27:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.52,
-      "importance": 0.52,
-      "importance_score": 0.52,
+      "score": 0.5146,
+      "importance": 0.5146,
+      "importance_score": 0.5146,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8564,
+        "recency": 0.8265,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1365,15 +1481,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5188,
-      "importance": 0.5188,
-      "importance_score": 0.5188,
+      "score": 0.5134,
+      "importance": 0.5134,
+      "importance_score": 0.5134,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8498,
+        "recency": 0.8201,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1388,84 +1504,6 @@
         "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
         "source": "arbustoemchamas.substack.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7a769c91d345",
-      "title": "Twitterwebviewer.com 服务已停止 / Twitterwebviewer.com Service Discontinued",
-      "url": "https://twitterwebviewer.com",
-      "primary_url": "https://twitterwebviewer.com",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "254568d260b75a5abb580620d71db3d1d7283cad",
-          "title": "Twitterwebviewer.com 服务已停止 / Twitterwebviewer.com Service Discontinued",
-          "url": "https://twitterwebviewer.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T04:11:35Z"
-        },
-        {
-          "id": "b3a17123d30f6c5a416436b0c2902fee545f4526",
-          "title": "服务停止 / Service Discontinued",
-          "url": "https://twitterwebviewer.com/?rev=1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T18:16:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "254568d260b75a5abb580620d71db3d1d7283cad",
-          "title": "Twitterwebviewer.com 服务已停止 / Twitterwebviewer.com Service Discontinued",
-          "url": "https://twitterwebviewer.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T04:11:35Z"
-        },
-        {
-          "id": "b3a17123d30f6c5a416436b0c2902fee545f4526",
-          "title": "服务停止 / Service Discontinued",
-          "url": "https://twitterwebviewer.com/?rev=1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T18:16:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5144,
-      "importance": 0.5144,
-      "importance_score": 0.5144,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8255,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T18:16:23Z",
-      "latest_at": "2026-08-29T04:11:35Z",
-      "primary_item": {
-        "id": "254568d260b75a5abb580620d71db3d1d7283cad",
-        "title": "Twitterwebviewer.com 服务已停止 / Twitterwebviewer.com Service Discontinued",
-        "url": "https://twitterwebviewer.com",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1522,15 +1560,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5139,
-      "importance": 0.5139,
-      "importance_score": 0.5139,
+      "score": 0.5087,
+      "importance": 0.5087,
+      "importance_score": 0.5087,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8227,
+        "recency": 0.7939,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1545,85 +1583,6 @@
         "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
         "source": "Business Insider",
         "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "Debian 对 LLM 的使用既不支持也不禁止",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:00:24.283000Z"
-        },
-        {
-          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T01:40:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:00:24.283000Z"
-        },
-        {
-          "id": "3fb5387ae972b438063492761d49c646f619d3ae",
-          "title": "Debian 对 LLM 的使用既不支持也不禁止 / LLM usage in Debian neither endorsed nor prohibited",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T01:40:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5119,
-      "importance": 0.5119,
-      "importance_score": 0.5119,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8115,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T01:40:59Z",
-      "latest_at": "2026-08-29T03:00:24.283000Z",
-      "primary_item": {
-        "id": "d854c22c80979d30d93b9e95404eb79277d8845b",
-        "title": "Debian 对 LLM 的使用既不支持也不禁止",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
-        "source_name": "Buzzing"
       }
     }
   ]
