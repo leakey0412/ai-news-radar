@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-08-30T06:10:29.981701Z",
+  "generated_at": "2026-08-30T12:05:56.548546Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_ea92ab7ce270",
+      "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+      "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+      "primary_url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af3bbf71543322f3e623729a8d02ff883b3000b3",
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+          "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-30T08:50:20Z"
+        },
+        {
+          "id": "62b5c6889312a5d3524397fec034ef37d4492211",
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude / Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+          "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-30T08:50:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "af3bbf71543322f3e623729a8d02ff883b3000b3",
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+          "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-30T08:50:20Z"
+        },
+        {
+          "id": "62b5c6889312a5d3524397fec034ef37d4492211",
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude / Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+          "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-30T08:50:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.954,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-30T08:50:20Z",
+      "latest_at": "2026-08-30T08:50:20Z",
+      "primary_item": {
+        "id": "af3bbf71543322f3e623729a8d02ff883b3000b3",
+        "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+        "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_dba8baf1aeeb",
       "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
@@ -38,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9267,
+        "recency": 0.8507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -99,21 +180,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.974,
+        "recency": 0.8941,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-30T04:21:04Z",
       "latest_at": "2026-08-30T04:21:04Z",
@@ -179,22 +259,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.899,
+        "recency": 0.8252,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-29T22:47:53Z",
       "latest_at": "2026-08-29T23:43:24Z",
@@ -207,123 +286,82 @@
       }
     },
     {
-      "story_id": "story_7e896a4b3791",
-      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-      "primary_url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_9764c79bea7c",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+      "primary_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22.003000Z"
+          "id": "8851bfc818329a6be2c872c78c3ab5bd7654bf56",
+          "title": "Nvidia’s AI advantage is moving beyond the GPU",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-29T13:00:00Z"
+        },
+        {
+          "id": "fdba0893d2983b9c74bb3c43eaf9274bc6dff44a",
+          "title": "Nvidia's AI advantage is moving beyond the GPU",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T09:57:06Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Hacker News",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22.003000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7156,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-29T07:00:22.003000Z",
-      "latest_at": "2026-08-29T07:00:22.003000Z",
-      "primary_item": {
-        "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-        "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fb769fc67e24",
-      "title": "开放世界多智能体环境中的自主数学发现",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "primary_url": "https://arxiv.org/abs/2608.23691",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
+          "id": "8851bfc818329a6be2c872c78c3ab5bd7654bf56",
+          "title": "Nvidia’s AI advantage is moving beyond the GPU",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-29T13:00:00Z"
+        },
         {
-          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16.981000Z"
+          "id": "fdba0893d2983b9c74bb3c43eaf9274bc6dff44a",
+          "title": "Nvidia's AI advantage is moving beyond the GPU",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T09:57:06Z"
         }
       ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16.981000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.606,
+      "importance": 0.606,
+      "importance_score": 0.606,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7212,
-        "story_heat": 0.0
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.7164,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-29T07:32:16.981000Z",
-      "latest_at": "2026-08-29T07:32:16.981000Z",
+      "earliest_at": "2026-08-29T13:00:00Z",
+      "latest_at": "2026-08-30T09:57:06Z",
       "primary_item": {
-        "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-        "title": "开放世界多智能体环境中的自主数学发现",
-        "url": "https://arxiv.org/abs/2608.23691",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "8851bfc818329a6be2c872c78c3ab5bd7654bf56",
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -369,29 +407,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-29T17:28:23.376378Z"
-        },
-        {
-          "id": "0d99cfdb667ab3efd97bb46ccc760c2ffd62aeb8",
-          "title": "Codex 适合处理有明确材料、具体步骤和可检查结果的任务。它可以读取文件、整理信息、运行命令、操作网页和软件，也可以把反复出现的要求保存成固定流程。下面十个场景按照普通人的实际使用顺序展开。每一节都会讲清任务为什么容易出错、怎样交给 Codex，以及完成以后检查什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-29T07:36:47.607016Z"
-        },
-        {
-          "id": "418ca7a981297b86518360283c5ea7cd5693855f",
-          "title": "内容分发工具Blotato的开发者Sabrina用一条30秒TikTok验证需求，把第一版砍到只剩一个功能，上线10天做到1万美元月度经常性收入，不到两年把业务做到了数百万美元年收入。AI帮她压缩执行成本，但产品判断、功能取舍和责任始终在人手里。想知道“一人公司”怎么少踩坑、先跑出确定性，可以认真看看她每一步的具体做法。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-29T07:36:47.607016Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 4,
       "source_names": [
-        "社区更新 · 2026-08-28",
         "社区更新 · 2026-08-29"
       ],
       "items": [
@@ -430,44 +449,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-29T17:28:23.376378Z"
-        },
-        {
-          "id": "0d99cfdb667ab3efd97bb46ccc760c2ffd62aeb8",
-          "title": "Codex 适合处理有明确材料、具体步骤和可检查结果的任务。它可以读取文件、整理信息、运行命令、操作网页和软件，也可以把反复出现的要求保存成固定流程。下面十个场景按照普通人的实际使用顺序展开。每一节都会讲清任务为什么容易出错、怎样交给 Codex，以及完成以后检查什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-29T07:36:47.607016Z"
-        },
-        {
-          "id": "418ca7a981297b86518360283c5ea7cd5693855f",
-          "title": "内容分发工具Blotato的开发者Sabrina用一条30秒TikTok验证需求，把第一版砍到只剩一个功能，上线10天做到1万美元月度经常性收入，不到两年把业务做到了数百万美元年收入。AI帮她压缩执行成本，但产品判断、功能取舍和责任始终在人手里。想知道“一人公司”怎么少踩坑、先跑出确定性，可以认真看看她每一步的具体做法。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-29T07:36:47.607016Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.639,
-      "importance": 0.639,
-      "importance_score": 0.639,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6018,
+      "importance": 0.6018,
+      "importance_score": 0.6018,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8324,
-        "story_heat": 1.0
+        "recency": 0.7642,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T07:36:47.607016Z",
+      "earliest_at": "2026-08-29T17:28:23.376378Z",
       "latest_at": "2026-08-29T17:28:23.376378Z",
       "primary_item": {
         "id": "90705a9c14223b4d0ba1ee208f18fcdc439c9dce",
@@ -478,120 +479,338 @@
       }
     },
     {
-      "story_id": "story_2ee04de9ee75",
-      "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-      "url": "https://lwn.net/Articles/1091231",
-      "primary_url": "https://lwn.net/Articles/1091231",
-      "source": "lwn.net",
+      "story_id": "story_0620f79b66d9",
+      "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+      "primary_url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+      "source": "embracethered.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
+          "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "source": "embracethered.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
+          "published_at": "2026-08-30T05:40:15.465000Z"
         },
         {
-          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T14:02:10Z"
-        },
-        {
-          "id": "70be66b58f1901c6150fbc5cf7465ecfe939f972",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "www.phoronix.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T09:40:21.179000Z"
-        },
-        {
-          "id": "f0bf36014eefecc98ca45a466499e50b1eb467cb",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+          "id": "3baed8be834f5e754243c916c038a85c5a2f18ce",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Prompt Injection in Claude Code Opus 5 Auto Mode",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T08:19:22Z"
+          "published_at": "2026-08-30T05:36:51Z"
+        },
+        {
+          "id": "045debf55648e0f2ce4f45d070d1f967dbc4c6b2",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Breaking Claude Code Opus 5 Auto Mode",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-30T05:04:10Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
+        "HN Algolia · AI 24h",
         "Lobsters (技术社区)",
-        "lwn.net",
-        "www.phoronix.com"
+        "embracethered.com"
       ],
       "items": [
         {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
+          "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "source": "embracethered.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
+          "published_at": "2026-08-30T05:40:15.465000Z"
         },
         {
-          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T14:02:10Z"
-        },
-        {
-          "id": "70be66b58f1901c6150fbc5cf7465ecfe939f972",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-          "source": "www.phoronix.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T09:40:21.179000Z"
-        },
-        {
-          "id": "f0bf36014eefecc98ca45a466499e50b1eb467cb",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+          "id": "3baed8be834f5e754243c916c038a85c5a2f18ce",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Prompt Injection in Claude Code Opus 5 Auto Mode",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T08:19:22Z"
+          "published_at": "2026-08-30T05:36:51Z"
+        },
+        {
+          "id": "045debf55648e0f2ce4f45d070d1f967dbc4c6b2",
+          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Breaking Claude Code Opus 5 Auto Mode",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-30T05:04:10Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5609,
-      "importance": 0.5609,
-      "importance_score": 0.5609,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5548,
+      "importance": 0.5548,
+      "importance_score": 0.5548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8064,
-        "story_heat": 0.75
+        "recency": 0.9114,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T08:19:22Z",
-      "latest_at": "2026-08-29T15:16:20.593000Z",
+      "earliest_at": "2026-08-30T05:04:10Z",
+      "latest_at": "2026-08-30T05:40:15.465000Z",
       "primary_item": {
-        "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-        "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-        "url": "https://lwn.net/Articles/1091231",
-        "source": "lwn.net",
+        "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
+        "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
+        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+        "source": "embracethered.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b1f15b8a23b7",
+      "title": "pollen-robotics /      microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "primary_url": "https://github.com/pollen-robotics/microduck_rl",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ca3cdd670a243487039644b9926d0ad264c8cf86",
+          "title": "pollen-robotics /      microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T12:06:34.004000Z"
+        },
+        {
+          "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
+          "title": "pollen-robotics / microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "ca3cdd670a243487039644b9926d0ad264c8cf86",
+          "title": "pollen-robotics /      microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T12:06:34.004000Z"
+        },
+        {
+          "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
+          "title": "pollen-robotics / microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T12:05:56.548546Z",
+      "latest_at": "2026-08-30T12:06:34.004000Z",
+      "primary_item": {
+        "id": "ca3cdd670a243487039644b9926d0ad264c8cf86",
+        "title": "pollen-robotics /      microduck_rl",
+        "url": "https://github.com/pollen-robotics/microduck_rl",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_0b09c7b8916b",
+      "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0",
+      "url": "https://www.ithome.com/0/996/195.htm",
+      "primary_url": "https://www.ithome.com/0/996/195.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "0e26fd95a93c9c63b9394bb50af86ec9fa5327e8",
+          "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0",
+          "url": "https://www.ithome.com/0/996/195.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7d703b8ec17e4fee841f5c324e965d85affbddcb",
+          "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0：7B 参数，覆盖 19 个常见癌种",
+          "url": "https://www.ithome.com/0/996/195.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T09:12:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0e26fd95a93c9c63b9394bb50af86ec9fa5327e8",
+          "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0",
+          "url": "https://www.ithome.com/0/996/195.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7d703b8ec17e4fee841f5c324e965d85affbddcb",
+          "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0：7B 参数，覆盖 19 个常见癌种",
+          "url": "https://www.ithome.com/0/996/195.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T09:12:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T09:12:57Z",
+      "latest_at": "2026-08-30T12:05:56.548546Z",
+      "primary_item": {
+        "id": "0e26fd95a93c9c63b9394bb50af86ec9fa5327e8",
+        "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0",
+        "url": "https://www.ithome.com/0/996/195.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_1190010667fb",
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "url": "https://news.ycombinator.com/item?id=49497357",
+      "primary_url": "https://news.ycombinator.com/item?id=49497357",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://news.ycombinator.com/item?id=49497357",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T11:39:24.443000Z"
+        },
+        {
+          "id": "6ea3712a57180478af38e676b2674ccbb84d049f",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T10:20:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://news.ycombinator.com/item?id=49497357",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T11:39:24.443000Z"
+        },
+        {
+          "id": "6ea3712a57180478af38e676b2674ccbb84d049f",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T10:20:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9936,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T10:20:11Z",
+      "latest_at": "2026-08-30T11:39:24.443000Z",
+      "primary_item": {
+        "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
+        "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+        "url": "https://news.ycombinator.com/item?id=49497357",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -667,15 +886,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.547,
-      "importance": 0.547,
-      "importance_score": 0.547,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8676,
+        "recency": 0.7964,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -693,161 +912,82 @@
       }
     },
     {
-      "story_id": "story_0620f79b66d9",
-      "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-      "primary_url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-      "source": "embracethered.com",
-      "source_name": "Buzzing",
+      "story_id": "story_7d9153c0bf2c",
+      "title": "punkpeye /      awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "primary_url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "source": "github",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
-          "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
-          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-          "source": "embracethered.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T05:40:15.465000Z"
+          "id": "90118fc6419d480f2882f91491dbddae6f234c8a",
+          "title": "punkpeye /      awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T12:06:34.004000Z"
         },
         {
-          "id": "3baed8be834f5e754243c916c038a85c5a2f18ce",
-          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Prompt Injection in Claude Code Opus 5 Auto Mode",
-          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-30T05:36:51Z"
+          "id": "d467d531b401a1a5c8882116ed0ddae8d9164a37",
+          "title": "punkpeye / awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "embracethered.com"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
-          "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
-          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-          "source": "embracethered.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T05:40:15.465000Z"
+          "id": "90118fc6419d480f2882f91491dbddae6f234c8a",
+          "title": "punkpeye /      awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T12:06:34.004000Z"
         },
         {
-          "id": "3baed8be834f5e754243c916c038a85c5a2f18ce",
-          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Prompt Injection in Claude Code Opus 5 Auto Mode",
-          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-30T05:36:51Z"
+          "id": "d467d531b401a1a5c8882116ed0ddae8d9164a37",
+          "title": "punkpeye / awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9927,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-30T05:36:51Z",
-      "latest_at": "2026-08-30T05:40:15.465000Z",
+      "earliest_at": "2026-08-30T12:05:56.548546Z",
+      "latest_at": "2026-08-30T12:06:34.004000Z",
       "primary_item": {
-        "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
-        "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
-        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-        "source": "embracethered.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0783c1760033",
-      "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
-      "url": "https://www.ithome.com/0/996/057.htm",
-      "primary_url": "https://www.ithome.com/0/996/057.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
-          "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
-          "url": "https://www.ithome.com/0/996/057.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "29ed47a3ec9826d96fdd67e6efc6929b240e864b",
-          "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
-          "url": "https://www.ithome.com/0/996/057.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T23:11:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
-          "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
-          "url": "https://www.ithome.com/0/996/057.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "29ed47a3ec9826d96fdd67e6efc6929b240e864b",
-          "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
-          "url": "https://www.ithome.com/0/996/057.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T23:11:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5317,
-      "importance": 0.5317,
-      "importance_score": 0.5317,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9215,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T23:11:16Z",
-      "latest_at": "2026-08-30T00:30:48.130526Z",
-      "primary_item": {
-        "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
-        "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
-        "url": "https://www.ithome.com/0/996/057.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "90118fc6419d480f2882f91491dbddae6f234c8a",
+        "title": "punkpeye /      awesome-mcp-servers",
+        "url": "https://github.com/punkpeye/awesome-mcp-servers",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -904,15 +1044,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
+      "score": 0.5092,
+      "importance": 0.5092,
+      "importance_score": 0.5092,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8676,
+        "recency": 0.7964,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -983,15 +1123,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5208,
-      "importance": 0.5208,
-      "importance_score": 0.5208,
+      "score": 0.5081,
+      "importance": 0.5081,
+      "importance_score": 0.5081,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8609,
+        "recency": 0.7903,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1006,85 +1146,6 @@
         "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6a55c76d0a2a",
-      "title": "The growing divide between AI hype and software engineering reality",
-      "url": "https://news.ycombinator.com/item?id=49491113",
-      "primary_url": "https://news.ycombinator.com/item?id=49491113",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://news.ycombinator.com/item?id=49491113",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T19:36:37.809000Z"
-        },
-        {
-          "id": "3a952ea3a42e98a9b78db60b53ac75f194ce92bf",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T16:16:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://news.ycombinator.com/item?id=49491113",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T19:36:37.809000Z"
-        },
-        {
-          "id": "3a952ea3a42e98a9b78db60b53ac75f194ce92bf",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T16:16:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8585,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T16:16:32Z",
-      "latest_at": "2026-08-29T19:36:37.809000Z",
-      "primary_item": {
-        "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-        "title": "The growing divide between AI hype and software engineering reality",
-        "url": "https://news.ycombinator.com/item?id=49491113",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1140,15 +1201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5076,
+      "importance": 0.5076,
+      "importance_score": 0.5076,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8578,
+        "recency": 0.7875,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1166,30 +1227,128 @@
       }
     },
     {
-      "story_id": "story_eb0bc1242835",
-      "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-      "url": "https://www.ithome.com/0/996/053.htm",
-      "primary_url": "https://www.ithome.com/0/996/053.htm",
+      "story_id": "story_9b2727cbce15",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://news.ycombinator.com/item?id=49489982",
+      "primary_url": "https://news.ycombinator.com/item?id=49489982",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "530b878515479cfee39827671c67e698af01cd81",
+          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://news.ycombinator.com/item?id=49489982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T17:06:21.342000Z"
+        },
+        {
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T14:02:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "lwn.net"
+      ],
+      "items": [
+        {
+          "id": "530b878515479cfee39827671c67e698af01cd81",
+          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://news.ycombinator.com/item?id=49489982",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T17:06:21.342000Z"
+        },
+        {
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "486b8281df8fa07b769d1afaaf8ff1209a8f86c3",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T14:02:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7601,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T14:02:10Z",
+      "latest_at": "2026-08-29T17:06:21.342000Z",
+      "primary_item": {
+        "id": "530b878515479cfee39827671c67e698af01cd81",
+        "title": "Debian votes to allow \"responsible use of generative AI\"",
+        "url": "https://news.ycombinator.com/item?id=49489982",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_0783c1760033",
+      "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
+      "url": "https://www.ithome.com/0/996/057.htm",
+      "primary_url": "https://www.ithome.com/0/996/057.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
+          "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
+          "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
+          "url": "https://www.ithome.com/0/996/057.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
-          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
+          "id": "29ed47a3ec9826d96fdd67e6efc6929b240e864b",
+          "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
+          "url": "https://www.ithome.com/0/996/057.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T22:44:37Z"
+          "published_at": "2026-08-29T23:11:16Z"
         }
       ],
       "source_count": 2,
@@ -1199,365 +1358,49 @@
       ],
       "items": [
         {
-          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
+          "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
+          "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
+          "url": "https://www.ithome.com/0/996/057.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
-          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
+          "id": "29ed47a3ec9826d96fdd67e6efc6929b240e864b",
+          "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
+          "url": "https://www.ithome.com/0/996/057.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T22:44:37Z"
+          "published_at": "2026-08-29T23:11:16Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5317,
-      "importance": 0.5317,
-      "importance_score": 0.5317,
+      "score": 0.5181,
+      "importance": 0.5181,
+      "importance_score": 0.5181,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9215,
+        "recency": 0.8459,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T22:44:37Z",
+      "earliest_at": "2026-08-29T23:11:16Z",
       "latest_at": "2026-08-30T00:30:48.130526Z",
       "primary_item": {
-        "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-        "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-        "url": "https://www.ithome.com/0/996/053.htm",
+        "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
+        "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
+        "url": "https://www.ithome.com/0/996/057.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_06365a62d120",
-      "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
-      "url": "https://itsuki.app",
-      "primary_url": "https://itsuki.app",
-      "source": "itsuki.app",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a64a2b4973e04d2f1210e5f0c014d22c577162c7",
-          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
-          "url": "https://itsuki.app",
-          "source": "itsuki.app",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T08:04:13.465000Z"
-        },
-        {
-          "id": "966aedd9b5c769c46223068db4cea08c8247814d",
-          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP） / Show HN: Itsuki – shared memory for Claude Code, Cursor and 24 other AI tools",
-          "url": "https://itsuki.app",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-29T07:50:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "itsuki.app"
-      ],
-      "items": [
-        {
-          "id": "a64a2b4973e04d2f1210e5f0c014d22c577162c7",
-          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
-          "url": "https://itsuki.app",
-          "source": "itsuki.app",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T08:04:13.465000Z"
-        },
-        {
-          "id": "966aedd9b5c769c46223068db4cea08c8247814d",
-          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP） / Show HN: Itsuki – shared memory for Claude Code, Cursor and 24 other AI tools",
-          "url": "https://itsuki.app",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-29T07:50:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4966,
-      "importance": 0.4966,
-      "importance_score": 0.4966,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7267,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T07:50:32Z",
-      "latest_at": "2026-08-29T08:04:13.465000Z",
-      "primary_item": {
-        "id": "a64a2b4973e04d2f1210e5f0c014d22c577162c7",
-        "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
-        "url": "https://itsuki.app",
-        "source": "itsuki.app",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a67bb8d2a6b4",
-      "title": "ChromeDevTools /      chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
-          "title": "ChromeDevTools /      chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T07:37:23.653000Z"
-        },
-        {
-          "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
-          "title": "ChromeDevTools / chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
-          "title": "ChromeDevTools /      chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T07:37:23.653000Z"
-        },
-        {
-          "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
-          "title": "ChromeDevTools / chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4958,
-      "importance": 0.4958,
-      "importance_score": 0.4958,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7221,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T07:36:47.607016Z",
-      "latest_at": "2026-08-29T07:37:23.653000Z",
-      "primary_item": {
-        "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
-        "title": "ChromeDevTools /      chrome-devtools-mcp",
-        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_9928173748ab",
-      "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-      "primary_url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-      "source": "arbustoemchamas.substack.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "arbustoemchamas.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:12:16.489000Z"
-        },
-        {
-          "id": "3dd425ba42382807cd49d0e7987423508963d439",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T06:11:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "arbustoemchamas.substack.com"
-      ],
-      "items": [
-        {
-          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "arbustoemchamas.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:12:16.489000Z"
-        },
-        {
-          "id": "3dd425ba42382807cd49d0e7987423508963d439",
-          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T06:11:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4931,
-      "importance": 0.4931,
-      "importance_score": 0.4931,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7074,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T06:11:18Z",
-      "latest_at": "2026-08-29T06:12:16.489000Z",
-      "primary_item": {
-        "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
-        "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
-        "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-        "source": "arbustoemchamas.substack.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ce496cd82092",
-      "title": "Warp builds self-improving agents on Claude",
-      "url": "https://news.ycombinator.com/item?id=49492432",
-      "primary_url": "https://news.ycombinator.com/item?id=49492432",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
-          "title": "Warp builds self-improving agents on Claude",
-          "url": "https://news.ycombinator.com/item?id=49492432",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T19:36:37.809000Z"
-        },
-        {
-          "id": "d3e94c2c56fc03c000128ec7a225cdf0d09698e5",
-          "title": "Warp builds self-improving agents on Claude",
-          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T19:09:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
-          "title": "Warp builds self-improving agents on Claude",
-          "url": "https://news.ycombinator.com/item?id=49492432",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T19:36:37.809000Z"
-        },
-        {
-          "id": "d3e94c2c56fc03c000128ec7a225cdf0d09698e5",
-          "title": "Warp builds self-improving agents on Claude",
-          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T19:09:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8585,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T19:09:33Z",
-      "latest_at": "2026-08-29T19:36:37.809000Z",
-      "primary_item": {
-        "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
-        "title": "Warp builds self-improving agents on Claude",
-        "url": "https://news.ycombinator.com/item?id=49492432",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1614,15 +1457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
+      "score": 0.5059,
+      "importance": 0.5059,
+      "importance_score": 0.5059,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8478,
+        "recency": 0.7783,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1636,6 +1479,164 @@
         "title": "Show HN: 一款AI工具，可让Codex和Claude的图结构相互通信",
         "url": "https://github.com/rysh-ai/rysh-cli-code",
         "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6b08cd3b6d93",
+      "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+      "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+      "primary_url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
+          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T17:28:53Z"
+        },
+        {
+          "id": "41d0137f2781999f28c33201ba30622f6bb671cd",
+          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐",
+          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T16:20:16.082000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.axios.com"
+      ],
+      "items": [
+        {
+          "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
+          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T17:28:53Z"
+        },
+        {
+          "id": "41d0137f2781999f28c33201ba30622f6bb671cd",
+          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐",
+          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T16:20:16.082000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7643,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T16:20:16.082000Z",
+      "latest_at": "2026-08-29T17:28:53Z",
+      "primary_item": {
+        "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
+        "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+        "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_29a8261d3470",
+      "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+      "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+      "primary_url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T13:24:41.103000Z"
+        },
+        {
+          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T13:05:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T13:24:41.103000Z"
+        },
+        {
+          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T13:05:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4955,
+      "importance": 0.4955,
+      "importance_score": 0.4955,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7206,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T13:05:01Z",
+      "latest_at": "2026-08-29T13:24:41.103000Z",
+      "primary_item": {
+        "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+        "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+        "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
