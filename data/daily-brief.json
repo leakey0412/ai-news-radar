@@ -1,8 +1,150 @@
 {
-  "generated_at": "2026-08-30T22:19:38.137691Z",
+  "generated_at": "2026-08-31T00:43:36.278404Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_d20b99a49a7d",
+      "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+      "primary_url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f86ca557fb0453ee2854c6c5653ca834fe354259",
+          "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
+          "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-30T23:59:47Z"
+        },
+        {
+          "id": "cb7d9ad1b8aa649686bd67c6d8c04b3bc9986033",
+          "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同 / Understanding ChatGPT Work",
+          "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-30T23:59:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Simon Willison",
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "f86ca557fb0453ee2854c6c5653ca834fe354259",
+          "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
+          "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-30T23:59:47Z"
+        },
+        {
+          "id": "cb7d9ad1b8aa649686bd67c6d8c04b3bc9986033",
+          "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同 / Understanding ChatGPT Work",
+          "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-30T23:59:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9895,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-30T23:59:47Z",
+      "latest_at": "2026-08-30T23:59:47Z",
+      "primary_item": {
+        "id": "f86ca557fb0453ee2854c6c5653ca834fe354259",
+        "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
+        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0cce3296bceb",
+      "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
+      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "primary_url": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "source": "Ethan Mollick：One Useful Thing（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b8c8810e1e605c56a6488126313f284d3a358447",
+          "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
+          "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+          "source": "Ethan Mollick：One Useful Thing（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T00:24:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ethan Mollick：One Useful Thing（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b8c8810e1e605c56a6488126313f284d3a358447",
+          "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
+          "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+          "source": "Ethan Mollick：One Useful Thing（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T00:24:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9954,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T00:24:35Z",
+      "latest_at": "2026-08-31T00:24:35Z",
+      "primary_item": {
+        "id": "b8c8810e1e605c56a6488126313f284d3a358447",
+        "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
+        "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+        "source": "Ethan Mollick：One Useful Thing（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_ea92ab7ce270",
       "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
@@ -57,15 +199,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.823,
+        "recency": 0.795,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +261,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7339,
+        "recency": 0.7089,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +321,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7217,
+      "importance": 0.7217,
+      "importance_score": 0.7217,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7714,
+        "recency": 0.7451,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -202,86 +344,6 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_dab2710a3e78",
-      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "primary_url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
-          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-          "url": "https://www.dwarkesh.com/p/openai-huggingface",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T22:47:53Z"
-        },
-        {
-          "id": "4d8c24c946bcdd03d855c22a3c348c052c175460",
-          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
-          "url": "https://www.dwarkesh.com/p/openai-huggingface",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T23:43:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
-          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-          "url": "https://www.dwarkesh.com/p/openai-huggingface",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T22:47:53Z"
-        },
-        {
-          "id": "4d8c24c946bcdd03d855c22a3c348c052c175460",
-          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
-          "url": "https://www.dwarkesh.com/p/openai-huggingface",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T23:43:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7197,
-      "importance": 0.7197,
-      "importance_score": 0.7197,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7119,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-29T22:47:53Z",
-      "latest_at": "2026-08-29T23:43:24Z",
-      "primary_item": {
-        "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
-        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-        "url": "https://www.dwarkesh.com/p/openai-huggingface",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -391,15 +453,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6748,
-      "importance": 0.6748,
-      "importance_score": 0.6748,
+      "score": 0.6689,
+      "importance": 0.6689,
+      "importance_score": 0.6689,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9615,
+        "recency": 0.9288,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -414,6 +476,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-30",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_93201979fbd0",
+      "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+      "url": "https://news.ycombinator.com/item?id=49503421",
+      "primary_url": "https://news.ycombinator.com/item?id=49503421",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "32c4c2fcd14b8255a241067071936776874d885b",
+          "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "url": "https://news.ycombinator.com/item?id=49503421",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T00:23:44.786000Z"
+        },
+        {
+          "id": "b655ed96ec37d03f08d77fc7a08d50bcdc006c20",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+          "url": "https://academa.ai",
+          "source": "academa.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T22:27:18.114000Z"
+        },
+        {
+          "id": "2ad581391973a9c052bf3baca702cbf4756d2091",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频 / Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "url": "https://academa.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T22:22:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "academa.ai",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "32c4c2fcd14b8255a241067071936776874d885b",
+          "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "url": "https://news.ycombinator.com/item?id=49503421",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T00:23:44.786000Z"
+        },
+        {
+          "id": "b655ed96ec37d03f08d77fc7a08d50bcdc006c20",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+          "url": "https://academa.ai",
+          "source": "academa.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T22:27:18.114000Z"
+        },
+        {
+          "id": "2ad581391973a9c052bf3baca702cbf4756d2091",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频 / Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "url": "https://academa.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T22:22:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9952,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T22:22:23Z",
+      "latest_at": "2026-08-31T00:23:44.786000Z",
+      "primary_item": {
+        "id": "32c4c2fcd14b8255a241067071936776874d885b",
+        "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+        "url": "https://news.ycombinator.com/item?id=49503421",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -489,15 +649,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5637,
-      "importance": 0.5637,
-      "importance_score": 0.5637,
+      "score": 0.5578,
+      "importance": 0.5578,
+      "importance_score": 0.5578,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9604,
+        "recency": 0.9277,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -512,104 +672,6 @@
         "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
         "source": "thezvi.wordpress.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_773e61521fea",
-      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-      "url": "https://news.ycombinator.com/item?id=49498201",
-      "primary_url": "https://news.ycombinator.com/item?id=49498201",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
-          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-          "url": "https://news.ycombinator.com/item?id=49498201",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T16:53:34.522000Z"
-        },
-        {
-          "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
-          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
-          "url": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T16:35:36.082000Z"
-        },
-        {
-          "id": "d998a4f9dd781af3be200c5325c031b842ed88c4",
-          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
-          "url": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T12:50:54Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
-          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-          "url": "https://news.ycombinator.com/item?id=49498201",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T16:53:34.522000Z"
-        },
-        {
-          "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
-          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
-          "url": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T16:35:36.082000Z"
-        },
-        {
-          "id": "d998a4f9dd781af3be200c5325c031b842ed88c4",
-          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
-          "url": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T12:50:54Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5572,
-      "importance": 0.5572,
-      "importance_score": 0.5572,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9245,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T12:50:54Z",
-      "latest_at": "2026-08-30T16:53:34.522000Z",
-      "primary_item": {
-        "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
-        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-        "url": "https://news.ycombinator.com/item?id=49498201",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -665,15 +727,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9457,
+        "recency": 0.9135,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -763,15 +825,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7862,
+        "recency": 0.7594,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -842,15 +904,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.5228,
+      "importance": 0.5228,
+      "importance_score": 0.5228,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9029,
+        "recency": 0.8722,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -865,6 +927,104 @@
         "url": "https://noaifridays.com",
         "source": "noaifridays.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_773e61521fea",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://news.ycombinator.com/item?id=49498201",
+      "primary_url": "https://news.ycombinator.com/item?id=49498201",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://news.ycombinator.com/item?id=49498201",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T16:53:34.522000Z"
+        },
+        {
+          "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T16:35:36.082000Z"
+        },
+        {
+          "id": "d998a4f9dd781af3be200c5325c031b842ed88c4",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T12:50:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://news.ycombinator.com/item?id=49498201",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T16:53:34.522000Z"
+        },
+        {
+          "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T16:35:36.082000Z"
+        },
+        {
+          "id": "d998a4f9dd781af3be200c5325c031b842ed88c4",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T12:50:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5515,
+      "importance": 0.5515,
+      "importance_score": 0.5515,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.893,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T12:50:54Z",
+      "latest_at": "2026-08-30T16:53:34.522000Z",
+      "primary_item": {
+        "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
+        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+        "url": "https://news.ycombinator.com/item?id=49498201",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -921,15 +1081,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
+      "score": 0.5158,
+      "importance": 0.5158,
+      "importance_score": 0.5158,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8628,
+        "recency": 0.8334,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1000,15 +1160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
+      "score": 0.5158,
+      "importance": 0.5158,
+      "importance_score": 0.5158,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8627,
+        "recency": 0.8333,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1078,15 +1238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.511,
+      "importance": 0.511,
+      "importance_score": 0.511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8354,
+        "recency": 0.8069,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1101,85 +1261,6 @@
         "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_f10775ba975c",
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "url": "https://news.ycombinator.com/item?id=49502611",
-      "primary_url": "https://news.ycombinator.com/item?id=49502611",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-          "title": "Continuous Diffusion Language Models (CDLM's)",
-          "url": "https://news.ycombinator.com/item?id=49502611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T21:51:26.572000Z"
-        },
-        {
-          "id": "4528d5917e9906f9602b5e2aadb75c93c9fa2643",
-          "title": "Continuous Diffusion Language Models (CDLM's)",
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T20:46:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-          "title": "Continuous Diffusion Language Models (CDLM's)",
-          "url": "https://news.ycombinator.com/item?id=49502611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T21:51:26.572000Z"
-        },
-        {
-          "id": "4528d5917e9906f9602b5e2aadb75c93c9fa2643",
-          "title": "Continuous Diffusion Language Models (CDLM's)",
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T20:46:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9932,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T20:46:53Z",
-      "latest_at": "2026-08-30T21:51:26.572000Z",
-      "primary_item": {
-        "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-        "title": "Continuous Diffusion Language Models (CDLM's)",
-        "url": "https://news.ycombinator.com/item?id=49502611",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1236,15 +1317,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5192,
+      "importance": 0.5192,
+      "importance_score": 0.5192,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8825,
+        "recency": 0.8525,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1315,15 +1396,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
+      "score": 0.5158,
+      "importance": 0.5158,
+      "importance_score": 0.5158,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8628,
+        "recency": 0.8334,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1341,82 +1422,82 @@
       }
     },
     {
-      "story_id": "story_0783c1760033",
-      "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
-      "url": "https://www.ithome.com/0/996/057.htm",
-      "primary_url": "https://www.ithome.com/0/996/057.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_f10775ba975c",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://news.ycombinator.com/item?id=49502611",
+      "primary_url": "https://news.ycombinator.com/item?id=49502611",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
-          "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
-          "url": "https://www.ithome.com/0/996/057.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://news.ycombinator.com/item?id=49502611",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T21:51:26.572000Z"
         },
         {
-          "id": "29ed47a3ec9826d96fdd67e6efc6929b240e864b",
-          "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
-          "url": "https://www.ithome.com/0/996/057.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T23:11:16Z"
+          "id": "4528d5917e9906f9602b5e2aadb75c93c9fa2643",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T20:46:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
-          "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
-          "url": "https://www.ithome.com/0/996/057.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://news.ycombinator.com/item?id=49502611",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T21:51:26.572000Z"
         },
         {
-          "id": "29ed47a3ec9826d96fdd67e6efc6929b240e864b",
-          "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
-          "url": "https://www.ithome.com/0/996/057.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T23:11:16Z"
+          "id": "4528d5917e9906f9602b5e2aadb75c93c9fa2643",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T20:46:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4972,
-      "importance": 0.4972,
-      "importance_score": 0.4972,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7298,
+        "recency": 0.9594,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T23:11:16Z",
-      "latest_at": "2026-08-30T00:30:48.130526Z",
+      "earliest_at": "2026-08-30T20:46:53Z",
+      "latest_at": "2026-08-30T21:51:26.572000Z",
       "primary_item": {
-        "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
-        "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
-        "url": "https://www.ithome.com/0/996/057.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
+        "title": "Continuous Diffusion Language Models (CDLM's)",
+        "url": "https://news.ycombinator.com/item?id=49502611",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1473,15 +1554,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5201,
-      "importance": 0.5201,
-      "importance_score": 0.5201,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8572,
+        "recency": 0.828,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1496,85 +1577,6 @@
         "url": "https://news.ycombinator.com/item?id=49497357",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_eb0bc1242835",
-      "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-      "url": "https://www.ithome.com/0/996/053.htm",
-      "primary_url": "https://www.ithome.com/0/996/053.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
-          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T22:44:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
-          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T22:44:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4972,
-      "importance": 0.4972,
-      "importance_score": 0.4972,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7298,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T22:44:37Z",
-      "latest_at": "2026-08-30T00:30:48.130526Z",
-      "primary_item": {
-        "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-        "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-        "url": "https://www.ithome.com/0/996/053.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1631,15 +1633,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5201,
-      "importance": 0.5201,
-      "importance_score": 0.5201,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8572,
+        "recency": 0.828,
         "story_heat": 0.25
       },
       "category": "watch",
