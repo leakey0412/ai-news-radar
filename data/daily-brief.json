@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T10:18:48.269531Z",
+  "generated_at": "2026-09-01T15:02:22.838475Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8616,
+        "recency": 0.8048,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,6 +63,149 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_23f6eecf9075",
+      "title": "Copilot model access update for GitHub Team plans",
+      "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+      "primary_url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+          "title": "Copilot model access update for GitHub Team plans",
+          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T21:58:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+          "title": "Copilot model access update for GitHub Team plans",
+          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T21:58:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7816,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T21:58:46Z",
+      "latest_at": "2026-08-31T21:58:46Z",
+      "primary_item": {
+        "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
+        "title": "Copilot model access update for GitHub Team plans",
+        "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_863f41b4805d",
+      "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+      "url": "https://www.ithome.com/0/997/147.htm",
+      "primary_url": "https://www.ithome.com/0/997/147.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5185e25016efc4497b35a35d691c0680728e6658",
+          "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+          "url": "https://www.ithome.com/0/997/147.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T12:40:19Z"
+        },
+        {
+          "id": "7d77df56468582a12c16f118a1cb9a147d61870a",
+          "title": "美国 AI 数据中心现大量“幽灵用电需求”，多州出手整治",
+          "url": "https://www.ithome.com/0/997/147.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-01T12:40:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5185e25016efc4497b35a35d691c0680728e6658",
+          "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+          "url": "https://www.ithome.com/0/997/147.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T12:40:19Z"
+        },
+        {
+          "id": "7d77df56468582a12c16f118a1cb9a147d61870a",
+          "title": "美国 AI 数据中心现大量“幽灵用电需求”，多州出手整治",
+          "url": "https://www.ithome.com/0/997/147.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-01T12:40:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9664,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T12:40:19Z",
+      "latest_at": "2026-09-01T12:40:19Z",
+      "primary_item": {
+        "id": "5185e25016efc4497b35a35d691c0680728e6658",
+        "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+        "url": "https://www.ithome.com/0/997/147.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -119,15 +262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.934,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -181,15 +324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8493,
+        "recency": 0.7933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -205,6 +348,67 @@
         "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
         "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_df3573aaae0e",
+      "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+      "url": "https://www.aibase.com/news/30760",
+      "primary_url": "https://www.aibase.com/news/30760",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b4d352b739db619879d97925606394587b8ce728",
+          "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+          "url": "https://www.aibase.com/news/30760",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T15:02:22.838475Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b4d352b739db619879d97925606394587b8ce728",
+          "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+          "url": "https://www.aibase.com/news/30760",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T15:02:22.838475Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T15:02:22.838475Z",
+      "latest_at": "2026-09-01T15:02:22.838475Z",
+      "primary_item": {
+        "id": "b4d352b739db619879d97925606394587b8ce728",
+        "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+        "url": "https://www.aibase.com/news/30760",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -242,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8633,
+        "recency": 0.8063,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -302,15 +506,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -326,66 +530,6 @@
         "url": "https://www.aibase.com/news/30752",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ab46be1c8945",
-      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-      "url": "https://www.ithome.com/0/996/637.htm",
-      "primary_url": "https://www.ithome.com/0/996/637.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
-          "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "url": "https://www.ithome.com/0/996/637.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T11:35:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
-          "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "url": "https://www.ithome.com/0/996/637.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T11:35:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7203,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T11:35:24Z",
-      "latest_at": "2026-08-31T11:35:24Z",
-      "primary_item": {
-        "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
-        "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-        "url": "https://www.ithome.com/0/996/637.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -423,15 +567,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -445,67 +589,6 @@
         "id": "2c5828ccd525985def3b53b56cf619cb18ca0723",
         "title": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
         "url": "https://www.aibase.com/news/30754",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_767c1a774aab",
-      "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
-      "url": "https://www.aibase.com/news/30745",
-      "primary_url": "https://www.aibase.com/news/30745",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ebd7891564d0d58bc3bfd0ced77676324c194b26",
-          "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
-          "url": "https://www.aibase.com/news/30745",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:18:48.269531Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ebd7891564d0d58bc3bfd0ced77676324c194b26",
-          "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
-          "url": "https://www.aibase.com/news/30745",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:18:48.269531Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T10:18:48.269531Z",
-      "latest_at": "2026-09-01T10:18:48.269531Z",
-      "primary_item": {
-        "id": "ebd7891564d0d58bc3bfd0ced77676324c194b26",
-        "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
-        "url": "https://www.aibase.com/news/30745",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -635,15 +718,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6573,
+      "importance": 0.6573,
+      "importance_score": 0.6573,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.934,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -658,6 +741,67 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-31",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_767c1a774aab",
+      "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+      "url": "https://www.aibase.com/news/30745",
+      "primary_url": "https://www.aibase.com/news/30745",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ebd7891564d0d58bc3bfd0ced77676324c194b26",
+          "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+          "url": "https://www.aibase.com/news/30745",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T10:18:48.269531Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ebd7891564d0d58bc3bfd0ced77676324c194b26",
+          "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+          "url": "https://www.aibase.com/news/30745",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T10:18:48.269531Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.934,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T10:18:48.269531Z",
+      "latest_at": "2026-09-01T10:18:48.269531Z",
+      "primary_item": {
+        "id": "ebd7891564d0d58bc3bfd0ced77676324c194b26",
+        "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+        "url": "https://www.aibase.com/news/30745",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -695,15 +839,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -756,15 +900,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -780,6 +924,183 @@
         "url": "https://www.aibase.com/news/30755",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_507d9d771647",
+      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+      "url": "https://news.ycombinator.com/item?id=49521315",
+      "primary_url": "https://news.ycombinator.com/item?id=49521315",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "39b94c93291404147770c6191455460b32be04e2",
+          "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "url": "https://news.ycombinator.com/item?id=49521315",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T14:42:27.743000Z"
+        },
+        {
+          "id": "2f891399b124d83d293d2152de6d981224719664",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "www.eff.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T14:41:25.376000Z"
+        },
+        {
+          "id": "1e103f3140fdd2b48b23170ea85c03917f2f41dd",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法 / EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T12:53:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "www.eff.org"
+      ],
+      "items": [
+        {
+          "id": "39b94c93291404147770c6191455460b32be04e2",
+          "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "url": "https://news.ycombinator.com/item?id=49521315",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T14:42:27.743000Z"
+        },
+        {
+          "id": "2f891399b124d83d293d2152de6d981224719664",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法",
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "www.eff.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T14:41:25.376000Z"
+        },
+        {
+          "id": "1e103f3140fdd2b48b23170ea85c03917f2f41dd",
+          "title": "电子前哨基金会（EFF）致法院：不要因人工智能热潮而重写版权法 / EFF to Courts: Don't Rewrite Copyright over AI Hype",
+          "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T12:53:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9952,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-01T12:53:51Z",
+      "latest_at": "2026-09-01T14:42:27.743000Z",
+      "primary_item": {
+        "id": "39b94c93291404147770c6191455460b32be04e2",
+        "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+        "url": "https://news.ycombinator.com/item?id=49521315",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_a11bf9f85c50",
+      "title": "Gitlawb / openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "primary_url": "https://github.com/Gitlawb/openclaude",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "cb87ac141b7901ad2a0d848d04b180ec6ff1b15a",
+          "title": "Gitlawb / openclaude",
+          "url": "https://github.com/Gitlawb/openclaude",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c64c74bf6b057751a7f4e798c2d8c5ec5ab09b94",
+          "title": "Gitlawb /      openclaude",
+          "url": "https://github.com/Gitlawb/openclaude",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T14:53:02.750000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "cb87ac141b7901ad2a0d848d04b180ec6ff1b15a",
+          "title": "Gitlawb / openclaude",
+          "url": "https://github.com/Gitlawb/openclaude",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c64c74bf6b057751a7f4e798c2d8c5ec5ab09b94",
+          "title": "Gitlawb /      openclaude",
+          "url": "https://github.com/Gitlawb/openclaude",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-01T14:53:02.750000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-01T14:53:02.750000Z",
+      "latest_at": "2026-09-01T15:02:22.838475Z",
+      "primary_item": {
+        "id": "cb87ac141b7901ad2a0d848d04b180ec6ff1b15a",
+        "title": "Gitlawb / openclaude",
+        "url": "https://github.com/Gitlawb/openclaude",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -817,15 +1138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -844,64 +1165,161 @@
       }
     },
     {
-      "story_id": "story_f5e5f9cf7444",
-      "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
-      "url": "https://www.aibase.com/news/30747",
-      "primary_url": "https://www.aibase.com/news/30747",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_7094b9a59608",
+      "title": "汤姆·布洛姆菲尔德盛赞Anthropic的企业文化，称员工是一群“极其认真的超级极客”",
+      "url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
+      "primary_url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "96d288338f75e896213c1b6a05f8585077b74913",
-          "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
-          "url": "https://www.aibase.com/news/30747",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:18:48.269531Z"
+          "id": "20912b3b743cd5121a957179772efd0655f4d034",
+          "title": "汤姆·布洛姆菲尔德盛赞Anthropic的企业文化，称员工是一群“极其认真的超级极客”",
+          "url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T13:53:35.558000Z"
+        },
+        {
+          "id": "e4f61629e9de4a2b45a882e5f879dedaae8a337b",
+          "title": "汤姆·布洛姆菲尔德盛赞Anthropic的企业文化，称员工是一群“极其认真的超级极客” / Anthropic's Tom Blomfield says his new coworkers are a 'hyper-earnest group of meganerds' with a 'lack of ego'",
+          "url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T13:33:47Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "96d288338f75e896213c1b6a05f8585077b74913",
-          "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
-          "url": "https://www.aibase.com/news/30747",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:18:48.269531Z"
+          "id": "20912b3b743cd5121a957179772efd0655f4d034",
+          "title": "汤姆·布洛姆菲尔德盛赞Anthropic的企业文化，称员工是一群“极其认真的超级极客”",
+          "url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T13:53:35.558000Z"
+        },
+        {
+          "id": "e4f61629e9de4a2b45a882e5f879dedaae8a337b",
+          "title": "汤姆·布洛姆菲尔德盛赞Anthropic的企业文化，称员工是一群“极其认真的超级极客” / Anthropic's Tom Blomfield says his new coworkers are a 'hyper-earnest group of meganerds' with a 'lack of ego'",
+          "url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T13:33:47Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5428,
+      "importance": 0.5428,
+      "importance_score": 0.5428,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9836,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-01T10:18:48.269531Z",
-      "latest_at": "2026-09-01T10:18:48.269531Z",
+      "earliest_at": "2026-09-01T13:33:47Z",
+      "latest_at": "2026-09-01T13:53:35.558000Z",
       "primary_item": {
-        "id": "96d288338f75e896213c1b6a05f8585077b74913",
-        "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
-        "url": "https://www.aibase.com/news/30747",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "20912b3b743cd5121a957179772efd0655f4d034",
+        "title": "汤姆·布洛姆菲尔德盛赞Anthropic的企业文化，称员工是一群“极其认真的超级极客”",
+        "url": "https://www.businessinsider.com/tom-blomfield-anthropic-culture-hyper-earnest-meganerds-monzo-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_06fc64092c57",
+      "title": "人工智能也能让你更快变差",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "primary_url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "source": "www.hermit-tech.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
+          "title": "人工智能也能让你更快变差",
+          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+          "source": "www.hermit-tech.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T11:45:30.411000Z"
+        },
+        {
+          "id": "cb9073795c3eb91b0d8819872e8dd39a1a8db66e",
+          "title": "人工智能也能让你更快变差 / AI Can Make You Suck Faster Too",
+          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T05:32:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.hermit-tech.com"
+      ],
+      "items": [
+        {
+          "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
+          "title": "人工智能也能让你更快变差",
+          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+          "source": "www.hermit-tech.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T11:45:30.411000Z"
+        },
+        {
+          "id": "cb9073795c3eb91b0d8819872e8dd39a1a8db66e",
+          "title": "人工智能也能让你更快变差 / AI Can Make You Suck Faster Too",
+          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T05:32:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9537,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-01T05:32:56Z",
+      "latest_at": "2026-09-01T11:45:30.411000Z",
+      "primary_item": {
+        "id": "2d8bdd448a3b068f4bd6b026675e1d279287f26a",
+        "title": "人工智能也能让你更快变差",
+        "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+        "source": "www.hermit-tech.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -958,15 +1376,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.96,
+        "recency": 0.8967,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1037,15 +1455,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9309,
+        "recency": 0.8695,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1059,383 +1477,6 @@
         "title": "Flock 快速扩张的人工智能监控网络在美国面临日益强烈的反对声浪",
         "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8599784c193b",
-      "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
-      "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
-      "primary_url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "70496949b4abcac872fc69b1e16c1d44afb40ccb",
-          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
-          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T03:13:10.438000Z"
-        },
-        {
-          "id": "31f9ceb93030aa140897ebfefc7502c8e5045455",
-          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施 / Anthropic tightens security on its training environment after Claude agents went rogue 3 times",
-          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T02:05:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "70496949b4abcac872fc69b1e16c1d44afb40ccb",
-          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
-          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T03:13:10.438000Z"
-        },
-        {
-          "id": "31f9ceb93030aa140897ebfefc7502c8e5045455",
-          "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施 / Anthropic tightens security on its training environment after Claude agents went rogue 3 times",
-          "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T02:05:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9026,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-01T02:05:31Z",
-      "latest_at": "2026-09-01T03:13:10.438000Z",
-      "primary_item": {
-        "id": "70496949b4abcac872fc69b1e16c1d44afb40ccb",
-        "title": "在Claude智能代理三次失控后，Anthropic加强了其训练环境的安全措施",
-        "url": "https://www.businessinsider.com/anthropic-tightens-training-security-after-claude-agents-went-rogue-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_941a67cc2046",
-      "title": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
-      "url": "https://www.aibase.com/news/30743",
-      "primary_url": "https://www.aibase.com/news/30743",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b115e881d08f3a343ecfe685f6aab741eba8a727",
-          "title": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
-          "url": "https://www.aibase.com/news/30743",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:18:48.269531Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b115e881d08f3a343ecfe685f6aab741eba8a727",
-          "title": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
-          "url": "https://www.aibase.com/news/30743",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:18:48.269531Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T10:18:48.269531Z",
-      "latest_at": "2026-09-01T10:18:48.269531Z",
-      "primary_item": {
-        "id": "b115e881d08f3a343ecfe685f6aab741eba8a727",
-        "title": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
-        "url": "https://www.aibase.com/news/30743",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f467f95d0953",
-      "title": "在人工智能时代，最安全的职业可能是写作",
-      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "primary_url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "source": "muratbuffalo.blogspot.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
-          "title": "在人工智能时代，最安全的职业可能是写作",
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "muratbuffalo.blogspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T01:21:40.999000Z"
-        },
-        {
-          "id": "c3460ccd49af4559b8c7d2502d5d0badb5cb400c",
-          "title": "在人工智能时代，最安全的职业可能是写作 / The safest job from AI may be writing",
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T18:12:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "muratbuffalo.blogspot.com"
-      ],
-      "items": [
-        {
-          "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
-          "title": "在人工智能时代，最安全的职业可能是写作",
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "muratbuffalo.blogspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-01T01:21:40.999000Z"
-        },
-        {
-          "id": "c3460ccd49af4559b8c7d2502d5d0badb5cb400c",
-          "title": "在人工智能时代，最安全的职业可能是写作 / The safest job from AI may be writing",
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-31T18:12:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8787,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T18:12:20Z",
-      "latest_at": "2026-09-01T01:21:40.999000Z",
-      "primary_item": {
-        "id": "ac2d76d1406dbaad825833a4d479f240c6ee8bfe",
-        "title": "在人工智能时代，最安全的职业可能是写作",
-        "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-        "source": "muratbuffalo.blogspot.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fc94637995a4",
-      "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版",
-      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5131b21ad0ccbe175057d38c75ff04f52c13f6cd",
-          "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版",
-          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T20:33:21.285000Z"
-        },
-        {
-          "id": "c4f81af88268df7b13e415550ff2aa2b4541e130",
-          "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版 / “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T18:10:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "5131b21ad0ccbe175057d38c75ff04f52c13f6cd",
-          "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版",
-          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T20:33:21.285000Z"
-        },
-        {
-          "id": "c4f81af88268df7b13e415550ff2aa2b4541e130",
-          "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版 / “Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T18:10:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5134,
-      "importance": 0.5134,
-      "importance_score": 0.5134,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8198,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T18:10:45Z",
-      "latest_at": "2026-08-31T20:33:21.285000Z",
-      "primary_item": {
-        "id": "5131b21ad0ccbe175057d38c75ff04f52c13f6cd",
-        "title": "“Zlibrary，我最爱的”：索尼诉讼中援引的Anthropic员工聊天记录中盛赞盗版",
-        "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_228b2d12557d",
-      "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-      "primary_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-      "source": "www.macrumors.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "www.macrumors.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T18:41:20.531000Z"
-        },
-        {
-          "id": "14eb088d63c02f711cfc94df2dc6d44f21b0d707",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-31T12:41:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.macrumors.com"
-      ],
-      "items": [
-        {
-          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "www.macrumors.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T18:41:20.531000Z"
-        },
-        {
-          "id": "14eb088d63c02f711cfc94df2dc6d44f21b0d707",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-31T12:41:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5094,
-      "importance": 0.5094,
-      "importance_score": 0.5094,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.798,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T12:41:22Z",
-      "latest_at": "2026-08-31T18:41:20.531000Z",
-      "primary_item": {
-        "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
-        "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-        "source": "www.macrumors.com",
         "source_name": "Buzzing"
       }
     }
