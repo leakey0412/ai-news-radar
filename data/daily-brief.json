@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-09-11T18:56:09.408247Z",
+  "generated_at": "2026-09-11T21:32:14.428337Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_8587315c03c9",
+      "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T18:26:10Z"
+        },
+        {
+          "id": "84d095da089a6bbac567518186a311edae283570",
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T18:26:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T18:26:10Z"
+        },
+        {
+          "id": "84d095da089a6bbac567518186a311edae283570",
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T18:26:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8611,
+      "importance": 0.8611,
+      "importance_score": 0.8611,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9562,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T18:26:10Z",
+      "latest_at": "2026-09-11T18:26:10Z",
+      "primary_item": {
+        "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
+        "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
+        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_c7d3c8aeae42",
       "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
@@ -57,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8632,
-      "importance": 0.8632,
-      "importance_score": 0.8632,
+      "score": 0.8574,
+      "importance": 0.8574,
+      "importance_score": 0.8574,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8789,
+        "recency": 0.8465,
         "story_heat": 0.25
       },
       "category": "official",
@@ -86,49 +168,49 @@
       }
     },
     {
-      "story_id": "story_8587315c03c9",
-      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-      "source": "GitHub AI & ML",
+      "story_id": "story_850b6df2d33d",
+      "title": "Auto-resolution and analysis updates in Copilot code review",
+      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+      "primary_url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-          "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub AI & ML",
+          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+          "title": "Auto-resolution and analysis updates in Copilot code review",
+          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-11T18:26:10Z"
+          "published_at": "2026-09-11T20:00:07Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub AI & ML"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-          "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub AI & ML",
+          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+          "title": "Auto-resolution and analysis updates in Copilot code review",
+          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-11T18:26:10Z"
+          "published_at": "2026-09-11T20:00:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8427,
-      "importance": 0.8427,
-      "importance_score": 0.8427,
+      "score": 0.8481,
+      "importance": 0.8481,
+      "importance_score": 0.8481,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9928,
+        "ai_relevance": 0.91,
+        "recency": 0.9781,
         "story_heat": 0.0
       },
       "category": "official",
@@ -137,13 +219,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T18:26:10Z",
-      "latest_at": "2026-09-11T18:26:10Z",
+      "earliest_at": "2026-09-11T20:00:07Z",
+      "latest_at": "2026-09-11T20:00:07Z",
       "primary_item": {
-        "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-        "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-        "source": "GitHub AI & ML",
+        "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+        "title": "Auto-resolution and analysis updates in Copilot code review",
+        "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "Quick chats with Pets and Appshots on Windows 26.908",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7117458f518f885fe141d11b2560556284fc84d8",
+          "title": "Quick chats with Pets and Appshots on Windows 26.908",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "7117458f518f885fe141d11b2560556284fc84d8",
+          "title": "Quick chats with Pets and Appshots on Windows 26.908",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7327,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T00:00:00Z",
+      "latest_at": "2026-09-11T00:00:00Z",
+      "primary_item": {
+        "id": "7117458f518f885fe141d11b2560556284fc84d8",
+        "title": "Quick chats with Pets and Appshots on Windows 26.908",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -201,15 +345,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9291,
+        "recency": 0.8948,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -226,68 +370,6 @@
         "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6ecf9c52fc09",
-      "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
-      "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
-      "primary_url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
-          "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
-          "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T22:55:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
-          "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
-          "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T22:55:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.749,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T22:55:07Z",
-      "latest_at": "2026-09-10T22:55:07Z",
-      "primary_item": {
-        "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
-        "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
-        "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -344,15 +426,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9551,
+        "recency": 0.9199,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -372,164 +454,21 @@
       }
     },
     {
-      "story_id": "story_115895427a12",
-      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
-          "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:31:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
-          "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:31:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.734,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T21:31:19Z",
-      "latest_at": "2026-09-10T21:31:19Z",
-      "primary_item": {
-        "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
-        "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a1f5ae11a556",
-      "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-      "primary_url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8a0baefcc3fe89c97bb6a98c6d29067650885567",
-          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T20:57:30Z"
-        },
-        {
-          "id": "7ea776bd166fb7b867ed2c6fc9c453bc2ff3f5c8",
-          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-10T20:57:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8a0baefcc3fe89c97bb6a98c6d29067650885567",
-          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T20:57:30Z"
-        },
-        {
-          "id": "7ea776bd166fb7b867ed2c6fc9c453bc2ff3f5c8",
-          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-10T20:57:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7281,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T20:57:30Z",
-      "latest_at": "2026-09-10T20:57:30Z",
-      "primary_item": {
-        "id": "8a0baefcc3fe89c97bb6a98c6d29067650885567",
-        "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_437450430f85",
-      "title": "Refreshed repository pull requests page in public preview",
-      "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
+      "story_id": "story_6ecf9c52fc09",
+      "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
+      "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+      "primary_url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-          "title": "Refreshed repository pull requests page in public preview",
-          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
+          "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
+          "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
+          "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-10T21:27:17Z"
+          "published_at": "2026-09-10T22:55:07Z"
         }
       ],
       "source_count": 1,
@@ -538,26 +477,26 @@
       ],
       "items": [
         {
-          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-          "title": "Refreshed repository pull requests page in public preview",
-          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
+          "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
+          "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
+          "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-10T21:27:17Z"
+          "published_at": "2026-09-10T22:55:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.796,
-      "importance": 0.796,
-      "importance_score": 0.796,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7333,
+        "ai_relevance": 0.91,
+        "recency": 0.7214,
         "story_heat": 0.0
       },
       "category": "official",
@@ -566,12 +505,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-10T21:27:17Z",
-      "latest_at": "2026-09-10T21:27:17Z",
+      "earliest_at": "2026-09-10T22:55:07Z",
+      "latest_at": "2026-09-10T22:55:07Z",
       "primary_item": {
-        "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-        "title": "Refreshed repository pull requests page in public preview",
-        "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
+        "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
+        "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
+        "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -630,15 +569,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9551,
+        "recency": 0.9199,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -692,15 +631,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8108,
+        "recency": 0.7809,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -752,15 +691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.965,
+        "recency": 0.9294,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -775,68 +714,6 @@
         "url": "https://www.dwarkesh.com/p/john-beren-charlie",
         "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4aaaad58edea",
-      "title": "AI Scan for pull request APIs in public preview",
-      "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-          "title": "AI Scan for pull request APIs in public preview",
-          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T20:20:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-          "title": "AI Scan for pull request APIs in public preview",
-          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T20:20:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7217,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T20:20:58Z",
-      "latest_at": "2026-09-10T20:20:58Z",
-      "primary_item": {
-        "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-        "title": "AI Scan for pull request APIs in public preview",
-        "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -874,15 +751,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9551,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,15 +812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9551,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -996,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9551,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1093,15 +970,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6111,
-      "importance": 0.6111,
-      "importance_score": 0.6111,
+      "score": 0.6048,
+      "importance": 0.6048,
+      "importance_score": 0.6048,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9551,
+        "recency": 0.9199,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1153,15 +1030,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9503,
+        "recency": 0.9153,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1232,15 +1109,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6041,
-      "importance": 0.6041,
-      "importance_score": 0.6041,
+      "score": 0.5979,
+      "importance": 0.5979,
+      "importance_score": 0.5979,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9369,
+        "recency": 0.9024,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1292,15 +1169,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9444,
+        "recency": 0.9096,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1316,6 +1193,104 @@
         "url": "https://www.aibase.com/news/30996",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_10e6a19e64e3",
+      "title": "Show HN: Hacker News, Without AI",
+      "url": "https://www.unslop.news",
+      "primary_url": "https://www.unslop.news",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "71d705b08990ca0079691c70fdfebb071af947c0",
+          "title": "Show HN: Hacker News, Without AI",
+          "url": "https://www.unslop.news",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T16:08:50Z"
+        },
+        {
+          "id": "ab898550e7375019bb0328481497522fbf2efbc8",
+          "title": "Show HN: Hacker News，不含人工智能",
+          "url": "https://hcker.news/?ai=exclude",
+          "source": "hcker.news",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T15:09:04.577000Z"
+        },
+        {
+          "id": "e65f4a168b6b221aeb4c389370c2e1f8f7446e17",
+          "title": "Show HN: Hacker News，不含人工智能 / Show HN: Hacker News, without AI",
+          "url": "https://hcker.news/?ai=exclude",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T15:01:19Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hcker.news"
+      ],
+      "items": [
+        {
+          "id": "71d705b08990ca0079691c70fdfebb071af947c0",
+          "title": "Show HN: Hacker News, Without AI",
+          "url": "https://www.unslop.news",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T16:08:50Z"
+        },
+        {
+          "id": "ab898550e7375019bb0328481497522fbf2efbc8",
+          "title": "Show HN: Hacker News，不含人工智能",
+          "url": "https://hcker.news/?ai=exclude",
+          "source": "hcker.news",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T15:09:04.577000Z"
+        },
+        {
+          "id": "e65f4a168b6b221aeb4c389370c2e1f8f7446e17",
+          "title": "Show HN: Hacker News，不含人工智能 / Show HN: Hacker News, without AI",
+          "url": "https://hcker.news/?ai=exclude",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T15:01:19Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5573,
+      "importance": 0.5573,
+      "importance_score": 0.5573,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9251,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T15:01:19Z",
+      "latest_at": "2026-09-11T16:08:50Z",
+      "primary_item": {
+        "id": "71d705b08990ca0079691c70fdfebb071af947c0",
+        "title": "Show HN: Hacker News, Without AI",
+        "url": "https://www.unslop.news",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -1391,15 +1366,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5542,
-      "importance": 0.5542,
-      "importance_score": 0.5542,
+      "score": 0.5482,
+      "importance": 0.5482,
+      "importance_score": 0.5482,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9078,
+        "recency": 0.8743,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1414,6 +1389,67 @@
         "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
         "source": "support.claude.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_50aac7f48f59",
+      "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
+      "url": "https://www.aibase.com/news/30995",
+      "primary_url": "https://www.aibase.com/news/30995",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
+          "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
+          "url": "https://www.aibase.com/news/30995",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T14:53:20.248188Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
+          "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
+          "url": "https://www.aibase.com/news/30995",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T14:53:20.248188Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9085,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T14:53:20.248188Z",
+      "latest_at": "2026-09-11T14:53:20.248188Z",
+      "primary_item": {
+        "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
+        "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
+        "url": "https://www.aibase.com/news/30995",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
