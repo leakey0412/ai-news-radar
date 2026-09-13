@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T05:07:03.992753Z",
+  "generated_at": "2026-09-13T10:26:35.727440Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -66,6 +66,329 @@
       }
     },
     {
+      "story_id": "story_c63b548b0537",
+      "title": "英伟达是人工智能领域的\"中央银行\"",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+          "title": "英伟达是人工智能领域的\"中央银行\"",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
+          "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T15:08:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.economist.com"
+      ],
+      "items": [
+        {
+          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+          "title": "英伟达是人工智能领域的\"中央银行\"",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
+          "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T15:08:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7888,
+      "importance": 0.7888,
+      "importance_score": 0.7888,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7731,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T15:08:27Z",
+      "latest_at": "2026-09-12T16:37:21.932000Z",
+      "primary_item": {
+        "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+        "title": "英伟达是人工智能领域的\"中央银行\"",
+        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c5db4791b13f",
+      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+      "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+      "primary_url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
+          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+          "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T05:56:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
+          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+          "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T05:56:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.937,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-13T05:56:03Z",
+      "latest_at": "2026-09-13T05:56:03Z",
+      "primary_item": {
+        "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
+        "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+        "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4e2dca866221",
+      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+      "url": "https://x.com/sama/status/2098811563415150910",
+      "primary_url": "https://x.com/sama/status/2098811563415150910",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:30:45Z"
+        },
+        {
+          "id": "ef2975b2243de76f3a5d59310157a881804c2886",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "Follow Builders · X · Sam Altman",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-12T16:30:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Sam Altman",
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:30:45Z"
+        },
+        {
+          "id": "ef2975b2243de76f3a5d59310157a881804c2886",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "Follow Builders · X · Sam Altman",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-12T16:30:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7719,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T16:30:45Z",
+      "latest_at": "2026-09-12T16:30:45Z",
+      "primary_item": {
+        "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+        "url": "https://x.com/sama/status/2098811563415150910",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_83b26543b013",
+      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+      "url": "https://x.com/trq212/status/2098860941391872132",
+      "primary_url": "https://x.com/trq212/status/2098860941391872132",
+      "source": "X：Thariq (@trq212)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T19:46:58Z"
+        },
+        {
+          "id": "a74c267d91533ab499d35cedc39ec1bd472a0bce",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-12T19:46:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thariq",
+        "X：Thariq (@trq212)"
+      ],
+      "items": [
+        {
+          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T19:46:58Z"
+        },
+        {
+          "id": "a74c267d91533ab499d35cedc39ec1bd472a0bce",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-12T19:46:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8092,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T19:46:58Z",
+      "latest_at": "2026-09-12T19:46:58Z",
+      "primary_item": {
+        "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+        "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+        "url": "https://x.com/trq212/status/2098860941391872132",
+        "source": "X：Thariq (@trq212)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
       "story_id": "story_4eb0f95713f7",
       "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
       "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
@@ -100,15 +423,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8462,
+        "recency": 0.7836,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -123,126 +446,6 @@
         "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
         "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
         "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4e2dca866221",
-      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-      "url": "https://x.com/sama/status/2098811563415150910",
-      "primary_url": "https://x.com/sama/status/2098811563415150910",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "url": "https://x.com/sama/status/2098811563415150910",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:30:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "url": "https://x.com/sama/status/2098811563415150910",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:30:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8336,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T16:30:45Z",
-      "latest_at": "2026-09-12T16:30:45Z",
-      "primary_item": {
-        "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-        "url": "https://x.com/sama/status/2098811563415150910",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_83b26543b013",
-      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-      "url": "https://x.com/trq212/status/2098860941391872132",
-      "primary_url": "https://x.com/trq212/status/2098860941391872132",
-      "source": "X：Thariq (@trq212)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-          "url": "https://x.com/trq212/status/2098860941391872132",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T19:46:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Thariq (@trq212)"
-      ],
-      "items": [
-        {
-          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-          "url": "https://x.com/trq212/status/2098860941391872132",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T19:46:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8739,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T19:46:58Z",
-      "latest_at": "2026-09-12T19:46:58Z",
-      "primary_item": {
-        "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-        "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-        "url": "https://x.com/trq212/status/2098860941391872132",
-        "source": "X：Thariq (@trq212)",
         "source_name": "AI HOT"
       }
     },
@@ -281,15 +484,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8806,
+        "recency": 0.8154,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -303,66 +506,6 @@
         "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
         "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
         "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fc4b9c1c0950",
-      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-      "url": "https://suno.com/blog/introducing-v6",
-      "primary_url": "https://suno.com/blog/introducing-v6",
-      "source": "Suno：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
-          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-          "url": "https://suno.com/blog/introducing-v6",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:39:24.855000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Suno：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
-          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-          "url": "https://suno.com/blog/introducing-v6",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:39:24.855000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8353,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T16:39:24.855000Z",
-      "latest_at": "2026-09-12T16:39:24.855000Z",
-      "primary_item": {
-        "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
-        "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-        "url": "https://suno.com/blog/introducing-v6",
-        "source": "Suno：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -401,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9191,
+        "recency": 0.851,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -533,15 +676,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6722,
-      "importance": 0.6722,
-      "importance_score": 0.6722,
+      "score": 0.6605,
+      "importance": 0.6605,
+      "importance_score": 0.6605,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.8778,
+        "recency": 0.8129,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -576,18 +719,18 @@
           "published_at": "2026-09-12T20:19:16Z"
         },
         {
-          "id": "86bb588c47cf8749a6c9a05905f2ca5c26a0d0ec",
+          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
           "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T20:28:29Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "TechCrunch AI"
       ],
       "items": [
@@ -601,26 +744,26 @@
           "published_at": "2026-09-12T20:19:16Z"
         },
         {
-          "id": "86bb588c47cf8749a6c9a05905f2ca5c26a0d0ec",
+          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
           "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T20:28:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6398,
-      "importance": 0.6398,
-      "importance_score": 0.6398,
+      "score": 0.628,
+      "importance": 0.628,
+      "importance_score": 0.628,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8807,
+        "recency": 0.8155,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -690,15 +833,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6381,
-      "importance": 0.6381,
-      "importance_score": 0.6381,
+      "score": 0.6265,
+      "importance": 0.6265,
+      "importance_score": 0.6265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8713,
+        "recency": 0.8068,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -787,15 +930,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5697,
-      "importance": 0.5697,
-      "importance_score": 0.5697,
+      "score": 0.5564,
+      "importance": 0.5564,
+      "importance_score": 0.5564,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9938,
+        "recency": 0.9202,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -884,15 +1027,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5631,
-      "importance": 0.5631,
-      "importance_score": 0.5631,
+      "score": 0.5503,
+      "importance": 0.5503,
+      "importance_score": 0.5503,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9571,
+        "recency": 0.8863,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -906,182 +1049,6 @@
         "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
         "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
         "source": "xeiaso.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a9df7af2fde6",
-      "title": "Anthropic首席执行官表示，现在是放缓人工智能模型发展步伐的时候了 / Anthropic CEO Says It's Time to Slow AI Model Advances",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "41ccd3a471ebd64efbb38b04167ca2b25b9dfc09",
-          "title": "Anthropic首席执行官表示，现在是放缓人工智能模型发展步伐的时候了 / Anthropic CEO Says It's Time to Slow AI Model Advances",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T18:07:07Z"
-        },
-        {
-          "id": "2e9e7f5bec860ebc3c39f9fb5307872df092f6d8",
-          "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T17:57:25.457000Z"
-        },
-        {
-          "id": "2d3d1274021693cff71f3eb46d106c3b6baca566",
-          "title": "Anthropic首席执行官表示，现在是放缓人工智能模型发展步伐的时候了",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T15:33:49.879000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "41ccd3a471ebd64efbb38b04167ca2b25b9dfc09",
-          "title": "Anthropic首席执行官表示，现在是放缓人工智能模型发展步伐的时候了 / Anthropic CEO Says It's Time to Slow AI Model Advances",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T18:07:07Z"
-        },
-        {
-          "id": "2e9e7f5bec860ebc3c39f9fb5307872df092f6d8",
-          "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T17:57:25.457000Z"
-        },
-        {
-          "id": "2d3d1274021693cff71f3eb46d106c3b6baca566",
-          "title": "Anthropic首席执行官表示，现在是放缓人工智能模型发展步伐的时候了",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T15:33:49.879000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8531,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T15:33:49.879000Z",
-      "latest_at": "2026-09-12T18:07:07Z",
-      "primary_item": {
-        "id": "41ccd3a471ebd64efbb38b04167ca2b25b9dfc09",
-        "title": "Anthropic首席执行官表示，现在是放缓人工智能模型发展步伐的时候了 / Anthropic CEO Says It's Time to Slow AI Model Advances",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_16316487dc98",
-      "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "primary_url": "https://withspecific.com/benchmarks/real-swe",
-      "source": "withspecific.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "withspecific.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T01:18:53.561000Z"
-        },
-        {
-          "id": "f27d0b416be8433b2751712b014d0cb9eca66ad8",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T20:25:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "withspecific.com"
-      ],
-      "items": [
-        {
-          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "withspecific.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T01:18:53.561000Z"
-        },
-        {
-          "id": "f27d0b416be8433b2751712b014d0cb9eca66ad8",
-          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T20:25:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9466,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T20:25:48Z",
-      "latest_at": "2026-09-13T01:18:53.561000Z",
-      "primary_item": {
-        "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
-        "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
-        "url": "https://withspecific.com/benchmarks/real-swe",
-        "source": "withspecific.com",
         "source_name": "Buzzing"
       }
     },
@@ -1110,11 +1077,21 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-09-12T11:13:38Z"
+        },
+        {
+          "id": "dc3a1c88b5597941096fd87acd653abc05d4967e",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The worst spam emails: iLands AI agent hustle",
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T11:13:38Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "tedium.co"
       ],
       "items": [
@@ -1135,22 +1112,31 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-09-12T11:13:38Z"
+        },
+        {
+          "id": "dc3a1c88b5597941096fd87acd653abc05d4967e",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The worst spam emails: iLands AI agent hustle",
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T11:13:38Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5467,
+      "importance": 0.5467,
+      "importance_score": 0.5467,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9354,
-        "story_heat": 0.25
+        "recency": 0.8662,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
@@ -1161,6 +1147,419 @@
         "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
         "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
         "source": "tedium.co",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_19828795af35",
+      "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
+      "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
+      "primary_url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a87a66b7dee0a18eabd2e689608c9e4b14439426",
+          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
+          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T09:24:44.970000Z"
+        },
+        {
+          "id": "33a3325b406e5a57e551808c15d2608521e13f13",
+          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。 / I own a house rental business near a future Meta AI data center. Construction workers make up most of our tenants.",
+          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T09:04:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "a87a66b7dee0a18eabd2e689608c9e4b14439426",
+          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
+          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T09:24:44.970000Z"
+        },
+        {
+          "id": "33a3325b406e5a57e551808c15d2608521e13f13",
+          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。 / I own a house rental business near a future Meta AI data center. Construction workers make up most of our tenants.",
+          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T09:04:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9852,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T09:04:01Z",
+      "latest_at": "2026-09-13T09:24:44.970000Z",
+      "primary_item": {
+        "id": "a87a66b7dee0a18eabd2e689608c9e4b14439426",
+        "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
+        "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_701d87d89551",
+      "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
+          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T08:07:36Z"
+        },
+        {
+          "id": "7a169d441a67991a51904134e1a940d1e441d651",
+          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T17:28:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News",
+        "Hacker News"
+      ],
+      "items": [
+        {
+          "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
+          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T08:07:36Z"
+        },
+        {
+          "id": "7a169d441a67991a51904134e1a940d1e441d651",
+          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T17:28:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9671,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T17:28:53Z",
+      "latest_at": "2026-09-13T08:07:36Z",
+      "primary_item": {
+        "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
+        "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_ae1c0b143270",
+      "title": "为什么人工智能代理会说谎、作弊并相互协调？",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "primary_url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "source": "yoshuabengio.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
+          "title": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "source": "yoshuabengio.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T07:17:17.819000Z"
+        },
+        {
+          "id": "09e3d89fde96e3f9972839655b1b3c22d1c83c7f",
+          "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T01:22:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "yoshuabengio.org"
+      ],
+      "items": [
+        {
+          "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
+          "title": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "source": "yoshuabengio.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T07:17:17.819000Z"
+        },
+        {
+          "id": "09e3d89fde96e3f9972839655b1b3c22d1c83c7f",
+          "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T01:22:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9555,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T01:22:31Z",
+      "latest_at": "2026-09-13T07:17:17.819000Z",
+      "primary_item": {
+        "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
+        "title": "为什么人工智能代理会说谎、作弊并相互协调？",
+        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+        "source": "yoshuabengio.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a9df7af2fde6",
+      "title": "Anthropic首席执行官表示，现在是放缓人工智能模型发展步伐的时候了 / Anthropic CEO Says It's Time to Slow AI Model Advances",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "3978b6986f394b2dae6b6140c70d82222697dd11",
+          "title": "Anthropic首席执行官表示，现在是放缓人工智能模型发展步伐的时候了 / Anthropic CEO Says It's Time to Slow AI Model Advances",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T18:07:07Z"
+        },
+        {
+          "id": "2e9e7f5bec860ebc3c39f9fb5307872df092f6d8",
+          "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T17:57:25.457000Z"
+        },
+        {
+          "id": "2d3d1274021693cff71f3eb46d106c3b6baca566",
+          "title": "Anthropic首席执行官表示，现在是放缓人工智能模型发展步伐的时候了",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T15:33:49.879000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "3978b6986f394b2dae6b6140c70d82222697dd11",
+          "title": "Anthropic首席执行官表示，现在是放缓人工智能模型发展步伐的时候了 / Anthropic CEO Says It's Time to Slow AI Model Advances",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T18:07:07Z"
+        },
+        {
+          "id": "2e9e7f5bec860ebc3c39f9fb5307872df092f6d8",
+          "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T17:57:25.457000Z"
+        },
+        {
+          "id": "2d3d1274021693cff71f3eb46d106c3b6baca566",
+          "title": "Anthropic首席执行官表示，现在是放缓人工智能模型发展步伐的时候了",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T15:33:49.879000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.79,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T15:33:49.879000Z",
+      "latest_at": "2026-09-12T18:07:07Z",
+      "primary_item": {
+        "id": "3978b6986f394b2dae6b6140c70d82222697dd11",
+        "title": "Anthropic首席执行官表示，现在是放缓人工智能模型发展步伐的时候了 / Anthropic CEO Says It's Time to Slow AI Model Advances",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_16316487dc98",
+      "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "primary_url": "https://withspecific.com/benchmarks/real-swe",
+      "source": "withspecific.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "withspecific.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T01:18:53.561000Z"
+        },
+        {
+          "id": "ab73b58de7e6496d28a0dd69e9c7d1ed0f358edd",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T20:25:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "withspecific.com"
+      ],
+      "items": [
+        {
+          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "withspecific.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T01:18:53.561000Z"
+        },
+        {
+          "id": "ab73b58de7e6496d28a0dd69e9c7d1ed0f358edd",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T20:25:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8765,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T20:25:48Z",
+      "latest_at": "2026-09-13T01:18:53.561000Z",
+      "primary_item": {
+        "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
+        "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+        "url": "https://withspecific.com/benchmarks/real-swe",
+        "source": "withspecific.com",
         "source_name": "Buzzing"
       }
     },
@@ -1218,15 +1617,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.5059,
+      "importance": 0.5059,
+      "importance_score": 0.5059,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8406,
+        "recency": 0.7784,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,320 +1640,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News (世界新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_c63b548b0537",
-      "title": "英伟达是人工智能领域的“中央银行”",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "source": "www.economist.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-          "title": "英伟达是人工智能领域的“中央银行”",
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "b38f7ecb2413d96c0852ce698ff2298257602b73",
-          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T15:08:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "www.economist.com"
-      ],
-      "items": [
-        {
-          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-          "title": "英伟达是人工智能领域的“中央银行”",
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "b38f7ecb2413d96c0852ce698ff2298257602b73",
-          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T15:08:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5161,
-      "importance": 0.5161,
-      "importance_score": 0.5161,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8349,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T15:08:27Z",
-      "latest_at": "2026-09-12T16:37:21.932000Z",
-      "primary_item": {
-        "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-        "title": "英伟达是人工智能领域的“中央银行”",
-        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-        "source": "www.economist.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_232a181e27c1",
-      "title": "在 OpenStreetMap 上进行你的第一次编辑 / Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
-      "url": "https://high5apps.github.io/josm-plugin-website-wizard",
-      "primary_url": "https://high5apps.github.io/josm-plugin-website-wizard",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "175502b4cb0b1468510c2b6283b2fb35bb5fa6bd",
-          "title": "在 OpenStreetMap 上进行你的第一次编辑 / Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
-          "url": "https://high5apps.github.io/josm-plugin-website-wizard",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T16:25:08Z"
-        },
-        {
-          "id": "ff68306705e5bb6ea45727c9136d6e4e4cc0d7be",
-          "title": "在 OpenStreetMap 上进行你的第一次编辑 / Make your first edit to OpenStreetMap",
-          "url": "https://high5apps.github.io/josm-plugin-website-wizard",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T16:25:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "175502b4cb0b1468510c2b6283b2fb35bb5fa6bd",
-          "title": "在 OpenStreetMap 上进行你的第一次编辑 / Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
-          "url": "https://high5apps.github.io/josm-plugin-website-wizard",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T16:25:08Z"
-        },
-        {
-          "id": "ff68306705e5bb6ea45727c9136d6e4e4cc0d7be",
-          "title": "在 OpenStreetMap 上进行你的第一次编辑 / Make your first edit to OpenStreetMap",
-          "url": "https://high5apps.github.io/josm-plugin-website-wizard",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T16:25:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8325,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T16:25:08Z",
-      "latest_at": "2026-09-12T16:25:08Z",
-      "primary_item": {
-        "id": "175502b4cb0b1468510c2b6283b2fb35bb5fa6bd",
-        "title": "在 OpenStreetMap 上进行你的第一次编辑 / Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
-        "url": "https://high5apps.github.io/josm-plugin-website-wizard",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_02ca07bd38d4",
-      "title": "[Claude] claude 被封 5 天，苹果不退款。",
-      "url": "https://www.v2ex.com/t/1241607",
-      "primary_url": "https://www.v2ex.com/t/1241607",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "6bcf558e0ab27b7492d108efd7cfbf13d6da5c28",
-          "title": "[Claude] claude 被封 5 天，苹果不退款。",
-          "url": "https://www.v2ex.com/t/1241607",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:05:15Z"
-        },
-        {
-          "id": "9af2be757982379ccb58da5b15b3e58047ef0076",
-          "title": "[问与答] claude 被封 5 天，苹果不退款。",
-          "url": "https://www.v2ex.com/t/1241607",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:05:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "6bcf558e0ab27b7492d108efd7cfbf13d6da5c28",
-          "title": "[Claude] claude 被封 5 天，苹果不退款。",
-          "url": "https://www.v2ex.com/t/1241607",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:05:15Z"
-        },
-        {
-          "id": "9af2be757982379ccb58da5b15b3e58047ef0076",
-          "title": "[问与答] claude 被封 5 天，苹果不退款。",
-          "url": "https://www.v2ex.com/t/1241607",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:05:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5128,
-      "importance": 0.5128,
-      "importance_score": 0.5128,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8166,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T15:05:15Z",
-      "latest_at": "2026-09-12T15:05:15Z",
-      "primary_item": {
-        "id": "6bcf558e0ab27b7492d108efd7cfbf13d6da5c28",
-        "title": "[Claude] claude 被封 5 天，苹果不退款。",
-        "url": "https://www.v2ex.com/t/1241607",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_1a2fd94dab00",
-      "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
-      "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
-      "primary_url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "51ead0f3a98a837f5e3ba5d407b049cae0579aa2",
-          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
-          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T15:02:47.803000Z"
-        },
-        {
-          "id": "d94a55ab93d0749a1e07b301e6fae5cafde53564",
-          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步 / Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down",
-          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T14:43:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "51ead0f3a98a837f5e3ba5d407b049cae0579aa2",
-          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
-          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T15:02:47.803000Z"
-        },
-        {
-          "id": "d94a55ab93d0749a1e07b301e6fae5cafde53564",
-          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步 / Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down",
-          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T14:43:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5127,
-      "importance": 0.5127,
-      "importance_score": 0.5127,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8161,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T14:43:11Z",
-      "latest_at": "2026-09-12T15:02:47.803000Z",
-      "primary_item": {
-        "id": "51ead0f3a98a837f5e3ba5d407b049cae0579aa2",
-        "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
-        "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
