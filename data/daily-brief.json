@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T22:31:22.127735Z",
+  "generated_at": "2026-09-14T00:38:34.755059Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.86,
-      "importance_score": 0.86,
+      "score": 0.8583,
+      "importance": 0.8583,
+      "importance_score": 0.8583,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 1.0,
+        "recency": 0.9908,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.8065,
+      "importance": 0.8065,
+      "importance_score": 0.8065,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8875,
+        "recency": 0.8608,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -181,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.787,
+        "recency": 0.7633,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -241,15 +241,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9446,
+        "recency": 0.9161,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -355,15 +355,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6383,
-      "importance": 0.6383,
-      "importance_score": 0.6383,
+      "score": 0.633,
+      "importance": 0.633,
+      "importance_score": 0.633,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.967,
+        "recency": 0.9378,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -381,100 +381,101 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
-      "url": "https://www.youtube.com/watch?v=koclOnlde0E",
-      "primary_url": "https://www.youtube.com/watch?v=koclOnlde0E",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_0fa77dcd1de2",
+      "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "primary_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "source": "www.vals.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
-          "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
-          "url": "https://www.youtube.com/watch?v=koclOnlde0E",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T18:47:26Z"
-        },
-        {
-          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
-          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T13:54:25Z"
-        },
-        {
-          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
-          "title": "Show HN: 3dbae 上的实时 AI 渲染",
-          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-          "source": "www.youtube.com",
+          "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "www.vals.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-13T04:41:15.291000Z"
+          "published_at": "2026-09-13T22:25:23.276000Z"
+        },
+        {
+          "id": "133070f52c443570d309dc7e350c34d0afdbaf82",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T21:06:13Z"
+        },
+        {
+          "id": "609bba8476226084de8142261dadb3ef6c29e187",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T21:06:13Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.youtube.com"
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "www.vals.ai"
       ],
       "items": [
         {
-          "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
-          "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
-          "url": "https://www.youtube.com/watch?v=koclOnlde0E",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T18:47:26Z"
-        },
-        {
-          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
-          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T13:54:25Z"
-        },
-        {
-          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
-          "title": "Show HN: 3dbae 上的实时 AI 渲染",
-          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-          "source": "www.youtube.com",
+          "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "www.vals.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-13T04:41:15.291000Z"
+          "published_at": "2026-09-13T22:25:23.276000Z"
+        },
+        {
+          "id": "133070f52c443570d309dc7e350c34d0afdbaf82",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T21:06:13Z"
+        },
+        {
+          "id": "609bba8476226084de8142261dadb3ef6c29e187",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T21:06:13Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5614,
-      "importance": 0.5614,
-      "importance_score": 0.5614,
+      "score": 0.5651,
+      "importance": 0.5651,
+      "importance_score": 0.5651,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9475,
+        "recency": 0.9685,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-13T04:41:15.291000Z",
-      "latest_at": "2026-09-13T18:47:26Z",
+      "earliest_at": "2026-09-13T21:06:13Z",
+      "latest_at": "2026-09-13T22:25:23.276000Z",
       "primary_item": {
-        "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
-        "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
-        "url": "https://www.youtube.com/watch?v=koclOnlde0E",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
+        "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+        "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+        "source": "www.vals.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -550,15 +551,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5614,
-      "importance": 0.5614,
-      "importance_score": 0.5614,
+      "score": 0.5563,
+      "importance": 0.5563,
+      "importance_score": 0.5563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.948,
+        "recency": 0.9194,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -573,6 +574,103 @@
         "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News (世界新闻)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
+      "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+      "primary_url": "https://www.youtube.com/watch?v=koclOnlde0E",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
+          "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
+          "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T18:47:26Z"
+        },
+        {
+          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
+          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T13:54:25Z"
+        },
+        {
+          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
+          "title": "Show HN: 3dbae 上的实时 AI 渲染",
+          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T04:41:15.291000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
+          "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
+          "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T18:47:26Z"
+        },
+        {
+          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
+          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T13:54:25Z"
+        },
+        {
+          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
+          "title": "Show HN: 3dbae 上的实时 AI 渲染",
+          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T04:41:15.291000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5562,
+      "importance": 0.5562,
+      "importance_score": 0.5562,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.919,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T04:41:15.291000Z",
+      "latest_at": "2026-09-13T18:47:26Z",
+      "primary_item": {
+        "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
+        "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
+        "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -648,15 +746,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5514,
-      "importance": 0.5514,
-      "importance_score": 0.5514,
+      "score": 0.5465,
+      "importance": 0.5465,
+      "importance_score": 0.5465,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.892,
+        "recency": 0.8651,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -674,55 +772,133 @@
       }
     },
     {
-      "story_id": "story_0fa77dcd1de2",
-      "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "primary_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "source": "www.vals.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_1199548a7e08",
+      "title": "消息称 Anthropic 预计连续第二个季度实现盈利",
+      "url": "https://www.ithome.com/1/001/894.htm",
+      "primary_url": "https://www.ithome.com/1/001/894.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
-          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
-          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-          "source": "www.vals.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T22:25:23.276000Z"
+          "id": "658b3ddeb2bbb4b3240305b3c24174f208ddc92d",
+          "title": "消息称 Anthropic 预计连续第二个季度实现盈利",
+          "url": "https://www.ithome.com/1/001/894.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "133070f52c443570d309dc7e350c34d0afdbaf82",
-          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T21:06:13Z"
+          "id": "ba195f0ba66449d5c9e764b07e1b1b4a09d13304",
+          "title": "消息称 Anthropic 预计自身有望连续第二个季度实现盈利",
+          "url": "https://www.ithome.com/1/001/894.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T23:52:33Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "www.vals.ai"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
-          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
-          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-          "source": "www.vals.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T22:25:23.276000Z"
+          "id": "658b3ddeb2bbb4b3240305b3c24174f208ddc92d",
+          "title": "消息称 Anthropic 预计连续第二个季度实现盈利",
+          "url": "https://www.ithome.com/1/001/894.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "133070f52c443570d309dc7e350c34d0afdbaf82",
-          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T21:06:13Z"
+          "id": "ba195f0ba66449d5c9e764b07e1b1b4a09d13304",
+          "title": "消息称 Anthropic 预计自身有望连续第二个季度实现盈利",
+          "url": "https://www.ithome.com/1/001/894.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T23:52:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T23:52:33Z",
+      "latest_at": "2026-09-14T00:38:34.755059Z",
+      "primary_item": {
+        "id": "658b3ddeb2bbb4b3240305b3c24174f208ddc92d",
+        "title": "消息称 Anthropic 预计连续第二个季度实现盈利",
+        "url": "https://www.ithome.com/1/001/894.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_d63fd2d67b82",
+      "title": "Anthropic的AI警告被视为芯片股的暂时性挫折",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "36c9c4e61a3b06b04ff9a31805de7148883f8a9c",
+          "title": "Anthropic的AI警告被视为芯片股的暂时性挫折",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T00:32:41.781000Z"
+        },
+        {
+          "id": "bd23a146c6faffadf6f45412451aa7358d07e679",
+          "title": "Anthropic的AI警告可能对芯片股构成压力，但交易活动预计不受影响",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T08:18:15.064000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "36c9c4e61a3b06b04ff9a31805de7148883f8a9c",
+          "title": "Anthropic的AI警告被视为芯片股的暂时性挫折",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T00:32:41.781000Z"
+        },
+        {
+          "id": "bd23a146c6faffadf6f45412451aa7358d07e679",
+          "title": "Anthropic的AI警告可能对芯片股构成压力，但交易活动预计不受影响",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T08:18:15.064000Z"
         }
       ],
       "item_count": 2,
@@ -742,13 +918,171 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-13T21:06:13Z",
-      "latest_at": "2026-09-13T22:25:23.276000Z",
+      "earliest_at": "2026-09-13T08:18:15.064000Z",
+      "latest_at": "2026-09-14T00:32:41.781000Z",
       "primary_item": {
-        "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
-        "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
-        "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-        "source": "www.vals.ai",
+        "id": "36c9c4e61a3b06b04ff9a31805de7148883f8a9c",
+        "title": "Anthropic的AI警告被视为芯片股的暂时性挫折",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cc0d45cace72",
+      "title": "AI行业最有权势的CEO们踩下刹车 / OpenAI and Anthropic Hit the Brakes",
+      "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
+      "primary_url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "8bf801f6e2ddf03f4f3acb0a9d28a3e096437198",
+          "title": "AI行业最有权势的CEO们踩下刹车 / OpenAI and Anthropic Hit the Brakes",
+          "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-13T23:58:17Z"
+        },
+        {
+          "id": "ab907d0b50ee0d9ac90a41f8bd7a2e74adbea8f4",
+          "title": "AI行业最有权势的CEO们踩下刹车",
+          "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T13:16:27.110000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "www.axios.com"
+      ],
+      "items": [
+        {
+          "id": "8bf801f6e2ddf03f4f3acb0a9d28a3e096437198",
+          "title": "AI行业最有权势的CEO们踩下刹车 / OpenAI and Anthropic Hit the Brakes",
+          "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-13T23:58:17Z"
+        },
+        {
+          "id": "ab907d0b50ee0d9ac90a41f8bd7a2e74adbea8f4",
+          "title": "AI行业最有权势的CEO们踩下刹车",
+          "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T13:16:27.110000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9903,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T13:16:27.110000Z",
+      "latest_at": "2026-09-13T23:58:17Z",
+      "primary_item": {
+        "id": "8bf801f6e2ddf03f4f3acb0a9d28a3e096437198",
+        "title": "AI行业最有权势的CEO们踩下刹车 / OpenAI and Anthropic Hit the Brakes",
+        "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
+      }
+    },
+    {
+      "story_id": "story_58e536e7446d",
+      "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
+      "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+      "primary_url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
+          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
+          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T21:23:31.600000Z"
+        },
+        {
+          "id": "89c8bb768c51acd230757f7daf2c09652ea4984c",
+          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁 / What smart people are saying about the AI apocalypse and calls to slow everything down",
+          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T20:55:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
+          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
+          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T21:23:31.600000Z"
+        },
+        {
+          "id": "89c8bb768c51acd230757f7daf2c09652ea4984c",
+          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁 / What smart people are saying about the AI apocalypse and calls to slow everything down",
+          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T20:55:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9541,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T20:55:24Z",
+      "latest_at": "2026-09-13T21:23:31.600000Z",
+      "primary_item": {
+        "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
+        "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
+        "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -806,15 +1140,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.947,
+        "recency": 0.9185,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -828,85 +1162,6 @@
         "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
         "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
         "source": "twitter.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ee8a008297ce",
-      "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-      "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-      "primary_url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T17:42:39.759000Z"
-        },
-        {
-          "id": "1464c9a4840dd4c3754bb95b2996f3a33822eca0",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面” / Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T17:10:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T17:42:39.759000Z"
-        },
-        {
-          "id": "1464c9a4840dd4c3754bb95b2996f3a33822eca0",
-          "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面” / Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
-          "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T17:10:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9329,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T17:10:40Z",
-      "latest_at": "2026-09-13T17:42:39.759000Z",
-      "primary_item": {
-        "id": "b45aa0b9cae0fe186f4eab392d8afca76803ef62",
-        "title": "Palantir联合创始人表示，人工智能方面一切都会好起来：“我们已经掌握了局面”",
-        "url": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -928,18 +1183,18 @@
           "published_at": "2026-09-13T17:42:38.853000Z"
         },
         {
-          "id": "42c229cea98ed373d88b8ec4bd481d8d0b083ae2",
+          "id": "abff2201c00e45b59e0bce4ae170e4586b0a8455",
           "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
           "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-13T15:44:38Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "techcrunch.com"
       ],
       "items": [
@@ -953,26 +1208,26 @@
           "published_at": "2026-09-13T17:42:38.853000Z"
         },
         {
-          "id": "42c229cea98ed373d88b8ec4bd481d8d0b083ae2",
+          "id": "abff2201c00e45b59e0bce4ae170e4586b0a8455",
           "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
           "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-13T15:44:38Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9329,
+        "recency": 0.9047,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -986,84 +1241,6 @@
         "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
         "source": "techcrunch.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_80d6aeeaf16c",
-      "title": "特朗普淡化对人工智能的担忧，而企业高管们则呼吁放缓发展步伐",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e07a031f4a511e2b917fa869f867be17eb677264",
-          "title": "特朗普淡化对人工智能的担忧，而企业高管们则呼吁放缓发展步伐",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T15:54:33.636000Z"
-        },
-        {
-          "id": "ce49a64a86b3ed192b6a91494715d365d5f8d226",
-          "title": "特朗普淡化对人工智能的担忧，而企业高管们则呼吁放缓该技术的发展",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T14:20:28.467000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "e07a031f4a511e2b917fa869f867be17eb677264",
-          "title": "特朗普淡化对人工智能的担忧，而企业高管们则呼吁放缓发展步伐",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T15:54:33.636000Z"
-        },
-        {
-          "id": "ce49a64a86b3ed192b6a91494715d365d5f8d226",
-          "title": "特朗普淡化对人工智能的担忧，而企业高管们则呼吁放缓该技术的发展",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T14:20:28.467000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5294,
-      "importance": 0.5294,
-      "importance_score": 0.5294,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9089,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T14:20:28.467000Z",
-      "latest_at": "2026-09-13T15:54:33.636000Z",
-      "primary_item": {
-        "id": "e07a031f4a511e2b917fa869f867be17eb677264",
-        "title": "特朗普淡化对人工智能的担忧，而企业高管们则呼吁放缓发展步伐",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
-        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     },
@@ -1121,15 +1298,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5214,
+      "importance": 0.5214,
+      "importance_score": 0.5214,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8912,
+        "recency": 0.8644,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1200,15 +1377,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5214,
+      "importance": 0.5214,
+      "importance_score": 0.5214,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8912,
+        "recency": 0.8644,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1297,15 +1474,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7444,
+        "recency": 0.722,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1323,319 +1500,160 @@
       }
     },
     {
-      "story_id": "story_ae1c0b143270",
-      "title": "为什么人工智能代理会说谎、作弊并相互协调？",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "primary_url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "source": "yoshuabengio.org",
-      "source_name": "Buzzing",
+      "story_id": "story_9e14568bf55d",
+      "title": "阿莫迪的响指：我们该如何理解「大模型减速论」？",
+      "url": "https://www.huxiu.com/article/4890862.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4890862.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
-          "title": "为什么人工智能代理会说谎、作弊并相互协调？",
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "source": "yoshuabengio.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T07:17:17.819000Z"
+          "id": "6b99afbe6af7aa5995d1a299444369f6d10c79ea",
+          "title": "阿莫迪的响指：我们该如何理解「大模型减速论」？",
+          "url": "https://www.huxiu.com/article/4890862.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "09e3d89fde96e3f9972839655b1b3c22d1c83c7f",
-          "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T01:22:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "yoshuabengio.org"
-      ],
-      "items": [
-        {
-          "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
-          "title": "为什么人工智能代理会说谎、作弊并相互协调？",
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "source": "yoshuabengio.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T07:17:17.819000Z"
-        },
-        {
-          "id": "09e3d89fde96e3f9972839655b1b3c22d1c83c7f",
-          "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T01:22:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5103,
-      "importance": 0.5103,
-      "importance_score": 0.5103,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8025,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T01:22:31Z",
-      "latest_at": "2026-09-13T07:17:17.819000Z",
-      "primary_item": {
-        "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
-        "title": "为什么人工智能代理会说谎、作弊并相互协调？",
-        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-        "source": "yoshuabengio.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_40ae80140ac4",
-      "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6d059054254586bf2c7d58896e14bdd69705ed04",
-          "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多",
-          "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T18:45:18.270000Z"
-        },
-        {
-          "id": "8468a66c224628957c68fc7ca80007d445a8d6a2",
-          "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多 / Questions mount over what an AI 'slowdown' would look like",
-          "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T18:20:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "6d059054254586bf2c7d58896e14bdd69705ed04",
-          "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多",
-          "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T18:45:18.270000Z"
-        },
-        {
-          "id": "8468a66c224628957c68fc7ca80007d445a8d6a2",
-          "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多 / Questions mount over what an AI 'slowdown' would look like",
-          "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T18:20:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.947,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T18:20:22Z",
-      "latest_at": "2026-09-13T18:45:18.270000Z",
-      "primary_item": {
-        "id": "6d059054254586bf2c7d58896e14bdd69705ed04",
-        "title": "关于人工智能“放缓”会呈现何种态势，质疑声日益增多",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_106d06eb2624",
-      "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
-      "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-      "primary_url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
-          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
-          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T16:10:27.930000Z"
-        },
-        {
-          "id": "63da3751edf1939a47e1df9cab0b3a5403517093",
-          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO） / Anthropic has chosen the Nasdaq for its IPO listing",
-          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T16:01:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
-          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
-          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T16:10:27.930000Z"
-        },
-        {
-          "id": "63da3751edf1939a47e1df9cab0b3a5403517093",
-          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO） / Anthropic has chosen the Nasdaq for its IPO listing",
-          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T16:01:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9124,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T16:01:38Z",
-      "latest_at": "2026-09-13T16:10:27.930000Z",
-      "primary_item": {
-        "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
-        "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
-        "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4ee70cea304a",
-      "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
-      "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-      "primary_url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
-          "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
-          "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T01:00:00Z"
-        },
-        {
-          "id": "939dd9ee8507e1e147b22ed962e594468aa13f5f",
-          "title": "人类首席执行官达里奥·阿莫代呼吁人工智能减速 / Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-          "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-          "source": "NYTimes (纽约时报热榜)",
+          "id": "2b42b0fb2b676193c0968945c53f88d0ace2dc9b",
+          "title": "阿莫迪的响指：我们该如何理解“大模型减速论”？",
+          "url": "https://www.huxiu.com/article/4890862.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-13T00:15:54Z"
+          "published_at": "2026-09-13T23:56:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "NYTimes (纽约时报热榜)",
-        "Slashdot"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
-          "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
-          "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T01:00:00Z"
+          "id": "6b99afbe6af7aa5995d1a299444369f6d10c79ea",
+          "title": "阿莫迪的响指：我们该如何理解「大模型减速论」？",
+          "url": "https://www.huxiu.com/article/4890862.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "939dd9ee8507e1e147b22ed962e594468aa13f5f",
-          "title": "人类首席执行官达里奥·阿莫代呼吁人工智能减速 / Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-          "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-          "source": "NYTimes (纽约时报热榜)",
+          "id": "2b42b0fb2b676193c0968945c53f88d0ace2dc9b",
+          "title": "阿莫迪的响指：我们该如何理解“大模型减速论”？",
+          "url": "https://www.huxiu.com/article/4890862.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-13T00:15:54Z"
+          "published_at": "2026-09-13T23:56:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7329,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-13T00:15:54Z",
-      "latest_at": "2026-09-13T01:00:00Z",
+      "earliest_at": "2026-09-13T23:56:44Z",
+      "latest_at": "2026-09-14T00:38:34.755059Z",
       "primary_item": {
-        "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
-        "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
-        "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
-        "source": "Slashdot",
-        "source_name": "TechURLs"
+        "id": "6b99afbe6af7aa5995d1a299444369f6d10c79ea",
+        "title": "阿莫迪的响指：我们该如何理解「大模型减速论」？",
+        "url": "https://www.huxiu.com/article/4890862.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_5c30ba8a42b1",
+      "title": "受人工智能相关预警影响，亚洲股市下跌，油价上涨：市场综述",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3b16278721e9b8406d447caca5b0b91be12ee32a",
+          "title": "受人工智能相关预警影响，亚洲股市下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T00:16:23.308000Z"
+        },
+        {
+          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
+          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T23:29:16.467000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "3b16278721e9b8406d447caca5b0b91be12ee32a",
+          "title": "受人工智能相关预警影响，亚洲股市下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T00:16:23.308000Z"
+        },
+        {
+          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
+          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T23:29:16.467000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9947,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T23:29:16.467000Z",
+      "latest_at": "2026-09-14T00:16:23.308000Z",
+      "primary_item": {
+        "id": "3b16278721e9b8406d447caca5b0b91be12ee32a",
+        "title": "受人工智能相关预警影响，亚洲股市下跌，油价上涨：市场综述",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     }
   ]
