@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T00:38:34.755059Z",
+  "generated_at": "2026-09-14T05:41:44.439066Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8583,
-      "importance": 0.8583,
-      "importance_score": 0.8583,
+      "score": 0.8458,
+      "importance": 0.8458,
+      "importance_score": 0.8458,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9908,
+        "recency": 0.921,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8608,
+        "recency": 0.8002,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -144,6 +144,168 @@
         "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
         "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2858a717ecf6",
+      "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+      "url": "https://www.aibase.com/news/31007",
+      "primary_url": "https://www.aibase.com/news/31007",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/news/31007",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        },
+        {
+          "id": "41f5e984d75194a3e846cfb6bab5fc8532381529",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/zh/news/31007",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/news/31007",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        },
+        {
+          "id": "41f5e984d75194a3e846cfb6bab5fc8532381529",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/zh/news/31007",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T05:41:44.439066Z",
+      "latest_at": "2026-09-14T05:41:44.439066Z",
+      "primary_item": {
+        "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+        "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+        "url": "https://www.aibase.com/news/31007",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e0331a2756bb",
+      "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+      "url": "https://www.aibase.com/news/31020",
+      "primary_url": "https://www.aibase.com/news/31020",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "76af0c7d656443bc8aca74060926a032258e5938",
+          "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+          "url": "https://www.aibase.com/news/31020",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        },
+        {
+          "id": "1b28c15b172cf4924dd842bbb8cefc1be4e5bb0f",
+          "title": "智能体跑长任务为何「失忆跑题」：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+          "url": "https://www.aibase.com/zh/news/31020",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "76af0c7d656443bc8aca74060926a032258e5938",
+          "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+          "url": "https://www.aibase.com/news/31020",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        },
+        {
+          "id": "1b28c15b172cf4924dd842bbb8cefc1be4e5bb0f",
+          "title": "智能体跑长任务为何「失忆跑题」：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+          "url": "https://www.aibase.com/zh/news/31020",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T05:41:44.439066Z",
+      "latest_at": "2026-09-14T05:41:44.439066Z",
+      "primary_item": {
+        "id": "76af0c7d656443bc8aca74060926a032258e5938",
+        "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+        "url": "https://www.aibase.com/news/31020",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -181,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7633,
+        "recency": 0.7095,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -207,63 +369,327 @@
       }
     },
     {
-      "story_id": "story_9d39bd39e651",
-      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-      "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-      "primary_url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_4ddd241d8278",
+      "title": "月费10美元!开源AI编码工具 OpenCode Go 宣布实现收支平衡",
+      "url": "https://www.aibase.com/news/31022",
+      "primary_url": "https://www.aibase.com/news/31022",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
-          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-          "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-13T18:34:31Z"
+          "id": "68bea4b5d4df51e758b5c7dc8d521fb3144dec96",
+          "title": "月费10美元!开源AI编码工具 OpenCode Go 宣布实现收支平衡",
+          "url": "https://www.aibase.com/news/31022",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        },
+        {
+          "id": "223768472b131fe90bd286ffcd99dd29f9b08a4d",
+          "title": "月费 10 美元！开源 AI 编码工具 OpenCode Go 宣布实现收支平衡",
+          "url": "https://www.aibase.com/zh/news/31022",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
-          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-          "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-13T18:34:31Z"
+          "id": "68bea4b5d4df51e758b5c7dc8d521fb3144dec96",
+          "title": "月费10美元!开源AI编码工具 OpenCode Go 宣布实现收支平衡",
+          "url": "https://www.aibase.com/news/31022",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        },
+        {
+          "id": "223768472b131fe90bd286ffcd99dd29f9b08a4d",
+          "title": "月费 10 美元！开源 AI 编码工具 OpenCode Go 宣布实现收支平衡",
+          "url": "https://www.aibase.com/zh/news/31022",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.62,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9161,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-13T18:34:31Z",
-      "latest_at": "2026-09-13T18:34:31Z",
+      "earliest_at": "2026-09-14T05:41:44.439066Z",
+      "latest_at": "2026-09-14T05:41:44.439066Z",
       "primary_item": {
-        "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
-        "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-        "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
+        "id": "68bea4b5d4df51e758b5c7dc8d521fb3144dec96",
+        "title": "月费10美元!开源AI编码工具 OpenCode Go 宣布实现收支平衡",
+        "url": "https://www.aibase.com/news/31022",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b35030784059",
+      "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
+      "url": "https://www.aibase.com/news/31015",
+      "primary_url": "https://www.aibase.com/news/31015",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cf3bde4d6b0ca507c55af60aea16e6c4af5b6129",
+          "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
+          "url": "https://www.aibase.com/news/31015",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        },
+        {
+          "id": "b756273825a7a568f523c22593b420833ca9928b",
+          "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
+          "url": "https://www.aibase.com/zh/news/31015",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cf3bde4d6b0ca507c55af60aea16e6c4af5b6129",
+          "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
+          "url": "https://www.aibase.com/news/31015",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        },
+        {
+          "id": "b756273825a7a568f523c22593b420833ca9928b",
+          "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
+          "url": "https://www.aibase.com/zh/news/31015",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T05:41:44.439066Z",
+      "latest_at": "2026-09-14T05:41:44.439066Z",
+      "primary_item": {
+        "id": "cf3bde4d6b0ca507c55af60aea16e6c4af5b6129",
+        "title": "英国试点 AI 训练营：用 AI 破解青年失业，70 名尼特族青年先学起来",
+        "url": "https://www.aibase.com/news/31015",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f6ba130b7a70",
+      "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+      "url": "https://www.aibase.com/news/31006",
+      "primary_url": "https://www.aibase.com/news/31006",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+          "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "url": "https://www.aibase.com/news/31006",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        },
+        {
+          "id": "69e01ddd16073e68b006cd8197175a09829f6d69",
+          "title": "苹果新 CEO 特努斯谈 Meta“变态眼镜”风波：AI 智能设备需要让旁人安心",
+          "url": "https://www.ithome.com/1/001/906.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T00:36:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+          "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "url": "https://www.aibase.com/news/31006",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        },
+        {
+          "id": "69e01ddd16073e68b006cd8197175a09829f6d69",
+          "title": "苹果新 CEO 特努斯谈 Meta“变态眼镜”风波：AI 智能设备需要让旁人安心",
+          "url": "https://www.ithome.com/1/001/906.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T00:36:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T00:36:02Z",
+      "latest_at": "2026-09-14T05:41:44.439066Z",
+      "primary_item": {
+        "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+        "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+        "url": "https://www.aibase.com/news/31006",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1d9ed0bfb41e",
+      "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率“高得吓人”",
+      "url": "https://www.aibase.com/news/31012",
+      "primary_url": "https://www.aibase.com/news/31012",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c6dddd63a58ead2eca8cc9d6e1379ca86d429ab0",
+          "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率“高得吓人”",
+          "url": "https://www.aibase.com/news/31012",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        },
+        {
+          "id": "a8b4c427a04f7abf7fcec88f5a4424c68e11eaad",
+          "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率「高得吓人」",
+          "url": "https://www.aibase.com/zh/news/31012",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c6dddd63a58ead2eca8cc9d6e1379ca86d429ab0",
+          "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率“高得吓人”",
+          "url": "https://www.aibase.com/news/31012",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        },
+        {
+          "id": "a8b4c427a04f7abf7fcec88f5a4424c68e11eaad",
+          "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率「高得吓人」",
+          "url": "https://www.aibase.com/zh/news/31012",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T05:41:44.439066Z",
+      "latest_at": "2026-09-14T05:41:44.439066Z",
+      "primary_item": {
+        "id": "c6dddd63a58ead2eca8cc9d6e1379ca86d429ab0",
+        "title": "谷歌 DeepMind 安全研究员离职：AI 五年内造成巨大危害的概率“高得吓人”",
+        "url": "https://www.aibase.com/news/31012",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -355,15 +781,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.633,
-      "importance": 0.633,
-      "importance_score": 0.633,
+      "score": 0.6211,
+      "importance": 0.6211,
+      "importance_score": 0.6211,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9378,
+        "recency": 0.8718,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -381,13 +807,103 @@
       }
     },
     {
+      "story_id": "story_465d6348b5a7",
+      "title": "马斯克：Grok 4.8 本周完成训练，参数量冲到 2.5 万亿，全新 C++ 软件栈喂出来",
+      "url": "https://www.aibase.com/news/31018",
+      "primary_url": "https://www.aibase.com/news/31018",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "49ee80c0770053237704f464d060c88e1b5cab3c",
+          "title": "马斯克：Grok 4.8 本周完成训练，参数量冲到 2.5 万亿，全新 C++ 软件栈喂出来",
+          "url": "https://www.aibase.com/news/31018",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        },
+        {
+          "id": "84fdb41b5707a6182c06e758036ab93e590c3cde",
+          "title": "马斯克：Grok 4.8 本周完成训练，参数量达 2.5 万亿，采用全新 C++ 软件栈",
+          "url": "https://www.aibase.com/zh/news/31018",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "49ee80c0770053237704f464d060c88e1b5cab3c",
+          "title": "马斯克：Grok 4.8 本周完成训练，参数量冲到 2.5 万亿，全新 C++ 软件栈喂出来",
+          "url": "https://www.aibase.com/news/31018",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        },
+        {
+          "id": "84fdb41b5707a6182c06e758036ab93e590c3cde",
+          "title": "马斯克：Grok 4.8 本周完成训练，参数量达 2.5 万亿，采用全新 C++ 软件栈",
+          "url": "https://www.aibase.com/zh/news/31018",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T05:41:44.439066Z",
+      "latest_at": "2026-09-14T05:41:44.439066Z",
+      "primary_item": {
+        "id": "49ee80c0770053237704f464d060c88e1b5cab3c",
+        "title": "马斯克：Grok 4.8 本周完成训练，参数量冲到 2.5 万亿，全新 C++ 软件栈喂出来",
+        "url": "https://www.aibase.com/news/31018",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
       "story_id": "story_0fa77dcd1de2",
-      "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+      "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the \"Cyphral Distich\" (370 year old cipher)",
       "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
       "primary_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "source": "www.vals.ai",
-      "source_name": "Buzzing",
+      "source": "Lobsters (技术社区)",
+      "source_name": "Info Flow",
       "sources": [
+        {
+          "id": "443a0345b76008115d93395984c8e8d9c77b98d5",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the \"Cyphral Distich\" (370 year old cipher)",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T05:33:14Z"
+        },
         {
           "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
           "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
@@ -416,14 +932,24 @@
           "published_at": "2026-09-13T21:06:13Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News",
         "Hacker News (黑客新闻)",
+        "Lobsters (技术社区)",
         "www.vals.ai"
       ],
       "items": [
         {
+          "id": "443a0345b76008115d93395984c8e8d9c77b98d5",
+          "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the \"Cyphral Distich\" (370 year old cipher)",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T05:33:14Z"
+        },
+        {
           "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
           "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
           "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
@@ -451,31 +977,92 @@
           "published_at": "2026-09-13T21:06:13Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5651,
-      "importance": 0.5651,
-      "importance_score": 0.5651,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5954,
+      "importance": 0.5954,
+      "importance_score": 0.5954,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9685,
-        "story_heat": 0.5
+        "recency": 0.998,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-09-13T21:06:13Z",
-      "latest_at": "2026-09-13T22:25:23.276000Z",
+      "latest_at": "2026-09-14T05:33:14Z",
       "primary_item": {
-        "id": "24b3c4d96adbe1f504c0ab36c7cde117fa8aa6bf",
-        "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
+        "id": "443a0345b76008115d93395984c8e8d9c77b98d5",
+        "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the \"Cyphral Distich\" (370 year old cipher)",
         "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-        "source": "www.vals.ai",
-        "source_name": "Buzzing"
+        "source": "Lobsters (技术社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_2cca9dbd6017",
+      "title": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+      "url": "https://www.aibase.com/news/31008",
+      "primary_url": "https://www.aibase.com/news/31008",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fcaab7f4aab5fd8c9a99d7b8783b6ea2ab2a7e76",
+          "title": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+          "url": "https://www.aibase.com/news/31008",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fcaab7f4aab5fd8c9a99d7b8783b6ea2ab2a7e76",
+          "title": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+          "url": "https://www.aibase.com/news/31008",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T05:41:44.439066Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T05:41:44.439066Z",
+      "latest_at": "2026-09-14T05:41:44.439066Z",
+      "primary_item": {
+        "id": "fcaab7f4aab5fd8c9a99d7b8783b6ea2ab2a7e76",
+        "title": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+        "url": "https://www.aibase.com/news/31008",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -551,15 +1138,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5563,
-      "importance": 0.5563,
-      "importance_score": 0.5563,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9194,
+        "recency": 0.8547,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -577,100 +1164,161 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
-      "url": "https://www.youtube.com/watch?v=koclOnlde0E",
-      "primary_url": "https://www.youtube.com/watch?v=koclOnlde0E",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_c0f6095b752c",
+      "title": "中国官方媒体抨击Anthropic呼吁放缓人工智能发展的主张是“冷战”策略",
+      "url": "https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14",
+      "primary_url": "https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
-          "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
-          "url": "https://www.youtube.com/watch?v=koclOnlde0E",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T18:47:26Z"
-        },
-        {
-          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
-          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T13:54:25Z"
-        },
-        {
-          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
-          "title": "Show HN: 3dbae 上的实时 AI 渲染",
-          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-          "source": "www.youtube.com",
+          "id": "4c9c8fdc988714dce413d3e871d047fc545fa636",
+          "title": "中国官方媒体抨击Anthropic呼吁放缓人工智能发展的主张是“冷战”策略",
+          "url": "https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14",
+          "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-13T04:41:15.291000Z"
+          "published_at": "2026-09-14T04:13:37.553000Z"
+        },
+        {
+          "id": "f37010cb2fe422a41fd602a01439ab9337cc47d5",
+          "title": "中国官方媒体抨击Anthropic呼吁放缓人工智能发展的主张是“冷战”策略 - Reuters",
+          "url": "https://news.google.com/read/CBMiuAFBVV95cUxOcXBVbWdJVHFtcDF3SHNDTUx5dV8yeGJDbXRsMmFNY2RmTHZodXo2NUFtU19nNF9NY0JEVURiQ0pockxyNGgxTkdKMVlDaWZSb0tnMUVHSV9sQXIzZGEtR2RCalV4a1Y3ZkRXb1RrR1ZuTFRscHNXYk5EZUpMNjA4c2FQbDdJd1ZWMXpRd3huRkgzT1lLYUxZX0RKSDNsemJ6b3Ftb01XZEFwMUtvV00yd0NVNFVhQlFW?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T04:04:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.youtube.com"
+        "news.google.com",
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
-          "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
-          "url": "https://www.youtube.com/watch?v=koclOnlde0E",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T18:47:26Z"
-        },
-        {
-          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
-          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T13:54:25Z"
-        },
-        {
-          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
-          "title": "Show HN: 3dbae 上的实时 AI 渲染",
-          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-          "source": "www.youtube.com",
+          "id": "4c9c8fdc988714dce413d3e871d047fc545fa636",
+          "title": "中国官方媒体抨击Anthropic呼吁放缓人工智能发展的主张是“冷战”策略",
+          "url": "https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14",
+          "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-13T04:41:15.291000Z"
+          "published_at": "2026-09-14T04:13:37.553000Z"
+        },
+        {
+          "id": "f37010cb2fe422a41fd602a01439ab9337cc47d5",
+          "title": "中国官方媒体抨击Anthropic呼吁放缓人工智能发展的主张是“冷战”策略 - Reuters",
+          "url": "https://news.google.com/read/CBMiuAFBVV95cUxOcXBVbWdJVHFtcDF3SHNDTUx5dV8yeGJDbXRsMmFNY2RmTHZodXo2NUFtU19nNF9NY0JEVURiQ0pockxyNGgxTkdKMVlDaWZSb0tnMUVHSV9sQXIzZGEtR2RCalV4a1Y3ZkRXb1RrR1ZuTFRscHNXYk5EZUpMNjA4c2FQbDdJd1ZWMXpRd3huRkgzT1lLYUxZX0RKSDNsemJ6b3Ftb01XZEFwMUtvV00yd0NVNFVhQlFW?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T04:04:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5562,
-      "importance": 0.5562,
-      "importance_score": 0.5562,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.919,
-        "story_heat": 0.5
+        "recency": 0.979,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-13T04:41:15.291000Z",
-      "latest_at": "2026-09-13T18:47:26Z",
+      "earliest_at": "2026-09-14T04:04:00Z",
+      "latest_at": "2026-09-14T04:13:37.553000Z",
       "primary_item": {
-        "id": "0cc20a09ceec7d85ebf595da2ec3e5f2b5c0f592",
-        "title": "利用“Flock”摄像头逮捕了一名在秋千上玩耍的儿童 / Flock cameras used to arrest a child for playing on a swing",
-        "url": "https://www.youtube.com/watch?v=koclOnlde0E",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "4c9c8fdc988714dce413d3e871d047fc545fa636",
+        "title": "中国官方媒体抨击Anthropic呼吁放缓人工智能发展的主张是“冷战”策略",
+        "url": "https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a48efce8394f",
+      "title": "据《Business Insider》报道，Anthropic选择在纳斯达克上市",
+      "url": "https://reut.rs/3UNQe9n",
+      "primary_url": "https://reut.rs/3UNQe9n",
+      "source": "reut.rs",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "07f0449ec0d1ffb5156eebf4359156b4c3af5d16",
+          "title": "据《Business Insider》报道，Anthropic选择在纳斯达克上市",
+          "url": "https://reut.rs/3UNQe9n",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T02:54:11.058000Z"
+        },
+        {
+          "id": "0f78f4e11e48b4f9dfa561d1e491e17acbe5a581",
+          "title": "据《Business Insider》报道，Anthropic选择在纳斯达克上市 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcDg3dC1KTGZCUzVUbnNPOGpvSUZHdUhZTlI0eEJjYmdFUE1ZT3RaV29jd3ZJamtjakVRTnNKbE0zcVFETmtSaC1RRXZHTS1GNG56UV8tYkJkbnJpVEVwSzM4MnhpZ3o2bkhkM3Y0aWVNcW1QT0dJVlZoTUlzc0JfaWhvS2phRVE3dVYyYnpzSmJ3UzhZRWVVb0FSblpxUDA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T01:03:30.759000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "reut.rs"
+      ],
+      "items": [
+        {
+          "id": "07f0449ec0d1ffb5156eebf4359156b4c3af5d16",
+          "title": "据《Business Insider》报道，Anthropic选择在纳斯达克上市",
+          "url": "https://reut.rs/3UNQe9n",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T02:54:11.058000Z"
+        },
+        {
+          "id": "0f78f4e11e48b4f9dfa561d1e491e17acbe5a581",
+          "title": "据《Business Insider》报道，Anthropic选择在纳斯达克上市 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcDg3dC1KTGZCUzVUbnNPOGpvSUZHdUhZTlI0eEJjYmdFUE1ZT3RaV29jd3ZJamtjakVRTnNKbE0zcVFETmtSaC1RRXZHTS1GNG56UV8tYkJkbnJpVEVwSzM4MnhpZ3o2bkhkM3Y0aWVNcW1QT0dJVlZoTUlzc0JfaWhvS2phRVE3dVYyYnpzSmJ3UzhZRWVVb0FSblpxUDA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T01:03:30.759000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9605,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T01:03:30.759000Z",
+      "latest_at": "2026-09-14T02:54:11.058000Z",
+      "primary_item": {
+        "id": "07f0449ec0d1ffb5156eebf4359156b4c3af5d16",
+        "title": "据《Business Insider》报道，Anthropic选择在纳斯达克上市",
+        "url": "https://reut.rs/3UNQe9n",
+        "source": "reut.rs",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -746,15 +1394,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5465,
-      "importance": 0.5465,
-      "importance_score": 0.5465,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8651,
+        "recency": 0.8042,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -768,6 +1416,84 @@
         "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视",
         "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.co.uk",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_29e9d078f61b",
+      "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "58db39c519e8a833e0f47ebacc4a107ce2859b8e",
+          "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T01:03:29.688000Z"
+        },
+        {
+          "id": "f98bb2be4df553840e082cda56f31c84c263179f",
+          "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - PBS",
+          "url": "https://news.google.com/read/CBMizAFBVV95cUxQcHJIM0F2T0JiX0NjZVV3cURYdE1jaE1kM0RuVmpzRUhVNlRfWThMTkdTbndURkxDNEJaTVNsbmRxSHAyTVVSU0dreUJLcUZXaWxlb0hSUUs3Ukk2Y1dJZzVvbHJGWlNwX3p5eFN0cUVrNVBuTHdmd2t3bFJfRjlob0FGbU1RaGFEYTI3bTRseGdYbUxjejQ4VFJiREtDOHA4ZG9iZXhNaWxXRkxGQlZfQXJwVTBURWIySWJVeXY5R0k4TXdxUm9FcTNtNzbSAdIBQVVfeXFMTjNGa1VPeV9ya0JZd1JsZU5UMW1BSV9qQXNoOC1iN0NSajdrS2xGSjhOVGVyRVBpbmRzemJaUzJtQ25GQUplZ0k1bk9kdVkxUTQ3RlpxTThTWjNkb3kwOGREUTR4ZUROakQ2dXc3M214MUhmSG8tQldXSXB1VUoyVjlHRzhNQW44MkQ4Q2pGYi1GWmc2WUhtQ0RVVFFrSWJ4ckZoWURoV0xZTzE2RnZ0Rlo0Q21nVWhTdXhtMFhnUjhzbkh0WFlxU0ZxbFR6TFN2Vl9n?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T22:08:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "58db39c519e8a833e0f47ebacc4a107ce2859b8e",
+          "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T01:03:29.688000Z"
+        },
+        {
+          "id": "f98bb2be4df553840e082cda56f31c84c263179f",
+          "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - PBS",
+          "url": "https://news.google.com/read/CBMizAFBVV95cUxQcHJIM0F2T0JiX0NjZVV3cURYdE1jaE1kM0RuVmpzRUhVNlRfWThMTkdTbndURkxDNEJaTVNsbmRxSHAyTVVSU0dreUJLcUZXaWxlb0hSUUs3Ukk2Y1dJZzVvbHJGWlNwX3p5eFN0cUVrNVBuTHdmd2t3bFJfRjlob0FGbU1RaGFEYTI3bTRseGdYbUxjejQ4VFJiREtDOHA4ZG9iZXhNaWxXRkxGQlZfQXJwVTBURWIySWJVeXY5R0k4TXdxUm9FcTNtNzbSAdIBQVVfeXFMTjNGa1VPeV9ya0JZd1JsZU5UMW1BSV9qQXNoOC1iN0NSajdrS2xGSjhOVGVyRVBpbmRzemJaUzJtQ25GQUplZ0k1bk9kdVkxUTQ3RlpxTThTWjNkb3kwOGREUTR4ZUROakQ2dXc3M214MUhmSG8tQldXSXB1VUoyVjlHRzhNQW44MkQ4Q2pGYi1GWmc2WUhtQ0RVVFFrSWJ4ckZoWURoV0xZTzE2RnZ0Rlo0Q21nVWhTdXhtMFhnUjhzbkh0WFlxU0ZxbFR6TFN2Vl9n?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T22:08:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9352,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T22:08:25Z",
+      "latest_at": "2026-09-14T01:03:29.688000Z",
+      "primary_item": {
+        "id": "58db39c519e8a833e0f47ebacc4a107ce2859b8e",
+        "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     },
@@ -825,15 +1551,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9296,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -903,15 +1629,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5455,
-      "importance": 0.5455,
-      "importance_score": 0.5455,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9986,
+        "recency": 0.9283,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -924,734 +1650,6 @@
         "id": "36c9c4e61a3b06b04ff9a31805de7148883f8a9c",
         "title": "Anthropic的AI警告被视为芯片股的暂时性挫折",
         "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cc0d45cace72",
-      "title": "AI行业最有权势的CEO们踩下刹车 / OpenAI and Anthropic Hit the Brakes",
-      "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-      "primary_url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
-      "sources": [
-        {
-          "id": "8bf801f6e2ddf03f4f3acb0a9d28a3e096437198",
-          "title": "AI行业最有权势的CEO们踩下刹车 / OpenAI and Anthropic Hit the Brakes",
-          "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-13T23:58:17Z"
-        },
-        {
-          "id": "ab907d0b50ee0d9ac90a41f8bd7a2e74adbea8f4",
-          "title": "AI行业最有权势的CEO们踩下刹车",
-          "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T13:16:27.110000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "www.axios.com"
-      ],
-      "items": [
-        {
-          "id": "8bf801f6e2ddf03f4f3acb0a9d28a3e096437198",
-          "title": "AI行业最有权势的CEO们踩下刹车 / OpenAI and Anthropic Hit the Brakes",
-          "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-13T23:58:17Z"
-        },
-        {
-          "id": "ab907d0b50ee0d9ac90a41f8bd7a2e74adbea8f4",
-          "title": "AI行业最有权势的CEO们踩下刹车",
-          "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T13:16:27.110000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9903,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T13:16:27.110000Z",
-      "latest_at": "2026-09-13T23:58:17Z",
-      "primary_item": {
-        "id": "8bf801f6e2ddf03f4f3acb0a9d28a3e096437198",
-        "title": "AI行业最有权势的CEO们踩下刹车 / OpenAI and Anthropic Hit the Brakes",
-        "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
-      }
-    },
-    {
-      "story_id": "story_58e536e7446d",
-      "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
-      "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
-      "primary_url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
-          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
-          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T21:23:31.600000Z"
-        },
-        {
-          "id": "89c8bb768c51acd230757f7daf2c09652ea4984c",
-          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁 / What smart people are saying about the AI apocalypse and calls to slow everything down",
-          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T20:55:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
-          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
-          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T21:23:31.600000Z"
-        },
-        {
-          "id": "89c8bb768c51acd230757f7daf2c09652ea4984c",
-          "title": "智者们如何看待“AI末日”以及放缓一切的呼吁 / What smart people are saying about the AI apocalypse and calls to slow everything down",
-          "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T20:55:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9541,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T20:55:24Z",
-      "latest_at": "2026-09-13T21:23:31.600000Z",
-      "primary_item": {
-        "id": "31bb9360175cce9c9d66b96639eb6a880242af0e",
-        "title": "智者们如何看待“AI末日”以及放缓一切的呼吁",
-        "url": "https://www.businessinsider.com/ai-risks-slow-down-reaction-anthropic-dario-amodei-sam-altman-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4e3f293e3094",
-      "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "primary_url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "source": "twitter.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
-          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
-          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T18:45:18.039000Z"
-        },
-        {
-          "id": "b9f13952ff731bc38c11c9cdf065b2837419445b",
-          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T16:52:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "twitter.com"
-      ],
-      "items": [
-        {
-          "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
-          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
-          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T18:45:18.039000Z"
-        },
-        {
-          "id": "b9f13952ff731bc38c11c9cdf065b2837419445b",
-          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T16:52:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9185,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T16:52:33Z",
-      "latest_at": "2026-09-13T18:45:18.039000Z",
-      "primary_item": {
-        "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
-        "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
-        "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-        "source": "twitter.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_543492d80546",
-      "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-      "primary_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-      "source": "techcrunch.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "00225e52d1622a3cddffe59233fb8639878609ec",
-          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T17:42:38.853000Z"
-        },
-        {
-          "id": "abff2201c00e45b59e0bce4ae170e4586b0a8455",
-          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T15:44:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "techcrunch.com"
-      ],
-      "items": [
-        {
-          "id": "00225e52d1622a3cddffe59233fb8639878609ec",
-          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T17:42:38.853000Z"
-        },
-        {
-          "id": "abff2201c00e45b59e0bce4ae170e4586b0a8455",
-          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T15:44:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9047,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T15:44:38Z",
-      "latest_at": "2026-09-13T17:42:38.853000Z",
-      "primary_item": {
-        "id": "00225e52d1622a3cddffe59233fb8639878609ec",
-        "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
-        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-        "source": "techcrunch.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fca275d6d6bc",
-      "title": "“全华班”打造的AI程序员，估值480亿美元",
-      "url": "https://www.36kr.com/p/3981230650522630",
-      "primary_url": "https://www.36kr.com/p/3981230650522630",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
-          "title": "“全华班”打造的AI程序员，估值480亿美元",
-          "url": "https://www.36kr.com/p/3981230650522630",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f38c68ddc9d5745b81a0a0de9bb7946333caf916",
-          "title": "全华班打造的 AI 程序员，估值 480 亿美元",
-          "url": "https://www.36kr.com/p/3981230650522630",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
-          "title": "“全华班”打造的AI程序员，估值480亿美元",
-          "url": "https://www.36kr.com/p/3981230650522630",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f38c68ddc9d5745b81a0a0de9bb7946333caf916",
-          "title": "全华班打造的 AI 程序员，估值 480 亿美元",
-          "url": "https://www.36kr.com/p/3981230650522630",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8644,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T05:07:03.992753Z",
-      "latest_at": "2026-09-13T14:32:57.746154Z",
-      "primary_item": {
-        "id": "f65bf55a86f774b76d837701da21c334e6b0ada0",
-        "title": "“全华班”打造的AI程序员，估值480亿美元",
-        "url": "https://www.36kr.com/p/3981230650522630",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9a589f3bdb96",
-      "title": "拥抱脸/变形金刚 / huggingface / transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "primary_url": "https://github.com/huggingface/transformers",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "004477a2386b164e80d1129fdd01d29bb3081dc4",
-          "title": "拥抱脸/变形金刚 / huggingface / transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9759290a661c2260cc7aa79e655210a738376956",
-          "title": "拥抱脸/变形金刚 / huggingface /      transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-13T14:15:14.138000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "004477a2386b164e80d1129fdd01d29bb3081dc4",
-          "title": "拥抱脸/变形金刚 / huggingface / transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9759290a661c2260cc7aa79e655210a738376956",
-          "title": "拥抱脸/变形金刚 / huggingface /      transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-13T14:15:14.138000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8644,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T14:15:14.138000Z",
-      "latest_at": "2026-09-13T14:32:57.746154Z",
-      "primary_item": {
-        "id": "004477a2386b164e80d1129fdd01d29bb3081dc4",
-        "title": "拥抱脸/变形金刚 / huggingface / transformers",
-        "url": "https://github.com/huggingface/transformers",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_29a046c34d36",
-      "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-      "primary_url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-      "source": "xeiaso.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T02:05:04.827000Z"
-        },
-        {
-          "id": "0b5444f6b177f66eda529e75f607b4314eca6bc3",
-          "title": "除了我之外，大家都应该放慢人工智能的发展步伐",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T01:33:37.975000Z"
-        },
-        {
-          "id": "500799f10129763ff92b8a1b4df4fccbccfef2d7",
-          "title": "除了我之外，大家都应该放慢人工智能的发展步伐 / Everyone should slow down AI development except for me",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T00:53:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "xeiaso.net"
-      ],
-      "items": [
-        {
-          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T02:05:04.827000Z"
-        },
-        {
-          "id": "0b5444f6b177f66eda529e75f607b4314eca6bc3",
-          "title": "除了我之外，大家都应该放慢人工智能的发展步伐",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "xeiaso.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T01:33:37.975000Z"
-        },
-        {
-          "id": "500799f10129763ff92b8a1b4df4fccbccfef2d7",
-          "title": "除了我之外，大家都应该放慢人工智能的发展步伐 / Everyone should slow down AI development except for me",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T00:53:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5208,
-      "importance": 0.5208,
-      "importance_score": 0.5208,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.722,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T00:53:30Z",
-      "latest_at": "2026-09-13T02:05:04.827000Z",
-      "primary_item": {
-        "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
-        "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
-        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-        "source": "xeiaso.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9e14568bf55d",
-      "title": "阿莫迪的响指：我们该如何理解「大模型减速论」？",
-      "url": "https://www.huxiu.com/article/4890862.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4890862.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "6b99afbe6af7aa5995d1a299444369f6d10c79ea",
-          "title": "阿莫迪的响指：我们该如何理解「大模型减速论」？",
-          "url": "https://www.huxiu.com/article/4890862.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2b42b0fb2b676193c0968945c53f88d0ace2dc9b",
-          "title": "阿莫迪的响指：我们该如何理解“大模型减速论”？",
-          "url": "https://www.huxiu.com/article/4890862.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T23:56:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "6b99afbe6af7aa5995d1a299444369f6d10c79ea",
-          "title": "阿莫迪的响指：我们该如何理解「大模型减速论」？",
-          "url": "https://www.huxiu.com/article/4890862.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2b42b0fb2b676193c0968945c53f88d0ace2dc9b",
-          "title": "阿莫迪的响指：我们该如何理解“大模型减速论”？",
-          "url": "https://www.huxiu.com/article/4890862.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-13T23:56:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T23:56:44Z",
-      "latest_at": "2026-09-14T00:38:34.755059Z",
-      "primary_item": {
-        "id": "6b99afbe6af7aa5995d1a299444369f6d10c79ea",
-        "title": "阿莫迪的响指：我们该如何理解「大模型减速论」？",
-        "url": "https://www.huxiu.com/article/4890862.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_5c30ba8a42b1",
-      "title": "受人工智能相关预警影响，亚洲股市下跌，油价上涨：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3b16278721e9b8406d447caca5b0b91be12ee32a",
-          "title": "受人工智能相关预警影响，亚洲股市下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T00:16:23.308000Z"
-        },
-        {
-          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
-          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T23:29:16.467000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "3b16278721e9b8406d447caca5b0b91be12ee32a",
-          "title": "受人工智能相关预警影响，亚洲股市下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T00:16:23.308000Z"
-        },
-        {
-          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
-          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T23:29:16.467000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9947,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T23:29:16.467000Z",
-      "latest_at": "2026-09-14T00:16:23.308000Z",
-      "primary_item": {
-        "id": "3b16278721e9b8406d447caca5b0b91be12ee32a",
-        "title": "受人工智能相关预警影响，亚洲股市下跌，油价上涨：市场综述",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
         "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
