@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-09-17T21:34:55.077108Z",
+  "generated_at": "2026-09-17T23:51:25.259739Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_cfbfb7473f2f",
+      "title": "Copilot impact dashboard now shows feature engagement",
+      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "primary_url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f3caaef86269b72461c881b48e4cad194588c253",
+          "title": "Copilot impact dashboard now shows feature engagement",
+          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T21:47:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f3caaef86269b72461c881b48e4cad194588c253",
+          "title": "Copilot impact dashboard now shows feature engagement",
+          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T21:47:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8467,
+      "importance": 0.8467,
+      "importance_score": 0.8467,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9706,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T21:47:27Z",
+      "latest_at": "2026-09-17T21:47:27Z",
+      "primary_item": {
+        "id": "f3caaef86269b72461c881b48e4cad194588c253",
+        "title": "Copilot impact dashboard now shows feature engagement",
+        "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_df4ade904b04",
       "title": "让全球数据更容易探索 / Making global data easier to explore",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9774,
+        "recency": 0.9458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,68 +124,6 @@
         "title": "让全球数据更容易探索 / Making global data easier to explore",
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a4ef61465bc2",
-      "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
-      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
-      "primary_url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-          "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
-          "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T16:27:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-          "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
-          "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T16:27:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9286,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T16:27:16Z",
-      "latest_at": "2026-09-17T16:27:16Z",
-      "primary_item": {
-        "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-        "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
-        "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -181,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
+      "score": 0.8254,
+      "importance": 0.8254,
+      "importance_score": 0.8254,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.737,
+        "recency": 0.7131,
         "story_heat": 0.25
       },
       "category": "official",
@@ -263,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7322,
+        "recency": 0.7086,
         "story_heat": 0.25
       },
       "category": "official",
@@ -288,6 +288,68 @@
         "title": "Introducing Astra for Law",
         "url": "https://openai.com/index/astra-for-law",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.155.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "499bcac3f064b38395a189728210bcf035424ff1",
+          "title": "Codex CLI 0.155.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "499bcac3f064b38395a189728210bcf035424ff1",
+          "title": "Codex CLI 0.155.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7086,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T00:00:00Z",
+      "latest_at": "2026-09-17T00:00:00Z",
+      "primary_item": {
+        "id": "499bcac3f064b38395a189728210bcf035424ff1",
+        "title": "Codex CLI 0.155.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -345,15 +407,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9855,
+        "recency": 0.9537,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -370,6 +432,68 @@
         "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7fbb1d664de3",
+      "title": "Agentic CLI customizations now in the usage metrics API",
+      "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+      "primary_url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
+          "title": "Agentic CLI customizations now in the usage metrics API",
+          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T21:08:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
+          "title": "Agentic CLI customizations now in the usage metrics API",
+          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T21:08:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9616,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T21:08:50Z",
+      "latest_at": "2026-09-17T21:08:50Z",
+      "primary_item": {
+        "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
+        "title": "Agentic CLI customizations now in the usage metrics API",
+        "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -426,15 +550,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.97,
+        "recency": 0.9387,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -454,65 +578,64 @@
       }
     },
     {
-      "story_id": "story_ba788d57500e",
-      "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
-      "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_7ce3b1881b41",
+      "title": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop",
+      "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
+      "primary_url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
+      "source": "404 Media（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-          "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
-          "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T15:45:26Z"
+          "id": "6783ca6749eb14d6c806224607b7d07a915642c8",
+          "title": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop",
+          "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T22:01:43Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "404 Media（RSS）"
       ],
       "items": [
         {
-          "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-          "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
-          "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T15:45:26Z"
+          "id": "6783ca6749eb14d6c806224607b7d07a915642c8",
+          "title": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop",
+          "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T22:01:43Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
-      "importance_label": "官方更新",
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9193,
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9739,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T15:45:26Z",
-      "latest_at": "2026-09-17T15:45:26Z",
+      "earliest_at": "2026-09-17T22:01:43Z",
+      "latest_at": "2026-09-17T22:01:43Z",
       "primary_item": {
-        "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-        "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
-        "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "6783ca6749eb14d6c806224607b7d07a915642c8",
+        "title": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop",
+        "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
+        "source": "404 Media（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -569,15 +692,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9742,
+        "recency": 0.9427,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -650,15 +773,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.9003,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -712,15 +835,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9401,
+        "recency": 0.9097,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -735,6 +858,129 @@
         "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
         "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
         "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a4ef61465bc2",
+      "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
+      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "primary_url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
+          "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
+          "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T16:27:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
+          "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
+          "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T16:27:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8258,
+      "importance": 0.8258,
+      "importance_score": 0.8258,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8986,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T16:27:16Z",
+      "latest_at": "2026-09-17T16:27:16Z",
+      "primary_item": {
+        "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
+        "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
+        "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1bb4a97baf62",
+      "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
+      "url": "https://x.com/sherwinwu/status/2100730628673065040",
+      "primary_url": "https://x.com/sherwinwu/status/2100730628673065040",
+      "source": "X：Sherwin Wu（@sherwinwu）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "698408c02cad1284bbc95137884d418e5e7541d0",
+          "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
+          "url": "https://x.com/sherwinwu/status/2100730628673065040",
+          "source": "X：Sherwin Wu（@sherwinwu）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T23:36:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sherwin Wu（@sherwinwu）"
+      ],
+      "items": [
+        {
+          "id": "698408c02cad1284bbc95137884d418e5e7541d0",
+          "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
+          "url": "https://x.com/sherwinwu/status/2100730628673065040",
+          "source": "X：Sherwin Wu（@sherwinwu）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T23:36:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9964,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T23:36:26Z",
+      "latest_at": "2026-09-17T23:36:26Z",
+      "primary_item": {
+        "id": "698408c02cad1284bbc95137884d418e5e7541d0",
+        "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
+        "url": "https://x.com/sherwinwu/status/2100730628673065040",
+        "source": "X：Sherwin Wu（@sherwinwu）",
         "source_name": "AI HOT"
       }
     },
@@ -773,15 +1019,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.989,
+        "recency": 0.9571,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -834,15 +1080,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.975,
+        "recency": 0.9435,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -857,67 +1103,6 @@
         "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
         "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
         "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c4370d94e4d0",
-      "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
-      "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-      "primary_url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
-          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
-          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T22:58:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI Safety Memes (@AISafetyMemes)"
-      ],
-      "items": [
-        {
-          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
-          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
-          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T22:58:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7215,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T22:58:50Z",
-      "latest_at": "2026-09-16T22:58:50Z",
-      "primary_item": {
-        "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
-        "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
-        "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-        "source": "X：AI Safety Memes (@AISafetyMemes)",
         "source_name": "AI HOT"
       }
     },
@@ -956,15 +1141,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9177,
+        "recency": 0.8881,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1054,15 +1239,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7657,
+        "recency": 0.741,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1116,15 +1301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.9011,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1142,244 +1327,63 @@
       }
     },
     {
-      "story_id": "story_6135ef1a19c4",
-      "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
-      "url": "https://claude.com/blog/projects-redesigned",
-      "primary_url": "https://claude.com/blog/projects-redesigned",
-      "source": "Claude：Blog（网页）",
+      "story_id": "story_fce52675aad5",
+      "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
+      "url": "https://x.com/AIatMeta/status/2100714755568644409",
+      "primary_url": "https://x.com/AIatMeta/status/2100714755568644409",
+      "source": "X：AI at Meta (@AIatMeta)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e15cbacd1d3ae0b2677e76abd75ee832320eeb88",
-          "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
-          "url": "https://claude.com/blog/projects-redesigned",
-          "source": "Claude：Blog（网页）",
+          "id": "629120c73499a9910cc657c81a8aac07313fdc13",
+          "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
+          "url": "https://x.com/AIatMeta/status/2100714755568644409",
+          "source": "X：AI at Meta (@AIatMeta)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-17T17:52:08.951000Z"
+          "published_at": "2026-09-17T22:33:21Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "X：AI at Meta (@AIatMeta)"
       ],
       "items": [
         {
-          "id": "e15cbacd1d3ae0b2677e76abd75ee832320eeb88",
-          "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
-          "url": "https://claude.com/blog/projects-redesigned",
-          "source": "Claude：Blog（网页）",
+          "id": "629120c73499a9910cc657c81a8aac07313fdc13",
+          "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
+          "url": "https://x.com/AIatMeta/status/2100714755568644409",
+          "source": "X：AI at Meta (@AIatMeta)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-17T17:52:08.951000Z"
+          "published_at": "2026-09-17T22:33:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9478,
+        "recency": 0.9814,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T17:52:08.951000Z",
-      "latest_at": "2026-09-17T17:52:08.951000Z",
+      "earliest_at": "2026-09-17T22:33:21Z",
+      "latest_at": "2026-09-17T22:33:21Z",
       "primary_item": {
-        "id": "e15cbacd1d3ae0b2677e76abd75ee832320eeb88",
-        "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
-        "url": "https://claude.com/blog/projects-redesigned",
-        "source": "Claude：Blog（网页）",
+        "id": "629120c73499a9910cc657c81a8aac07313fdc13",
+        "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
+        "url": "https://x.com/AIatMeta/status/2100714755568644409",
+        "source": "X：AI at Meta (@AIatMeta)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_88ba0d9eaef4",
-      "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
-      "url": "https://x.com/UnslothAI/status/2100601458458804381",
-      "primary_url": "https://x.com/UnslothAI/status/2100601458458804381",
-      "source": "X：Unsloth (@UnslothAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
-          "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
-          "url": "https://x.com/UnslothAI/status/2100601458458804381",
-          "source": "X：Unsloth (@UnslothAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T15:03:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Unsloth (@UnslothAI)"
-      ],
-      "items": [
-        {
-          "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
-          "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
-          "url": "https://x.com/UnslothAI/status/2100601458458804381",
-          "source": "X：Unsloth (@UnslothAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T15:03:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.91,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T15:03:09Z",
-      "latest_at": "2026-09-17T15:03:09Z",
-      "primary_item": {
-        "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
-        "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
-        "url": "https://x.com/UnslothAI/status/2100601458458804381",
-        "source": "X：Unsloth (@UnslothAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d21528aab7f9",
-      "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致",
-      "url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
-      "primary_url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
-      "source": "Epoch AI：研究、数据与评测",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "996726a9ac53981eb863eccd8e5c018833bfdf77",
-          "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致",
-          "url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
-          "source": "Epoch AI：研究、数据与评测",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Epoch AI：研究、数据与评测"
-      ],
-      "items": [
-        {
-          "id": "996726a9ac53981eb863eccd8e5c018833bfdf77",
-          "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致",
-          "url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
-          "source": "Epoch AI：研究、数据与评测",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7322,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T00:00:00Z",
-      "latest_at": "2026-09-17T00:00:00Z",
-      "primary_item": {
-        "id": "996726a9ac53981eb863eccd8e5c018833bfdf77",
-        "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致",
-        "url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
-        "source": "Epoch AI：研究、数据与评测",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d8eb6724f498",
-      "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-      "url": "https://www.aibase.com/news/31139",
-      "primary_url": "https://www.aibase.com/news/31139",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
-          "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-          "url": "https://www.aibase.com/news/31139",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T18:34:55.077108Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
-          "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-          "url": "https://www.aibase.com/news/31139",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T18:34:55.077108Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T18:34:55.077108Z",
-      "latest_at": "2026-09-17T18:34:55.077108Z",
-      "primary_item": {
-        "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
-        "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
-        "url": "https://www.aibase.com/news/31139",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
