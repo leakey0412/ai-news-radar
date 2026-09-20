@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:58:21.822358Z",
+  "generated_at": "2026-09-20T15:43:15.452905Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.7966,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -119,6 +119,106 @@
         "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fc9a8f12e485",
+      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "primary_url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T12:00:00Z"
+        },
+        {
+          "id": "a61c03e72c1b70942a9ef553e5e659ecedba9f5d",
+          "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T14:40:14.401000Z"
+        },
+        {
+          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T13:09:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Qwen：Blog Retrieval（API）",
+        "qwen.ai"
+      ],
+      "items": [
+        {
+          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T12:00:00Z"
+        },
+        {
+          "id": "a61c03e72c1b70942a9ef553e5e659ecedba9f5d",
+          "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T14:40:14.401000Z"
+        },
+        {
+          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T13:09:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9477,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T12:00:00Z",
+      "latest_at": "2026-09-20T14:40:14.401000Z",
+      "primary_item": {
+        "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+        "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "source": "Qwen：Blog Retrieval（API）",
         "source_name": "AI HOT"
       }
     },
@@ -176,15 +276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9473,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -201,6 +301,67 @@
         "url": "https://www.aibase.com/news/31195",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7652446ef5af",
+      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T13:52:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T13:52:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9737,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T13:52:24Z",
+      "latest_at": "2026-09-20T13:52:24Z",
+      "primary_item": {
+        "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+        "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -257,15 +418,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9473,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -338,15 +499,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9473,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -363,66 +524,6 @@
         "url": "https://www.aibase.com/news/31203",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-      "source": "公众号：阶跃星辰（Step）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
-          "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-          "source": "公众号：阶跃星辰（Step）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T02:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：阶跃星辰（Step）"
-      ],
-      "items": [
-        {
-          "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
-          "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-          "source": "公众号：阶跃星辰（Step）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T02:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8659,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T02:00:00Z",
-      "latest_at": "2026-09-20T02:00:00Z",
-      "primary_item": {
-        "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
-        "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-        "source": "公众号：阶跃星辰（Step）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -479,15 +580,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9255,
+        "recency": 0.8767,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -560,15 +661,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9255,
+        "recency": 0.8767,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -694,15 +795,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6513,
-      "importance": 0.6513,
-      "importance_score": 0.6513,
+      "score": 0.6437,
+      "importance": 0.6437,
+      "importance_score": 0.6437,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 0.8083,
+        "recency": 0.7657,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -773,15 +874,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9255,
+        "recency": 0.8767,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -853,15 +954,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6116,
-      "importance": 0.6116,
-      "importance_score": 0.6116,
+      "score": 0.6041,
+      "importance": 0.6041,
+      "importance_score": 0.6041,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7936,
+        "recency": 0.7518,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -932,15 +1033,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9255,
+        "recency": 0.8767,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1069,15 +1170,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5838,
-      "importance": 0.5838,
-      "importance_score": 0.5838,
+      "score": 0.5763,
+      "importance": 0.5763,
+      "importance_score": 0.5763,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7947,
+        "recency": 0.7528,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1091,6 +1192,104 @@
         "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
         "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
         "source": "erichgrunewald.substack.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5d316fdb66cf",
+      "title": "人工智能与“知识共享”的瓦解",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+      "primary_url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+      "source": "www.chesterwisniewski.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
+          "title": "人工智能与“知识共享”的瓦解",
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "www.chesterwisniewski.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T12:50:12.972000Z"
+        },
+        {
+          "id": "2c5b41cc956ce17a9646a349feb328767c4a55ec",
+          "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T10:07:51Z"
+        },
+        {
+          "id": "2f14c09bbcc2c0bbbcc43982591753c4c9f214b9",
+          "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
+          "url": "https://news.ycombinator.com/item?id=49774329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T10:07:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.chesterwisniewski.com"
+      ],
+      "items": [
+        {
+          "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
+          "title": "人工智能与“知识共享”的瓦解",
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "www.chesterwisniewski.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T12:50:12.972000Z"
+        },
+        {
+          "id": "2c5b41cc956ce17a9646a349feb328767c4a55ec",
+          "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T10:07:51Z"
+        },
+        {
+          "id": "2f14c09bbcc2c0bbbcc43982591753c4c9f214b9",
+          "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
+          "url": "https://news.ycombinator.com/item?id=49774329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T10:07:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5635,
+      "importance": 0.5635,
+      "importance_score": 0.5635,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9592,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T10:07:51Z",
+      "latest_at": "2026-09-20T12:50:12.972000Z",
+      "primary_item": {
+        "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
+        "title": "人工智能与“知识共享”的瓦解",
+        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+        "source": "www.chesterwisniewski.com",
         "source_name": "Buzzing"
       }
     },
@@ -1148,15 +1347,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9255,
+        "recency": 0.8767,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1173,6 +1372,320 @@
         "url": "https://www.aibase.com/news/31177",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_60f379c3b3ff",
+      "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+      "url": "https://softwarecrisis.dev/letters/llmentalist",
+      "primary_url": "https://softwarecrisis.dev/letters/llmentalist",
+      "source": "softwarecrisis.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "softwarecrisis.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T15:28:23.669000Z"
+        },
+        {
+          "id": "e833e45361cefdae5e3786311631db75df845e8d",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T12:20:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "softwarecrisis.dev"
+      ],
+      "items": [
+        {
+          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "softwarecrisis.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T15:28:23.669000Z"
+        },
+        {
+          "id": "e833e45361cefdae5e3786311631db75df845e8d",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T12:20:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9964,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T12:20:13Z",
+      "latest_at": "2026-09-20T15:28:23.669000Z",
+      "primary_item": {
+        "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+        "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+        "url": "https://softwarecrisis.dev/letters/llmentalist",
+        "source": "softwarecrisis.dev",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d7df6a0fce8b",
+      "title": "美国财政部的贝森特与中国方面的何某就人工智能、贸易和关键矿产问题展开磋商",
+      "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
+      "primary_url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1745e3931d7ca5d6b7d96c57d8391bc830150aea",
+          "title": "美国财政部的贝森特与中国方面的何某就人工智能、贸易和关键矿产问题展开磋商",
+          "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T15:12:42.002000Z"
+        },
+        {
+          "id": "78a74478530eb4998456b736805fba4673ecfd94",
+          "title": "美国财政部的贝森特与中国方面的何某将就人工智能、贸易和关键矿产问题展开磋商",
+          "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T05:15:21.843000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "1745e3931d7ca5d6b7d96c57d8391bc830150aea",
+          "title": "美国财政部的贝森特与中国方面的何某就人工智能、贸易和关键矿产问题展开磋商",
+          "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T15:12:42.002000Z"
+        },
+        {
+          "id": "78a74478530eb4998456b736805fba4673ecfd94",
+          "title": "美国财政部的贝森特与中国方面的何某将就人工智能、贸易和关键矿产问题展开磋商",
+          "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T05:15:21.843000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9927,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T05:15:21.843000Z",
+      "latest_at": "2026-09-20T15:12:42.002000Z",
+      "primary_item": {
+        "id": "1745e3931d7ca5d6b7d96c57d8391bc830150aea",
+        "title": "美国财政部的贝森特与中国方面的何某就人工智能、贸易和关键矿产问题展开磋商",
+        "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_26586092ac59",
+      "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成非法协议 - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9837404c625ca16399a2264d0df4ae1cb15c0d4c",
+          "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成非法协议 - PBS",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T12:19:27.784000Z"
+        },
+        {
+          "id": "26789a19bbadd03679aa2221861335892c3282a5",
+          "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成了非法协议 - abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUQ2b2EtNnVIUWU5YlJwMEVkXzBHQzZJaTZvN2wzQ3kwMDVnQlpjd1VDY2xPLWFBV1JURFNFV29ZQTU1WWhaZ0Y1UzBTYW1yb2RsZXhQaTd6cmhQWk5OeWdNSjc3ekZYaDBCT3hwM0VrZ1Z2Wm9VdktYUUU4azExWmR4OE1NRXBoUkxiUkZ4MXdOOU9iZllxM1k5N3RBTW0wWk9DRnNOa2Ywc0dmWWgtalNudTDSAboBQVVfeXFMTTRMWDkydU5KWmppbDJDckFmQmdHSkdWXy1LRjZtX0ZKTmNfWmVvSDhXQmgyV1h1WDFLR0g4emVRcXp2ODdRTnk3VTNUREo5aHd4M0pTdnVMSUlFOVBBOVJ2aGlmV1RxX1FHem1SS291MDFET0NaM3NDeWtrYURoOTkyNUx4SU5rU3c2cjk0Slc2Z2NiYlJEOWc0UE9DWVI0VnZONjB3WEhxVFNpT1ZIQTRlSk5Yd2lDN2ZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T07:19:35.279000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "9837404c625ca16399a2264d0df4ae1cb15c0d4c",
+          "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成非法协议 - PBS",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T12:19:27.784000Z"
+        },
+        {
+          "id": "26789a19bbadd03679aa2221861335892c3282a5",
+          "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成了非法协议 - abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUQ2b2EtNnVIUWU5YlJwMEVkXzBHQzZJaTZvN2wzQ3kwMDVnQlpjd1VDY2xPLWFBV1JURFNFV29ZQTU1WWhaZ0Y1UzBTYW1yb2RsZXhQaTd6cmhQWk5OeWdNSjc3ekZYaDBCT3hwM0VrZ1Z2Wm9VdktYUUU4azExWmR4OE1NRXBoUkxiUkZ4MXdOOU9iZllxM1k5N3RBTW0wWk9DRnNOa2Ywc0dmWWgtalNudTDSAboBQVVfeXFMTTRMWDkydU5KWmppbDJDckFmQmdHSkdWXy1LRjZtX0ZKTmNfWmVvSDhXQmgyV1h1WDFLR0g4emVRcXp2ODdRTnk3VTNUREo5aHd4M0pTdnVMSUlFOVBBOVJ2aGlmV1RxX1FHem1SS291MDFET0NaM3NDeWtrYURoOTkyNUx4SU5rU3c2cjk0Slc2Z2NiYlJEOWc0UE9DWVI0VnZONjB3WEhxVFNpT1ZIQTRlSk5Yd2lDN2ZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T07:19:35.279000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9521,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T07:19:35.279000Z",
+      "latest_at": "2026-09-20T12:19:27.784000Z",
+      "primary_item": {
+        "id": "9837404c625ca16399a2264d0df4ae1cb15c0d4c",
+        "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成非法协议 - PBS",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d9e220dea7b7",
+      "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+      "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+      "primary_url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "9e4b39fee8e55d307074a3f4e61aee1d9a098bbf",
+          "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T12:07:10Z"
+        },
+        {
+          "id": "dffa282ed2d8d47e66e1c469a13e587592d5f48b",
+          "title": "科技巨头利用担保手段，将3000亿美元的人工智能相关风险排除在资产负债表之外",
+          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T07:19:35.282000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.ft.com"
+      ],
+      "items": [
+        {
+          "id": "9e4b39fee8e55d307074a3f4e61aee1d9a098bbf",
+          "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T12:07:10Z"
+        },
+        {
+          "id": "dffa282ed2d8d47e66e1c469a13e587592d5f48b",
+          "title": "科技巨头利用担保手段，将3000亿美元的人工智能相关风险排除在资产负债表之外",
+          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T07:19:35.282000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9493,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T07:19:35.282000Z",
+      "latest_at": "2026-09-20T12:07:10Z",
+      "primary_item": {
+        "id": "9e4b39fee8e55d307074a3f4e61aee1d9a098bbf",
+        "title": "大型科技公司利用担保将 300B 美元的人工智能风险保留在资产负债表之外 / Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+        "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1229,15 +1742,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9473,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1252,501 +1765,6 @@
         "url": "https://github.com/anthropics/financial-services",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2e3bdb14fda2",
-      "title": "Show HN: 我创建了一个可在本地使用的开源、功能齐全的人工智能平台",
-      "url": "https://github.com/theguysudo/ENZO",
-      "primary_url": "https://github.com/theguysudo/ENZO",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "13c7fac7485d3b93bc5e2f99105617f0973994af",
-          "title": "Show HN: 我创建了一个可在本地使用的开源、功能齐全的人工智能平台",
-          "url": "https://github.com/theguysudo/ENZO",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T23:58:19.159000Z"
-        },
-        {
-          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-          "title": "Show HN: 我创建了一个可在本地使用的开源、功能齐全的人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "url": "https://github.com/theguysudo/ENZO",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:47:35Z"
-        },
-        {
-          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "url": "https://news.ycombinator.com/item?id=49771118",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:47:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "13c7fac7485d3b93bc5e2f99105617f0973994af",
-          "title": "Show HN: 我创建了一个可在本地使用的开源、功能齐全的人工智能平台",
-          "url": "https://github.com/theguysudo/ENZO",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T23:58:19.159000Z"
-        },
-        {
-          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-          "title": "Show HN: 我创建了一个可在本地使用的开源、功能齐全的人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "url": "https://github.com/theguysudo/ENZO",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:47:35Z"
-        },
-        {
-          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "url": "https://news.ycombinator.com/item?id=49771118",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:47:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8409,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T23:47:35Z",
-      "latest_at": "2026-09-19T23:58:19.159000Z",
-      "primary_item": {
-        "id": "13c7fac7485d3b93bc5e2f99105617f0973994af",
-        "title": "Show HN: 我创建了一个可在本地使用的开源、功能齐全的人工智能平台",
-        "url": "https://github.com/theguysudo/ENZO",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5d316fdb66cf",
-      "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
-      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-      "primary_url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "2c5b41cc956ce17a9646a349feb328767c4a55ec",
-          "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T10:07:51Z"
-        },
-        {
-          "id": "2f14c09bbcc2c0bbbcc43982591753c4c9f214b9",
-          "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
-          "url": "https://news.ycombinator.com/item?id=49774329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T10:07:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2c5b41cc956ce17a9646a349feb328767c4a55ec",
-          "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T10:07:51Z"
-        },
-        {
-          "id": "2f14c09bbcc2c0bbbcc43982591753c4c9f214b9",
-          "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
-          "url": "https://news.ycombinator.com/item?id=49774329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T10:07:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9738,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T10:07:51Z",
-      "latest_at": "2026-09-20T10:07:51Z",
-      "primary_item": {
-        "id": "2c5b41cc956ce17a9646a349feb328767c4a55ec",
-        "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
-        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_e9105f23f04c",
-      "title": "就在人工智能实验室希望赋予智能体更多掌控你生活的权限之际，它们却正在失去对这些智能体的控制",
-      "url": "https://www.businessinsider.com/ai-agents-misbehavior-alignment-privacy-muse-instinct-2026-9",
-      "primary_url": "https://www.businessinsider.com/ai-agents-misbehavior-alignment-privacy-muse-instinct-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "51a0afde7098a62a4f538ea78796ad08b735877a",
-          "title": "就在人工智能实验室希望赋予智能体更多掌控你生活的权限之际，它们却正在失去对这些智能体的控制",
-          "url": "https://www.businessinsider.com/ai-agents-misbehavior-alignment-privacy-muse-instinct-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T09:43:19.152000Z"
-        },
-        {
-          "id": "875a70c3232ad4d7e5a8a824aa60c660047d6119",
-          "title": "就在人工智能实验室希望赋予智能体更多掌控你生活的权限之际，它们却正在失去对这些智能体的控制 / AI agents are ready to run your life. Do you trust them?",
-          "url": "https://www.businessinsider.com/ai-agents-misbehavior-alignment-privacy-muse-instinct-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T09:01:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "51a0afde7098a62a4f538ea78796ad08b735877a",
-          "title": "就在人工智能实验室希望赋予智能体更多掌控你生活的权限之际，它们却正在失去对这些智能体的控制",
-          "url": "https://www.businessinsider.com/ai-agents-misbehavior-alignment-privacy-muse-instinct-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T09:43:19.152000Z"
-        },
-        {
-          "id": "875a70c3232ad4d7e5a8a824aa60c660047d6119",
-          "title": "就在人工智能实验室希望赋予智能体更多掌控你生活的权限之际，它们却正在失去对这些智能体的控制 / AI agents are ready to run your life. Do you trust them?",
-          "url": "https://www.businessinsider.com/ai-agents-misbehavior-alignment-privacy-muse-instinct-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T09:01:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.968,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T09:01:01Z",
-      "latest_at": "2026-09-20T09:43:19.152000Z",
-      "primary_item": {
-        "id": "51a0afde7098a62a4f538ea78796ad08b735877a",
-        "title": "就在人工智能实验室希望赋予智能体更多掌控你生活的权限之际，它们却正在失去对这些智能体的控制",
-        "url": "https://www.businessinsider.com/ai-agents-misbehavior-alignment-privacy-muse-instinct-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8f46c59ad0af",
-      "title": "马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%",
-      "url": "https://www.aibase.com/news/31186",
-      "primary_url": "https://www.aibase.com/news/31186",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "68303a6971758585f07f1408e22a8638cad85174",
-          "title": "马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%",
-          "url": "https://www.aibase.com/news/31186",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T06:36:39.637605Z"
-        },
-        {
-          "id": "3710d393b2f5847eac08b8572268e3a6055c9186",
-          "title": "马斯克又放豪言：AI 将使明年美国 GDP 增速翻番，最高达 4%",
-          "url": "https://www.ithome.com/1/004/602.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T00:51:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "68303a6971758585f07f1408e22a8638cad85174",
-          "title": "马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%",
-          "url": "https://www.aibase.com/news/31186",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T06:36:39.637605Z"
-        },
-        {
-          "id": "3710d393b2f5847eac08b8572268e3a6055c9186",
-          "title": "马斯克又放豪言：AI 将使明年美国 GDP 增速翻番，最高达 4%",
-          "url": "https://www.ithome.com/1/004/602.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T00:51:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9255,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T00:51:56Z",
-      "latest_at": "2026-09-20T06:36:39.637605Z",
-      "primary_item": {
-        "id": "68303a6971758585f07f1408e22a8638cad85174",
-        "title": "马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%",
-        "url": "https://www.aibase.com/news/31186",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6cc7aeef3477",
-      "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
-      "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-      "primary_url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "f633eb2e56064dab2021e8cf7d83f9caa5903bc4",
-          "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T09:08:52Z"
-        },
-        {
-          "id": "01c828af03f8bdb45fe2ccd663e1b87231bd4055",
-          "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "url": "https://news.ycombinator.com/item?id=49773998",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T09:08:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f633eb2e56064dab2021e8cf7d83f9caa5903bc4",
-          "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T09:08:52Z"
-        },
-        {
-          "id": "01c828af03f8bdb45fe2ccd663e1b87231bd4055",
-          "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "url": "https://news.ycombinator.com/item?id=49773998",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T09:08:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.96,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T09:08:52Z",
-      "latest_at": "2026-09-20T09:08:52Z",
-      "primary_item": {
-        "id": "f633eb2e56064dab2021e8cf7d83f9caa5903bc4",
-        "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
-        "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_c70d1bc1bd08",
-      "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型",
-      "url": "https://faceanalysisai.com",
-      "primary_url": "https://faceanalysisai.com",
-      "source": "faceanalysisai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "df19611d6c26a3d8b4d0f0e5928044717e3b06fa",
-          "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型",
-          "url": "https://faceanalysisai.com",
-          "source": "faceanalysisai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T08:55:15.986000Z"
-        },
-        {
-          "id": "955e9b60839a5e3ac354ff7d02276001f53a935a",
-          "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "url": "https://faceanalysisai.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T08:48:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "faceanalysisai.com"
-      ],
-      "items": [
-        {
-          "id": "df19611d6c26a3d8b4d0f0e5928044717e3b06fa",
-          "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型",
-          "url": "https://faceanalysisai.com",
-          "source": "faceanalysisai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T08:55:15.986000Z"
-        },
-        {
-          "id": "955e9b60839a5e3ac354ff7d02276001f53a935a",
-          "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-          "url": "https://faceanalysisai.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T08:48:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9569,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T08:48:35Z",
-      "latest_at": "2026-09-20T08:55:15.986000Z",
-      "primary_item": {
-        "id": "df19611d6c26a3d8b4d0f0e5928044717e3b06fa",
-        "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型",
-        "url": "https://faceanalysisai.com",
-        "source": "faceanalysisai.com",
-        "source_name": "Buzzing"
       }
     }
   ]
