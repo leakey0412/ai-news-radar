@@ -1,225 +1,24 @@
 {
-  "generated_at": "2026-09-29T01:25:13.758529Z",
+  "generated_at": "2026-10-02T02:24:32.227085Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_50e18c541984",
-      "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30%",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "primary_url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2f1e1b180faf0063d850eaff5efae4507ba79a46",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30%",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:58:11Z"
-        },
-        {
-          "id": "450f039ff7fbc7c6e22d14ab968dcf076b3e3f26",
-          "title": "克劳德·索内特 5.5",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T18:28:19.833000Z"
-        },
-        {
-          "id": "fc736918c9ac3144ffbdeca4a83a48a839036dcc",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Claude Sonnet 5.5",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T17:58:11Z"
-        },
-        {
-          "id": "bc06aba902c479d0408eb4033df4a1de97e65fab",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-28T17:58:11Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "Hacker News：AI 热帖",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "2f1e1b180faf0063d850eaff5efae4507ba79a46",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30%",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:58:11Z"
-        },
-        {
-          "id": "450f039ff7fbc7c6e22d14ab968dcf076b3e3f26",
-          "title": "克劳德·索内特 5.5",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T18:28:19.833000Z"
-        },
-        {
-          "id": "fc736918c9ac3144ffbdeca4a83a48a839036dcc",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Claude Sonnet 5.5",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T17:58:11Z"
-        },
-        {
-          "id": "bc06aba902c479d0408eb4033df4a1de97e65fab",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-28T17:58:11Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8662,
-      "importance": 0.8662,
-      "importance_score": 0.8662,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.898,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T17:58:11Z",
-      "latest_at": "2026-09-28T18:28:19.833000Z",
-      "primary_item": {
-        "id": "2f1e1b180faf0063d850eaff5efae4507ba79a46",
-        "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30%",
-        "url": "https://www.anthropic.com/claude-sonnet-5-5",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9552195c964d",
-      "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "primary_url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T09:44:05Z"
-        },
-        {
-          "id": "0d6001e5b47158eac2111e56ff978269ce38ca40",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T09:44:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T09:44:05Z"
-        },
-        {
-          "id": "0d6001e5b47158eac2111e56ff978269ce38ca40",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T09:44:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7973,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T09:44:05Z",
-      "latest_at": "2026-09-28T09:44:05Z",
-      "primary_item": {
-        "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-        "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-        "url": "https://huggingface.co/blog/Hcompany/holo4",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c579283ea8d7",
-      "title": "Claude Sonnet 5.5 in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+      "story_id": "story_819b8b6c47de",
+      "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
-          "title": "Claude Sonnet 5.5 in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T18:03:57Z"
+          "published_at": "2026-10-01T19:11:26Z"
         }
       ],
       "source_count": 1,
@@ -228,26 +27,26 @@
       ],
       "items": [
         {
-          "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
-          "title": "Claude Sonnet 5.5 in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T18:03:57Z"
+          "published_at": "2026-10-01T19:11:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8419,
-      "importance": 0.8419,
-      "importance_score": 0.8419,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8992,
+        "ai_relevance": 0.91,
+        "recency": 0.901,
         "story_heat": 0.0
       },
       "category": "official",
@@ -256,166 +55,171 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T18:03:57Z",
-      "latest_at": "2026-09-28T18:03:57Z",
+      "earliest_at": "2026-10-01T19:11:26Z",
+      "latest_at": "2026-10-01T19:11:26Z",
       "primary_item": {
-        "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
-        "title": "Claude Sonnet 5.5 in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+        "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
+        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_4d987bc13622",
-      "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-      "primary_url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "b87a6cba950200715e49e25edf4a1148e9a6bba2",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "3a467d1e38166c5c48b06046924a1291c0490419",
-          "title": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T23:56:18.714000Z"
-        },
-        {
-          "id": "fc7867808731988abf48c62ad212309149c37749",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T17:33:34Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）",
-        "techcrunch.com"
-      ],
-      "items": [
-        {
-          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "b87a6cba950200715e49e25edf4a1148e9a6bba2",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "3a467d1e38166c5c48b06046924a1291c0490419",
-          "title": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T23:56:18.714000Z"
-        },
-        {
-          "id": "fc7867808731988abf48c62ad212309149c37749",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T17:33:34Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8874,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T17:09:02Z",
-      "latest_at": "2026-09-28T23:56:18.714000Z",
-      "primary_item": {
-        "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-        "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ebb851930de7",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
-      "source": "Google AI Blog",
+      "story_id": "story_0bf00b70dbd7",
+      "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
-          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
-          "source": "Google AI Blog",
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T19:00:00Z"
+          "published_at": "2026-10-01T15:01:43Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
-          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
-          "source": "Google AI Blog",
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T19:00:00Z"
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8485,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T15:01:43Z",
+      "latest_at": "2026-10-01T15:01:43Z",
+      "primary_item": {
+        "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+        "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "url": "https://huggingface.co/blog/allenai/olmocore3",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7e67b43cf9d0",
+      "title": "永恒的补充 / The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "primary_url": "https://openai.com/index/the-eternal-complement",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9ef70e1387ff1859fbcea74438eae2ee95ec92d4",
+          "title": "永恒的补充 / The eternal complement",
+          "url": "https://openai.com/index/the-eternal-complement",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9ef70e1387ff1859fbcea74438eae2ee95ec92d4",
+          "title": "永恒的补充 / The eternal complement",
+          "url": "https://openai.com/index/the-eternal-complement",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.873,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T17:00:00Z",
+      "latest_at": "2026-10-01T17:00:00Z",
+      "primary_item": {
+        "id": "9ef70e1387ff1859fbcea74438eae2ee95ec92d4",
+        "title": "永恒的补充 / The eternal complement",
+        "url": "https://openai.com/index/the-eternal-complement",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b33dfcad9023",
+      "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+          "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:09:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+          "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:09:10Z"
         }
       ],
       "item_count": 1,
@@ -427,8 +231,8 @@
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.9,
-        "recency": 0.9115,
+        "ai_relevance": 0.91,
+        "recency": 0.9005,
         "story_heat": 0.0
       },
       "category": "official",
@@ -437,79 +241,79 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T19:00:00Z",
-      "latest_at": "2026-09-28T19:00:00Z",
+      "earliest_at": "2026-10-01T19:09:10Z",
+      "latest_at": "2026-10-01T19:09:10Z",
       "primary_item": {
-        "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
-        "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
-        "source": "Google AI Blog",
+        "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+        "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
+        "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_0483fe5c4cc6",
-      "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
-      "url": "https://www.ithome.com/1/008/082.htm",
-      "primary_url": "https://www.ithome.com/1/008/082.htm",
+      "story_id": "story_b163633ce906",
+      "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
+      "url": "https://www.ithome.com/1/009/204.htm",
+      "primary_url": "https://www.ithome.com/1/009/204.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0724006b212a0c31928122f761f870166f2a0407",
-          "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
-          "url": "https://www.ithome.com/1/008/082.htm",
+          "id": "2dcb91b6fb8784c240443a70c0e3dd97f4cbb2f2",
+          "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
+          "url": "https://www.ithome.com/1/009/204.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T23:40:42Z"
+          "published_at": "2026-10-02T00:06:15Z"
         },
         {
-          "id": "ba46870f42ea3e2ac3add548887823f21fb2ea57",
-          "title": "Anthropic IPO 招股书曝光，巨额算力投入与安全隐忧并存",
-          "url": "https://www.ithome.com/1/008/082.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-28T23:40:42Z"
+          "id": "8068561e26cce15992559c4140312ae3ee1b5529",
+          "title": "加州检察长向 OpenAI 发出传票，调查 AI 网络安全风险",
+          "url": "https://www.ithome.com/1/009/204.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "IT之家（RSS）",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "0724006b212a0c31928122f761f870166f2a0407",
-          "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
-          "url": "https://www.ithome.com/1/008/082.htm",
+          "id": "2dcb91b6fb8784c240443a70c0e3dd97f4cbb2f2",
+          "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
+          "url": "https://www.ithome.com/1/009/204.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T23:40:42Z"
+          "published_at": "2026-10-02T00:06:15Z"
         },
         {
-          "id": "ba46870f42ea3e2ac3add548887823f21fb2ea57",
-          "title": "Anthropic IPO 招股书曝光，巨额算力投入与安全隐忧并存",
-          "url": "https://www.ithome.com/1/008/082.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-28T23:40:42Z"
+          "id": "8068561e26cce15992559c4140312ae3ee1b5529",
+          "title": "加州检察长向 OpenAI 发出传票，调查 AI 网络安全风险",
+          "url": "https://www.ithome.com/1/009/204.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.86,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 0.9673,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -518,132 +322,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T23:40:42Z",
-      "latest_at": "2026-09-28T23:40:42Z",
+      "earliest_at": "2026-10-02T00:06:15Z",
+      "latest_at": "2026-10-02T02:24:32.227085Z",
       "primary_item": {
-        "id": "0724006b212a0c31928122f761f870166f2a0407",
-        "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
-        "url": "https://www.ithome.com/1/008/082.htm",
+        "id": "2dcb91b6fb8784c240443a70c0e3dd97f4cbb2f2",
+        "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
+        "url": "https://www.ithome.com/1/009/204.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_dcd4b5a345a6",
-      "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
-      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-      "primary_url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0bf64889a787fbc056b176a548baf6f64f56cc86",
-          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T16:43:18Z"
-        },
-        {
-          "id": "4cfff3e3943ceae86ec900d59a7bd4b2ff7e0622",
-          "title": "OpenAI 在接连发生多起智能体对齐失调事件后暂停了前沿模型的训练",
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T17:56:22.003000Z"
-        },
-        {
-          "id": "19bd7319507e3986d5e6a9e79a780eec197aa9fb",
-          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T16:43:18Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Ars Technica",
-        "Ars Technica：AI（RSS）",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "0bf64889a787fbc056b176a548baf6f64f56cc86",
-          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T16:43:18Z"
-        },
-        {
-          "id": "4cfff3e3943ceae86ec900d59a7bd4b2ff7e0622",
-          "title": "OpenAI 在接连发生多起智能体对齐失调事件后暂停了前沿模型的训练",
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T17:56:22.003000Z"
-        },
-        {
-          "id": "19bd7319507e3986d5e6a9e79a780eec197aa9fb",
-          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T16:43:18Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.882,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T16:43:18Z",
-      "latest_at": "2026-09-28T17:56:22.003000Z",
-      "primary_item": {
-        "id": "0bf64889a787fbc056b176a548baf6f64f56cc86",
-        "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
-        "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_216d56bba26c",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "primary_url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "story_id": "story_a80484c2d584",
+      "title": "艾伯森公司如何从内到外重新构想零售业 / How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "primary_url": "https://openai.com/index/albertsons-reimagining-retail",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
-          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
+          "title": "艾伯森公司如何从内到外重新构想零售业 / How Albertsons Companies is reimagining retail from the inside out",
+          "url": "https://openai.com/index/albertsons-reimagining-retail",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T07:00:00Z"
+          "published_at": "2026-10-01T16:00:00Z"
         }
       ],
       "source_count": 1,
@@ -652,26 +356,26 @@
       ],
       "items": [
         {
-          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
-          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
+          "title": "艾伯森公司如何从内到外重新构想零售业 / How Albertsons Companies is reimagining retail from the inside out",
+          "url": "https://openai.com/index/albertsons-reimagining-retail",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T07:00:00Z"
+          "published_at": "2026-10-01T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7664,
+        "recency": 0.8604,
         "story_heat": 0.0
       },
       "category": "official",
@@ -680,41 +384,183 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T07:00:00Z",
-      "latest_at": "2026-09-28T07:00:00Z",
+      "earliest_at": "2026-10-01T16:00:00Z",
+      "latest_at": "2026-10-01T16:00:00Z",
       "primary_item": {
-        "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
-        "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+        "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
+        "title": "艾伯森公司如何从内到外重新构想零售业 / How Albertsons Companies is reimagining retail from the inside out",
+        "url": "https://openai.com/index/albertsons-reimagining-retail",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_65a1a7f184ca",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-      "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-      "primary_url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+      "story_id": "story_019e546a9b82",
+      "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+      "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
+          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+          "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:44:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
+          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+          "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:44:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9763,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T00:44:40Z",
+      "latest_at": "2026-10-02T00:44:40Z",
+      "primary_item": {
+        "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
+        "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+        "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9128069ece23",
+      "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+      "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+      "primary_url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
+          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T23:44:13Z"
+        },
+        {
+          "id": "6baa6dc87e964f2578b15cf9fad1167283f3d343",
+          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI's GPT-6 Astra Ultrafast",
+          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "NVIDIA Blog（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
+          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T23:44:13Z"
+        },
+        {
+          "id": "6baa6dc87e964f2578b15cf9fad1167283f3d343",
+          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI's GPT-6 Astra Ultrafast",
+          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9621,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T23:44:13Z",
+      "latest_at": "2026-10-02T02:24:32.227085Z",
+      "primary_item": {
+        "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
+        "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+        "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0d41a58e9bee",
+      "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+      "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
+      "primary_url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+          "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T18:02:10Z"
+          "published_at": "2026-10-01T12:05:49Z"
         },
         {
-          "id": "3687aad78aeb3ed0ba6b5eb99a34b5312c86bf4f",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+          "id": "8e129955b637a9be8e38f1860b42032ac43ec8ed",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-28T18:02:10Z"
+          "published_at": "2026-10-01T12:05:49Z"
         }
       ],
       "source_count": 2,
@@ -724,35 +570,35 @@
       ],
       "items": [
         {
-          "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+          "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T18:02:10Z"
+          "published_at": "2026-10-01T12:05:49Z"
         },
         {
-          "id": "3687aad78aeb3ed0ba6b5eb99a34b5312c86bf4f",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+          "id": "8e129955b637a9be8e38f1860b42032ac43ec8ed",
+          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+          "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
           "source": "The Decoder AI News",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-28T18:02:10Z"
+          "published_at": "2026-10-01T12:05:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8989,
+        "recency": 0.8133,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -761,32 +607,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T18:02:10Z",
-      "latest_at": "2026-09-28T18:02:10Z",
+      "earliest_at": "2026-10-01T12:05:49Z",
+      "latest_at": "2026-10-01T12:05:49Z",
       "primary_item": {
-        "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
-        "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-        "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+        "id": "c5b406c3dda7be181007a6b78766d116c816412c",
+        "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
+        "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ace69cc3aaa0",
-      "title": "Self-hosted runner version enforcement date has moved",
-      "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-      "primary_url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+      "story_id": "story_90b9985c3923",
+      "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-          "title": "Self-hosted runner version enforcement date has moved",
-          "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+          "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T19:22:46Z"
+          "published_at": "2026-10-01T16:30:10Z"
         }
       ],
       "source_count": 1,
@@ -795,26 +641,26 @@
       ],
       "items": [
         {
-          "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-          "title": "Self-hosted runner version enforcement date has moved",
-          "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+          "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T19:22:46Z"
+          "published_at": "2026-10-01T16:30:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9165,
+        "ai_relevance": 0.91,
+        "recency": 0.8667,
         "story_heat": 0.0
       },
       "category": "official",
@@ -823,598 +669,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T19:22:46Z",
-      "latest_at": "2026-09-28T19:22:46Z",
+      "earliest_at": "2026-10-01T16:30:10Z",
+      "latest_at": "2026-10-01T16:30:10Z",
       "primary_item": {
-        "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-        "title": "Self-hosted runner version enforcement date has moved",
-        "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+        "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+        "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+        "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_de35e53397fa",
-      "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
-      "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
-      "primary_url": "https://x.com/ClaudeDevs/status/2104641318555353400",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b719f447f05f438014ff5f0f328dcac723f043ef",
-          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
-          "url": "https://x.com/trq212/status/2104660926373023830",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T19:54:02Z"
-        },
-        {
-          "id": "174b8f3b0886c612fa58740af5b9afabfa805433",
-          "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
-          "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:36:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)",
-        "X：Thariq (@trq212)"
-      ],
-      "items": [
-        {
-          "id": "b719f447f05f438014ff5f0f328dcac723f043ef",
-          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
-          "url": "https://x.com/trq212/status/2104660926373023830",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T19:54:02Z"
-        },
-        {
-          "id": "174b8f3b0886c612fa58740af5b9afabfa805433",
-          "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
-          "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:36:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7967,
-      "importance": 0.7967,
-      "importance_score": 0.7967,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9062,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:36:07Z",
-      "latest_at": "2026-09-28T19:54:02Z",
-      "primary_item": {
-        "id": "174b8f3b0886c612fa58740af5b9afabfa805433",
-        "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
-        "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_330c60a861e8",
-      "title": "押注物理世界AI:AMD将李飞飞团队及空间大模型Atlas揽入麾下",
-      "url": "https://www.aibase.com/news/31390",
-      "primary_url": "https://www.aibase.com/news/31390",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "663aedee4c1eb003f7129ed468ff5bde0d941c1d",
-          "title": "押注物理世界AI:AMD将李飞飞团队及空间大模型Atlas揽入麾下",
-          "url": "https://www.aibase.com/news/31390",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T01:25:13.758529Z"
-        },
-        {
-          "id": "5b2b9868ecfe60ad8413338205cc96d6de921840",
-          "title": "押注物理世界 AI：AMD 将李飞飞团队及空间大模型 Atlas 揽入麾下",
-          "url": "https://www.aibase.com/zh/news/31390",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "663aedee4c1eb003f7129ed468ff5bde0d941c1d",
-          "title": "押注物理世界AI:AMD将李飞飞团队及空间大模型Atlas揽入麾下",
-          "url": "https://www.aibase.com/news/31390",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T01:25:13.758529Z"
-        },
-        {
-          "id": "5b2b9868ecfe60ad8413338205cc96d6de921840",
-          "title": "押注物理世界 AI：AMD 将李飞飞团队及空间大模型 Atlas 揽入麾下",
-          "url": "https://www.aibase.com/zh/news/31390",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T01:25:13.758529Z",
-      "latest_at": "2026-09-29T01:25:13.758529Z",
-      "primary_item": {
-        "id": "663aedee4c1eb003f7129ed468ff5bde0d941c1d",
-        "title": "押注物理世界AI:AMD将李飞飞团队及空间大模型Atlas揽入麾下",
-        "url": "https://www.aibase.com/news/31390",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9f284effa55e",
-      "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
-      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-      "primary_url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1cf176a7b40b0a7dfcd779b509769955e8f71c99",
-          "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
-          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T07:33:29Z"
-        },
-        {
-          "id": "be66ec51177d2f5947e2b4727fa370c623136537",
-          "title": "向Claude Opus 5.5提供提示",
-          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-          "source": "platform.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T10:51:57.660000Z"
-        },
-        {
-          "id": "52b8ba698156a544ceca7ee483fc81590191b023",
-          "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5",
-          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T07:33:29Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News：AI 热帖",
-        "platform.claude.com"
-      ],
-      "items": [
-        {
-          "id": "1cf176a7b40b0a7dfcd779b509769955e8f71c99",
-          "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
-          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T07:33:29Z"
-        },
-        {
-          "id": "be66ec51177d2f5947e2b4727fa370c623136537",
-          "title": "向Claude Opus 5.5提供提示",
-          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-          "source": "platform.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T10:51:57.660000Z"
-        },
-        {
-          "id": "52b8ba698156a544ceca7ee483fc81590191b023",
-          "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5",
-          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T07:33:29Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7726,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T07:33:29Z",
-      "latest_at": "2026-09-28T10:51:57.660000Z",
-      "primary_item": {
-        "id": "1cf176a7b40b0a7dfcd779b509769955e8f71c99",
-        "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
-        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4b4cfee992d3",
-      "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-      "primary_url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bdd7bc28505792431b1428622a88a476b358f177",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:39:33Z"
-        },
-        {
-          "id": "a01680d2b7928d9bd0faff13e805824b90de9560",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T20:39:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bdd7bc28505792431b1428622a88a476b358f177",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:39:33Z"
-        },
-        {
-          "id": "a01680d2b7928d9bd0faff13e805824b90de9560",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T20:39:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9336,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T20:39:33Z",
-      "latest_at": "2026-09-28T20:39:33Z",
-      "primary_item": {
-        "id": "bdd7bc28505792431b1428622a88a476b358f177",
-        "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-        "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_93c35a6c2a7e",
-      "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-      "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-      "primary_url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-      "source": "X：马东锡 NLP (@dongxi_nlp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-          "source": "X：马东锡 NLP (@dongxi_nlp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:08:04Z"
-        },
-        {
-          "id": "28c51564d01537f0b3ae0aa8adc42896a54998c6",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
-          "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Claude：YouTube（RSS）",
-        "X：马东锡 NLP (@dongxi_nlp)"
-      ],
-      "items": [
-        {
-          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-          "source": "X：马东锡 NLP (@dongxi_nlp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:08:04Z"
-        },
-        {
-          "id": "28c51564d01537f0b3ae0aa8adc42896a54998c6",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
-          "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7866,
-      "importance": 0.7866,
-      "importance_score": 0.7866,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9001,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:04:08Z",
-      "latest_at": "2026-09-28T18:08:04Z",
-      "primary_item": {
-        "id": "96722744e37e42d234a3ebce1480e63a7325506e",
-        "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-        "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-        "source": "X：马东锡 NLP (@dongxi_nlp)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cb066b06879e",
-      "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-      "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4cf4cd1540a25d4578a4d2f1780289652bba2584",
-          "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-          "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T19:08:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "4cf4cd1540a25d4578a4d2f1780289652bba2584",
-          "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-          "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T19:08:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9133,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T19:08:15Z",
-      "latest_at": "2026-09-28T19:08:15Z",
-      "primary_item": {
-        "id": "4cf4cd1540a25d4578a4d2f1780289652bba2584",
-        "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-        "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1e513fc9899e",
-      "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
-      "url": "https://www.ithome.com/1/008/099.htm",
-      "primary_url": "https://www.ithome.com/1/008/099.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
-          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
-          "url": "https://www.ithome.com/1/008/099.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T00:58:38Z"
-        },
-        {
-          "id": "0240efd270e342068e00c730b17ac43be23ab27e",
-          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址，擅自约买家上门交易",
-          "url": "https://www.ithome.com/1/008/099.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-29T00:58:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
-          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
-          "url": "https://www.ithome.com/1/008/099.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T00:58:38Z"
-        },
-        {
-          "id": "0240efd270e342068e00c730b17ac43be23ab27e",
-          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址，擅自约买家上门交易",
-          "url": "https://www.ithome.com/1/008/099.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-29T00:58:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9936,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T00:58:38Z",
-      "latest_at": "2026-09-29T00:58:38Z",
-      "primary_item": {
-        "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
-        "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
-        "url": "https://www.ithome.com/1/008/099.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d239d97168c3",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-      "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
+      "story_id": "story_848558d9e862",
+      "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
+      "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
       "source": "X：Artificial Analysis (@ArtificialAnlys)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ca94cccd0c3586f5a94d867af37eee8487bd3da1",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-          "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
+          "id": "0dde5101f760376bcf6b3203694e0dec223140bd",
+          "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
+          "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
           "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T18:31:30Z"
+          "published_at": "2026-10-02T00:17:12Z"
         }
       ],
       "source_count": 1,
@@ -1423,26 +703,26 @@
       ],
       "items": [
         {
-          "id": "ca94cccd0c3586f5a94d867af37eee8487bd3da1",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-          "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
+          "id": "0dde5101f760376bcf6b3203694e0dec223140bd",
+          "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
+          "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
           "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T18:31:30Z"
+          "published_at": "2026-10-02T00:17:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9052,
+        "recency": 0.9698,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1450,60 +730,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T18:31:30Z",
-      "latest_at": "2026-09-28T18:31:30Z",
+      "earliest_at": "2026-10-02T00:17:12Z",
+      "latest_at": "2026-10-02T00:17:12Z",
       "primary_item": {
-        "id": "ca94cccd0c3586f5a94d867af37eee8487bd3da1",
-        "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-        "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
+        "id": "0dde5101f760376bcf6b3203694e0dec223140bd",
+        "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
+        "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
         "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_9aceb85fa24f",
-      "title": "英伟达联合超100家伙伴推出开放代理安全平台",
-      "url": "https://x.com/JensenHuang/status/2104499465055023424",
-      "primary_url": "https://x.com/JensenHuang/status/2104499465055023424",
-      "source": "X：Jensen Huang (@JensenHuang)",
+      "story_id": "story_50566681553e",
+      "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+      "url": "https://x.com/OpenRouter/status/2105759062835220852",
+      "primary_url": "https://x.com/OpenRouter/status/2105759062835220852",
+      "source": "X：OpenRouter (@OpenRouter)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
-          "title": "英伟达联合超100家伙伴推出开放代理安全平台",
-          "url": "https://x.com/JensenHuang/status/2104499465055023424",
-          "source": "X：Jensen Huang (@JensenHuang)",
+          "id": "6d02910a0b7262c57072a618a4e45ae6373272ea",
+          "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+          "url": "https://x.com/OpenRouter/status/2105759062835220852",
+          "source": "X：OpenRouter (@OpenRouter)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T09:12:26Z"
+          "published_at": "2026-10-01T20:37:38Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Jensen Huang (@JensenHuang)"
+        "X：OpenRouter (@OpenRouter)"
       ],
       "items": [
         {
-          "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
-          "title": "英伟达联合超100家伙伴推出开放代理安全平台",
-          "url": "https://x.com/JensenHuang/status/2104499465055023424",
-          "source": "X：Jensen Huang (@JensenHuang)",
+          "id": "6d02910a0b7262c57072a618a4e45ae6373272ea",
+          "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+          "url": "https://x.com/OpenRouter/status/2105759062835220852",
+          "source": "X：OpenRouter (@OpenRouter)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T09:12:26Z"
+          "published_at": "2026-10-01T20:37:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.88,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7913,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1511,32 +791,214 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T09:12:26Z",
-      "latest_at": "2026-09-28T09:12:26Z",
+      "earliest_at": "2026-10-01T20:37:38Z",
+      "latest_at": "2026-10-01T20:37:38Z",
       "primary_item": {
-        "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
-        "title": "英伟达联合超100家伙伴推出开放代理安全平台",
-        "url": "https://x.com/JensenHuang/status/2104499465055023424",
-        "source": "X：Jensen Huang (@JensenHuang)",
+        "id": "6d02910a0b7262c57072a618a4e45ae6373272ea",
+        "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+        "url": "https://x.com/OpenRouter/status/2105759062835220852",
+        "source": "X：OpenRouter (@OpenRouter)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_b6f0f1c676aa",
-      "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-      "url": "https://x.com/arena/status/2104673568776990762",
-      "primary_url": "https://x.com/arena/status/2104673568776990762",
+      "story_id": "story_7b0443d9889b",
+      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+      "url": "https://modal.com/blog/modal-clusters-generally-available",
+      "primary_url": "https://modal.com/blog/modal-clusters-generally-available",
+      "source": "Modal 官方工程博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10475e511695c99db79c08d74b401b4da02fb238",
+          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+          "url": "https://modal.com/blog/modal-clusters-generally-available",
+          "source": "Modal 官方工程博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Modal 官方工程博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "10475e511695c99db79c08d74b401b4da02fb238",
+          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+          "url": "https://modal.com/blog/modal-clusters-generally-available",
+          "source": "Modal 官方工程博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T02:24:32.227085Z",
+      "latest_at": "2026-10-02T02:24:32.227085Z",
+      "primary_item": {
+        "id": "10475e511695c99db79c08d74b401b4da02fb238",
+        "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+        "url": "https://modal.com/blog/modal-clusters-generally-available",
+        "source": "Modal 官方工程博客（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9506769ef6ff",
+      "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+      "url": "https://suno.com/blog/introducing-speech-beta",
+      "primary_url": "https://suno.com/blog/introducing-speech-beta",
+      "source": "Suno：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+          "url": "https://suno.com/blog/introducing-speech-beta",
+          "source": "Suno：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:35:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Suno：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+          "url": "https://suno.com/blog/introducing-speech-beta",
+          "source": "Suno：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:35:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9193,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T20:35:00Z",
+      "latest_at": "2026-10-01T20:35:00Z",
+      "primary_item": {
+        "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+        "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+        "url": "https://suno.com/blog/introducing-speech-beta",
+        "source": "Suno：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_04d4b4f4e20c",
+      "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+      "url": "https://x.com/krea_ai/status/2105769469880799716",
+      "primary_url": "https://x.com/krea_ai/status/2105769469880799716",
+      "source": "X：Krea AI (@krea_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f61f78ecb87af9a364695b370713ab95021622b4",
+          "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+          "url": "https://x.com/krea_ai/status/2105769469880799716",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T21:18:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Krea AI (@krea_ai)"
+      ],
+      "items": [
+        {
+          "id": "f61f78ecb87af9a364695b370713ab95021622b4",
+          "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+          "url": "https://x.com/krea_ai/status/2105769469880799716",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T21:18:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9291,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T21:18:59Z",
+      "latest_at": "2026-10-01T21:18:59Z",
+      "primary_item": {
+        "id": "f61f78ecb87af9a364695b370713ab95021622b4",
+        "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+        "url": "https://x.com/krea_ai/status/2105769469880799716",
+        "source": "X：Krea AI (@krea_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_44a72a2ca921",
+      "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+      "url": "https://x.com/arena/status/2105702037849841954",
+      "primary_url": "https://x.com/arena/status/2105702037849841954",
       "source": "X：Arena (@arena)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "56cb1946536e946a70052496cff84ef5826f7037",
-          "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-          "url": "https://x.com/arena/status/2104673568776990762",
+          "id": "44b6ef20e792986c3637456af67b1517a109d3e3",
+          "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+          "url": "https://x.com/arena/status/2105702037849841954",
           "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T20:44:16Z"
+          "published_at": "2026-10-01T16:51:02Z"
         }
       ],
       "source_count": 1,
@@ -1545,40 +1007,301 @@
       ],
       "items": [
         {
-          "id": "56cb1946536e946a70052496cff84ef5826f7037",
-          "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-          "url": "https://x.com/arena/status/2104673568776990762",
+          "id": "44b6ef20e792986c3637456af67b1517a109d3e3",
+          "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+          "url": "https://x.com/arena/status/2105702037849841954",
           "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T20:44:16Z"
+          "published_at": "2026-10-01T16:51:02Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9346,
+        "recency": 0.8711,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T16:51:02Z",
+      "latest_at": "2026-10-01T16:51:02Z",
+      "primary_item": {
+        "id": "44b6ef20e792986c3637456af67b1517a109d3e3",
+        "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+        "url": "https://x.com/arena/status/2105702037849841954",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_eebe7e321dec",
+      "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "primary_url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:57:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:57:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.911,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T20:44:16Z",
-      "latest_at": "2026-09-28T20:44:16Z",
+      "earliest_at": "2026-10-01T19:57:28Z",
+      "latest_at": "2026-10-01T19:57:28Z",
       "primary_item": {
-        "id": "56cb1946536e946a70052496cff84ef5826f7037",
-        "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-        "url": "https://x.com/arena/status/2104673568776990762",
-        "source": "X：Arena (@arena)",
+        "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+        "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
+        "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c766e15e4023",
+      "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
+      "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+      "primary_url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+      "source": "LangChain：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3f7bac22c6aec30c016f6ac716501b8580b0cd88",
+          "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
+          "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+          "source": "LangChain：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T17:01:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LangChain：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3f7bac22c6aec30c016f6ac716501b8580b0cd88",
+          "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
+          "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+          "source": "LangChain：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T17:01:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8733,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T17:01:32Z",
+      "latest_at": "2026-10-01T17:01:32Z",
+      "primary_item": {
+        "id": "3f7bac22c6aec30c016f6ac716501b8580b0cd88",
+        "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
+        "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+        "source": "LangChain：Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3118c72789f3",
+      "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+      "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+      "primary_url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7db0975ce244f1da554a8f5de278328282e7d7a1",
+          "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+          "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T18:08:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "7db0975ce244f1da554a8f5de278328282e7d7a1",
+          "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+          "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T18:08:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8874,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T18:08:07Z",
+      "latest_at": "2026-10-01T18:08:07Z",
+      "primary_item": {
+        "id": "7db0975ce244f1da554a8f5de278328282e7d7a1",
+        "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+        "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fa3d1425cbe7",
+      "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+      "url": "https://x.com/thsottiaux/status/2105519215092584786",
+      "primary_url": "https://x.com/thsottiaux/status/2105519215092584786",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T04:44:34Z"
+        },
+        {
+          "id": "04c59cc70107ceefff1024d98b4bea4f628f81d7",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-01T04:44:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T04:44:34Z"
+        },
+        {
+          "id": "04c59cc70107ceefff1024d98b4bea4f628f81d7",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-01T04:44:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7313,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T04:44:34Z",
+      "latest_at": "2026-10-01T04:44:34Z",
+      "primary_item": {
+        "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+        "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+        "url": "https://x.com/thsottiaux/status/2105519215092584786",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     }
